@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1, Tên Kênh 135966
-https://pull06.scstream.net/live/stream-135966_lhd.m3u8?auth_key=1683730235-0-0-fda3d484dca61e023048728169f5df30
-#EXTINF:-1, Tên Kênh 173024
+#EXTINF:-1, Tên Kênh https://sta.vnres.co/file/head/20230203/e7fcb68b4a251675c8343c19e58289d7.png - BLV G Hip
 https://pull06.scstream.net/live/stream-173024_lhd.m3u8?auth_key=1684205896-0-0-58b164f5113f561b7b0a27221b500bc4
-#EXTINF:-1, Tên Kênh 121256
-https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=9ea972210c418a077fa1869968f389de&txTime=645daab2
-#EXTINF:-1, Tên Kênh 106737
-https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=4e852baa7b8977e99f3d169cd34b24cd&txTime=64677ab1
-#EXTINF:-1, Tên Kênh 122591
-https://sports01.livnvess.com/live/stream-122591_lhd.m3u8?txSecret=6f2005807c9e09d45eb474e7a2a97982&txTime=64677ab1
-#EXTINF:-1, Tên Kênh 201313
-https://sports01.livnvess.com/live/stream-201313_lhd.m3u8?txSecret=5f187718ae51b7dca5b94c1a6558002e&txTime=64677ab1
-#EXTINF:-1, Tên Kênh 118206
-https://pull06.scstream.net/live/stream-118206_lhd.m3u8?auth_key=1684503217-0-0-48559168365ce2f01508cd7beba2827d
-#EXTINF:-1, Tên Kênh 168964
-https://sports01.livnvess.com/live/stream-168964_lhd.m3u8?txSecret=fbdbc4fe55cd50f02c7341b7d5cdf96e&txTime=64677ab1
-#EXTINF:-1, Tên Kênh 368932
+#EXTINF:-1, Tên Kênh https://sta.vnres.co/file/head/20230328/c19057ab3245d1531de39f82e3b38099.jpg - BLV EDWARD
 https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1681739725-0-0-4c9cd9008b6bc715621e85eb6cd89ecd
-#EXTINF:-1, Tên Kênh 120778
-https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1684503217-0-0-28fd107223c2c2935228591a5c31e82c
-#EXTINF:-1, Tên Kênh 171964
-https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=71f9272d58fdac2f01b1fa398192d00c&txTime=64677ab1
-#EXTINF:-1, Tên Kênh 181398
-https://pull06.scstream.net/live/stream-181398_lhd.m3u8?auth_key=1684503217-0-0-fbff7637b6feb9e3ac5cf599ced2aa2a
-#EXTINF:-1, Tên Kênh 190631
+#EXTINF:-1, Tên Kênh https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png - BLV SHOGUN
+https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=0748e1b3b3815745818ad5879dcbd76c&txTime=64677b29
+#EXTINF:-1, Tên Kênh https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg - BLV KING
+https://sports01.livnvess.com/live/stream-168964_lhd.m3u8?txSecret=3ee49be1c120c1a53649314608478e91&txTime=64677b29
+#EXTINF:-1, Tên Kênh https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg - BLV FANTA
+https://pull06.scstream.net/live/stream-135966_lhd.m3u8?auth_key=1683730235-0-0-fda3d484dca61e023048728169f5df30
+#EXTINF:-1, Tên Kênh https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg - Tạ Biên Giới
+https://pull06.scstream.net/live/stream-118206_lhd.m3u8?auth_key=1684503337-0-0-afd81cf0ed26123be7165749ffe2618e
+#EXTINF:-1, Tên Kênh https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb - IRIS
+https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=9ea972210c418a077fa1869968f389de&txTime=645daab2
+#EXTINF:-1, Tên Kênh https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg - BLV CÁ
+https://sports01.livnvess.com/live/stream-201313_lhd.m3u8?txSecret=4aa62a37f625ea6a42851f93b7c983a0&txTime=64677b29
+#EXTINF:-1, Tên Kênh https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg - BRIANN
+https://sports01.livnvess.com/live/stream-122591_lhd.m3u8?txSecret=92f9fa89c53440ad3d919901a3687a61&txTime=64677b29
+#EXTINF:-1, Tên Kênh https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg - BLV AK47
+https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1684503337-0-0-e6080695dc5b366c502fbb073e3ffee3
+#EXTINF:-1, Tên Kênh https://sta.vnres.co/file/head/20230513/0caf5377396b4e2c222f4a04e7caedc0.jpg - BLV TIGER
+https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=1453db11cd75a32c27d525037dec89ba&txTime=64677b29
+#EXTINF:-1, Tên Kênh https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg - BLV TONY
 https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=cdf2c5508b154b990640e300b72a1cb7&txTime=646101f8
-#EXTINF:-1, Tên Kênh 100344
-https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1684503217-0-0-6a4906a364e5b029d31f011f43e0a786
-#EXTINF:-1, Tên Kênh 104707
-https://sports01.livnvess.com/live/stream-104707_lhd.m3u8?txSecret=f3f0032dc2fde6efb2e5fab6b79cb9d2&txTime=64677ab1
-#EXTINF:-1, Tên Kênh 420171
-https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=36d5f76f00bb47a9338a0c9b32f2eda1&txTime=64677ab1
-#EXTINF:-1, Tên Kênh 379975
-https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=bb2200fac5efe9607c499e8b60c17716&txTime=64677ab1
-#EXTINF:-1, Tên Kênh 115429
-https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1684503217-0-0-8b42f69bbc054fe598064aaf6dbab444
+#EXTINF:-1, Tên Kênh https://sta.vnres.co/file/pic/202111/19/f8e41da7a8955dddd469d2cbe3e57716 - IVANN
+https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1684503337-0-0-04b7d67896904cae2ea1e1ec8e675a65
+#EXTINF:-1, Tên Kênh https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg - BLV BEE
+https://pull06.scstream.net/live/stream-181398_lhd.m3u8?auth_key=1684503337-0-0-5b1609fb6e3cfbae59cfa396751e90cc
+#EXTINF:-1, Tên Kênh https://sta.vnres.co/file/head/20230312/aaa07ce8e1ac249c6793fc567dbe11a1.jpg - SUNNY
+https://sports01.livnvess.com/live/stream-104707_lhd.m3u8?txSecret=9d15d867074f465be2399540a97d88ca&txTime=64677b29
+#EXTINF:-1, Tên Kênh https://sta.vnres.co/file/head/20230405/ec1bee82e4d11675221774242cd75d76.jpg - BLV PUKA
+https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=bc2f33708912553e9d153f0549fb2a1c&txTime=64677b29
+#EXTINF:-1, Tên Kênh https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg - BLV DIHI
+https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=963699792271b47bdc488e3750c9dc16&txTime=64677b29
+#EXTINF:-1, Tên Kênh https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26 - BABY BOY
+https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1684503337-0-0-435c9a11c68beeae573d478da2afbdb9
