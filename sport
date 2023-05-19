@@ -1,0 +1,7 @@
+#EXTM3U
+#EXTVLCOPT:http-referrer=h
+
+#EXTINF:-1,Cakhia
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8
+#EXTINF:-1,Tên kênh2
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@lusd111/playlist.m3u8
