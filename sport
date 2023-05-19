@@ -1,6 +1,9 @@
 #EXTM3U
-#EXTVLCOPT:http-referrer=https://live2.cakhia18.com
-#EXTINF:-1,Tên kênh Cakhia
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m205nd/playlist.m3u8
-#EXTINF:-1,Tên kênh 22
-https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m205nd/playlist.m3u8
+#EXTINF:-1,SD
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8
+#EXTINF:-1,Rakhoi TV
+https://rakhoi9.tv
+#EXTINF:-1,HD
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@cayhd1/playlist.m3u8
+#EXTINF:-1,Nhà Đài
+https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@m302nd/playlist.m3u8
