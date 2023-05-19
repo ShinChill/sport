@@ -1,4 +1,5 @@
 #EXTM3U
+#EXTVLCOPT:http-referrer=https://live2.cakhia18.com
 #EXTINF:-1,SD
 https://cakhiapro.cdnxpro.xyz/live/_definst_/stream_1_a86e6@caysd1/playlist.m3u8
 #EXTINF:-1,Rakhoi TV
