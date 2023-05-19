@@ -1,37 +1,23 @@
 #EXTM3U
-#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb" group-title="IRIS"
-https://sports01.livnvess.com/live/stream-121256_lhd.m3u8?txSecret=9ea972210c418a077fa1869968f389de&txTime=645daab2
-#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg" group-title="BLV KING"
-https://sports01.livnvess.com/live/stream-168964_lhd.m3u8?txSecret=c6b9ded7668f5af75e33e8af9088524c&txTime=64677b65
-#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg" group-title="Tạ Biên Giới"
-https://pull06.scstream.net/live/stream-118206_lhd.m3u8?auth_key=1684503397-0-0-96635bf30bd0434be942c798b4f1a211
-#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png" group-title="BLV SHOGUN"
-https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=26ffb8f9b994e236327237b1e24c510c&txTime=64677b65
-#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg" group-title="BLV CÁ"
-https://sports01.livnvess.com/live/stream-201313_lhd.m3u8?txSecret=684ea7184e8b90fcda64e6f8e9b59a47&txTime=64677b65
+#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/pic/202111/19/f8e41da7a8955dddd469d2cbe3e57716" group-title="IVANN"
+https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1684504777-0-0-354eb8cf45cdd0fe7862d94d8c2ca511
 #EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg" group-title="BRIANN"
-https://sports01.livnvess.com/live/stream-122591_lhd.m3u8?txSecret=986d9a45c8ee6f8e2509a93c8460cd23&txTime=64677b65
+https://sports01.livnvess.com/live/stream-122591_lhd.m3u8?txSecret=22643f1b7e50779abb2b735fe615ff17&txTime=646780c9
 #EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20230203/e7fcb68b4a251675c8343c19e58289d7.png" group-title="BLV G Hip"
 https://pull06.scstream.net/live/stream-173024_lhd.m3u8?auth_key=1684205896-0-0-58b164f5113f561b7b0a27221b500bc4
-#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20230328/c19057ab3245d1531de39f82e3b38099.jpg" group-title="BLV EDWARD"
-https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1681739725-0-0-4c9cd9008b6bc715621e85eb6cd89ecd
+#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg" group-title="BLV CÁ"
+https://sports01.livnvess.com/live/stream-201313_lhd.m3u8?txSecret=ff46f7a8d5aa6da4de5649cabb38764e&txTime=646780c9
+#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png" group-title="BLV SHOGUN"
+https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=ea9fa8af134f389c2986a7e8b440778b&txTime=646780c9
+#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg" group-title="BLV AK47"
+https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1684504777-0-0-3a2ba652e4cecfbfd5b5ce66c6e6cc74
+#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg" group-title="BLV KING"
+https://sports01.livnvess.com/live/stream-168964_lhd.m3u8?txSecret=0dfc0f13533451042ef5ade16d9b7968&txTime=646780c9
 #EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg" group-title="BLV FANTA"
 https://pull06.scstream.net/live/stream-135966_lhd.m3u8?auth_key=1683730235-0-0-fda3d484dca61e023048728169f5df30
-#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg" group-title="BLV AK47"
-https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1684503397-0-0-3e2350306844044750595779992aef93
-#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20230513/0caf5377396b4e2c222f4a04e7caedc0.jpg" group-title="BLV TIGER"
-https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=7dc6cc1031f4c82c119632d97b6a8171&txTime=64677b65
-#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/pic/202111/19/f8e41da7a8955dddd469d2cbe3e57716" group-title="IVANN"
-https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1684503397-0-0-2a617fcd4eed663aeffdc69bd6e7dd34
-#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg" group-title="BLV TONY"
-https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=cdf2c5508b154b990640e300b72a1cb7&txTime=646101f8
-#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg" group-title="BLV BEE"
-https://pull06.scstream.net/live/stream-181398_lhd.m3u8?auth_key=1684503397-0-0-8b00c5ef2d5bbfab43dde2cbbe219b79
-#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20230312/aaa07ce8e1ac249c6793fc567dbe11a1.jpg" group-title="SUNNY"
-https://sports01.livnvess.com/live/stream-104707_lhd.m3u8?txSecret=dad78d48851a8ffeb96f2ec1277dc25b&txTime=64677b65
-#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20230405/ec1bee82e4d11675221774242cd75d76.jpg" group-title="BLV PUKA"
-https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=b1aa94274b6e802591314f6c07e5d59c&txTime=64677b65
-#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg" group-title="BLV DIHI"
-https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=325b0bba13205e7d1f323e9268bc441f&txTime=64677b65
-#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26" group-title="BABY BOY"
-https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1684503397-0-0-57ae3c7e5bed45ae1ef76637a5b1510b
+#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20221111/5dedadaf5ec33677f4ebc3a71ba3626c.png" group-title="Sóc cam"
+https://sports01.livnvess.com/live/stream-152898_lhd.m3u8?txSecret=7c056f11a706812c952802e6766565e8&txTime=646780c9
+#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20220810/2a7ffd98fe2f64c7e36efb035d2cbc3b.png" group-title="Sóc phụ hồ"
+https://sports01.livnvess.com/live/stream-133277_lhd.m3u8?txSecret=2a3e2d66c444cb80f5f5835e432883eb&txTime=646780c9
+#EXTINF:-1, tvg-logo="https://sta.vnres.co/file/head/20220522/27ec59432f6894e2e4551627847383bd.jpg" group-title="Sóc mèo méo meo"
+https://sports01.livnvess.com/live/stream-152962_lhd.m3u8?txSecret=1af8901bd6c91e339eb20124de30db5c&txTime=645f1643
