@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=1280000
-https://pull06.scstream.net/live/stream-167414_lhd.m3u8?auth_key=1681723698-0-0-d3d537de58bd1d6339b972d546843793
+https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=200c4ce07be2b7db36bdd9673ba87b66&txTime=6468a909
 #EXT-X-STREAM-INF:BANDWIDTH=1280000
 https://sports01.livnvess.com/live/stream-122591_lhd.m3u8?txSecret=ba94b3ccd73ce13ca072b7c9869f4edf&txTime=6468a8cd
 #EXT-X-STREAM-INF:BANDWIDTH=1280000
