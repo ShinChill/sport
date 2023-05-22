@@ -1,15 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MEX D1 : Club America vs Chivas Guadalajara" tvg-name="MEX D1 : Club America vs Chivas Guadalajara BLV:BLV SINGER" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[Live] MEX D1 : Club America vs Chivas Guadalajara BLV SINGER
-https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=5821534c1b5bfc2bbc7265540fb87f47&txTime=646b452f
-#EXTINF:-1 tvg-id="Tường thuật: SPA D1 - Sevilla vs Real Betis" tvg-name="Tường thuật: SPA D1 - Sevilla vs Real Betis BLV:Sóc cam" tvg-logo="https://sta.vnres.co/file/head/20221111/5dedadaf5ec33677f4ebc3a71ba3626c.png",[Live] Tường thuật: SPA D1 - Sevilla vs Real Betis Sóc cam
-https://sports01.livnvess.com/live/stream-152898_lhd.m3u8?txSecret=c892d1cc7c36a0c52209eff6015341b6&txTime=646b45f1
+#EXTINF:-1 tvg-id="BHU SL: Thimphu Raven vs Phuentsholing" tvg-name="BHU SL: Thimphu Raven vs Phuentsholing BLV:BLV BEE" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[Live] BHU SL: Thimphu Raven vs Phuentsholing BLV BEE
+https://pull06.scstream.net/live/stream-181398_lhd.m3u8?auth_key=1684766917-0-0-82bf286fcf0694c6bcd29e6078a3d7d7
+#EXTINF:-1 tvg-id="BHU SL: Thimphu Raven vs Phuentsholing" tvg-name="BHU SL: Thimphu Raven vs Phuentsholing BLV:BLV FIREMAN" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[Live] BHU SL: Thimphu Raven vs Phuentsholing BLV FIREMAN
+https://pull06.scstream.net/live/stream-250874_lhd.m3u8?auth_key=1684766917-0-0-290149df77eea11e2ce23cde7dc402f8
+#EXTINF:-1 tvg-id="BHU SL: Thimphu Raven vs Phuentsholing" tvg-name="BHU SL: Thimphu Raven vs Phuentsholing BLV:SUNNY" tvg-logo="https://sta.vnres.co/file/head/20230312/aaa07ce8e1ac249c6793fc567dbe11a1.jpg",[Live] BHU SL: Thimphu Raven vs Phuentsholing SUNNY
+https://sports01.livnvess.com/live/stream-104707_lhd.m3u8?txSecret=9f8539b236a8617aaf6344dac1e062c0&txTime=646b80c5
+#EXTINF:-1 tvg-id="BHU SL: Thimphu Raven vs Phuentsholing" tvg-name="BHU SL: Thimphu Raven vs Phuentsholing BLV:BLV HOPE" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[Live] BHU SL: Thimphu Raven vs Phuentsholing BLV HOPE
+https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=98d874113e556a44489f4187d2f03fdd&txTime=646b80c5
+#EXTINF:-1 tvg-id="BHU SL: Thimphu Raven vs Phuentsholing" tvg-name="BHU SL: Thimphu Raven vs Phuentsholing BLV:BLV EDWARD" tvg-logo="https://sta.vnres.co/file/head/20230328/c19057ab3245d1531de39f82e3b38099.jpg",[Live] BHU SL: Thimphu Raven vs Phuentsholing BLV EDWARD
+https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1684766917-0-0-5919d22cf13ddba42ca9a8c473054a14
+#EXTINF:-1 tvg-id="TALK SHOW: Bàn Luận Bóng Đá" tvg-name="TALK SHOW: Bàn Luận Bóng Đá BLV:BLV CÁ" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[Live] TALK SHOW: Bàn Luận Bóng Đá BLV CÁ
+https://sports01.livnvess.com/live/stream-201313_lhd.m3u8?txSecret=aafbbf5cf18d320c15e9d8f384397ee0&txTime=646b80c5
+#EXTINF:-1 tvg-id="(HOT Shogun Talkshow - Vượt Lên Chính Mình" tvg-name="(HOT Shogun Talkshow - Vượt Lên Chính Mình BLV:BLV SHOGUN" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[Live] (HOT Shogun Talkshow - Vượt Lên Chính Mình BLV SHOGUN
+https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=fc07153a5bac8dee67dd04ba393c970a&txTime=646b80c5
 #EXTINF:-1 tvg-id="Tường thuật: FRA D1 - AJ Auxerre vs Paris Saint-Germain" tvg-name="Tường thuật: FRA D1 - AJ Auxerre vs Paris Saint-Germain BLV:Sóc Minions" tvg-logo="https://sta.vnres.co/file/head/20220810/7ec533b436e71ab93e03dda2f6a15678.jpg",[Live] Tường thuật: FRA D1 - AJ Auxerre vs Paris Saint-Germain Sóc Minions
-https://sports01.livnvess.com/live/stream-160872_lhd.m3u8?txSecret=7f7a5b95e060a0b9bbdfdba824edec2f&txTime=646b45f1
-#EXTINF:-1 tvg-id="Tường thuật: ENG PR - Manchester City vs Chelsea FC" tvg-name="Tường thuật: ENG PR - Manchester City vs Chelsea FC BLV:Sóc gánh nước" tvg-logo="https://sta.vnres.co/file/head/20221213/1ccf6b3b54904f0da8610926a968d412.jpg",[Live] Tường thuật: ENG PR - Manchester City vs Chelsea FC Sóc gánh nước
-https://sports01.livnvess.com/live/stream-133824_lhd.m3u8?txSecret=8642108c80f34599c7dc645428d6bb84&txTime=646b45f1
+https://sports01.livnvess.com/live/stream-160872_lhd.m3u8?txSecret=4c821159a573982da0a6743737336ea6&txTime=646b80c5
 #EXTINF:-1 tvg-id="Tường thuật: GER D1 - Bayer Leverkusen vs Monchengladbach" tvg-name="Tường thuật: GER D1 - Bayer Leverkusen vs Monchengladbach BLV:Sóc nhà giàu" tvg-logo="https://sta.vnres.co/file/head/20221213/f2d17ad16d4acb59cfd9d0976f0fa77e.jpg",[Live] Tường thuật: GER D1 - Bayer Leverkusen vs Monchengladbach Sóc nhà giàu
-https://sports01.livnvess.com/live/stream-187684_lhd.m3u8?txSecret=8c31bbc141fe60e47fe65dc680511cf3&txTime=646b45f1
+https://sports01.livnvess.com/live/stream-187684_lhd.m3u8?txSecret=447cfdc60c6dc1ca4bfadb76b459f733&txTime=646b80c5
 #EXTINF:-1 tvg-id="Tường thuật: ITA D1 - Udinese vs Lazio" tvg-name="Tường thuật: ITA D1 - Udinese vs Lazio BLV:Sóc mèo méo meo" tvg-logo="https://sta.vnres.co/file/head/20220522/27ec59432f6894e2e4551627847383bd.jpg",[Live] Tường thuật: ITA D1 - Udinese vs Lazio Sóc mèo méo meo
-https://sports01.livnvess.com/live/stream-1_lhd.m3u8?txSecret=203b4b011dad7a4ca939d99bbe1e433d&txTime=646b45f1
-#EXTINF:-1 tvg-id="Tường thuật: SPA D1 - Valencia CF vs Real Madrid" tvg-name="Tường thuật: SPA D1 - Valencia CF vs Real Madrid BLV:Sóc phụ hồ" tvg-logo="https://sta.vnres.co/file/head/20220810/2a7ffd98fe2f64c7e36efb035d2cbc3b.png",[Live] Tường thuật: SPA D1 - Valencia CF vs Real Madrid Sóc phụ hồ
-https://sports01.livnvess.com/live/stream-133277_lhd.m3u8?txSecret=fd61b7a65f6040a067b68cd91bd304d7&txTime=646b45f1
+https://sports01.livnvess.com/live/stream-1_lhd.m3u8?txSecret=453440f935a40eaa7dba11c3545f9e94&txTime=646b80c5
