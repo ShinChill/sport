@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg" tvg-name="GIÀ LÀNG"
-https://pull06.scstream.net/live/stream-991126_lhd.m3u8?auth_key=1684746577-0-0-4694c9ae55702db57ee47c22542d568b
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg" tvg-name="BLV  TYPN"
-https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1684746577-0-0-f8e35a9ad35902f630bac15c25fe7846
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg" tvg-name="BLV LEO"
-https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=36a19fb4e0c4ba349e6efe0b3ea173ac&txTime=646b3151
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg" tvg-name="BLV SINGER"
-https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=1a95a28ea049d8e2565f2b5c39806e5d&txTime=646b3151
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png" tvg-name="BLV NONAME"
-https://sports01.livnvess.com/live/stream-991125_lhd.m3u8?txSecret=153423e989151abd1604e815840f89a5&txTime=646b3151
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg" tvg-name="BLV TAP"
-https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=8c0cfc8abec04e02c73a17c8f58193d4&txTime=646b3151
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166" tvg-name="RICKHANTER"
-https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=e9d7a08639e3806b05ef406d7f1120e9&txTime=646b3151
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg" tvg-name="DECO"
-https://pull06.scstream.net/live/stream-991123_lhd.m3u8?auth_key=1684746577-0-0-8e928aacfbb3dbc9aa0109fafe2dd5d4
-#EXTINF:-1 tvg-logo="https://sta.vnres.co/file/head/20230406/98fc401cee7391717cd168965ce2615f.jpeg" tvg-name="BLV GOT"
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1684746577-0-0-7d1d4c6f9e8b138b5c29fe260e16c34f
+#EXTINF:-1 tvg-id="GIÀ LÀNG" tvg-name="GIÀ LÀNG" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg"
+https://pull06.scstream.net/live/stream-991126_lhd.m3u8?auth_key=1684746743-0-0-7e8de642d50bde1cafed56b8c1540e52
+#EXTINF:-1 tvg-id="BLV  TYPN" tvg-name="BLV  TYPN" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg"
+https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1684746997-0-0-4cdf03f6a9bdb40b12e4e6f432c50ad5
+#EXTINF:-1 tvg-id="RICKHANTER" tvg-name="RICKHANTER" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166"
+https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=d0e76416730e3b0ea83e291d48f304ca&txTime=646b32f5
+#EXTINF:-1 tvg-id="BLV SINGER" tvg-name="BLV SINGER" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg"
+https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=9cb9f31100ce2db872493c9e06ccc2da&txTime=646b32f5
+#EXTINF:-1 tvg-id="BLV NONAME" tvg-name="BLV NONAME" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png"
+https://sports01.livnvess.com/live/stream-991125_lhd.m3u8?txSecret=cc39bc376ebb4e4071ec35b26d007628&txTime=646b32f5
+#EXTINF:-1 tvg-id="BLV TAP" tvg-name="BLV TAP" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg"
+https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=7fd740fb875760c1833e0f5128aac2e5&txTime=646b32f5
+#EXTINF:-1 tvg-id="DECO" tvg-name="DECO" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg"
+https://pull06.scstream.net/live/stream-991123_lhd.m3u8?auth_key=1684746997-0-0-c2003ac5f30a3e4caefacdf76b9eba44
+#EXTINF:-1 tvg-id="BLV LEO" tvg-name="BLV LEO" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg"
+https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=89ac4862b7f4b84f4d45014f5ca1e50d&txTime=646b32f5
+#EXTINF:-1 tvg-id="BLV GOT" tvg-name="BLV GOT" tvg-logo="https://sta.vnres.co/file/head/20230406/98fc401cee7391717cd168965ce2615f.jpeg"
+https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1684747057-0-0-58b2763275d5971fe34ffd66767919ba
