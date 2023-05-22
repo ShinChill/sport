@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara2" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:BLV LEO" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",MEX D1: Club America vs Chivas Guadalajara1
-https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=6af88898a588a1b6f6a4bfdaada13ff2&txTime=646b37a5
-#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara2" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:BLV GOT" tvg-logo="https://sta.vnres.co/file/head/20230406/98fc401cee7391717cd168965ce2615f.jpeg",MEX D1: Club America vs Chivas Guadalajara1
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1684748197-0-0-c10837a169f17fbe8d926ccbcc9473ed
-#EXTINF:-1 tvg-id="MEX D1: Club America - Guadalajara2" tvg-name="MEX D1: Club America - Guadalajara BLV:DECO" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",MEX D1: Club America - Guadalajara1
-https://pull06.scstream.net/live/stream-991123_lhd.m3u8?auth_key=1684748197-0-0-75dd562bb103a9186b0f58d315e4b0a6
-#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara2" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:BLV  TYPN" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",MEX D1: Club America vs Chivas Guadalajara1
-https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1684748197-0-0-413c8993161c0be0a2f461e1a5f768f5
-#EXTINF:-1 tvg-id="MEX D1 : Club America vs Chivas2" tvg-name="MEX D1 : Club America vs Chivas BLV:BLV NONAME" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",MEX D1 : Club America vs Chivas1
-https://sports01.livnvess.com/live/stream-991125_lhd.m3u8?txSecret=6da3b0b7281f511c89a482ac6f26a696&txTime=646b37a5
-#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara2" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:RICKHANTER" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",MEX D1: Club America vs Chivas Guadalajara1
-https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=f261bb5d3611d2fa927448a134efdef8&txTime=646b37a5
-#EXTINF:-1 tvg-id="MEX D1 CLUB AMERICA vs CHIVAS GUADALAJARA2" tvg-name="MEX D1 CLUB AMERICA vs CHIVAS GUADALAJARA BLV:GIÀ LÀNG" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",MEX D1 CLUB AMERICA vs CHIVAS GUADALAJARA1
-https://pull06.scstream.net/live/stream-991126_lhd.m3u8?auth_key=1684748197-0-0-740490048d1d41fd867aeb9cc5540d21
-#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara2" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:BLV TAP" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",MEX D1: Club America vs Chivas Guadalajara1
-https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=7fc9fa893beff6e8ad6cf8657ab52212&txTime=646b37a5
 #EXTINF:-1 tvg-id="MEX D1 : Club America vs Chivas Guadalajara2" tvg-name="MEX D1 : Club America vs Chivas Guadalajara BLV:BLV SINGER" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",MEX D1 : Club America vs Chivas Guadalajara1
-https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=d7e627be93b3137e50629730162e9ea2&txTime=646b37a5
+https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=8ccba208e395accab9521ae53d486ba6&txTime=646b3895
+#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara2" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:BLV TAP" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",MEX D1: Club America vs Chivas Guadalajara1
+https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=35ff681d1d91850221c1d649b7acef45&txTime=646b3895
+#EXTINF:-1 tvg-id="MEX D1: Club America - Guadalajara2" tvg-name="MEX D1: Club America - Guadalajara BLV:DECO" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",MEX D1: Club America - Guadalajara1
+https://pull06.scstream.net/live/stream-991123_lhd.m3u8?auth_key=1684748437-0-0-6c210839e78f3f861307a58158d4d2b1
+#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara2" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:BLV GOT" tvg-logo="https://sta.vnres.co/file/head/20230406/98fc401cee7391717cd168965ce2615f.jpeg",MEX D1: Club America vs Chivas Guadalajara1
+https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1684748437-0-0-14998dfd5a9bfe05679a44dae8457107
+#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara2" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:BLV LEO" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",MEX D1: Club America vs Chivas Guadalajara1
+https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=25ae5bec00f14e74acb130a40838bdc5&txTime=646b3895
+#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara2" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:BLV  TYPN" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",MEX D1: Club America vs Chivas Guadalajara1
+https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1684748437-0-0-3e85fdfa8a9f150906a94cad73a393d1
+#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara2" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:RICKHANTER" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",MEX D1: Club America vs Chivas Guadalajara1
+https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=d15534f94fc21397f495919bfebe38cb&txTime=646b3895
+#EXTINF:-1 tvg-id="MEX D1 CLUB AMERICA vs CHIVAS GUADALAJARA2" tvg-name="MEX D1 CLUB AMERICA vs CHIVAS GUADALAJARA BLV:GIÀ LÀNG" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",MEX D1 CLUB AMERICA vs CHIVAS GUADALAJARA1
+https://pull06.scstream.net/live/stream-991126_lhd.m3u8?auth_key=1684748437-0-0-9633ab7dc83f2b14f39868cb55b8b241
+#EXTINF:-1 tvg-id="MEX D1 : Club America vs Chivas2" tvg-name="MEX D1 : Club America vs Chivas BLV:BLV NONAME" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",MEX D1 : Club America vs Chivas1
+https://sports01.livnvess.com/live/stream-991125_lhd.m3u8?txSecret=3c620e1ca20e682ff80f21cfd70e26b2&txTime=646b3895
