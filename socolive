@@ -1,19 +1,15 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:BLV LEO" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[Live] MEX D1: Club America vs Chivas Guadalajara BLV:BLV LEO
-https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=2fc5dac1991c90ad1115e814c30848d5&txTime=646b3b65
-#EXTINF:-1 tvg-id="MEX D1 CLUB AMERICA vs CHIVAS GUADALAJARA" tvg-name="MEX D1 CLUB AMERICA vs CHIVAS GUADALAJARA BLV:GIÀ LÀNG" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",[Live] MEX D1 CLUB AMERICA vs CHIVAS GUADALAJARA BLV:GIÀ LÀNG
-https://pull06.scstream.net/live/stream-991126_lhd.m3u8?auth_key=1684749157-0-0-09b706fbe12f1fa4dd51235107e8f168
-#EXTINF:-1 tvg-id="MEX D1 : Club America vs Chivas" tvg-name="MEX D1 : Club America vs Chivas BLV:BLV NONAME" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[Live] MEX D1 : Club America vs Chivas BLV:BLV NONAME
-https://sports01.livnvess.com/live/stream-991125_lhd.m3u8?txSecret=b73fe1d447c5ed09b60b97b07aee50d4&txTime=646b3b65
-#EXTINF:-1 tvg-id="MEX D1 : Club America vs Chivas Guadalajara" tvg-name="MEX D1 : Club America vs Chivas Guadalajara BLV:BLV SINGER" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[Live] MEX D1 : Club America vs Chivas Guadalajara BLV:BLV SINGER
-https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=28b40e8dae34da1c3f1b3f7efd718268&txTime=646b3b65
-#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:BLV GOT" tvg-logo="https://sta.vnres.co/file/head/20230406/98fc401cee7391717cd168965ce2615f.jpeg",[Live] MEX D1: Club America vs Chivas Guadalajara BLV:BLV GOT
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1684749157-0-0-5915953536423bdc6895e9dbdec30d2b
-#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:BLV  TYPN" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[Live] MEX D1: Club America vs Chivas Guadalajara BLV:BLV  TYPN
-https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1684749157-0-0-6fbf3e47300401e99e804936383aabaa
-#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:BLV TAP" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[Live] MEX D1: Club America vs Chivas Guadalajara BLV:BLV TAP
-https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=caf2c6fbe7154f18f863230a9c5d8141&txTime=646b3b65
-#EXTINF:-1 tvg-id="MEX D1: Club America - Guadalajara" tvg-name="MEX D1: Club America - Guadalajara BLV:DECO" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[Live] MEX D1: Club America - Guadalajara BLV:DECO
-https://pull06.scstream.net/live/stream-991123_lhd.m3u8?auth_key=1684749157-0-0-d3eeb1eb7805c5be77096fda37edd9b4
-#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:RICKHANTER" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[Live] MEX D1: Club America vs Chivas Guadalajara BLV:RICKHANTER
-https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=12df339cb4fa03edc071cc81e5a556ed&txTime=646b3b65
+#EXTINF:-1 tvg-id="MEX D1 : Club America vs Chivas Guadalajara" tvg-name="MEX D1 : Club America vs Chivas Guadalajara BLV:BLV SINGER" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[Live] MEX D1 : Club America vs Chivas Guadalajara BLV SINGER
+https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=5821534c1b5bfc2bbc7265540fb87f47&txTime=646b452f
+#EXTINF:-1 tvg-id="Tường thuật: SPA D1 - Sevilla vs Real Betis" tvg-name="Tường thuật: SPA D1 - Sevilla vs Real Betis BLV:Sóc cam" tvg-logo="https://sta.vnres.co/file/head/20221111/5dedadaf5ec33677f4ebc3a71ba3626c.png",[Live] Tường thuật: SPA D1 - Sevilla vs Real Betis Sóc cam
+https://sports01.livnvess.com/live/stream-152898_lhd.m3u8?txSecret=c892d1cc7c36a0c52209eff6015341b6&txTime=646b45f1
+#EXTINF:-1 tvg-id="Tường thuật: FRA D1 - AJ Auxerre vs Paris Saint-Germain" tvg-name="Tường thuật: FRA D1 - AJ Auxerre vs Paris Saint-Germain BLV:Sóc Minions" tvg-logo="https://sta.vnres.co/file/head/20220810/7ec533b436e71ab93e03dda2f6a15678.jpg",[Live] Tường thuật: FRA D1 - AJ Auxerre vs Paris Saint-Germain Sóc Minions
+https://sports01.livnvess.com/live/stream-160872_lhd.m3u8?txSecret=7f7a5b95e060a0b9bbdfdba824edec2f&txTime=646b45f1
+#EXTINF:-1 tvg-id="Tường thuật: ENG PR - Manchester City vs Chelsea FC" tvg-name="Tường thuật: ENG PR - Manchester City vs Chelsea FC BLV:Sóc gánh nước" tvg-logo="https://sta.vnres.co/file/head/20221213/1ccf6b3b54904f0da8610926a968d412.jpg",[Live] Tường thuật: ENG PR - Manchester City vs Chelsea FC Sóc gánh nước
+https://sports01.livnvess.com/live/stream-133824_lhd.m3u8?txSecret=8642108c80f34599c7dc645428d6bb84&txTime=646b45f1
+#EXTINF:-1 tvg-id="Tường thuật: GER D1 - Bayer Leverkusen vs Monchengladbach" tvg-name="Tường thuật: GER D1 - Bayer Leverkusen vs Monchengladbach BLV:Sóc nhà giàu" tvg-logo="https://sta.vnres.co/file/head/20221213/f2d17ad16d4acb59cfd9d0976f0fa77e.jpg",[Live] Tường thuật: GER D1 - Bayer Leverkusen vs Monchengladbach Sóc nhà giàu
+https://sports01.livnvess.com/live/stream-187684_lhd.m3u8?txSecret=8c31bbc141fe60e47fe65dc680511cf3&txTime=646b45f1
+#EXTINF:-1 tvg-id="Tường thuật: ITA D1 - Udinese vs Lazio" tvg-name="Tường thuật: ITA D1 - Udinese vs Lazio BLV:Sóc mèo méo meo" tvg-logo="https://sta.vnres.co/file/head/20220522/27ec59432f6894e2e4551627847383bd.jpg",[Live] Tường thuật: ITA D1 - Udinese vs Lazio Sóc mèo méo meo
+https://sports01.livnvess.com/live/stream-1_lhd.m3u8?txSecret=203b4b011dad7a4ca939d99bbe1e433d&txTime=646b45f1
+#EXTINF:-1 tvg-id="Tường thuật: SPA D1 - Valencia CF vs Real Madrid" tvg-name="Tường thuật: SPA D1 - Valencia CF vs Real Madrid BLV:Sóc phụ hồ" tvg-logo="https://sta.vnres.co/file/head/20220810/2a7ffd98fe2f64c7e36efb035d2cbc3b.png",[Live] Tường thuật: SPA D1 - Valencia CF vs Real Madrid Sóc phụ hồ
+https://sports01.livnvess.com/live/stream-133277_lhd.m3u8?txSecret=fd61b7a65f6040a067b68cd91bd304d7&txTime=646b45f1
