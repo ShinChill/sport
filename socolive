@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:RICKHANTER" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[Live] MEX D1: Club America vs Chivas Guadalajara BLV:RICKHANTER
-https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=bd9ae69941847f476a18477556cdaa2d&txTime=646b3a75
-#EXTINF:-1 tvg-id="MEX D1: Club America - Guadalajara" tvg-name="MEX D1: Club America - Guadalajara BLV:DECO" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[Live] MEX D1: Club America - Guadalajara BLV:DECO
-https://pull06.scstream.net/live/stream-991123_lhd.m3u8?auth_key=1684748917-0-0-545e45c4643e7ace112bf4fce6830027
-#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:BLV TAP" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[Live] MEX D1: Club America vs Chivas Guadalajara BLV:BLV TAP
-https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=7fc5d7cf74e78599be21cc2e31b59607&txTime=646b3a75
 #EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:BLV LEO" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[Live] MEX D1: Club America vs Chivas Guadalajara BLV:BLV LEO
-https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=fe93ea1201baa01bd506e858d8396848&txTime=646b3a75
-#EXTINF:-1 tvg-id="MEX D1 : Club America vs Chivas" tvg-name="MEX D1 : Club America vs Chivas BLV:BLV NONAME" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[Live] MEX D1 : Club America vs Chivas BLV:BLV NONAME
-https://sports01.livnvess.com/live/stream-991125_lhd.m3u8?txSecret=1b48faa9c241a3203dceed9df78ab45d&txTime=646b3a75
-#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:BLV GOT" tvg-logo="https://sta.vnres.co/file/head/20230406/98fc401cee7391717cd168965ce2615f.jpeg",[Live] MEX D1: Club America vs Chivas Guadalajara BLV:BLV GOT
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1684748917-0-0-46a18a51254b035fa351dbebb13ea0f9
+https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=2fc5dac1991c90ad1115e814c30848d5&txTime=646b3b65
 #EXTINF:-1 tvg-id="MEX D1 CLUB AMERICA vs CHIVAS GUADALAJARA" tvg-name="MEX D1 CLUB AMERICA vs CHIVAS GUADALAJARA BLV:GIÀ LÀNG" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",[Live] MEX D1 CLUB AMERICA vs CHIVAS GUADALAJARA BLV:GIÀ LÀNG
-https://pull06.scstream.net/live/stream-991126_lhd.m3u8?auth_key=1684748917-0-0-2249725ec6832ed4c6d4c8fa6c4cfd29
-#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:BLV  TYPN" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[Live] MEX D1: Club America vs Chivas Guadalajara BLV:BLV  TYPN
-https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1684748917-0-0-ece685bd163254ac423167f6564e7ece
+https://pull06.scstream.net/live/stream-991126_lhd.m3u8?auth_key=1684749157-0-0-09b706fbe12f1fa4dd51235107e8f168
+#EXTINF:-1 tvg-id="MEX D1 : Club America vs Chivas" tvg-name="MEX D1 : Club America vs Chivas BLV:BLV NONAME" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[Live] MEX D1 : Club America vs Chivas BLV:BLV NONAME
+https://sports01.livnvess.com/live/stream-991125_lhd.m3u8?txSecret=b73fe1d447c5ed09b60b97b07aee50d4&txTime=646b3b65
 #EXTINF:-1 tvg-id="MEX D1 : Club America vs Chivas Guadalajara" tvg-name="MEX D1 : Club America vs Chivas Guadalajara BLV:BLV SINGER" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[Live] MEX D1 : Club America vs Chivas Guadalajara BLV:BLV SINGER
-https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=84fc5e76310c9c9124958b4a46e00add&txTime=646b3a75
+https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=28b40e8dae34da1c3f1b3f7efd718268&txTime=646b3b65
+#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:BLV GOT" tvg-logo="https://sta.vnres.co/file/head/20230406/98fc401cee7391717cd168965ce2615f.jpeg",[Live] MEX D1: Club America vs Chivas Guadalajara BLV:BLV GOT
+https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1684749157-0-0-5915953536423bdc6895e9dbdec30d2b
+#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:BLV  TYPN" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[Live] MEX D1: Club America vs Chivas Guadalajara BLV:BLV  TYPN
+https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1684749157-0-0-6fbf3e47300401e99e804936383aabaa
+#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:BLV TAP" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[Live] MEX D1: Club America vs Chivas Guadalajara BLV:BLV TAP
+https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=caf2c6fbe7154f18f863230a9c5d8141&txTime=646b3b65
+#EXTINF:-1 tvg-id="MEX D1: Club America - Guadalajara" tvg-name="MEX D1: Club America - Guadalajara BLV:DECO" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[Live] MEX D1: Club America - Guadalajara BLV:DECO
+https://pull06.scstream.net/live/stream-991123_lhd.m3u8?auth_key=1684749157-0-0-d3eeb1eb7805c5be77096fda37edd9b4
+#EXTINF:-1 tvg-id="MEX D1: Club America vs Chivas Guadalajara" tvg-name="MEX D1: Club America vs Chivas Guadalajara BLV:RICKHANTER" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[Live] MEX D1: Club America vs Chivas Guadalajara BLV:RICKHANTER
+https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=12df339cb4fa03edc071cc81e5a556ed&txTime=646b3b65
