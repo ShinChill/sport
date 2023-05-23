@@ -1,67 +1,70 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LAT D1: Metta/LU Riga vs Super Nova Riga" tvg-name="LAT D1: Metta/LU Riga vs Super Nova Riga" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] LAT D1: Metta/LU Riga vs Super Nova Riga [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=6452abebd500d5252bf87bf27120c70e&txTime=646d3041
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BUL D1: Lokomotiv Sofia vs Slavia Sofia" tvg-name="BUL D1: Lokomotiv Sofia vs Slavia Sofia" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] BUL D1: Lokomotiv Sofia vs Slavia Sofia [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991133_lhd.m3u8?auth_key=1684877377-0-0-d00c46d263592a6812c42a791bce71e4
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BUL D1: Lokomotiv Sofia vs Slavia Sofia" tvg-name="BUL D1: Lokomotiv Sofia vs Slavia Sofia" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] BUL D1: Lokomotiv Sofia vs Slavia Sofia [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=e3c98a41a2a17a7a92849c8ab05609d1&txTime=646d3041
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LAT D1: Metta/LU Riga vs Super Nova Riga" tvg-name="LAT D1: Metta/LU Riga vs Super Nova Riga" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] LAT D1: Metta/LU Riga vs Super Nova Riga [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1684877377-0-0-4ee3ce8392edb8823a1e1ada5e7d63ec
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SVK D1: Banska Bystrica vs MSK Zilina" tvg-name="SVK D1: Banska Bystrica vs MSK Zilina" tvg-logo="https://sta.vnres.co/file/head/20230115/6a1111a911d45aa7fe60908f3b0576e9.jpg",[COLOR red][LIVE][/COLOR] SVK D1: Banska Bystrica vs MSK Zilina [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1684877377-0-0-82164f096ee414a43411f414fb08fadf
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LAT D1: Metta/LU Riga vs Super Nova Riga" tvg-name="LAT D1: Metta/LU Riga vs Super Nova Riga" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] LAT D1: Metta/LU Riga vs Super Nova Riga [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-201313_lhd.m3u8?txSecret=47445d02a721a701c66db539a8bb3fb2&txTime=646d3041
+https://sports01.livnvess.com/live/stream-201313_lhd.m3u8?txSecret=38e12daab6bdb8d703b9efeb5c14c4c1&txTime=646d30f5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SVK D1: Banska Bystrica vs MSK Zilina" tvg-name="SVK D1: Banska Bystrica vs MSK Zilina" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] SVK D1: Banska Bystrica vs MSK Zilina [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=28da11e2d278daf8cc094a9fcb506a75&txTime=646d3041
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BUL D1: Lokomotiv Sofia vs Slavia Sofia" tvg-name="BUL D1: Lokomotiv Sofia vs Slavia Sofia" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] BUL D1: Lokomotiv Sofia vs Slavia Sofia [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991135_lhd.m3u8?txSecret=5cd4435f568b1c05c33c7e114c9af093&txTime=646d3041
+#EXTINF:-1 tvg-id="LAT D1: Metta/LU Riga vs Super Nova Riga" tvg-name="LAT D1: Metta/LU Riga vs Super Nova Riga" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] LAT D1: Metta/LU Riga vs Super Nova Riga [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=7bbd4bd42eca38482c1d7bf52e107e82&txTime=646d30f5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BUL D1: Lokomotiv Sofia vs Slavia Sofia" tvg-name="BUL D1: Lokomotiv Sofia vs Slavia Sofia" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] BUL D1: Lokomotiv Sofia vs Slavia Sofia [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1684877377-0-0-53b3618b5c77dc0f314555aa826ecb2c
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1684877557-0-0-719a86560e0b7bde1d96217858bf2e5b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="BUL D1: Lokomotiv Sofia vs Slavia Sofia" tvg-name="BUL D1: Lokomotiv Sofia vs Slavia Sofia" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] BUL D1: Lokomotiv Sofia vs Slavia Sofia [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=945c83252e4da34812ed4c81101e648e&txTime=646d30f5
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="KSA PR: Al-Adalah FC vs Al Hilal" tvg-name="KSA PR: Al-Adalah FC vs Al Hilal" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] KSA PR: Al-Adalah FC vs Al Hilal [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=74ccd971da96152e93b2ea2e577fc056&txTime=646d30f5
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SVK D1: Banska Bystrica vs MSK Zilina" tvg-name="SVK D1: Banska Bystrica vs MSK Zilina" tvg-logo="https://sta.vnres.co/file/head/20230115/6a1111a911d45aa7fe60908f3b0576e9.jpg",[COLOR red][LIVE][/COLOR] SVK D1: Banska Bystrica vs MSK Zilina [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1684877557-0-0-b7493150e1df1270abf1fc5b00c9a47a
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="BUL D1: Lokomotiv Sofia vs Slavia Sofia" tvg-name="BUL D1: Lokomotiv Sofia vs Slavia Sofia" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] BUL D1: Lokomotiv Sofia vs Slavia Sofia [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991133_lhd.m3u8?auth_key=1684877557-0-0-73ede5716b2651ffd53f46fee31e42e9
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LAT D1: Metta/LU Riga vs Super Nova Riga" tvg-name="LAT D1: Metta/LU Riga vs Super Nova Riga" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] LAT D1: Metta/LU Riga vs Super Nova Riga [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1684877557-0-0-e3d0d559a0e4d7cbb7b444beae398f7f
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="BUL D1: Lokomotiv Sofia vs Slavia Sofia" tvg-name="BUL D1: Lokomotiv Sofia vs Slavia Sofia" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] BUL D1: Lokomotiv Sofia vs Slavia Sofia [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991135_lhd.m3u8?txSecret=ec7bcf09071acca6246db11d0e02ec20&txTime=646d30f5
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SVK D1: Banska Bystrica vs MSK Zilina" tvg-name="SVK D1: Banska Bystrica vs MSK Zilina" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] SVK D1: Banska Bystrica vs MSK Zilina [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=77aabfe628a07d655b926356d4a20bb5&txTime=646d30f5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LAT D1: Metta/LU Riga vs Super Nova Riga" tvg-name="LAT D1: Metta/LU Riga vs Super Nova Riga" tvg-logo="https://sta.vnres.co/file/head/20230203/e7fcb68b4a251675c8343c19e58289d7.png",[COLOR red][LIVE][/COLOR] LAT D1: Metta/LU Riga vs Super Nova Riga [COLOR yellow]BLV G Hip[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991127_lhd.m3u8?txSecret=f65c31f9f08ab71ceb1d396c52f3fa7a&txTime=646d3041
+https://sports01.livnvess.com/live/stream-991127_lhd.m3u8?txSecret=a4f9ca862e1fdc95d100285d10a6551c&txTime=646d30f5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LAT D1: Metta/LU Riga vs Super Nova Riga" tvg-name="LAT D1: Metta/LU Riga vs Super Nova Riga" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] LAT D1: Metta/LU Riga vs Super Nova Riga [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1684877377-0-0-40becb62fc10529cf11a3b8ecfc6e33c
+https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1684877557-0-0-c7c4a4c428b392c79260901958537e38
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EST D1: Trans Narva vs FC Flora Tallinn" tvg-name="EST D1: Trans Narva vs FC Flora Tallinn" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg",[COLOR red][LIVE][/COLOR] EST D1: Trans Narva vs FC Flora Tallinn [COLOR yellow]DƯƠNG QUÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1684877377-0-0-024a1b677530cb99f082a0e61a0777d4
+https://pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1684877557-0-0-19b88033582f70ad24a10b0f863ca552
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EST D1: Trans Narva vs FC Flora Tallinn" tvg-name="EST D1: Trans Narva vs FC Flora Tallinn" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] EST D1: Trans Narva vs FC Flora Tallinn [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-348199_lhd.m3u8?auth_key=1684877377-0-0-0a84d2709149e9dd6c27264208980d18
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LAT D1: Metta/LU Riga vs Super Nova Riga" tvg-name="LAT D1: Metta/LU Riga vs Super Nova Riga" tvg-logo="https://sta.vnres.co/file/head/20221220/15cddfa1880beb36bfbea12feedfec95.jpg",[COLOR red][LIVE][/COLOR] LAT D1: Metta/LU Riga vs Super Nova Riga [COLOR yellow]BLV BRUCE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=f08fa008715bfd633e12126284b26ad6&txTime=646d3045
+https://pull06.scstream.net/live/stream-348199_lhd.m3u8?auth_key=1684877557-0-0-7ab13366392aa1e7f078329607ec37b3
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EST D1: Trans Narva vs FC Flora Tallinn" tvg-name="EST D1: Trans Narva vs FC Flora Tallinn" tvg-logo="https://sta.vnres.co/file/head/20230329/571b39ae2e8e91a9b9ee7b45d829eba1.jpg",[COLOR red][LIVE][/COLOR] EST D1: Trans Narva vs FC Flora Tallinn [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=cc831bded1dbe3f65bdc1ebc0532675b&txTime=646d3041
+https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=52fb10d708d78860958734250830702b&txTime=646d30f5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="QBL: Al Sadd vs Al Shamal" tvg-name="QBL: Al Sadd vs Al Shamal" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] QBL: Al Sadd vs Al Shamal [COLOR yellow]BLV KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-168964_lhd.m3u8?txSecret=bf389e1dd0a4ff3e3464bd6f3735afce&txTime=646d3041
+https://sports01.livnvess.com/live/stream-168964_lhd.m3u8?txSecret=1573c0cc7d8adfb28ea9706632b3d864&txTime=646d30f5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="QBL: Al Sadd vs Al Shamal" tvg-name="QBL: Al Sadd vs Al Shamal" tvg-logo="https://sta.vnres.co/file/pic/202111/19/f8e41da7a8955dddd469d2cbe3e57716",[COLOR red][LIVE][/COLOR] QBL: Al Sadd vs Al Shamal [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1684877377-0-0-8971f2ee6e7223e81e1c3866bc210757
+https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1684877557-0-0-73b97a34eafb1bfb0dcf82585aedd842
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SVK D1: Banska Bystrica vs MSK Zilina" tvg-name="SVK D1: Banska Bystrica vs MSK Zilina" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] SVK D1: Banska Bystrica vs MSK Zilina [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=23aabc5f29e8fb4f00dee62b1162a2ec&txTime=646d3041
+https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=a70557be041817f3348f0870a7c64fcc&txTime=646d30f5
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LAT D1: Metta/LU Riga vs Super Nova Riga" tvg-name="LAT D1: Metta/LU Riga vs Super Nova Riga" tvg-logo="https://sta.vnres.co/file/head/20221220/15cddfa1880beb36bfbea12feedfec95.jpg",[COLOR red][LIVE][/COLOR] LAT D1: Metta/LU Riga vs Super Nova Riga [COLOR yellow]BLV BRUCE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=4593bbb768971b97f1b60fa28a3c10d3&txTime=646d30f5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SVK D1: Banska Bystrica vs MSK Zilina" tvg-name="SVK D1: Banska Bystrica vs MSK Zilina" tvg-logo="https://sta.vnres.co/file/head/20230405/ec1bee82e4d11675221774242cd75d76.jpg",[COLOR red][LIVE][/COLOR] SVK D1: Banska Bystrica vs MSK Zilina [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=767b12368e476b3e2e7d64e6ccc20ab2&txTime=646d3041
+https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=001345d529196fa4a6cb014795e5cbdf&txTime=646d30f5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SVK D1: Banska Bystrica vs MSK Zilina" tvg-name="SVK D1: Banska Bystrica vs MSK Zilina" tvg-logo="https://sta.vnres.co/file/head/20230506/b6a7ea571d1c6f7ee48d9c827998bfcc.png",[COLOR red][LIVE][/COLOR] SVK D1: Banska Bystrica vs MSK Zilina [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1684877377-0-0-a3cd6a0c202bee199cb9ea5069a4a7b2
+https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1684877557-0-0-81e3a19de86bea9860414aa366f39777
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SVK D1: Podbrezova vs MFK Ruzomberok" tvg-name="SVK D1: Podbrezova vs MFK Ruzomberok" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] SVK D1: Podbrezova vs MFK Ruzomberok [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1684877377-0-0-4fdb6d77f3c3c9f0a62bc08fc91bb353
+https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1684877557-0-0-6e2ae7901d7b48430ebba6941453d5ad
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SVK D1: Podbrezova vs MFK Ruzomberok" tvg-name="SVK D1: Podbrezova vs MFK Ruzomberok" tvg-logo="https://sta.vnres.co/file/head/20230328/c19057ab3245d1531de39f82e3b38099.jpg",[COLOR red][LIVE][/COLOR] SVK D1: Podbrezova vs MFK Ruzomberok [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1684877377-0-0-507d15bf1c884b896c3c0668fc4928fb
+https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1684877557-0-0-cff044ab5ea35f4ca658647142577951
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
