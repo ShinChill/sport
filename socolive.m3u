@@ -1,46 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CON CSA: Millonarios F.C. vs CA Penarol" tvg-name="CON CSA: Millonarios F.C. vs CA Penarol" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",[COLOR red][LIVE][/COLOR] CON CSA: Millonarios F.C. vs CA Penarol [COLOR yellow]BLV TONY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=4939aabaa41326f736ae07152ec5f3e7&txTime=646dd091
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA CUP: Los Angeles FC vs Los Angeles Galaxy" tvg-name="USA CUP: Los Angeles FC vs Los Angeles Galaxy" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] USA CUP: Los Angeles FC vs Los Angeles Galaxy [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=e5c9e413e4bf7474839d8ed5e6c26b39&txTime=646dd091
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="NBA: Miami Heat vs Boston Celtics" tvg-name="NBA: Miami Heat vs Boston Celtics" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] NBA: Miami Heat vs Boston Celtics [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-122591_lhd.m3u8?txSecret=75952f1914035c089f892994c8f3729e&txTime=646dd091
+#EXTINF:-1 tvg-id="USA CUP: Los Angeles FC vs Los Angeles Galaxy" tvg-name="USA CUP: Los Angeles FC vs Los Angeles Galaxy" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] USA CUP: Los Angeles FC vs Los Angeles Galaxy [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=aa7a683bff8914a2730fcfd532551f1a&txTime=646dd145
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LIB Cup: Alianza Lima vs Club Libertad" tvg-name="LIB Cup: Alianza Lima vs Club Libertad" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] LIB Cup: Alianza Lima vs Club Libertad [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=c0a257bb32f52a7966d9cfe8837aee12&txTime=646dd091
+https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=c0ae1b7e2e605b0a3d654987ff43857b&txTime=646dd145
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA CUP: Los Angeles FC vs Los Angeles Galaxy" tvg-name="USA CUP: Los Angeles FC vs Los Angeles Galaxy" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] USA CUP: Los Angeles FC vs Los Angeles Galaxy [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991129_lhd.m3u8?auth_key=1684918417-0-0-e012eaca0e09f2eca14fac80a39318e2
+https://pull06.scstream.net/live/stream-991129_lhd.m3u8?auth_key=1684918597-0-0-64427bf954895db11130bc633f95b7c7
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="NBA: Miami Heat vs Boston Celtics" tvg-name="NBA: Miami Heat vs Boston Celtics" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] NBA: Miami Heat vs Boston Celtics [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-122591_lhd.m3u8?txSecret=e39fed8f40075daea55bdaeae71c8546&txTime=646dd14c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LIB Cup: Alianza Lima vs Club Libertad" tvg-name="LIB Cup: Alianza Lima vs Club Libertad" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] LIB Cup: Alianza Lima vs Club Libertad [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=4d9f7263b5de02cd2c5f02e74c57fa43&txTime=646dd091
+https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=757d0d5d1846cb2af653e4de6c8802b4&txTime=646dd145
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA CUP: Los Angeles FC vs Los Angeles Galaxy" tvg-name="USA CUP: Los Angeles FC vs Los Angeles Galaxy" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] USA CUP: Los Angeles FC vs Los Angeles Galaxy [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=7c038ac8adcf19379f20a2220436b251&txTime=646dd091
+#EXTINF:-1 tvg-id="USA CUP: Los Angeles FC vs Los Angeles Galaxy" tvg-name="USA CUP: Los Angeles FC vs Los Angeles Galaxy" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] USA CUP: Los Angeles FC vs Los Angeles Galaxy [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=b3b3e6ceb2231296ddcd13526b25b646&txTime=646dd145
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA CUP: Los Angeles FC vs Los Angeles Galaxy" tvg-name="USA CUP: Los Angeles FC vs Los Angeles Galaxy" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] USA CUP: Los Angeles FC vs Los Angeles Galaxy [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=8956e611665ac62fb26bcde617367018&txTime=646dd091
+#EXTINF:-1 tvg-id="CON CSA: Millonarios F.C. vs CA Penarol" tvg-name="CON CSA: Millonarios F.C. vs CA Penarol" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",[COLOR red][LIVE][/COLOR] CON CSA: Millonarios F.C. vs CA Penarol [COLOR yellow]BLV TONY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=6d766b2e447295f56c9b868de12bd4bb&txTime=646dd145
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CON CSA: Millonarios F.C. vs CA Penarol" tvg-name="CON CSA: Millonarios F.C. vs CA Penarol" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] CON CSA: Millonarios F.C. vs CA Penarol [COLOR yellow]Tạ Biên Giới[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-118206_lhd.m3u8?auth_key=1684918417-0-0-dd715472b615279177b2e7202f896c84
+https://pull06.scstream.net/live/stream-118206_lhd.m3u8?auth_key=1684918597-0-0-abd13b13a5a7b2ce0500b1dc9430cd01
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA CUP: Los Angeles FC vs Los Angeles Galaxy" tvg-name="USA CUP: Los Angeles FC vs Los Angeles Galaxy" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] USA CUP: Los Angeles FC vs Los Angeles Galaxy [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=67a6178a665c5df6211b5e0fa211a693&txTime=646dd145
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA CUP: Los Angeles FC vs Los Angeles Galaxy" tvg-name="USA CUP: Los Angeles FC vs Los Angeles Galaxy" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] USA CUP: Los Angeles FC vs Los Angeles Galaxy [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=6025ccb4295d4076c625a6eedb524d3b&txTime=646dd091
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="NBA: Miami Heat vs Boston Celtics" tvg-name="NBA: Miami Heat vs Boston Celtics" tvg-logo="https://sta.vnres.co/file/pic/202111/19/f8e41da7a8955dddd469d2cbe3e57716",[COLOR red][LIVE][/COLOR] NBA: Miami Heat vs Boston Celtics [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1684918417-0-0-70ad59ae60f5b05dba810cdce5f632f2
+https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=2eb85a1c4c83776edd72895641e5f64b&txTime=646dd145
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LIB Cup: Alianza Lima vs Club Libertad" tvg-name="LIB Cup: Alianza Lima vs Club Libertad" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] LIB Cup: Alianza Lima vs Club Libertad [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1684918417-0-0-80240e1720d3ebfcbcd0e37836f2d6f0
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CON CSA: Millonarios F.C. vs CA Penarol" tvg-name="CON CSA: Millonarios F.C. vs CA Penarol" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] CON CSA: Millonarios F.C. vs CA Penarol [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1684918417-0-0-1b83651f420bd49c5c2f08a1ab7ee9a8
+https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1684918597-0-0-4feeb29e613d764aba2017304c38ce4b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LIB Cup: Alianza Lima vs Club Libertad" tvg-name="LIB Cup: Alianza Lima vs Club Libertad" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] LIB Cup: Alianza Lima vs Club Libertad [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pullalilive.livnvess.com/live/stream-348199.m3u8?auth_key=1684918417-0-0-6fd5446e04b9e0182d41ca9ad8e35982
+https://pullalilive.livnvess.com/live/stream-348199.m3u8?auth_key=1684918597-0-0-eddf5f6d963707238800ccd6562547e1
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CON CSA: Millonarios F.C. vs CA Penarol" tvg-name="CON CSA: Millonarios F.C. vs CA Penarol" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] CON CSA: Millonarios F.C. vs CA Penarol [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1684918597-0-0-bd95932c9349971e5f0b596f787509fb
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CON CSA: Millonarios F.C. vs CA Penarol" tvg-name="CON CSA: Millonarios F.C. vs CA Penarol" tvg-logo="https://sta.vnres.co/file/head/20230406/98fc401cee7391717cd168965ce2615f.jpeg",[COLOR red][LIVE][/COLOR] CON CSA: Millonarios F.C. vs CA Penarol [COLOR yellow]BLV GOT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1684918417-0-0-147ea5de2b9b23e44428d0c055148287
+https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1684918597-0-0-7a6a15772f9cd38c4d6278cf66f4cb43
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
