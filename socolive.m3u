@@ -1,22 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=bb6b9a4962256db30e1da5ce61bf878c&txTime=646e0a39
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="IBL: NSH Mountain Gold vs Prawira Bandung" tvg-name="IBL: NSH Mountain Gold vs Prawira Bandung" tvg-logo="https://sta.vnres.co/file/pic/202111/19/f8e41da7a8955dddd469d2cbe3e57716",[COLOR red][LIVE][/COLOR] IBL: NSH Mountain Gold vs Prawira Bandung [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1684933177-0-0-b736804b5b5e41960b67e7b7bdfd6231
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1684933177-0-0-c6a997166b21f30070664f3dd36f0c25
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="PHI D1: Dynamic Herb Cebu vs Stallion Laguna FC" tvg-name="PHI D1: Dynamic Herb Cebu vs Stallion Laguna FC" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] PHI D1: Dynamic Herb Cebu vs Stallion Laguna FC [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1684933177-0-0-4351b1cc5e237ef67e9fb6ad5da1c4fc
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1684933357-0-0-78def5e01527ffad07906807976e262e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="PHI D1  Dynamic Herb Cebu vs  Stallion Laguna FC" tvg-name="PHI D1  Dynamic Herb Cebu vs  Stallion Laguna FC" tvg-logo="https://sta.vnres.co/file/head/20230312/aaa07ce8e1ac249c6793fc567dbe11a1.jpg",[COLOR red][LIVE][/COLOR] PHI D1  Dynamic Herb Cebu vs  Stallion Laguna FC [COLOR yellow]SUNNY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-104707_lhd.m3u8?txSecret=cbce8f3861e8fdc7e641486badb1469b&txTime=646e0a39
+https://sports01.livnvess.com/live/stream-104707_lhd.m3u8?txSecret=59b357aa5a58447ae39b0df0bd27abe3&txTime=646e0aed
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=9edb5fcd68268e5e3592468dd487616d&txTime=646e0aed
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="IBL: NSH Mountain Gold vs Prawira Bandung" tvg-name="IBL: NSH Mountain Gold vs Prawira Bandung" tvg-logo="https://sta.vnres.co/file/pic/202111/19/f8e41da7a8955dddd469d2cbe3e57716",[COLOR red][LIVE][/COLOR] IBL: NSH Mountain Gold vs Prawira Bandung [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1684933357-0-0-69facc1708ca214fd6e9e9eec7fe6ddd
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IBL: NSH Mountain Gold vs Prawira Bandung" tvg-name="IBL: NSH Mountain Gold vs Prawira Bandung" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] IBL: NSH Mountain Gold vs Prawira Bandung [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-122591_lhd.m3u8?txSecret=32570745b69f726ce8a795969c7d614a&txTime=646e0a39
+https://sports01.livnvess.com/live/stream-122591_lhd.m3u8?txSecret=d11d358454e34dc8c9c334a4d40814f8&txTime=646e0aed
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Tường thuật: SPA D1 - Valladolid vs Barcelona" tvg-name="Tường thuật: SPA D1 - Valladolid vs Barcelona" tvg-logo="https://sta.vnres.co/file/head/20220522/27ec59432f6894e2e4551627847383bd.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: SPA D1 - Valladolid vs Barcelona [COLOR yellow]Sóc mèo méo meo[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-1.m3u8?txSecret=72e05ac23304093f0bc88fb9140bec10&txTime=646e09ee
+#EXTINF:-1 tvg-id="PHI D1: Dynamic Herb Cebu vs Stallion Laguna FC" tvg-name="PHI D1: Dynamic Herb Cebu vs Stallion Laguna FC" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] PHI D1: Dynamic Herb Cebu vs Stallion Laguna FC [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1684933357-0-0-993969e48e1136a7f502b779555c11fd
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
