@@ -1,82 +1,85 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="EST D2: Flora Tallinn II vs FC Elva" tvg-name="EST D2: Flora Tallinn II vs FC Elva" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] EST D2: Flora Tallinn II vs FC Elva [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=c395443d1b24a67b44d4224cfc518cb8&txTime=646fd77a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="EST D2: Tabasalu JK Charma vs Ida-Virumaa FC Alliance" tvg-name="EST D2: Tabasalu JK Charma vs Ida-Virumaa FC Alliance" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] EST D2: Tabasalu JK Charma vs Ida-Virumaa FC Alliance [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=8dee72a3a900d73a477f4fc38e0aea4e&txTime=646fd77a
+#EXTINF:-1 tvg-id="EST D2: Tabasalu JK Charma vs Ida-Virumaa FC Alliance" tvg-name="EST D2: Tabasalu JK Charma vs Ida-Virumaa FC Alliance" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] EST D2: Tabasalu JK Charma vs Ida-Virumaa FC Alliance [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1685051438-0-0-672d048de1f11a383f6e249d468b12bb
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="KAZ D1: Astana B vs Kairat Academy" tvg-name="KAZ D1: Astana B vs Kairat Academy" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] KAZ D1: Astana B vs Kairat Academy [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1685051258-0-0-1b75daf4cd617f9621bd77d96b27f590
+https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1685051438-0-0-b7c2ff069200a55242929f64290f20ff
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EST D2: Flora Tallinn II vs FC Elva" tvg-name="EST D2: Flora Tallinn II vs FC Elva" tvg-logo="https://sta.vnres.co/file/head/20230115/6a1111a911d45aa7fe60908f3b0576e9.jpg",[COLOR red][LIVE][/COLOR] EST D2: Flora Tallinn II vs FC Elva [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1685051258-0-0-fa072a592266a82708f67f303ab9954e
+https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1685051438-0-0-fb069688b4be1937eaea52f9c917e893
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="EST D2: Flora Tallinn II vs FC Elva" tvg-name="EST D2: Flora Tallinn II vs FC Elva" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] EST D2: Flora Tallinn II vs FC Elva [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=65b6d8ec81d327a2bef0398ea4d62917&txTime=646fd82e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EST D2: Viimsi JK vs FC Tallinn" tvg-name="EST D2: Viimsi JK vs FC Tallinn" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] EST D2: Viimsi JK vs FC Tallinn [COLOR yellow]Tạ Biên Giới[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-118206_lhd.m3u8?auth_key=1685051258-0-0-2a66200c80fd661efd9e34f1106b2e3f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIN D2: Mikkelin Palloilijat vs SJK Akatemia" tvg-name="FIN D2: Mikkelin Palloilijat vs SJK Akatemia" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] FIN D2: Mikkelin Palloilijat vs SJK Akatemia [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1685051258-0-0-04547b1682fb2723dd67c30bd41a8c2d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="EST D2: Tabasalu JK Charma vs Ida-Virumaa FC Alliance" tvg-name="EST D2: Tabasalu JK Charma vs Ida-Virumaa FC Alliance" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] EST D2: Tabasalu JK Charma vs Ida-Virumaa FC Alliance [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1685051258-0-0-862d1863a1c73ed6d54645d0aca78579
+https://pull06.scstream.net/live/stream-118206_lhd.m3u8?auth_key=1685051438-0-0-4b248eb4493cac0a30abaef55b4cdaf5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EST D2: Flora Tallinn II vs FC Elva" tvg-name="EST D2: Flora Tallinn II vs FC Elva" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] EST D2: Flora Tallinn II vs FC Elva [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1685051258-0-0-bbe34b7fcad6ee35b8c9dedbca431b85
+https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1685051438-0-0-d49ea650f0b22b5d2a8712e9fc963718
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="EST D2: Tabasalu JK Charma vs Ida-Virumaa FC Alliance" tvg-name="EST D2: Tabasalu JK Charma vs Ida-Virumaa FC Alliance" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] EST D2: Tabasalu JK Charma vs Ida-Virumaa FC Alliance [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=1883ac9f13e90c008eac87d6b5e3c6e3&txTime=646fd82e
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="FIN D2: Mikkelin Palloilijat vs SJK Akatemia" tvg-name="FIN D2: Mikkelin Palloilijat vs SJK Akatemia" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] FIN D2: Mikkelin Palloilijat vs SJK Akatemia [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1685051438-0-0-164b3b188d18556504ebd5e739af3c61
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="KAZ D1: Astana B vs Kairat Academy" tvg-name="KAZ D1: Astana B vs Kairat Academy" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",[COLOR red][LIVE][/COLOR] KAZ D1: Astana B vs Kairat Academy [COLOR yellow]GIÀ LÀNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1685051258-0-0-2616268f64cf5a0e55c5fca30c55b79e
+https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1685051438-0-0-ab5650d35b14907d7388282fa902567b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EST D2: Tabasalu JK Charma vs Ida-Virumaa FC Alliance" tvg-name="EST D2: Tabasalu JK Charma vs Ida-Virumaa FC Alliance" tvg-logo="https://sta.vnres.co/file/head/20230203/e7fcb68b4a251675c8343c19e58289d7.png",[COLOR red][LIVE][/COLOR] EST D2: Tabasalu JK Charma vs Ida-Virumaa FC Alliance [COLOR yellow]BLV G Hip[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991127_lhd.m3u8?txSecret=df4ffeffec61bf70b9b44aacfc68bf50&txTime=646fd77a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="KAZ D1: Astana B vs Kairat Academy" tvg-name="KAZ D1: Astana B vs Kairat Academy" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26",[COLOR red][LIVE][/COLOR] KAZ D1: Astana B vs Kairat Academy [COLOR yellow]BABY BOY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1685051258-0-0-bac6f56d81f66a7ec1b611061cbe2c7b
+https://sports01.livnvess.com/live/stream-991127_lhd.m3u8?txSecret=87de6fc54c9d1288b56e310d39197031&txTime=646fd82e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIN D2: Mikkelin Palloilijat vs SJK Akatemia" tvg-name="FIN D2: Mikkelin Palloilijat vs SJK Akatemia" tvg-logo="https://sta.vnres.co/file/head/20230506/b6a7ea571d1c6f7ee48d9c827998bfcc.png",[COLOR red][LIVE][/COLOR] FIN D2: Mikkelin Palloilijat vs SJK Akatemia [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1685051258-0-0-d55325144ff401acd21740c3ee1b5175
+https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1685051438-0-0-dccd603c978885b3337935e771c44bd5
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="KAZ D1: Astana B vs Kairat Academy" tvg-name="KAZ D1: Astana B vs Kairat Academy" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26",[COLOR red][LIVE][/COLOR] KAZ D1: Astana B vs Kairat Academy [COLOR yellow]BABY BOY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1685051438-0-0-2426c3ac1002c2dffbc7ed740f48e9b4
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="KAZ D1: Astana B vs Kairat Academy" tvg-name="KAZ D1: Astana B vs Kairat Academy" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] KAZ D1: Astana B vs Kairat Academy [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-181398_lhd.m3u8?auth_key=1685051258-0-0-827f257ee50c4e33207f65ef9f369100
+https://pull06.scstream.net/live/stream-181398_lhd.m3u8?auth_key=1685051438-0-0-9842e1f0b4687914db515f94457d6ba1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="KAZ D1: Astana B vs Kairat Academy" tvg-name="KAZ D1: Astana B vs Kairat Academy" tvg-logo="https://sta.vnres.co/file/head/20220627/4a25c211c3b42d3923895ce94a4331cb.jpg",[COLOR red][LIVE][/COLOR] KAZ D1: Astana B vs Kairat Academy [COLOR yellow]AMY BABE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-102153_lhd.m3u8?auth_key=1685051258-0-0-44a2752a8a27693ecaff165eaaf3e16d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SER BL: Mega Basket vs Vojvodina Novi Sad" tvg-name="SER BL: Mega Basket vs Vojvodina Novi Sad" tvg-logo="https://sta.vnres.co/file/head/20220919/d2b1afda9c7b037f3ec3755f194080d7.jpg",[COLOR red][LIVE][/COLOR] SER BL: Mega Basket vs Vojvodina Novi Sad [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1685051258-0-0-4fcfeb39330a420b0b7e1b3a252be223
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="EST D2: Tabasalu JK Charma vs Ida-Virumaa FC Alliance" tvg-name="EST D2: Tabasalu JK Charma vs Ida-Virumaa FC Alliance" tvg-logo="https://sta.vnres.co/file/head/20230328/c19057ab3245d1531de39f82e3b38099.jpg",[COLOR red][LIVE][/COLOR] EST D2: Tabasalu JK Charma vs Ida-Virumaa FC Alliance [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1685051258-0-0-7e2126c795f993114670df88ea710273
+https://pull06.scstream.net/live/stream-102153_lhd.m3u8?auth_key=1685051438-0-0-67ed9f0118680465be765a81b2b1556d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="KAZ D1: Astana B vs Kairat Academy" tvg-name="KAZ D1: Astana B vs Kairat Academy" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] KAZ D1: Astana B vs Kairat Academy [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=d9cbd471702d8a0eb0e22c0a5187c92a&txTime=646fd77a
+https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=46058996c605809d238269af2c7ca295&txTime=646fd82e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIN D2: Mikkelin Palloilijat vs SJK Akatemia" tvg-name="FIN D2: Mikkelin Palloilijat vs SJK Akatemia" tvg-logo="https://sta.vnres.co/file/head/20230329/571b39ae2e8e91a9b9ee7b45d829eba1.jpg",[COLOR red][LIVE][/COLOR] FIN D2: Mikkelin Palloilijat vs SJK Akatemia [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=b7a06b2f99d600fdb38c47fd5b257799&txTime=646fd77a
+https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=97541e4472f2ed128e65e8202ee967f7&txTime=646fd82e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="EST D2: Tallinna FC Levadia II vs Tallinna JK Legion" tvg-name="EST D2: Tallinna FC Levadia II vs Tallinna JK Legion" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg",[COLOR red][LIVE][/COLOR] EST D2: Tallinna FC Levadia II vs Tallinna JK Legion [COLOR yellow]BLV DIHI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=af35e20708a9d4ef0ad237e9c8a28a0a&txTime=646fd77a
+#EXTINF:-1 tvg-id="SER BL: Mega Basket vs Vojvodina Novi Sad" tvg-name="SER BL: Mega Basket vs Vojvodina Novi Sad" tvg-logo="https://sta.vnres.co/file/head/20220919/d2b1afda9c7b037f3ec3755f194080d7.jpg",[COLOR red][LIVE][/COLOR] SER BL: Mega Basket vs Vojvodina Novi Sad [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1685051438-0-0-3aa06185a0bd3a8f9f159b15c5a629bf
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="EST D2: Tabasalu JK Charma vs Ida-Virumaa FC Alliance" tvg-name="EST D2: Tabasalu JK Charma vs Ida-Virumaa FC Alliance" tvg-logo="https://sta.vnres.co/file/head/20230328/c19057ab3245d1531de39f82e3b38099.jpg",[COLOR red][LIVE][/COLOR] EST D2: Tabasalu JK Charma vs Ida-Virumaa FC Alliance [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1685051438-0-0-3d4edbbc3ece7487094a4f668e516a66
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EST D2: Viimsi JK vs FC Tallinn" tvg-name="EST D2: Viimsi JK vs FC Tallinn" tvg-logo="https://sta.vnres.co/file/head/20230314/1c1dda221be18fe4a07ffff0456eafef.png",[COLOR red][LIVE][/COLOR] EST D2: Viimsi JK vs FC Tallinn [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1685051258-0-0-a34f050b5fb621ef733477ac7279416a
+https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1685051438-0-0-f74342c7588fb1efee49801a7cdf169a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EST D2: Tallinna FC Levadia II vs Tallinna JK Legion" tvg-name="EST D2: Tallinna FC Levadia II vs Tallinna JK Legion" tvg-logo="https://sta.vnres.co/file/head/20220703/14d4eb5fc2cadd8c2b7d1a724ebd9cff.jpg",[COLOR red][LIVE][/COLOR] EST D2: Tallinna FC Levadia II vs Tallinna JK Legion [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1685051258-0-0-a5fa0571ecf1cdde5a4a99ce7f710752
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="EST D2: Flora Tallinn II vs FC Elva" tvg-name="EST D2: Flora Tallinn II vs FC Elva" tvg-logo="https://sta.vnres.co/file/head/20230114/4e19d9ee44846c0eb6a0721271ef1cc9.jpg",[COLOR red][LIVE][/COLOR] EST D2: Flora Tallinn II vs FC Elva [COLOR yellow]BLV Củ Chuối[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=060105da749c55b0ff679d7762390d6f&txTime=646fd77a
+https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1685051438-0-0-5f7ed8e8d1d4ed48d05086ab7df43cee
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EST D2: Tallinna FC Levadia II vs Tallinna JK Legion" tvg-name="EST D2: Tallinna FC Levadia II vs Tallinna JK Legion" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] EST D2: Tallinna FC Levadia II vs Tallinna JK Legion [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=5c29229f22565a4da369e27d92b1f382&txTime=646fd77a
+https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=60ac065badb4110f9fabfc7ec13d1c78&txTime=646fd82e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="EST D2: FC Nomme United vs Paide Linnameeskond B" tvg-name="EST D2: FC Nomme United vs Paide Linnameeskond B" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] EST D2: FC Nomme United vs Paide Linnameeskond B [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1685051258-0-0-16ec5e17ac6e3d6dd4545a6541613b96
+#EXTINF:-1 tvg-id="EST D2: Tallinna FC Levadia II vs Tallinna JK Legion" tvg-name="EST D2: Tallinna FC Levadia II vs Tallinna JK Legion" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg",[COLOR red][LIVE][/COLOR] EST D2: Tallinna FC Levadia II vs Tallinna JK Legion [COLOR yellow]BLV DIHI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=e1bb09f55670cbda36e490a956e4bb4c&txTime=646fd82e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EST D2: Viimsi JK vs FC Tallinn" tvg-name="EST D2: Viimsi JK vs FC Tallinn" tvg-logo="https://sta.vnres.co/file/head/20230405/ec1bee82e4d11675221774242cd75d76.jpg",[COLOR red][LIVE][/COLOR] EST D2: Viimsi JK vs FC Tallinn [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=548738116335a40904c09d9a7679059a&txTime=646fd77a
+https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=b7feb6e6b82aae593a0a45ec8cb317fc&txTime=646fd82e
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="EST D2: Flora Tallinn II vs FC Elva" tvg-name="EST D2: Flora Tallinn II vs FC Elva" tvg-logo="https://sta.vnres.co/file/head/20230114/4e19d9ee44846c0eb6a0721271ef1cc9.jpg",[COLOR red][LIVE][/COLOR] EST D2: Flora Tallinn II vs FC Elva [COLOR yellow]BLV Củ Chuối[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=fdfff7d8bc7ffd8c03993b6397eed4f1&txTime=646fd82e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EST D2: FC Nomme United vs Paide Linnameeskond B" tvg-name="EST D2: FC Nomme United vs Paide Linnameeskond B" tvg-logo="https://sta.vnres.co/file/head/20221220/15cddfa1880beb36bfbea12feedfec95.jpg",[COLOR red][LIVE][/COLOR] EST D2: FC Nomme United vs Paide Linnameeskond B [COLOR yellow]BLV BRUCE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=4227b099c43bb107325658e6385e7dff&txTime=646fd77a
+https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=1659726aaa118daa2e1fc95d908cf721&txTime=646fd82e
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="EST D2: Tallinna FC Levadia II vs Tallinna JK Legion" tvg-name="EST D2: Tallinna FC Levadia II vs Tallinna JK Legion" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] EST D2: Tallinna FC Levadia II vs Tallinna JK Legion [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=bb817e373bd0f03a1bb25bd3d2dbac36&txTime=646fd82e
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="EST D2: FC Nomme United vs Paide Linnameeskond B" tvg-name="EST D2: FC Nomme United vs Paide Linnameeskond B" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] EST D2: FC Nomme United vs Paide Linnameeskond B [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1685051438-0-0-3686d8f916e005eacf7bc2a66d770017
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EST D2: FC Nomme United vs Paide Linnameeskond B" tvg-name="EST D2: FC Nomme United vs Paide Linnameeskond B" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] EST D2: FC Nomme United vs Paide Linnameeskond B [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-348199_lhd.m3u8?auth_key=1685051258-0-0-4ac6e7588d9bae6c0621c2c23df75f6e
+https://pull06.scstream.net/live/stream-348199_lhd.m3u8?auth_key=1685051438-0-0-2cee1949af6fb624edba447c96e6c9f9
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
