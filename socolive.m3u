@@ -1,25 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FIFA U20: Colombia(U20(N vs Senegal(U20" tvg-name="FIFA U20: Colombia(U20(N vs Senegal(U20" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] FIFA U20: Colombia(U20(N vs Senegal(U20 [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=d2b40cdec4c9319368d7bd06ba9ef493&txTime=6472e07a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BRA D1: CR Flamengo (RJ vs Cruzeiro (MG" tvg-name="BRA D1: CR Flamengo (RJ vs Cruzeiro (MG" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg",[COLOR red][LIVE][/COLOR] BRA D1: CR Flamengo (RJ vs Cruzeiro (MG [COLOR yellow]DƯƠNG QUÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1685250158-0-0-4e2582a7b184109af618727dbab70868
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="COL D1: Rionegro Aguilas vs Deportivo Pasto" tvg-name="COL D1: Rionegro Aguilas vs Deportivo Pasto" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] COL D1: Rionegro Aguilas vs Deportivo Pasto [COLOR yellow]BLV PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-208390_lhd.m3u8?txSecret=cb12c50a2d5b31b87160e2293c8857af&txTime=6472e06e
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ARG D1: Independiente vs Lanus" tvg-name="ARG D1: Independiente vs Lanus" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Independiente vs Lanus [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1685250158-0-0-41d9d496fabfd068a95169ccb38b1d9b
+https://sports01.livnvess.com/live/stream-208390_lhd.m3u8?txSecret=1af8efbb5ca9c4be796096d5f3d380ef&txTime=6472e122
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="COL D1: Rionegro Aguilas vs Deportivo Pasto" tvg-name="COL D1: Rionegro Aguilas vs Deportivo Pasto" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] COL D1: Rionegro Aguilas vs Deportivo Pasto [COLOR yellow]Tạ Biên Giới[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1685250158-0-0-d5a8a8ae81a29577ce31885eb2d7f385
+https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1685250338-0-0-781bdf3d146ce8a24c8b995aa4d004a9
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ARG D1: Independiente vs Lanus" tvg-name="ARG D1: Independiente vs Lanus" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Independiente vs Lanus [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1685250338-0-0-9824ba428299884bae7d93aa8fdd3873
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="COL D1: Rionegro Aguilas vs Deportivo Pasto" tvg-name="COL D1: Rionegro Aguilas vs Deportivo Pasto" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] COL D1: Rionegro Aguilas vs Deportivo Pasto [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1685250158-0-0-b843d4b481547aaff12d51a1b10a5317
+https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1685250338-0-0-68614e0ca9bb030b8e11da9367d64b8b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIFA U20: Japan(U20(N vs Israel(U20" tvg-name="FIFA U20: Japan(U20(N vs Israel(U20" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] FIFA U20: Japan(U20(N vs Israel(U20 [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=1ddac61bd31e0e67139e54fb7e4ab6b8&txTime=6472dfbc
+#EXTINF:-1 tvg-id="BRA D1: CR Flamengo (RJ vs Cruzeiro (MG" tvg-name="BRA D1: CR Flamengo (RJ vs Cruzeiro (MG" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg",[COLOR red][LIVE][/COLOR] BRA D1: CR Flamengo (RJ vs Cruzeiro (MG [COLOR yellow]DƯƠNG QUÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1685250338-0-0-79c83775b9710901c23692747d8a2175
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIFA U20: Colombia(U20(N vs Senegal(U20" tvg-name="FIFA U20: Colombia(U20(N vs Senegal(U20" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] FIFA U20: Colombia(U20(N vs Senegal(U20 [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=f19bb5d2768dc27a96b73614650b2a11&txTime=6472e06e
+#EXTINF:-1 tvg-id="FIFA U20: Colombia(U20(N vs Senegal(U20" tvg-name="FIFA U20: Colombia(U20(N vs Senegal(U20" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][Chưa bắt đầu][/COLOR] FIFA U20: Colombia(U20(N vs Senegal(U20 [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=9c81f60cf6905228d0b8c13c46ee1a70&txTime=6472e12e
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="COL D1: Rionegro Aguilas vs Deportivo Pasto" tvg-name="COL D1: Rionegro Aguilas vs Deportivo Pasto" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] COL D1: Rionegro Aguilas vs Deportivo Pasto [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=d8b22a57b8dee6e4e8daec8a92f5189a&txTime=6472e122
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
