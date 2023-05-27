@@ -1,73 +1,64 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FRA D1: Strasbourg vs Paris Saint-Germain" tvg-name="FRA D1: Strasbourg vs Paris Saint-Germain" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] FRA D1: Strasbourg vs Paris Saint-Germain [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1685239538-0-0-51f49917fff9dde8f305b8612944cce1
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FRA D1: Lille OSC vs Nantes" tvg-name="FRA D1: Lille OSC vs Nantes" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] FRA D1: Lille OSC vs Nantes [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=8e6da451bcafd6cdcfbc91ce22a013dd&txTime=6472b6f2
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIFA U20: Brazil(U20(N vs Nigeria(U20" tvg-name="FIFA U20: Brazil(U20(N vs Nigeria(U20" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] FIFA U20: Brazil(U20(N vs Nigeria(U20 [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991128_lhd.m3u8?txSecret=c7a46df98e6890b55da0803a09c48f6a&txTime=6472b701
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ITA D1: Inter Milan vs Atalanta" tvg-name="ITA D1: Inter Milan vs Atalanta" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Inter Milan vs Atalanta [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1685239538-0-0-1ced458342897097b07a24bf90a9affc
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="KSA PR: Al-Ettifaq vs Al-Nassr FC" tvg-name="KSA PR: Al-Ettifaq vs Al-Nassr FC" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] KSA PR: Al-Ettifaq vs Al-Nassr FC [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=5b393031a84f4b90f3a665381fde1c85&txTime=6472b6f2
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FRA D1 : Lyonnais  vs Stade de Reims" tvg-name="FRA D1 : Lyonnais  vs Stade de Reims" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] FRA D1 : Lyonnais  vs Stade de Reims [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1685239538-0-0-db3c45a1986698db57bc0f32a542c4a1
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ITA D1: Inter Milan vs Atalanta" tvg-name="ITA D1: Inter Milan vs Atalanta" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Inter Milan vs Atalanta [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=c91bc81bb0da3577b1bbd34ab8820ff5&txTime=6472b6f2
+https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=2df277d6a1238f6905f3e2de6f1175ad&txTime=6472b7a6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FRA D1: Lyonnais vs Stade de Reims" tvg-name="FRA D1: Lyonnais vs Stade de Reims" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] FRA D1: Lyonnais vs Stade de Reims [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1685239538-0-0-e30021f17743e76758555277e55bcff5
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FRA D1: Strasbourg vs Paris Saint-Germain" tvg-name="FRA D1: Strasbourg vs Paris Saint-Germain" tvg-logo="https://sta.vnres.co/file/head/20220703/14d4eb5fc2cadd8c2b7d1a724ebd9cff.jpg",[COLOR red][LIVE][/COLOR] FRA D1: Strasbourg vs Paris Saint-Germain [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1685239538-0-0-6c0c903b78428dcbcd2a034d887a55ed
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FRA D1: Lille OSC vs Nantes" tvg-name="FRA D1: Lille OSC vs Nantes" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] FRA D1: Lille OSC vs Nantes [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=89116ea74b668bcdd768cb09d1d0c795&txTime=6472b6f2
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1685239718-0-0-9ec9aab03561bf5dcd1438cfefb3caf7
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FRA D1: Strasbourg vs Paris Saint-Germain" tvg-name="FRA D1: Strasbourg vs Paris Saint-Germain" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26",[COLOR red][LIVE][/COLOR] FRA D1: Strasbourg vs Paris Saint-Germain [COLOR yellow]BABY BOY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1685239538-0-0-7f95bf21e734c74335af50cc81cc3480
+https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1685239718-0-0-9629aba5a971dd4c22c79435cee0fbf0
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ITA D1: Inter Milan vs Atalanta" tvg-name="ITA D1: Inter Milan vs Atalanta" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Inter Milan vs Atalanta [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1685239718-0-0-7b983eb448d686e5a827066bb907eb6b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="FRA D1: Strasbourg vs Paris Saint-Germain" tvg-name="FRA D1: Strasbourg vs Paris Saint-Germain" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] FRA D1: Strasbourg vs Paris Saint-Germain [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1685239718-0-0-325a0989a3d356b7cddc6f7f9cfb716c
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="FRA D1: Strasbourg vs Paris Saint-Germain" tvg-name="FRA D1: Strasbourg vs Paris Saint-Germain" tvg-logo="https://sta.vnres.co/file/head/20220703/14d4eb5fc2cadd8c2b7d1a724ebd9cff.jpg",[COLOR red][LIVE][/COLOR] FRA D1: Strasbourg vs Paris Saint-Germain [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1685239718-0-0-675babe2ed0eb07fc788cce0ccc129a1
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="FRA D1 : Lyonnais  vs Stade de Reims" tvg-name="FRA D1 : Lyonnais  vs Stade de Reims" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] FRA D1 : Lyonnais  vs Stade de Reims [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1685239718-0-0-7b20bd668da940d316512a49ec12c944
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="FRA D1: Lille OSC vs Nantes" tvg-name="FRA D1: Lille OSC vs Nantes" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] FRA D1: Lille OSC vs Nantes [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=4d86f3011e3b18228619f2863a18ce43&txTime=6472b7a6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="KSA PR: Al-Ettifaq vs Al-Nassr FC" tvg-name="KSA PR: Al-Ettifaq vs Al-Nassr FC" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] KSA PR: Al-Ettifaq vs Al-Nassr FC [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=de362c57db46799c75b6afe3fb241788&txTime=6472b7a6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="FRA D1: Lille OSC vs Nantes" tvg-name="FRA D1: Lille OSC vs Nantes" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] FRA D1: Lille OSC vs Nantes [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=76d438a0e3640d83fe4e9003bcd35016&txTime=6472b7a6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ITA D1: Inter Milan vs Atalanta" tvg-name="ITA D1: Inter Milan vs Atalanta" tvg-logo="https://sta.vnres.co/file/head/20230114/4e19d9ee44846c0eb6a0721271ef1cc9.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Inter Milan vs Atalanta [COLOR yellow]BLV Củ Chuối[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=f2ca9e18c23943273e5cff9a19e1eb4e&txTime=6472b6f2
+https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=6a5ccf1f499f83baf041923360cb5724&txTime=6472b7a6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ITA D1: Inter Milan vs Atalanta" tvg-name="ITA D1: Inter Milan vs Atalanta" tvg-logo="https://sta.vnres.co/file/head/20230203/e7fcb68b4a251675c8343c19e58289d7.png",[COLOR red][LIVE][/COLOR] ITA D1: Inter Milan vs Atalanta [COLOR yellow]BLV G Hip[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991127_lhd.m3u8?txSecret=7b50e60de9e2cb3d9ae29ed9695a0dde&txTime=6472b6f2
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="KSA PR: Al-Ettifaq vs Al-Nassr FC" tvg-name="KSA PR: Al-Ettifaq vs Al-Nassr FC" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg",[COLOR red][LIVE][/COLOR] KSA PR: Al-Ettifaq vs Al-Nassr FC [COLOR yellow]MĂNG CỤT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1685239538-0-0-1807f91d3d04cb8e81b67e2f01dace37
+https://sports01.livnvess.com/live/stream-991127_lhd.m3u8?txSecret=96030e2778c0e2bf4cc3cf58a1c4b151&txTime=6472b7a6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ITA D1: Inter Milan vs Atalanta" tvg-name="ITA D1: Inter Milan vs Atalanta" tvg-logo="https://sta.vnres.co/file/head/20230329/571b39ae2e8e91a9b9ee7b45d829eba1.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Inter Milan vs Atalanta [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=fcfd2f8fdedb5162f893649b8bd80249&txTime=6472b6f2
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIFA U20: Brazil(U20(N vs Nigeria(U20" tvg-name="FIFA U20: Brazil(U20(N vs Nigeria(U20" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",[COLOR red][LIVE][/COLOR] FIFA U20: Brazil(U20(N vs Nigeria(U20 [COLOR yellow]BLV TAM MAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=4f06d2d3ec7e260d2665c03459c96a68&txTime=6472b6f2
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FRA D1: Stade Rennes FC vs AS Monaco" tvg-name="FRA D1: Stade Rennes FC vs AS Monaco" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] FRA D1: Stade Rennes FC vs AS Monaco [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=43fe45f604adaa8532e73943cb5aaf0d&txTime=6472b6f2
+https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=8e01795224634de2b522120e16955c8f&txTime=6472b7a6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FRA D1: Marseille vs Stade Brestois" tvg-name="FRA D1: Marseille vs Stade Brestois" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] FRA D1: Marseille vs Stade Brestois [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1685239538-0-0-351e1f137075352167960b1d23e4f1e6
+https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1685239718-0-0-f5c6e1925c778e745b1ab8027a8f06a8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FRA D1:  RC Lens	 vs AC Ajaccio" tvg-name="FRA D1:  RC Lens	 vs AC Ajaccio" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] FRA D1:  RC Lens	 vs AC Ajaccio [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-360663_lhd.m3u8?txSecret=185e396b94832d4e91c7cac99cbebb69&txTime=6472b6f2
+#EXTINF:-1 tvg-id="FRA D1: Stade Rennes FC vs AS Monaco" tvg-name="FRA D1: Stade Rennes FC vs AS Monaco" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] FRA D1: Stade Rennes FC vs AS Monaco [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=ea352dbe4eeee74e5e817b06be37559d&txTime=6472b7a6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FRA D1: Stade Rennes FC vs AS Monaco" tvg-name="FRA D1: Stade Rennes FC vs AS Monaco" tvg-logo="https://sta.vnres.co/file/head/20230502/68132d91f46669cc419a689e6925c70b.jpg",[COLOR red][LIVE][/COLOR] FRA D1: Stade Rennes FC vs AS Monaco [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=28038ae5f979ec9986807f988fe786bc&txTime=6472b6f2
+https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=b84caddb48bfa1406a6d2ef6c6048e4b&txTime=6472b7a6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="FRA D1:  RC Lens	 vs AC Ajaccio" tvg-name="FRA D1:  RC Lens	 vs AC Ajaccio" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] FRA D1:  RC Lens	 vs AC Ajaccio [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-360663_lhd.m3u8?txSecret=f3903acdab2c969946c6afbebae25ac3&txTime=6472b7a6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FRA D1: Toulouse vs AJ Auxerre" tvg-name="FRA D1: Toulouse vs AJ Auxerre" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] FRA D1: Toulouse vs AJ Auxerre [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-348199_lhd.m3u8?auth_key=1685239538-0-0-2b52439a6bd724c7a93ca5dfbc5d8f24
+https://pull06.scstream.net/live/stream-348199_lhd.m3u8?auth_key=1685239718-0-0-77a79eef5e90e199a0d7f178073cf67f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FRA D1: RC Lens vs AC Ajaccio" tvg-name="FRA D1: RC Lens vs AC Ajaccio" tvg-logo="https://sta.vnres.co/file/head/20230405/ec1bee82e4d11675221774242cd75d76.jpg",[COLOR red][LIVE][/COLOR] FRA D1: RC Lens vs AC Ajaccio [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=a77fc42d8635c894c423908000b74168&txTime=6472b6f2
+https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=017732c339e92acbf7c83d3c9b059202&txTime=6472b7a6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FRA D1: Marseille vs Stade Brestois" tvg-name="FRA D1: Marseille vs Stade Brestois" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg",[COLOR red][LIVE][/COLOR] FRA D1: Marseille vs Stade Brestois [COLOR yellow]BLV FANCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1685239538-0-0-401cfaee8768225e2f3ef53977726b8f
+https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1685239718-0-0-89fba0cda4e5e2c9d63340394c091b7d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BEL D1: Standard Liege vs Cercle Brugge" tvg-name="BEL D1: Standard Liege vs Cercle Brugge" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] BEL D1: Standard Liege vs Cercle Brugge [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=a830d29392a9116027abc000c4796fb6&txTime=6472b6f2
+https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=b7fb72a1a58ca859727dc87977a81aa8&txTime=6472b7a6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
