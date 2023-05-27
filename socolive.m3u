@@ -1,55 +1,64 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="POR D1: Gil Vicente vs Casa Pia AC" tvg-name="POR D1: Gil Vicente vs Casa Pia AC" tvg-logo="https://sta.vnres.co/file/head/20230506/b6a7ea571d1c6f7ee48d9c827998bfcc.png",[COLOR red][LIVE][/COLOR] POR D1: Gil Vicente vs Casa Pia AC [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1685213978-0-0-e4b61e99d14fbe944fcccba12de342ac
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SCO PR: Celtic vs Aberdeen" tvg-name="SCO PR: Celtic vs Aberdeen" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] SCO PR: Celtic vs Aberdeen [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1685213978-0-0-f094eccf8ab406c781e393bd56ef620a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="GER D1: Borussia Dortmund vs 1.FSV Mainz 05" tvg-name="GER D1: Borussia Dortmund vs 1.FSV Mainz 05" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] GER D1: Borussia Dortmund vs 1.FSV Mainz 05 [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1685213978-0-0-3c55d01f9767e5193e381f5d70354a18
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SCO PR: Celtic vs Aberdeen" tvg-name="SCO PR: Celtic vs Aberdeen" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] SCO PR: Celtic vs Aberdeen [COLOR yellow]BLV PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-208390_lhd.m3u8?txSecret=1ebba8da064ecb44501cb662e4d66a7f&txTime=6472531a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ITA D1: Spezia vs Torino" tvg-name="ITA D1: Spezia vs Torino" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Spezia vs Torino [COLOR yellow]BLV DIHI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=c4e9af0e1fbf48ac15dc6664cdcd1a64&txTime=6472531a
+#EXTINF:-1 tvg-id="ITA D1: Salernitana vs Udinese" tvg-name="ITA D1: Salernitana vs Udinese" tvg-logo="https://sta.vnres.co/file/head/20221220/15cddfa1880beb36bfbea12feedfec95.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Salernitana vs Udinese [COLOR yellow]BLV BRUCE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=c0f03d9c03d99e6b2eb082b8910c4a84&txTime=647253ce
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE D1: Hong Linh Ha Tinh vs TP Ho Chi Minh" tvg-name="VIE D1: Hong Linh Ha Tinh vs TP Ho Chi Minh" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] VIE D1: Hong Linh Ha Tinh vs TP Ho Chi Minh [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
 https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=22554f2440263737e396c52962dd0183&txTime=647252f8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SCO PR: St. Mirren vs Glasgow Rangers" tvg-name="SCO PR: St. Mirren vs Glasgow Rangers" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] SCO PR: St. Mirren vs Glasgow Rangers [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=9d64af194e6d8f6e369062e384d59766&txTime=6472531a
+#EXTINF:-1 tvg-id="SCO PR: Celtic vs Aberdeen" tvg-name="SCO PR: Celtic vs Aberdeen" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] SCO PR: Celtic vs Aberdeen [COLOR yellow]BLV PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-208390_lhd.m3u8?txSecret=79d6e870fe666ae85f2f668e307789a9&txTime=647253ce
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ITA D1: Spezia vs Torino" tvg-name="ITA D1: Spezia vs Torino" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Spezia vs Torino [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1685213978-0-0-bc4d60b014f4a2acfdc50ebad8b29ad2
+https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1685214158-0-0-4c1560ba2321bf7d0d3ccca47ed01f96
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SCO PR: Celtic vs Aberdeen" tvg-name="SCO PR: Celtic vs Aberdeen" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] SCO PR: Celtic vs Aberdeen [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1685214158-0-0-d884b67955b4d9cb71e93e9292e87d95
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHA SL: Cangzhou Mighty Lions FC vs Wuhan Three Towns FC" tvg-name="CHA SL: Cangzhou Mighty Lions FC vs Wuhan Three Towns FC" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] CHA SL: Cangzhou Mighty Lions FC vs Wuhan Three Towns FC [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=4488197836278a58349c1ab724b3853f&txTime=6472531a
+https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=55f6e24c6e479f9fb3fbe8a47577e358&txTime=647253ce
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SCO PR: St. Mirren vs Glasgow Rangers" tvg-name="SCO PR: St. Mirren vs Glasgow Rangers" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] SCO PR: St. Mirren vs Glasgow Rangers [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=f2601c2f903f6783e4e032beb4d28a4f&txTime=647253ce
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="POR D1: Gil Vicente vs Casa Pia AC" tvg-name="POR D1: Gil Vicente vs Casa Pia AC" tvg-logo="https://sta.vnres.co/file/head/20230506/b6a7ea571d1c6f7ee48d9c827998bfcc.png",[COLOR red][LIVE][/COLOR] POR D1: Gil Vicente vs Casa Pia AC [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1685214158-0-0-f6dc8836448cb5d6dfa8b3c85b890654
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ITA D1: Salernitana vs Udinese" tvg-name="ITA D1: Salernitana vs Udinese" tvg-logo="https://sta.vnres.co/file/head/20221113/f6a1bce7d3b109bdb51d92a32ecc9fd8.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Salernitana vs Udinese [COLOR yellow]BLV MONKEY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1685213978-0-0-e67bc34ee9eb0768e78bfa36a2d42a8c
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ITA D1: Salernitana vs Udinese" tvg-name="ITA D1: Salernitana vs Udinese" tvg-logo="https://sta.vnres.co/file/head/20221220/15cddfa1880beb36bfbea12feedfec95.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Salernitana vs Udinese [COLOR yellow]BLV BRUCE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=c2a74a63580af772e54a539958e8fe14&txTime=6472531a
+https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1685214158-0-0-aa4bab5e0afd719eaed2804b2e9d8f91
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ITA D1: Salernitana vs Udinese" tvg-name="ITA D1: Salernitana vs Udinese" tvg-logo="https://sta.vnres.co/file/head/20230405/ec1bee82e4d11675221774242cd75d76.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Salernitana vs Udinese [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=c97175287a5a9dc8e964e0809ca4c831&txTime=6472531a
+https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=283422589a2cce8fa09630839870cd90&txTime=647253ce
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="GER D1: 1. FC Union Berlin vs Werder Bremen" tvg-name="GER D1: 1. FC Union Berlin vs Werder Bremen" tvg-logo="https://sta.vnres.co/file/head/20230115/6a1111a911d45aa7fe60908f3b0576e9.jpg",[COLOR red][LIVE][/COLOR] GER D1: 1. FC Union Berlin vs Werder Bremen [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1685214158-0-0-df3863f786ae9dc68d226a4d3cfdbedd
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="GER D1: 1. FC Koln vs Bayern Munich" tvg-name="GER D1: 1. FC Koln vs Bayern Munich" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] GER D1: 1. FC Koln vs Bayern Munich [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=1cda119843ff8bccc6a1a88bfb6e62ac&txTime=647253ce
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="GER D1: 1. FC Koln vs Bayern Munich" tvg-name="GER D1: 1. FC Koln vs Bayern Munich" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] GER D1: 1. FC Koln vs Bayern Munich [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=964d384eefd5acb2390e615b89b2428c&txTime=647253ce
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ITA D1: Spezia vs Torino" tvg-name="ITA D1: Spezia vs Torino" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Spezia vs Torino [COLOR yellow]BLV DIHI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=1bee0cdd191fd7cc33d356a980a574f3&txTime=647253ce
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SCO PR: Celtic vs Aberdeen" tvg-name="SCO PR: Celtic vs Aberdeen" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] SCO PR: Celtic vs Aberdeen [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1685213978-0-0-a78c08b2f4e89234f77c6211aa355927
+https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1685214158-0-0-863435d03e1c53dcd4d7df4b03a84f7a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SCO PR: Heart of Midlothian FC vs Hibernian FC" tvg-name="SCO PR: Heart of Midlothian FC vs Hibernian FC" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] SCO PR: Heart of Midlothian FC vs Hibernian FC [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=3f08bda9832ac6a6d171dd9f7cd18979&txTime=6472531a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SCO PR: St. Mirren vs Glasgow Rangers" tvg-name="SCO PR: St. Mirren vs Glasgow Rangers" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] SCO PR: St. Mirren vs Glasgow Rangers [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=5c71f79d2235842da7eccfc842f15624&txTime=6472531a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SCO PR: Heart of Midlothian FC vs Hibernian FC" tvg-name="SCO PR: Heart of Midlothian FC vs Hibernian FC" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] SCO PR: Heart of Midlothian FC vs Hibernian FC [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=0d5de5ff0795caf17d1cbc00b8120dc1&txTime=6472531a
+https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=422cb190209e5314252c4b862e4e90e1&txTime=647253ce
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ITA D1: Spezia vs Torino" tvg-name="ITA D1: Spezia vs Torino" tvg-logo="https://sta.vnres.co/file/head/20230312/aaa07ce8e1ac249c6793fc567dbe11a1.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Spezia vs Torino [COLOR yellow]SUNNY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-104707_lhd.m3u8?txSecret=44b08de1328f96fbf5424917fb8958e3&txTime=6472531a
+https://sports01.livnvess.com/live/stream-104707_lhd.m3u8?txSecret=471b838bf2b5d7b99cd70b22465c7055&txTime=647253ce
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SCO PR: St. Mirren vs Glasgow Rangers" tvg-name="SCO PR: St. Mirren vs Glasgow Rangers" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] SCO PR: St. Mirren vs Glasgow Rangers [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=e6dde36687a6045cc44ac5931f3e7995&txTime=647253ce
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SCO PR: Heart of Midlothian FC vs Hibernian FC" tvg-name="SCO PR: Heart of Midlothian FC vs Hibernian FC" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] SCO PR: Heart of Midlothian FC vs Hibernian FC [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=50948c628f67a8335ec38c3c6e483831&txTime=647253ce
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="GER D1: RB Leipzig vs Schalke 04" tvg-name="GER D1: RB Leipzig vs Schalke 04" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] GER D1: RB Leipzig vs Schalke 04 [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=c88606a362ada505058434b04bbab03c&txTime=647253ce
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG WSL: Liverpool Women's vs Manchester United Women's" tvg-name="ENG WSL: Liverpool Women's vs Manchester United Women's" tvg-logo="https://sta.vnres.co/file/head/20230502/68132d91f46669cc419a689e6925c70b.jpg",[COLOR red][LIVE][/COLOR] ENG WSL: Liverpool Women's vs Manchester United Women's [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=cf2e49940859268ee0ad63dd381fd00d&txTime=6472531a
+https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=ee75178b64347f8e0d35917998cd2be2&txTime=647253ce
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
