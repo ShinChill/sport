@@ -1,106 +1,103 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ITA D1: Bologna vs Napoli" tvg-name="ITA D1: Bologna vs Napoli" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Bologna vs Napoli [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1685300738-0-0-9c56a995711afe09bd1ca4aa8a9e337f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ITA D1: A.C. Monza vs Lecce" tvg-name="ITA D1: A.C. Monza vs Lecce" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] ITA D1: A.C. Monza vs Lecce [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=365ec863f0787d84421d30d072beab26&txTime=6473a602
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="HOL D1: FC Twente Enschede vs Ajax Amsterdam" tvg-name="HOL D1: FC Twente Enschede vs Ajax Amsterdam" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] HOL D1: FC Twente Enschede vs Ajax Amsterdam [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=74da214de830f8b8ef9d00537574997e&txTime=6473a602
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ITA D1: Bologna vs Napoli" tvg-name="ITA D1: Bologna vs Napoli" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Bologna vs Napoli [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1685300738-0-0-0b80c6655f3d62350a6c1d742fb4b88b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ITA D1: A.C. Monza vs Lecce" tvg-name="ITA D1: A.C. Monza vs Lecce" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] ITA D1: A.C. Monza vs Lecce [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1685300738-0-0-0f64506e2013c7915d65ca07c1589e73
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CHA SL: Shanghai Shenhua vs Henan Professional FC" tvg-name="CHA SL: Shanghai Shenhua vs Henan Professional FC" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] CHA SL: Shanghai Shenhua vs Henan Professional FC [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=d8454da3e35b7d920e061b98a548d26e&txTime=6473a602
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE D1: Thanh Hoa FC vs Viettel" tvg-name="VIE D1: Thanh Hoa FC vs Viettel" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",[COLOR red][LIVE][/COLOR] VIE D1: Thanh Hoa FC vs Viettel [COLOR yellow]GIÀ LÀNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1685300738-0-0-9fec526cf027c3b087518f154b286de6
+#EXTINF:-1 tvg-id="ITA D1: A.C. Monza vs Lecce" tvg-name="ITA D1: A.C. Monza vs Lecce" tvg-logo="https://sta.vnres.co/file/head/20220703/14d4eb5fc2cadd8c2b7d1a724ebd9cff.jpg",[COLOR red][LIVE][/COLOR] ITA D1: A.C. Monza vs Lecce [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991137_lhd.m3u8?txSecret=d8e9f1b70e14b0573bf3ef385c325d6d&txTime=6473a6b6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE D1: Thanh Hoa FC vs Viettel" tvg-name="VIE D1: Thanh Hoa FC vs Viettel" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] VIE D1: Thanh Hoa FC vs Viettel [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1685300738-0-0-4155bf02d11c015bfb235c1bf6bd0034
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1685300918-0-0-6ea17c395b006b7f43d4ea75c65c0374
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="HOL D1: FC Twente Enschede vs Ajax Amsterdam" tvg-name="HOL D1: FC Twente Enschede vs Ajax Amsterdam" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] HOL D1: FC Twente Enschede vs Ajax Amsterdam [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=d9cd112cbb55a392464b89f850b96fb8&txTime=6473a6b6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ITA D1: Bologna vs Napoli" tvg-name="ITA D1: Bologna vs Napoli" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Bologna vs Napoli [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1685300918-0-0-2641e9a68e0abf330fa080d1feec0f1a
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ITA D1: A.C. Monza vs Lecce" tvg-name="ITA D1: A.C. Monza vs Lecce" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] ITA D1: A.C. Monza vs Lecce [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=6ba75150407ef67fbf5a4ed623771d3a&txTime=6473a6b6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ITA D1: A.C. Monza vs Lecce" tvg-name="ITA D1: A.C. Monza vs Lecce" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] ITA D1: A.C. Monza vs Lecce [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1685300918-0-0-05f00bdf1a3e2e94cb7df3a53ffc940b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CHA SL: Shanghai Shenhua vs Henan Professional FC" tvg-name="CHA SL: Shanghai Shenhua vs Henan Professional FC" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] CHA SL: Shanghai Shenhua vs Henan Professional FC [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=7cec7d3e9f3f8b19d83a8f4da5212712&txTime=6473a6b6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ITA D1: Bologna vs Napoli" tvg-name="ITA D1: Bologna vs Napoli" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Bologna vs Napoli [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1685300918-0-0-0a80ff1c367e9281e6a320176d127582
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ITA D1: Bologna vs Napoli" tvg-name="ITA D1: Bologna vs Napoli" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Bologna vs Napoli [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1685300738-0-0-3268a005ec410e85f4431d72a2ffca0e
+https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1685300918-0-0-6bd4d607e9d2546363486a63451a3b5b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="HOL D1: AZ Alkmaar vs PSV Eindhoven" tvg-name="HOL D1: AZ Alkmaar vs PSV Eindhoven" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] HOL D1: AZ Alkmaar vs PSV Eindhoven [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=f6fd9aae9b40ab992b567da286a99738&txTime=6473a602
+https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=34f869c819b567b2a42077391b7cd08b&txTime=6473a6b6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE D1: Thanh Hoa FC vs Viettel" tvg-name="VIE D1: Thanh Hoa FC vs Viettel" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] VIE D1: Thanh Hoa FC vs Viettel [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1685300738-0-0-60c0b63a47573ecdbc9d9e6ce6caa83f
+#EXTINF:-1 tvg-id="ITA D1: Bologna vs Napoli" tvg-name="ITA D1: Bologna vs Napoli" tvg-logo="https://sta.vnres.co/file/head/20230115/6a1111a911d45aa7fe60908f3b0576e9.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Bologna vs Napoli [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1685300918-0-0-e68ba4ceb63a9f7666c7f99351af934a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHA SL: Dalian Pro vs Tianjin Jinmen Tiger" tvg-name="CHA SL: Dalian Pro vs Tianjin Jinmen Tiger" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] CHA SL: Dalian Pro vs Tianjin Jinmen Tiger [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=73a32b440c1e7b794d120556de328541&txTime=6473a602
+https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=5f5e39a3e4c10aec15d220d05f8e1937&txTime=6473a6b6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE D1: Thanh Hoa FC vs Viettel" tvg-name="VIE D1: Thanh Hoa FC vs Viettel" tvg-logo="https://sta.vnres.co/file/head/20221220/15cddfa1880beb36bfbea12feedfec95.jpg",[COLOR red][LIVE][/COLOR] VIE D1: Thanh Hoa FC vs Viettel [COLOR yellow]BLV BRUCE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=04ae9b14ace9e95d620a31dbb7e6f3df&txTime=6473a602
+#EXTINF:-1 tvg-id="VIE D1: Thanh Hoa FC vs Viettel" tvg-name="VIE D1: Thanh Hoa FC vs Viettel" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",[COLOR red][LIVE][/COLOR] VIE D1: Thanh Hoa FC vs Viettel [COLOR yellow]GIÀ LÀNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1685300918-0-0-4688703c1acb3d335097e0eb73c7a20b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ITA D1: Bologna vs Napoli" tvg-name="ITA D1: Bologna vs Napoli" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Bologna vs Napoli [COLOR yellow]BLV FANCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1685300738-0-0-59be3e0b482c803bed830c46c704594a
+https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1685300918-0-0-53d3bd158189980242dfdbee6b7748fc
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ITA D1: Bologna vs Napoli" tvg-name="ITA D1: Bologna vs Napoli" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Bologna vs Napoli [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=2d410e54cdf512c4c4efd685ee7427a3&txTime=6473a602
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="HOL D1: FC Twente Enschede vs Ajax Amsterdam" tvg-name="HOL D1: FC Twente Enschede vs Ajax Amsterdam" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] HOL D1: FC Twente Enschede vs Ajax Amsterdam [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-348199_lhd.m3u8?auth_key=1685300738-0-0-e0393acf2a04d4f9b9eb591ffb893f4a
+https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=3fef078c9bb7c9944140214c3dc9f570&txTime=6473a6b6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ITA D1: A.C. Monza vs Lecce" tvg-name="ITA D1: A.C. Monza vs Lecce" tvg-logo="https://sta.vnres.co/file/head/20230502/68132d91f46669cc419a689e6925c70b.jpg",[COLOR red][LIVE][/COLOR] ITA D1: A.C. Monza vs Lecce [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=d1a339bfe619e70979e20bf3954142c0&txTime=6473a602
+https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=0551e72aa281d4062a3918c2edba3db7&txTime=6473a6b6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="HOL D1: FC Twente Enschede vs Ajax Amsterdam" tvg-name="HOL D1: FC Twente Enschede vs Ajax Amsterdam" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] HOL D1: FC Twente Enschede vs Ajax Amsterdam [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-348199_lhd.m3u8?auth_key=1685300918-0-0-de75a92316c386757d8d74e2e424cf74
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE D1: Thanh Hoa FC vs Viettel" tvg-name="VIE D1: Thanh Hoa FC vs Viettel" tvg-logo="https://sta.vnres.co/file/head/20221220/15cddfa1880beb36bfbea12feedfec95.jpg",[COLOR red][LIVE][/COLOR] VIE D1: Thanh Hoa FC vs Viettel [COLOR yellow]BLV BRUCE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=5c25d961a3cf9390064c97af8debae2d&txTime=6473a6b6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="HOL D1: AZ Alkmaar vs PSV Eindhoven" tvg-name="HOL D1: AZ Alkmaar vs PSV Eindhoven" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",[COLOR red][LIVE][/COLOR] HOL D1: AZ Alkmaar vs PSV Eindhoven [COLOR yellow]BLV TONY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=7d55ce8aa703e7b9a0a4803146cfe666&txTime=6473a602
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ITA D1: A.C. Monza vs Lecce" tvg-name="ITA D1: A.C. Monza vs Lecce" tvg-logo="https://sta.vnres.co/file/head/20220703/14d4eb5fc2cadd8c2b7d1a724ebd9cff.jpg",[COLOR red][LIVE][/COLOR] ITA D1: A.C. Monza vs Lecce [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991137_lhd.m3u8?txSecret=4d7cb4d3254fa57d13c8466d4affb0d7&txTime=6473a602
+https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=b8caa7a81a93e520108b567314e4522c&txTime=6473a6b6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="HOL D1: AZ Alkmaar vs PSV Eindhoven" tvg-name="HOL D1: AZ Alkmaar vs PSV Eindhoven" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] HOL D1: AZ Alkmaar vs PSV Eindhoven [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1685300738-0-0-241462478a5d31427148884c07ff3963
+https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1685300918-0-0-e8fe95d47eaba051a314cf5472be4171
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ITA D1:  Monza vs  Lecce" tvg-name="ITA D1:  Monza vs  Lecce" tvg-logo="https://sta.vnres.co/file/head/20230312/aaa07ce8e1ac249c6793fc567dbe11a1.jpg",[COLOR red][LIVE][/COLOR] ITA D1:  Monza vs  Lecce [COLOR yellow]SUNNY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-104707_lhd.m3u8?txSecret=04942422fc46a2418ca3170c901c852b&txTime=6473a602
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BEL D1: Royal Antwerp FC vs St. Gilloise" tvg-name="BEL D1: Royal Antwerp FC vs St. Gilloise" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] BEL D1: Royal Antwerp FC vs St. Gilloise [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-360663_lhd.m3u8?txSecret=28285cc27279b95914a86f29e7a5d208&txTime=6473a602
+https://sports01.livnvess.com/live/stream-104707_lhd.m3u8?txSecret=c976ad546003301e46d133ebb6cfa0fd&txTime=6473a6b6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="HOL D1: FC Twente Enschede vs Ajax Amsterdam" tvg-name="HOL D1: FC Twente Enschede vs Ajax Amsterdam" tvg-logo="https://sta.vnres.co/file/head/20230310/c88aad2517438b870b70b682d81e61db.jpg",[COLOR red][LIVE][/COLOR] HOL D1: FC Twente Enschede vs Ajax Amsterdam [COLOR yellow]YUKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-101511_lhd.m3u8?txSecret=e76702cd817029250bf7e844675c9dc1&txTime=6473a602
+https://sports01.livnvess.com/live/stream-101511_lhd.m3u8?txSecret=b3eb6d6abe83cc628cfe26ba089bacdd&txTime=6473a6b6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="BEL D1: Royal Antwerp FC vs St. Gilloise" tvg-name="BEL D1: Royal Antwerp FC vs St. Gilloise" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] BEL D1: Royal Antwerp FC vs St. Gilloise [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-360663_lhd.m3u8?txSecret=ea7ecfb2792349b2d961ab44532cd965&txTime=6473a6b6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHA SL: Shanghai Shenhua vs Henan Professional FC" tvg-name="CHA SL: Shanghai Shenhua vs Henan Professional FC" tvg-logo="https://sta.vnres.co/file/head/20230405/ec1bee82e4d11675221774242cd75d76.jpg",[COLOR red][LIVE][/COLOR] CHA SL: Shanghai Shenhua vs Henan Professional FC [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=35838f915b32eaa464a8460afd217294&txTime=6473a602
+https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=b39a9cede7603f26ce36e8cdef730696&txTime=6473a6b6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHA SL: Shenzhen FC vs Meizhou Hakka" tvg-name="CHA SL: Shenzhen FC vs Meizhou Hakka" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] CHA SL: Shenzhen FC vs Meizhou Hakka [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=efa55b154c2abfc07adf6ffb5a4a3984&txTime=6473a602
+https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=ca50d91882ebfcc9f1afe94995fc18ca&txTime=6473a6b6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BEL D1: Royal Antwerp FC vs St. Gilloise" tvg-name="BEL D1: Royal Antwerp FC vs St. Gilloise" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] BEL D1: Royal Antwerp FC vs St. Gilloise [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=f967b8ac7b9fff3462c7849af7fb9b03&txTime=6473a602
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CHA SL: Shenzhen FC vs Meizhou Hakka" tvg-name="CHA SL: Shenzhen FC vs Meizhou Hakka" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg",[COLOR red][LIVE][/COLOR] CHA SL: Shenzhen FC vs Meizhou Hakka [COLOR yellow]MĂNG CỤT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1685300738-0-0-7813c4b6093826bafc30b85b4a203846
+https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=df26175785ca575d633ed3969053de5b&txTime=6473a6b6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHA SL: Shanghai Shenhua vs Henan Professional FC" tvg-name="CHA SL: Shanghai Shenhua vs Henan Professional FC" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] CHA SL: Shanghai Shenhua vs Henan Professional FC [COLOR yellow]BLV PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-208390_lhd.m3u8?txSecret=bf6639825550cce68fe1f8ef944b73bf&txTime=6473a602
+https://sports01.livnvess.com/live/stream-208390_lhd.m3u8?txSecret=c340cbfbb904b387acf6fa6ae419cff9&txTime=6473a6b6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="GER WD1: Bayern Munich Women's vs Turbine Potsdam Women's" tvg-name="GER WD1: Bayern Munich Women's vs Turbine Potsdam Women's" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] GER WD1: Bayern Munich Women's vs Turbine Potsdam Women's [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=793afdbfddb9807c0d7d1eac7dd5f2f3&txTime=6473a602
+https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=933f95b3fcdc0483c9483374b47f9bd6&txTime=6473a6b6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="THA FAC: Bangkok United FC vs Buriram United" tvg-name="THA FAC: Bangkok United FC vs Buriram United" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] THA FAC: Bangkok United FC vs Buriram United [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=d142ec203409a9915275970bcb2f163e&txTime=6473a515
+#EXTINF:-1 tvg-id="CHA SL: Shenzhen FC vs Meizhou Hakka" tvg-name="CHA SL: Shenzhen FC vs Meizhou Hakka" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg",[COLOR red][LIVE][/COLOR] CHA SL: Shenzhen FC vs Meizhou Hakka [COLOR yellow]MĂNG CỤT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1685300918-0-0-57762288544e046c1f91f46b07a08e2e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHA SL: Shenzhen FC vs Meizhou Hakka" tvg-name="CHA SL: Shenzhen FC vs Meizhou Hakka" tvg-logo="https://sta.vnres.co/file/head/20230203/e7fcb68b4a251675c8343c19e58289d7.png",[COLOR red][LIVE][/COLOR] CHA SL: Shenzhen FC vs Meizhou Hakka [COLOR yellow]BLV G Hip[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991127_lhd.m3u8?txSecret=e9e705e84c9f5eda163d8860895b632a&txTime=6473a602
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UKR D1: FC Shakhtar Donetsk vs Dnipro-1" tvg-name="UKR D1: FC Shakhtar Donetsk vs Dnipro-1" tvg-logo="https://sta.vnres.co/file/head/20230114/4e19d9ee44846c0eb6a0721271ef1cc9.jpg",[COLOR red][LIVE][/COLOR] UKR D1: FC Shakhtar Donetsk vs Dnipro-1 [COLOR yellow]BLV Củ Chuối[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=4b816fcc93f10daf5ce8b2dfabc32b08&txTime=6473a602
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UKR D1: FC Shakhtar Donetsk vs Dnipro-1" tvg-name="UKR D1: FC Shakhtar Donetsk vs Dnipro-1" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] UKR D1: FC Shakhtar Donetsk vs Dnipro-1 [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=7cfae110dbbc887cd44560a900ac800e&txTime=6473a602
+https://sports01.livnvess.com/live/stream-991127_lhd.m3u8?txSecret=772ceaa309e8a715e9e6ddc37f2cb512&txTime=6473a6b6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="GER WD1: Bayern Munich Women's vs Turbine Potsdam Women's" tvg-name="GER WD1: Bayern Munich Women's vs Turbine Potsdam Women's" tvg-logo="https://sta.vnres.co/file/head/20230406/98fc401cee7391717cd168965ce2615f.jpeg",[COLOR red][LIVE][/COLOR] GER WD1: Bayern Munich Women's vs Turbine Potsdam Women's [COLOR yellow]BLV GOT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1685300738-0-0-6562f225d2ce90d5eccf03d9902ec254
+https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1685300918-0-0-25deee50eb067ad9b70d76f4aa5ad60a
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UKR D1: FC Shakhtar Donetsk vs Dnipro-1" tvg-name="UKR D1: FC Shakhtar Donetsk vs Dnipro-1" tvg-logo="https://sta.vnres.co/file/head/20230114/4e19d9ee44846c0eb6a0721271ef1cc9.jpg",[COLOR red][LIVE][/COLOR] UKR D1: FC Shakhtar Donetsk vs Dnipro-1 [COLOR yellow]BLV Củ Chuối[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=72cbd4604d2e9b0a90644dc00ddfd5fa&txTime=6473a6b6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UKR D1: FC Shakhtar Donetsk vs Dnipro-1" tvg-name="UKR D1: FC Shakhtar Donetsk vs Dnipro-1" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] UKR D1: FC Shakhtar Donetsk vs Dnipro-1 [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=d48139a92fb21c0953106aaec9a4bb0d&txTime=6473a6b6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="JPN D2: Thespakusatsu Gunma vs Fujieda MYFC" tvg-name="JPN D2: Thespakusatsu Gunma vs Fujieda MYFC" tvg-logo="https://sta.vnres.co/file/head/20230329/571b39ae2e8e91a9b9ee7b45d829eba1.jpg",[COLOR red][LIVE][/COLOR] JPN D2: Thespakusatsu Gunma vs Fujieda MYFC [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=91fb1be21786cb5051f12dd34d687a84&txTime=6473a602
+https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=6dc595fe3e678092041e37d57c640a11&txTime=6473a6b6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
