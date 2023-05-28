@@ -1,157 +1,151 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ENG PR: Leicester City vs West Ham United" tvg-name="ENG PR: Leicester City vs West Ham United" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Leicester City vs West Ham United [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1685310998-0-0-e7d8a9cef9ec6a7fa669b5bac5ffb2b4
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Everton vs AFC Bournemouth" tvg-name="ENG PR: Everton vs AFC Bournemouth" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] ENG PR: Everton vs AFC Bournemouth [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=80483cffc49eeea34a2ec209b15f4096&txTime=6473ce16
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ENG PR: Arsenal vs Wolverhampton Wanderers" tvg-name="ENG PR: Arsenal vs Wolverhampton Wanderers" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Arsenal vs Wolverhampton Wanderers [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=cba8cb9a3b4a38be22b80d82121e56e1&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=997079bae1a8bd40cef3b9b59903ae91&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Everton vs AFC Bournemouth" tvg-name="ENG PR: Everton vs AFC Bournemouth" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] ENG PR: Everton vs AFC Bournemouth [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991128_lhd.m3u8?txSecret=ebcdbf3da83edaa9e27a8f96adf97f99&txTime=6473ce16
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ENG PR: Manchester United vs Fulham" tvg-name="ENG PR: Manchester United vs Fulham" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] ENG PR: Manchester United vs Fulham [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=9680d46ead872da4bbf28ffbb07ec183&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-991128_lhd.m3u8?txSecret=155c0d34e43b9ec93944e9a7a118126f&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Everton vs AFC Bournemouth" tvg-name="ENG PR: Everton vs AFC Bournemouth" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Everton vs AFC Bournemouth [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=79dba72a1bd0ccd058024a86f7beb741&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=1296b71e894587aca5b3e94293eb138f&txTime=6473ceca
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ENG PR: Leicester City vs West Ham United" tvg-name="ENG PR: Leicester City vs West Ham United" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Leicester City vs West Ham United [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1685311178-0-0-984bba8afea4c826f0f373ac5932ecff
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ENG PR: Arsenal vs Wolverhampton Wanderers" tvg-name="ENG PR: Arsenal vs Wolverhampton Wanderers" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Arsenal vs Wolverhampton Wanderers [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=abfeffbde1ebb87c21fc9ccfaff567ba&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Manchester United vs Fulham" tvg-name="ENG PR: Manchester United vs Fulham" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] ENG PR: Manchester United vs Fulham [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=8b5b30788654364069b97461e878ca98&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=7a39bafce11005a25cc8757df311d43c&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Manchester United vs Fulham" tvg-name="ENG PR: Manchester United vs Fulham" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Manchester United vs Fulham [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1685310998-0-0-93eaab2f3df063800295b1f4fff6d15a
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1685311178-0-0-db87c8bf6d780711d754a866ee17fac3
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Manchester United vs Fulham" tvg-name="ENG PR: Manchester United vs Fulham" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] ENG PR: Manchester United vs Fulham [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=0eed38d9a1c344af22b3f4461f796008&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=1c890904035e3a613a07c9fafb7d1ee2&txTime=6473ceca
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ENG PR: Manchester United vs Fulham" tvg-name="ENG PR: Manchester United vs Fulham" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] ENG PR: Manchester United vs Fulham [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=5025fdbdc8935f325dd44075aef158f2&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Brentford vs Manchester City" tvg-name="ENG PR: Brentford vs Manchester City" tvg-logo="https://sta.vnres.co/file/head/20230328/c19057ab3245d1531de39f82e3b38099.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Brentford vs Manchester City [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1685310998-0-0-57791d572b631b8c515afae1d2ba4277
+https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1685311178-0-0-40604d1c4f5ca6658ce8a4bf6cc34207
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Chelsea FC vs Newcastle" tvg-name="ENG PR: Chelsea FC vs Newcastle" tvg-logo="https://sta.vnres.co/file/head/20221113/f6a1bce7d3b109bdb51d92a32ecc9fd8.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Chelsea FC vs Newcastle [COLOR yellow]BLV MONKEY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-105723_lhd.m3u8?txSecret=85d5c388ffdb64982f09823d6256530f&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-105723_lhd.m3u8?txSecret=463078b50567ed95cf16991e539f925c&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Southampton vs Liverpool" tvg-name="ENG PR: Southampton vs Liverpool" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Southampton vs Liverpool [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991131_lhd.m3u8?txSecret=fa15eec6d0a23bf98cbd31e657370eb2&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-991131_lhd.m3u8?txSecret=aed4565315fde9ae3faf69b14f9b6cae&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Chelsea FC vs Newcastle" tvg-name="ENG PR: Chelsea FC vs Newcastle" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Chelsea FC vs Newcastle [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=3d3d544ac359b85d5d29d7e441061e33&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=e0f92d21bbd7b17ae6ec1b3a97692e1a&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Manchester United vs Fulham" tvg-name="ENG PR: Manchester United vs Fulham" tvg-logo="https://sta.vnres.co/file/head/20230406/98fc401cee7391717cd168965ce2615f.jpeg",[COLOR red][LIVE][/COLOR] ENG PR: Manchester United vs Fulham [COLOR yellow]BLV GOT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1685310998-0-0-2cb2e491d5d135d94795fff0f457fa33
+https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1685311178-0-0-82fa7f783ebd2501219172ae156aba67
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Leeds United vs Tottenham Hotspur" tvg-name="ENG PR: Leeds United vs Tottenham Hotspur" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Leeds United vs Tottenham Hotspur [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991138_lhd.m3u8?txSecret=525b78fcd8a288d034278c9c1bb24002&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-991138_lhd.m3u8?txSecret=fb7cf6bde1353536f0942501c6b71304&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Brentford vs Manchester City" tvg-name="ENG PR: Brentford vs Manchester City" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26",[COLOR red][LIVE][/COLOR] ENG PR: Brentford vs Manchester City [COLOR yellow]BABY BOY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1685310998-0-0-d6bb8aa108ee9db270c65d8745470d76
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ENG PR: Chelsea FC vs Newcastle" tvg-name="ENG PR: Chelsea FC vs Newcastle" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Chelsea FC vs Newcastle [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=7de1e4d4479bd4a9c732df1fc165db71&txTime=6473ce16
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ENG PR: Leicester City vs West Ham United" tvg-name="ENG PR: Leicester City vs West Ham United" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Leicester City vs West Ham United [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1685310998-0-0-207d3e696887df0f1551eb94bf35b3c6
+https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1685311178-0-0-d2a441ebf1f510f5aaaa953e35206a04
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Manchester United vs Fulham" tvg-name="ENG PR: Manchester United vs Fulham" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Manchester United vs Fulham [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991135_lhd.m3u8?txSecret=f9b02f0c3eb5fe6eba8ea0ff95f07091&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-991135_lhd.m3u8?txSecret=2fe9bc2fb8a48bfb5c1cd70f30f91651&txTime=6473ceca
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ENG PR: Leicester City vs West Ham United" tvg-name="ENG PR: Leicester City vs West Ham United" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Leicester City vs West Ham United [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1685311178-0-0-ec77de743be9e27eba75538052b97c93
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ENG PR: Chelsea FC vs Newcastle" tvg-name="ENG PR: Chelsea FC vs Newcastle" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Chelsea FC vs Newcastle [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=7b5e4621a1c8535ce4e756a427c22358&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Southampton vs Liverpool" tvg-name="ENG PR: Southampton vs Liverpool" tvg-logo="https://sta.vnres.co/file/head/20230115/6a1111a911d45aa7fe60908f3b0576e9.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Southampton vs Liverpool [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1685310998-0-0-4ba8e96c91bd5827728ec01a5c6bce2e
+https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1685311178-0-0-841a70441c6f5c73111175bb635610bd
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Aston Villa vs Brighton & Hove Albion" tvg-name="ENG PR: Aston Villa vs Brighton & Hove Albion" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] ENG PR: Aston Villa vs Brighton & Hove Albion [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=24d94f5b5a6753bdb47e1eec6f67112f&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=ad19bae06c9f20e8aac7f2c289ec9c38&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Arsenal vs Wolverhampton Wanderers" tvg-name="ENG PR: Arsenal vs Wolverhampton Wanderers" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Arsenal vs Wolverhampton Wanderers [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991130_lhd.m3u8?txSecret=e143c3b74466984a8df199acd56b6bc4&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-991130_lhd.m3u8?txSecret=dbde0eabd51e446ebaccf0d4c34982b9&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Leicester City vs West Ham United" tvg-name="ENG PR: Leicester City vs West Ham United" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",[COLOR red][LIVE][/COLOR] ENG PR: Leicester City vs West Ham United [COLOR yellow]GIÀ LÀNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1685310998-0-0-b95ffdfa7e1d879cec29c380e671d357
+https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1685311178-0-0-ad46a88f164ee3f8dce62d5f6f89639a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Southampton vs Liverpool" tvg-name="ENG PR: Southampton vs Liverpool" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Southampton vs Liverpool [COLOR yellow]MĂNG CỤT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1685310998-0-0-f465083aca92c6322c6384a18026784b
+https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1685311178-0-0-20677e6445da285c2c913160e84e91f4
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Everton vs AFC Bournemouth" tvg-name="ENG PR: Everton vs AFC Bournemouth" tvg-logo="https://sta.vnres.co/file/head/20230506/b6a7ea571d1c6f7ee48d9c827998bfcc.png",[COLOR red][LIVE][/COLOR] ENG PR: Everton vs AFC Bournemouth [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1685310998-0-0-5aaa9e3635689fd2b3aa6771214f48d0
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ENG PR: Arsenal vs Wolverhampton Wanderers" tvg-name="ENG PR: Arsenal vs Wolverhampton Wanderers" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Arsenal vs Wolverhampton Wanderers [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=b8f7c11a1dd546bae5095d15b84ee14b&txTime=6473ce16
+https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1685311178-0-0-9f92754705846c088c59a0614b8d1752
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Leeds United vs Tottenham Hotspur" tvg-name="ENG PR: Leeds United vs Tottenham Hotspur" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Leeds United vs Tottenham Hotspur [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=62fc720634e0bdf09aff7f38a4313b32&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=943452e373113b2ceac0ed6579754679&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ENG PR: Leicester City vs West Ham United" tvg-name="ENG PR: Leicester City vs West Ham United" tvg-logo="https://sta.vnres.co/file/head/20220703/14d4eb5fc2cadd8c2b7d1a724ebd9cff.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Leicester City vs West Ham United [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1685310998-0-0-8a09fcac7560ef8cef69501336072ced
+#EXTINF:-1 tvg-id="ENG PR: Arsenal vs Wolverhampton Wanderers" tvg-name="ENG PR: Arsenal vs Wolverhampton Wanderers" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Arsenal vs Wolverhampton Wanderers [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=46d98ed26488f1da3b4b5b9ebe494bd6&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Everton vs AFC Bournemouth" tvg-name="ENG PR: Everton vs AFC Bournemouth" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",[COLOR red][LIVE][/COLOR] ENG PR: Everton vs AFC Bournemouth [COLOR yellow]BLV TAM MAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=37659e490428284b1f90906acf42afda&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=169c76104a60db9433e55a74a21387c2&txTime=6473ceca
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ENG PR: Leicester City vs West Ham United" tvg-name="ENG PR: Leicester City vs West Ham United" tvg-logo="https://sta.vnres.co/file/head/20220703/14d4eb5fc2cadd8c2b7d1a724ebd9cff.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Leicester City vs West Ham United [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1685311178-0-0-a44efef4ab73c3f1b668e5f13619a295
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Aston Villa vs Brighton & Hove Albion" tvg-name="ENG PR: Aston Villa vs Brighton & Hove Albion" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Aston Villa vs Brighton & Hove Albion [COLOR yellow]BLV TONY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=247efdcb886e29e487db4c9dc5fc8bf1&txTime=6473ce16
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ITA D1: Lazio vs Cremonese" tvg-name="ITA D1: Lazio vs Cremonese" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Lazio vs Cremonese [COLOR yellow]Tạ Biên Giới[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1685310998-0-0-29a8367c6750518f5532da7bf9b1b4bd
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="GRE: Olympiacos vs PAOK" tvg-name="GRE: Olympiacos vs PAOK" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] GRE: Olympiacos vs PAOK [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1685310998-0-0-66296bf5652bfa680dc95820b07126ce
+https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=788f9648cd6aa292533830fc4aaf016f&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Everton vs AFC Bournemouth" tvg-name="ENG PR: Everton vs AFC Bournemouth" tvg-logo="https://sta.vnres.co/file/head/20230405/ec1bee82e4d11675221774242cd75d76.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Everton vs AFC Bournemouth [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=3ced201e60ae81aef85a074da39af3a5&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=3f1453a6c478596641dca95b14d21cca&txTime=6473ceca
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="GRE: Olympiacos vs PAOK" tvg-name="GRE: Olympiacos vs PAOK" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] GRE: Olympiacos vs PAOK [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1685311178-0-0-95ab0a1ec5cf85bbd439c769cbd6d6f4
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Brentford vs Manchester City" tvg-name="ENG PR: Brentford vs Manchester City" tvg-logo="https://sta.vnres.co/file/head/20220627/4a25c211c3b42d3923895ce94a4331cb.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Brentford vs Manchester City [COLOR yellow]AMY BABE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-102153_lhd.m3u8?auth_key=1685310998-0-0-e473a909a61133ba4cfda3aa862cf13d
+https://pull06.scstream.net/live/stream-102153_lhd.m3u8?auth_key=1685311178-0-0-4c037fe26791cd06b64a3623a0a641d6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Leicester City vs West Ham United" tvg-name="ENG PR: Leicester City vs West Ham United" tvg-logo="https://sta.vnres.co/file/head/20221220/15cddfa1880beb36bfbea12feedfec95.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Leicester City vs West Ham United [COLOR yellow]BLV BRUCE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=b1e902a9a2448a05df39b5c9231e6fe3&txTime=6473ce16
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ENG PR: Aston Villa vs Brighton & Hove Albion" tvg-name="ENG PR: Aston Villa vs Brighton & Hove Albion" tvg-logo="https://sta.vnres.co/file/head/20230513/0caf5377396b4e2c222f4a04e7caedc0.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Aston Villa vs Brighton & Hove Albion [COLOR yellow]BLV TIGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=51a8057f07be6ec0ce696bc8e68208c1&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=2cdf558a9bb7ef176a33767986bfe760&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Leeds United vs Tottenham Hotspur" tvg-name="ENG PR: Leeds United vs Tottenham Hotspur" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] ENG PR: Leeds United vs Tottenham Hotspur [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=3fad36d30eed77b7c7c424d884b4dd72&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=df071903468dbef71980c1284b4557a9&txTime=6473ceca
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ENG PR: Aston Villa vs Brighton & Hove Albion" tvg-name="ENG PR: Aston Villa vs Brighton & Hove Albion" tvg-logo="https://sta.vnres.co/file/head/20230513/0caf5377396b4e2c222f4a04e7caedc0.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Aston Villa vs Brighton & Hove Albion [COLOR yellow]BLV TIGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=ea7194fb077a8e775cc90c0be8b621ca&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Leeds United vs Tottenham Hotspur" tvg-name="ENG PR: Leeds United vs Tottenham Hotspur" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Leeds United vs Tottenham Hotspur [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1685310998-0-0-2a433f91b9a8cf9593d648e55fdc835f
+https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1685311178-0-0-5a973bbacc5ff3c39e76230aca769ffe
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Aston Villa vs Brighton & Hove Albion" tvg-name="ENG PR: Aston Villa vs Brighton & Hove Albion" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Aston Villa vs Brighton & Hove Albion [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1685310998-0-0-1cff4b65812c79c1ab1efd3f18312549
+https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1685311178-0-0-01abb9347efd0efefb06a771a1eb20b2
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Crystal Palace vs Nottingham Forest" tvg-name="ENG PR: Crystal Palace vs Nottingham Forest" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] ENG PR: Crystal Palace vs Nottingham Forest [COLOR yellow]BLV PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-208390_lhd.m3u8?txSecret=243d775035334e1c4e81974654ca113f&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-208390_lhd.m3u8?txSecret=4f334eee155d912038b3588fcfe7a519&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Leeds United vs Tottenham Hotspur" tvg-name="ENG PR: Leeds United vs Tottenham Hotspur" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Leeds United vs Tottenham Hotspur [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=1cb60b7b5f8cb6e439232c301431d5e8&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=ac91135b78463e01b1bbb6c3e4064ca1&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Aston Villa vs Brighton & Hove Albion" tvg-name="ENG PR: Aston Villa vs Brighton & Hove Albion" tvg-logo="https://sta.vnres.co/file/head/20230203/e7fcb68b4a251675c8343c19e58289d7.png",[COLOR red][LIVE][/COLOR] ENG PR: Aston Villa vs Brighton & Hove Albion [COLOR yellow]BLV G Hip[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991127_lhd.m3u8?txSecret=f4978fcfd49b6397164d09062b3b30bd&txTime=6473ce16
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ENG PR: Crystal Palace vs Nottingham Forest" tvg-name="ENG PR: Crystal Palace vs Nottingham Forest" tvg-logo="https://sta.vnres.co/file/head/20230329/571b39ae2e8e91a9b9ee7b45d829eba1.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Crystal Palace vs Nottingham Forest [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=0513a47f4ac13ae53412c1c4b8a9d32d&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-991127_lhd.m3u8?txSecret=7eacf9a31595fc9fbe6d1d94f330ab15&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR Leeds United vs Tottenham Hotspur" tvg-name="ENG PR Leeds United vs Tottenham Hotspur" tvg-logo="https://sta.vnres.co/file/head/20230310/c88aad2517438b870b70b682d81e61db.jpg",[COLOR red][LIVE][/COLOR] ENG PR Leeds United vs Tottenham Hotspur [COLOR yellow]YUKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-101511_lhd.m3u8?txSecret=37ef8f1b3f618f92f8bf7316ef4f88b4&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-101511_lhd.m3u8?txSecret=040e16504e82f9472cb775417b2d2220&txTime=6473ceca
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ENG PR: Crystal Palace vs Nottingham Forest" tvg-name="ENG PR: Crystal Palace vs Nottingham Forest" tvg-logo="https://sta.vnres.co/file/head/20230329/571b39ae2e8e91a9b9ee7b45d829eba1.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Crystal Palace vs Nottingham Forest [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=f254dd0dfebb043b08ff5f8162a92de8&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Crystal Palace vs Nottingham Forest" tvg-name="ENG PR: Crystal Palace vs Nottingham Forest" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] ENG PR: Crystal Palace vs Nottingham Forest [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=af3645821d78b376e1f5ffcf95c8d9c7&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=b3c6020645dd937509eb09310ab5fbe7&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ENG PR: Aston Villa vs Brighton And Hove Albion" tvg-name="ENG PR: Aston Villa vs Brighton And Hove Albion" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg",[COLOR red][LIVE][/COLOR] ENG PR: Aston Villa vs Brighton And Hove Albion [COLOR yellow]BLV DIHI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=abfad09081a26a4dc7535d740f6c1f2d&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=a77ae2471c69ca76511e6b1994f9b455&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CZBL: Opava vs Decin" tvg-name="CZBL: Opava vs Decin" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] CZBL: Opava vs Decin [COLOR yellow]BLV KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-168964_lhd.m3u8?txSecret=19464085b74dc3f62133306c0a6656ce&txTime=6473ce16
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SCO PR: Kilmarnock vs Ross County" tvg-name="SCO PR: Kilmarnock vs Ross County" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] SCO PR: Kilmarnock vs Ross County [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=2f191c8bcc7fb51d9d0101c2a4e1a3d5&txTime=6473ce16
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CZBL: Opava vs Decin" tvg-name="CZBL: Opava vs Decin" tvg-logo="https://sta.vnres.co/file/head/20220919/d2b1afda9c7b037f3ec3755f194080d7.jpg",[COLOR red][LIVE][/COLOR] CZBL: Opava vs Decin [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1685310998-0-0-60fe0c42496b80b8c2b9d05151877c18
+https://sports01.livnvess.com/live/stream-168964_lhd.m3u8?txSecret=983b8284612834ef330e184f3bf69ac6&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ITA D1: Lazio vs Cremonese" tvg-name="ITA D1: Lazio vs Cremonese" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Lazio vs Cremonese [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1685310998-0-0-12d51cd621d5ddf652e3f7d404c6f244
+https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1685311178-0-0-05cfcbc7bd1e79ac887ce20360e4f802
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CZBL: Opava vs Decin" tvg-name="CZBL: Opava vs Decin" tvg-logo="https://sta.vnres.co/file/head/20220919/d2b1afda9c7b037f3ec3755f194080d7.jpg",[COLOR red][LIVE][/COLOR] CZBL: Opava vs Decin [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1685311178-0-0-3204ecd759f5f2e7f0232e4dd32f128a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="GBBL: Bayern vs Ulm" tvg-name="GBBL: Bayern vs Ulm" tvg-logo="https://sta.vnres.co/file/pic/202111/19/f8e41da7a8955dddd469d2cbe3e57716",[COLOR red][LIVE][/COLOR] GBBL: Bayern vs Ulm [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1685310998-0-0-2f1488828f0581ba1363b88683ec7761
+https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1685311178-0-0-a5b92f4dc2616858cffe46f3fd52328f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ITA D1: Lazio vs Cremonese" tvg-name="ITA D1: Lazio vs Cremonese" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] ITA D1: Lazio vs Cremonese [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-348199_lhd.m3u8?txSecret=3d94d96de4acc7e62f8689a1a21b6172&txTime=6473ce16
+https://sports01.livnvess.com/live/stream-348199_lhd.m3u8?txSecret=6de5fb29f592a188669b2db3034b5d35&txTime=6473ceca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
