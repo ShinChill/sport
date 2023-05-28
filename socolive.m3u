@@ -1,40 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="USA MLS: New England Revolution vs Chicago Fire" tvg-name="USA MLS: New England Revolution vs Chicago Fire" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] USA MLS: New England Revolution vs Chicago Fire [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=bc65988329506e4732448f338eb2a724&txTime=6472f7a2
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: Saint Louis City vs Vancouver Whitecaps FC" tvg-name="USA MLS: Saint Louis City vs Vancouver Whitecaps FC" tvg-logo="https://sta.vnres.co/file/head/20230406/98fc401cee7391717cd168965ce2615f.jpeg",[COLOR red][LIVE][/COLOR] USA MLS: Saint Louis City vs Vancouver Whitecaps FC [COLOR yellow]BLV GOT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1685256098-0-0-0da042a211390a86cf7b7e9b0837ca76
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA MLS: Minnesota United FC vs Real Salt Lake" tvg-name="USA MLS: Minnesota United FC vs Real Salt Lake" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Minnesota United FC vs Real Salt Lake [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1685256098-0-0-6a1bac678f0ff3f78436badd76e6cb9b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="NBA: Miami Heat vs Boston Celtics" tvg-name="NBA: Miami Heat vs Boston Celtics" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] NBA: Miami Heat vs Boston Celtics [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1685256098-0-0-d838237128d27551064ca09b14fbefd8
+https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1685256278-0-0-a98b2f9a8c129a7616ce44bf142e825f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="NBA: Boston Celtics vs Miami Heat" tvg-name="NBA: Boston Celtics vs Miami Heat" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] NBA: Boston Celtics vs Miami Heat [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=8ccbb817588a06dbd5c24bf9ffe1de05&txTime=6472f7a2
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA MLS: Houston Dynamo vs Austin FC" tvg-name="USA MLS: Houston Dynamo vs Austin FC" tvg-logo="https://sta.vnres.co/file/head/20221113/f6a1bce7d3b109bdb51d92a32ecc9fd8.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Houston Dynamo vs Austin FC [COLOR yellow]BLV MONKEY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1685256098-0-0-d5c2e636cab6b6bdc6a55fc274ef8973
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BRA D1: Sao Paulo vs Goias" tvg-name="BRA D1: Sao Paulo vs Goias" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] BRA D1: Sao Paulo vs Goias [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=fe89ef5e2d2204168cc262d8435e3656&txTime=6472f7a2
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA MLS: Houston Dynamo vs Austin FC" tvg-name="USA MLS: Houston Dynamo vs Austin FC" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Houston Dynamo vs Austin FC [COLOR yellow]BLV TONY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=430f8720c5542474e896a4d77e8cdd5f&txTime=6472f7a2
+https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=72189f4d803cb7bca61c431cee4a3c8f&txTime=6472f856
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BRA D1: Sao Paulo vs Goias" tvg-name="BRA D1: Sao Paulo vs Goias" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] BRA D1: Sao Paulo vs Goias [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=428442dc14ffb1f9b5463396f442ff6e&txTime=6472f7a2
+https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=3c2e50dbf60b36bfb6b6f4c07151ab75&txTime=6472f856
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA MLS: Houston Dynamo vs Austin FC" tvg-name="USA MLS: Houston Dynamo vs Austin FC" tvg-logo="https://sta.vnres.co/file/head/20221113/f6a1bce7d3b109bdb51d92a32ecc9fd8.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Houston Dynamo vs Austin FC [COLOR yellow]BLV MONKEY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1685256278-0-0-5e39233822b1cac868bf0ae7a9739dcd
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA MLS: Minnesota United FC vs Real Salt Lake" tvg-name="USA MLS: Minnesota United FC vs Real Salt Lake" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Minnesota United FC vs Real Salt Lake [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1685256278-0-0-aa9261b76cc0d4cfcea464079e77eb69
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="BRA D1: Sao Paulo vs Goias" tvg-name="BRA D1: Sao Paulo vs Goias" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] BRA D1: Sao Paulo vs Goias [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=3bc8554b52dc6f8d608d0a559ba2df95&txTime=6472f856
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA MLS: New England Revolution vs Chicago Fire" tvg-name="USA MLS: New England Revolution vs Chicago Fire" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] USA MLS: New England Revolution vs Chicago Fire [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=4263a178862eae4156185524c1e7632a&txTime=6472f856
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="NBA: Miami Heat vs Boston Celtics" tvg-name="NBA: Miami Heat vs Boston Celtics" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] NBA: Miami Heat vs Boston Celtics [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1685256278-0-0-aa17208c891878efc79c64ab9918f713
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA MLS: Houston Dynamo vs Austin FC" tvg-name="USA MLS: Houston Dynamo vs Austin FC" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Houston Dynamo vs Austin FC [COLOR yellow]BLV TONY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=6804037bcc1ea0c7bb4883de9ac346d3&txTime=6472f856
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Independiente vs Lanus" tvg-name="ARG D1: Independiente vs Lanus" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Independiente vs Lanus [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1685256098-0-0-545346ee7cfe966218a459b392b4a873
+https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1685256278-0-0-f634fa0b79afe6972558a54a8c3c3a4c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: Orlando City vs Atlanta United FC" tvg-name="USA MLS: Orlando City vs Atlanta United FC" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Orlando City vs Atlanta United FC [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=1e8f987a4ed39562d93f29a2954d4798&txTime=6472f7a2
+https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=ea43a8ca0cab74e1f86fd6cea8b541ce&txTime=6472f856
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: Houston Dynamo vs Austin FC" tvg-name="USA MLS: Houston Dynamo vs Austin FC" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26",[COLOR red][LIVE][/COLOR] USA MLS: Houston Dynamo vs Austin FC [COLOR yellow]BABY BOY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1685256098-0-0-86e82a5f5600311bb37f94815633c5a8
+https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1685256278-0-0-eeecbbe1bec11bd8b4593356eb66b272
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="NBA: Miami Heat vs Boston Celtics" tvg-name="NBA: Miami Heat vs Boston Celtics" tvg-logo="https://sta.vnres.co/file/pic/202111/19/f8e41da7a8955dddd469d2cbe3e57716",[COLOR red][LIVE][/COLOR] NBA: Miami Heat vs Boston Celtics [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1685256098-0-0-669ea411d7b91fdb40700d4b1746c4df
+https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1685256278-0-0-6f333d6e08b329c216e10822ba4d6640
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="NBA: Miami Heat vs Boston Celtics" tvg-name="NBA: Miami Heat vs Boston Celtics" tvg-logo="https://sta.vnres.co/file/head/20220919/d2b1afda9c7b037f3ec3755f194080d7.jpg",[COLOR red][LIVE][/COLOR] NBA: Miami Heat vs Boston Celtics [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1685256278-0-0-844d461b77337a4225799fca9ad7d8e7
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
