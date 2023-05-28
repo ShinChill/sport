@@ -1,52 +1,58 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="KOR D1: FC Seoul vs Gangwon FC" tvg-name="KOR D1: FC Seoul vs Gangwon FC" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] KOR D1: FC Seoul vs Gangwon FC [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=0895e4804bf63f093f85494bc27d7714&txTime=6473595e
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FC Seoul vs Gangwon FC" tvg-name="FC Seoul vs Gangwon FC" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",[COLOR red][LIVE][/COLOR] FC Seoul vs Gangwon FC [COLOR yellow]GIÀ LÀNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1685281118-0-0-5de3032635829750cff8a2360e369dcd
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="IBL: Hangtuah vs Evos Thunder" tvg-name="IBL: Hangtuah vs Evos Thunder" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] IBL: Hangtuah vs Evos Thunder [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1685281118-0-0-7f1570aebdb872f4495db28d06572376
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="JPN D2: Mito Hollyhock vs Renofa Yamaguchi" tvg-name="JPN D2: Mito Hollyhock vs Renofa Yamaguchi" tvg-logo="https://sta.vnres.co/file/head/20230115/6a1111a911d45aa7fe60908f3b0576e9.jpg",[COLOR red][LIVE][/COLOR] JPN D2: Mito Hollyhock vs Renofa Yamaguchi [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1685281118-0-0-1ff67a9d86b71b6e58aa618b13c262a9
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="AUS NNSW: Broadmeadow Magic vs Edgeworth Eagles FC" tvg-name="AUS NNSW: Broadmeadow Magic vs Edgeworth Eagles FC" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] AUS NNSW: Broadmeadow Magic vs Edgeworth Eagles FC [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1685281118-0-0-5feb8f63699fd7a27c7aa1bbac19f6ff
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="KOR D1: FC Seoul vs Gangwon FC" tvg-name="KOR D1: FC Seoul vs Gangwon FC" tvg-logo="https://sta.vnres.co/file/head/20230506/b6a7ea571d1c6f7ee48d9c827998bfcc.png",[COLOR red][LIVE][/COLOR] KOR D1: FC Seoul vs Gangwon FC [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1685281118-0-0-5450203f5dfcb97847995773a631f5d7
+https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1685281298-0-0-fda75d7b1a6e61b7f88d687a60cac9e0
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="KOR D1: FC Seoul vs Gangwon FC" tvg-name="KOR D1: FC Seoul vs Gangwon FC" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] KOR D1: FC Seoul vs Gangwon FC [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=7a61cd8f15bf521559a5f2bf47583b41&txTime=6473595e
+https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=3b887443d20253644fe2fc14acb68ee2&txTime=64735a12
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="KOR D1: FC Seoul vs Gangwon FC" tvg-name="KOR D1: FC Seoul vs Gangwon FC" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] KOR D1: FC Seoul vs Gangwon FC [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991128_lhd.m3u8?txSecret=c03b5ad94a7cc968dc960578eeabaad4&txTime=6473595e
+#EXTINF:-1 tvg-id="FC Seoul vs Gangwon FC" tvg-name="FC Seoul vs Gangwon FC" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",[COLOR red][LIVE][/COLOR] FC Seoul vs Gangwon FC [COLOR yellow]GIÀ LÀNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1685281298-0-0-d21b0f71d38cf629171e54beb53e6d94
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="KOR D1: FC Seoul vs Gangwon FC" tvg-name="KOR D1: FC Seoul vs Gangwon FC" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] KOR D1: FC Seoul vs Gangwon FC [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=f69d092c88e9bab31a4b930e29a49de6&txTime=64735a12
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="IBL: Hangtuah vs Evos Thunder" tvg-name="IBL: Hangtuah vs Evos Thunder" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] IBL: Hangtuah vs Evos Thunder [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1685281298-0-0-70b295f9f4132822ab73c59f34f26b82
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="KOR D1: FC Seoul vs Gangwon FC" tvg-name="KOR D1: FC Seoul vs Gangwon FC" tvg-logo="https://sta.vnres.co/file/head/20230312/aaa07ce8e1ac249c6793fc567dbe11a1.jpg",[COLOR red][LIVE][/COLOR] KOR D1: FC Seoul vs Gangwon FC [COLOR yellow]SUNNY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-104707_lhd.m3u8?txSecret=e7d78186777d3f3408cd0ec137a8cb65&txTime=6473595e
+https://sports01.livnvess.com/live/stream-104707_lhd.m3u8?txSecret=f9082583a756a3ae724766ab28274506&txTime=64735a12
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="KOR D2: Busan I'Park vs Chungnam Asan FC" tvg-name="KOR D2: Busan I'Park vs Chungnam Asan FC" tvg-logo="https://sta.vnres.co/file/head/20230513/0caf5377396b4e2c222f4a04e7caedc0.jpg",[COLOR red][LIVE][/COLOR] KOR D2: Busan I'Park vs Chungnam Asan FC [COLOR yellow]BLV TIGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=5d2ab49ff15e4ebf3309c26e4a1865fa&txTime=6473595e
+#EXTINF:-1 tvg-id="AUS NNSW: Broadmeadow Magic vs Edgeworth Eagles FC" tvg-name="AUS NNSW: Broadmeadow Magic vs Edgeworth Eagles FC" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] AUS NNSW: Broadmeadow Magic vs Edgeworth Eagles FC [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1685281298-0-0-e821c25fb422b9a1a8b9c435d48aa06a
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="KOR D1: FC Seoul vs Gangwon FC" tvg-name="KOR D1: FC Seoul vs Gangwon FC" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] KOR D1: FC Seoul vs Gangwon FC [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991128_lhd.m3u8?txSecret=528335d6983c039c42fc5448297fbbc3&txTime=64735a12
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="JPN D1: Kawasaki Frontale vs Kashiwa Reysol" tvg-name="JPN D1: Kawasaki Frontale vs Kashiwa Reysol" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] JPN D1: Kawasaki Frontale vs Kashiwa Reysol [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1685281298-0-0-bc11172b04bec71cbbd453a275b354f8
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="KOR D1: FC Seoul vs Gangwon FC" tvg-name="KOR D1: FC Seoul vs Gangwon FC" tvg-logo="https://sta.vnres.co/file/head/20230506/b6a7ea571d1c6f7ee48d9c827998bfcc.png",[COLOR red][LIVE][/COLOR] KOR D1: FC Seoul vs Gangwon FC [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1685281298-0-0-86387f63f990d4ec359a8803dc2b1f86
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="JPN D2: Mito Hollyhock vs Renofa Yamaguchi" tvg-name="JPN D2: Mito Hollyhock vs Renofa Yamaguchi" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] JPN D2: Mito Hollyhock vs Renofa Yamaguchi [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=3defb93a6f0b9b85ec4cd3abcaa59320&txTime=6473595e
+https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=cafedc304d5f0d3ae88804d969fd6344&txTime=64735a12
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="KOR D2: Busan I'Park vs Chungnam Asan FC" tvg-name="KOR D2: Busan I'Park vs Chungnam Asan FC" tvg-logo="https://sta.vnres.co/file/head/20230513/0caf5377396b4e2c222f4a04e7caedc0.jpg",[COLOR red][LIVE][/COLOR] KOR D2: Busan I'Park vs Chungnam Asan FC [COLOR yellow]BLV TIGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=d487225c8a8b443ecb4a1aa87c1782e2&txTime=64735a12
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="KOR D2: Busan I'Park vs Chungnam Asan FC" tvg-name="KOR D2: Busan I'Park vs Chungnam Asan FC" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg",[COLOR red][LIVE][/COLOR] KOR D2: Busan I'Park vs Chungnam Asan FC [COLOR yellow]DƯƠNG QUÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1685281118-0-0-7c9cff7b88b2d62d1e6cd470ce610cb0
+https://pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1685281298-0-0-d9f112164de3cc26401d70c5d530e6a5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="NZBL: Franklin Bulls vs Nelson Giants" tvg-name="NZBL: Franklin Bulls vs Nelson Giants" tvg-logo="https://sta.vnres.co/file/head/20220919/d2b1afda9c7b037f3ec3755f194080d7.jpg",[COLOR red][LIVE][/COLOR] NZBL: Franklin Bulls vs Nelson Giants [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1685281118-0-0-f99f519459088420fda7145a5830bc77
+https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1685281298-0-0-e9fa93b8357939bea911a2e1669f37b0
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Aus VPL: South Melbourne vs Green Gully" tvg-name="Aus VPL: South Melbourne vs Green Gully" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] Aus VPL: South Melbourne vs Green Gully [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1685281118-0-0-b06d2e8fcb56c94b51ee8f45e5636a1c
+https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1685281298-0-0-d5ed3f753465693cc723775ee1821097
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=0568580310596b392b903ff46b7b4e7b&txTime=6473595e
+https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=3bf4cecbcb2f3abf1fc5a6087555d4fd&txTime=64735a12
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230203/e7fcb68b4a251675c8343c19e58289d7.png",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]BLV G Hip[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991127_lhd.m3u8?txSecret=64ac11fd546414a869d007be8d9f2fe4&txTime=6473595e
+https://sports01.livnvess.com/live/stream-991127_lhd.m3u8?txSecret=ee7070d35efe2a8ccb93646652b425df&txTime=64735a12
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="JPN D1: Kawasaki Frontale vs Kashiwa Reysol" tvg-name="JPN D1: Kawasaki Frontale vs Kashiwa Reysol" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] JPN D1: Kawasaki Frontale vs Kashiwa Reysol [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1685281118-0-0-0c53cc5e40a470dfc55f35a519aeedc1
+https://sports01.livnvess.com/live/stream-360663_lhd.m3u8?txSecret=2575b7e2a3e0f2b200a6bdd8a14a9453&txTime=64735a12
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="JPN D1: Kawasaki Frontale vs Kashiwa Reysol" tvg-name="JPN D1: Kawasaki Frontale vs Kashiwa Reysol" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] JPN D1: Kawasaki Frontale vs Kashiwa Reysol [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1685281298-0-0-d19a4a8d515cc0d6369897e6a796b5ac
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
