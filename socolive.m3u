@@ -1,40 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="VIE D2: Binh Thuan vs Binh Phuoc" tvg-name="VIE D2: Binh Thuan vs Binh Phuoc" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] VIE D2: Binh Thuan vs Binh Phuoc [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=18f87ef6b93360423792c7b1ca5dcc4f&txTime=6474ca82
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE D2: Binh Thuan vs Binh Phuoc" tvg-name="VIE D2: Binh Thuan vs Binh Phuoc" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] VIE D2: Binh Thuan vs Binh Phuoc [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1685375618-0-0-66cb24e5d706a2b02ddfec931f5647c0
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE D2: Binh Thuan vs Binh Phuoc" tvg-name="VIE D2: Binh Thuan vs Binh Phuoc" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] VIE D2: Binh Thuan vs Binh Phuoc [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1685375618-0-0-a4808a1b9d29fab283b134d86e14c3f8
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BHU SL: Thimphu Raven vs Tsirang" tvg-name="BHU SL: Thimphu Raven vs Tsirang" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] BHU SL: Thimphu Raven vs Tsirang [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1685375618-0-0-b8984bb9906165ab28ff8937dd7aa428
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BHU SL: Thimphu Raven vs Tsirang" tvg-name="BHU SL: Thimphu Raven vs Tsirang" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] BHU SL: Thimphu Raven vs Tsirang [COLOR yellow]Tạ Biên Giới[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1685375618-0-0-5852364bf9f64ead6dd48a006f0251b1
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE D2: Binh Thuan vs Binh Phuoc" tvg-name="VIE D2: Binh Thuan vs Binh Phuoc" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] VIE D2: Binh Thuan vs Binh Phuoc [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-348199_lhd.m3u8?auth_key=1685375618-0-0-b69eca1ddca188519cc5f767c120028a
+#EXTINF:-1 tvg-id="RUS D3-3: FK Khimki Reserve vs FK Kvant Obninsk" tvg-name="RUS D3-3: FK Khimki Reserve vs FK Kvant Obninsk" tvg-logo="https://sta.vnres.co/file/head/20230312/aaa07ce8e1ac249c6793fc567dbe11a1.jpg",[COLOR red][LIVE][/COLOR] RUS D3-3: FK Khimki Reserve vs FK Kvant Obninsk [COLOR yellow]SUNNY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-104707_lhd.m3u8?txSecret=673949bfb4209c56747cc9c035b21e58&txTime=6474cb36
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE D2: Binh Thuan vs Binh Phuoc" tvg-name="VIE D2: Binh Thuan vs Binh Phuoc" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] VIE D2: Binh Thuan vs Binh Phuoc [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1685375618-0-0-3d894e51ff0124c6f2b3403ad61e0592
+https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1685375798-0-0-8d4944abc807e45e50cf90602956a359
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE D2: Binh Thuan vs Binh Phuoc" tvg-name="VIE D2: Binh Thuan vs Binh Phuoc" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] VIE D2: Binh Thuan vs Binh Phuoc [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=057cc53e88b598e6f3d504e21296128e&txTime=6474ca82
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BHU SL: Thimphu Raven vs Tsirang" tvg-name="BHU SL: Thimphu Raven vs Tsirang" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] BHU SL: Thimphu Raven vs Tsirang [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=701f1902b6bc4297337fd10190dac1c1&txTime=6474ca82
+#EXTINF:-1 tvg-id="VIE D2: Binh Thuan vs Binh Phuoc" tvg-name="VIE D2: Binh Thuan vs Binh Phuoc" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] VIE D2: Binh Thuan vs Binh Phuoc [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=7dc00b792ef7a2672754d15f38902a56&txTime=6474cb36
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="RUS D3-3: FK Khimki Reserve vs FK Kvant Obninsk" tvg-name="RUS D3-3: FK Khimki Reserve vs FK Kvant Obninsk" tvg-logo="https://sta.vnres.co/file/head/20230328/c19057ab3245d1531de39f82e3b38099.jpg",[COLOR red][LIVE][/COLOR] RUS D3-3: FK Khimki Reserve vs FK Kvant Obninsk [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1685375618-0-0-63affcbe570d50bb1b5ad2205500fa49
+https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1685375798-0-0-e79cc9efc959da3097f645f3f13b7505
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE D2: Binh Thuan vs Binh Phuoc" tvg-name="VIE D2: Binh Thuan vs Binh Phuoc" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] VIE D2: Binh Thuan vs Binh Phuoc [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1685375798-0-0-501ab83f3ef2eba00f4fb69a335e40fe
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BHU SL: Thimphu Raven vs Tsirang" tvg-name="BHU SL: Thimphu Raven vs Tsirang" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",[COLOR red][LIVE][/COLOR] BHU SL: Thimphu Raven vs Tsirang [COLOR yellow]BLV TONY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=c900597b055b59c98c6e8fb8209b6404&txTime=6474ca82
+https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=bfbd92eaefe638899da7154068ce3ac4&txTime=6474cb36
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE D2: Binh Thuan vs Binh Phuoc" tvg-name="VIE D2: Binh Thuan vs Binh Phuoc" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] VIE D2: Binh Thuan vs Binh Phuoc [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=50e7f65b0d77c59a3b4456a941d50ca8&txTime=6474cb36
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE D2: Binh Thuan vs Binh Phuoc" tvg-name="VIE D2: Binh Thuan vs Binh Phuoc" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] VIE D2: Binh Thuan vs Binh Phuoc [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1685375798-0-0-96fefd4b444082f810cfdb049a0ffe63
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE D2: Binh Thuan vs Binh Phuoc" tvg-name="VIE D2: Binh Thuan vs Binh Phuoc" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] VIE D2: Binh Thuan vs Binh Phuoc [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-348199_lhd.m3u8?auth_key=1685375798-0-0-42c429ac880dfd6ea5721a18795c4628
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="RUS D3-3: FK Khimki Reserve vs FK Kvant Obninsk" tvg-name="RUS D3-3: FK Khimki Reserve vs FK Kvant Obninsk" tvg-logo="https://sta.vnres.co/file/head/20230502/68132d91f46669cc419a689e6925c70b.jpg",[COLOR red][LIVE][/COLOR] RUS D3-3: FK Khimki Reserve vs FK Kvant Obninsk [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=2ae954b8033ddf272299690b66052999&txTime=6474ca82
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="RUS D3-3: FK Khimki Reserve vs FK Kvant Obninsk" tvg-name="RUS D3-3: FK Khimki Reserve vs FK Kvant Obninsk" tvg-logo="https://sta.vnres.co/file/head/20230312/aaa07ce8e1ac249c6793fc567dbe11a1.jpg",[COLOR red][LIVE][/COLOR] RUS D3-3: FK Khimki Reserve vs FK Kvant Obninsk [COLOR yellow]SUNNY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-104707_lhd.m3u8?txSecret=babca1f0d55cfb2c4a455c40a026d8b5&txTime=6474ca82
+https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=09a7032eca7a6f0f2ecaf9930b846bab&txTime=6474cb36
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
