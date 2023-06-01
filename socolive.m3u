@@ -1,58 +1,70 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="VIE D1: Becamex Binh Duong vs Thanh Hoa FC" tvg-name="VIE D1: Becamex Binh Duong vs Thanh Hoa FC" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] VIE D1: Becamex Binh Duong vs Thanh Hoa FC [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1685641118-0-0-92bebac069437df5d4ce4a44f020dac4
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE D1: Becamex Binh Duong vs Thanh Hoa FC" tvg-name="VIE D1: Becamex Binh Duong vs Thanh Hoa FC" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] VIE D1: Becamex Binh Duong vs Thanh Hoa FC [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1685641118-0-0-25235bc6138d6c8356758828a6655810
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="RUS D3-3: Peresvet Podolsk vs FK Khimki Reserve" tvg-name="RUS D3-3: Peresvet Podolsk vs FK Khimki Reserve" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] RUS D3-3: Peresvet Podolsk vs FK Khimki Reserve [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-348199_lhd.m3u8?auth_key=1685641118-0-0-4d42e653a79450a0d027964b2dfe37c1
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE D1: Becamex Binh Duong vs Thanh Hoa FC" tvg-name="VIE D1: Becamex Binh Duong vs Thanh Hoa FC" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] VIE D1: Becamex Binh Duong vs Thanh Hoa FC [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=2b94f92eb72e30244b7428bace345047&txTime=6478d79e
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="KAZ D1: Akademiya Ontustik vs Turan Turkistan" tvg-name="KAZ D1: Akademiya Ontustik vs Turan Turkistan" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] KAZ D1: Akademiya Ontustik vs Turan Turkistan [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=026bfa91b4d57373d74ea8597ef687f3&txTime=6478d79e
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="KAZ D1: Akademiya Ontustik vs Turan Turkistan" tvg-name="KAZ D1: Akademiya Ontustik vs Turan Turkistan" tvg-logo="https://sta.vnres.co/file/head/20220703/14d4eb5fc2cadd8c2b7d1a724ebd9cff.jpg",[COLOR red][LIVE][/COLOR] KAZ D1: Akademiya Ontustik vs Turan Turkistan [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1685641118-0-0-b9000a499dc9d5b65c38213260ff7e53
+https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1685641298-0-0-86f9d84c842d0e74f91d44a707d1294a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="RUS D3-3: Peresvet Podolsk vs FK Khimki Reserve" tvg-name="RUS D3-3: Peresvet Podolsk vs FK Khimki Reserve" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] RUS D3-3: Peresvet Podolsk vs FK Khimki Reserve [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1685641118-0-0-98ea3a2b730a73ba741895b6b4ed79cd
+https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1685641298-0-0-c0b5c89c9fd411443252815e1f002771
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE D1: Becamex Binh Duong vs Thanh Hoa FC" tvg-name="VIE D1: Becamex Binh Duong vs Thanh Hoa FC" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] VIE D1: Becamex Binh Duong vs Thanh Hoa FC [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=ed09080b1fc5554b18d1b4b8fbee16f0&txTime=6478d852
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE D1: Becamex Binh Duong vs Thanh Hoa FC" tvg-name="VIE D1: Becamex Binh Duong vs Thanh Hoa FC" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] VIE D1: Becamex Binh Duong vs Thanh Hoa FC [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1685641298-0-0-9e7ec89db49d7dd71c9c966c1d0b71cd
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE D1: Becamex Binh Duong vs Thanh Hoa FC" tvg-name="VIE D1: Becamex Binh Duong vs Thanh Hoa FC" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] VIE D1: Becamex Binh Duong vs Thanh Hoa FC [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1685641298-0-0-a472852014bda4ab39957c1c2c68c0e3
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE D1: Becamex Binh Duong vs Thanh Hoa FC" tvg-name="VIE D1: Becamex Binh Duong vs Thanh Hoa FC" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",[COLOR red][LIVE][/COLOR] VIE D1: Becamex Binh Duong vs Thanh Hoa FC [COLOR yellow]GIÀ LÀNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1685641118-0-0-3b3786f2e6f128fbfeed93d41b42599d
+https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1685641298-0-0-2c61ca784a80390f9e4be941e9d5c974
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="KAZ D1: Akademiya Ontustik vs Turan Turkistan" tvg-name="KAZ D1: Akademiya Ontustik vs Turan Turkistan" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] KAZ D1: Akademiya Ontustik vs Turan Turkistan [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=664ab8bfe437045a24836b5bcaa84ab4&txTime=6478d852
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE D1: Becamex Binh Duong vs Thanh Hoa FC" tvg-name="VIE D1: Becamex Binh Duong vs Thanh Hoa FC" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] VIE D1: Becamex Binh Duong vs Thanh Hoa FC [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=98f704172e3e9453cbe1c54f1654f0e9&txTime=6478d79e
+https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=a970e066882317bffdbf8ad45ae90d0a&txTime=6478d852
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE D1: Becamex Binh Duong vs Thanh Hoa FC" tvg-name="VIE D1: Becamex Binh Duong vs Thanh Hoa FC" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] VIE D1: Becamex Binh Duong vs Thanh Hoa FC [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1685641118-0-0-b4c22e14114f54560afd7ceb459b75ec
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="AUS NSWW: Sydney Olympic Women's vs Northern Tigers Women's" tvg-name="AUS NSWW: Sydney Olympic Women's vs Northern Tigers Women's" tvg-logo="https://sta.vnres.co/file/head/20230405/ec1bee82e4d11675221774242cd75d76.jpg",[COLOR red][LIVE][/COLOR] AUS NSWW: Sydney Olympic Women's vs Northern Tigers Women's [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=51768e491e10cda20eb6adb0890e6e93&txTime=6478d79e
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SIN D1: Balestier Khalsa FC vs Lion City Sailors" tvg-name="SIN D1: Balestier Khalsa FC vs Lion City Sailors" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] SIN D1: Balestier Khalsa FC vs Lion City Sailors [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1685641118-0-0-911680d01d1140f392e0f625e39e2713
+https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1685641298-0-0-b2ea9671131df6bb0b443a301f87bca6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SIN D1: Balestier Khalsa FC vs Lion City Sailors" tvg-name="SIN D1: Balestier Khalsa FC vs Lion City Sailors" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] SIN D1: Balestier Khalsa FC vs Lion City Sailors [COLOR yellow]BLV PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1685641118-0-0-458a7a62a0b98e9528c4f0d7740dc742
+https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1685641298-0-0-450b7552bce4f85bae0c6c35722e995f
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="RUS D3-3: Peresvet Podolsk vs FK Khimki Reserve" tvg-name="RUS D3-3: Peresvet Podolsk vs FK Khimki Reserve" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] RUS D3-3: Peresvet Podolsk vs FK Khimki Reserve [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-348199_lhd.m3u8?auth_key=1685641298-0-0-60f5dd09938997212500f94e394ad156
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE D1: Viettel vs Song Lam Nghe An" tvg-name="VIE D1: Viettel vs Song Lam Nghe An" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] VIE D1: Viettel vs Song Lam Nghe An [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=3a2773c553e33e64f4da2eabf889fa1c&txTime=6478d852
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SIN D1: Balestier Khalsa FC vs Lion City Sailors" tvg-name="SIN D1: Balestier Khalsa FC vs Lion City Sailors" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] SIN D1: Balestier Khalsa FC vs Lion City Sailors [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1685641118-0-0-0578bd0ccc734dbe3b03d6d7fee568d5
+https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1685641298-0-0-56f6621f2aa9f27207691b1d2e2fc6c9
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SIN D1: Balestier Khalsa FC vs Lion City Sailors" tvg-name="SIN D1: Balestier Khalsa FC vs Lion City Sailors" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] SIN D1: Balestier Khalsa FC vs Lion City Sailors [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1685641298-0-0-d49402cecd4ed1f3e8a38c3e863dfa4c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Corinthians Paulista (SP vs. Atletico Mineiro (MG" tvg-name="Corinthians Paulista (SP vs. Atletico Mineiro (MG" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg",[COLOR red][LIVE][/COLOR] Corinthians Paulista (SP vs. Atletico Mineiro (MG [COLOR yellow]BLV DIHI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=19040971ffd6ef470915e6436e93410b&txTime=6478d79e
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="GEO D1: Samtredia vs Samgurali Tskh" tvg-name="GEO D1: Samtredia vs Samgurali Tskh" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] GEO D1: Samtredia vs Samgurali Tskh [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1685641118-0-0-376b434803767939820796ce9b334954
+https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=e52c65ae80069022c44db7f14032cc42&txTime=6478d852
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="GEO D1: Samtredia vs Samgurali Tskh" tvg-name="GEO D1: Samtredia vs Samgurali Tskh" tvg-logo="https://sta.vnres.co/file/head/20230328/c19057ab3245d1531de39f82e3b38099.jpg",[COLOR red][LIVE][/COLOR] GEO D1: Samtredia vs Samgurali Tskh [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1685641118-0-0-a9bfe6860f4c4d2c13d153fed2f4a532
+https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1685641298-0-0-69224492025942b36dece251884e77a1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SIN D1: Balestier Khalsa FC vs Lion City Sailors" tvg-name="SIN D1: Balestier Khalsa FC vs Lion City Sailors" tvg-logo="https://sta.vnres.co/file/head/20230114/4e19d9ee44846c0eb6a0721271ef1cc9.jpg",[COLOR red][LIVE][/COLOR] SIN D1: Balestier Khalsa FC vs Lion City Sailors [COLOR yellow]BLV Củ Chuối[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=4ab5fac149c2c9d74bcfd0bca85d16ad&txTime=6478d79e
+https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=110ad5d19f17aa524be926a1328797a0&txTime=6478d852
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="GEO D1: Samtredia vs Samgurali Tskh" tvg-name="GEO D1: Samtredia vs Samgurali Tskh" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] GEO D1: Samtredia vs Samgurali Tskh [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1685641298-0-0-da4782c5961ffee8c354c51441b5e4ba
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="GEO D1: Samtredia vs Samgurali Tskh" tvg-name="GEO D1: Samtredia vs Samgurali Tskh" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] GEO D1: Samtredia vs Samgurali Tskh [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=b953045f4e4499b49ae0b401e968ab9b&txTime=6478d852
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="GEO D1: FC Shukura Kobuleti vs Gagra Tbilisi" tvg-name="GEO D1: FC Shukura Kobuleti vs Gagra Tbilisi" tvg-logo="https://sta.vnres.co/file/head/20230312/aaa07ce8e1ac249c6793fc567dbe11a1.jpg",[COLOR red][LIVE][/COLOR] GEO D1: FC Shukura Kobuleti vs Gagra Tbilisi [COLOR yellow]SUNNY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-104707_lhd.m3u8?txSecret=e13dbf6701863ab548d5d31e1e5d26d1&txTime=6478d852
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="GEO D1: FC Shukura Kobuleti vs Gagra Tbilisi" tvg-name="GEO D1: FC Shukura Kobuleti vs Gagra Tbilisi" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] GEO D1: FC Shukura Kobuleti vs Gagra Tbilisi [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=d8844f0aa40509be40f67b7ea4c1eac9&txTime=6478d79e
+https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=78b54f2621fa900d4a5747ec524d1e22&txTime=6478d852
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="GEO D1: Samtredia vs Samgurali Tskh" tvg-name="GEO D1: Samtredia vs Samgurali Tskh" tvg-logo="https://sta.vnres.co/file/head/20230506/b6a7ea571d1c6f7ee48d9c827998bfcc.png",[COLOR red][LIVE][/COLOR] GEO D1: Samtredia vs Samgurali Tskh [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1685641298-0-0-d32d043d4bf5af5c871a79148fe679df
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="KAZ D1: Akademiya Ontustik vs Turan Turkistan" tvg-name="KAZ D1: Akademiya Ontustik vs Turan Turkistan" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] KAZ D1: Akademiya Ontustik vs Turan Turkistan [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=300548243d42ca2c00b650ec9671f6ed&txTime=6478d852
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
