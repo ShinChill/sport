@@ -1,58 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NBA: Denver Nuggets vs Miami Heat" tvg-name="NBA: Denver Nuggets vs Miami Heat" tvg-logo="https://sta.vnres.co/file/head/20230602/982cb65999e3312c138a809990427401.jpg",[COLOR red][LIVE][/COLOR] NBA: Denver Nuggets vs Miami Heat [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1685693678-0-0-32356a96f5b0c0b4c46f7ba87e1b7e57
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="PER D1: Sporting Cristal vs Cienciano" tvg-name="PER D1: Sporting Cristal vs Cienciano" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] PER D1: Sporting Cristal vs Cienciano [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1685693678-0-0-f5209091cbb0d85da867a7c7ea1f0df9
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="NBA: Denver Nuggets vs Miami Heat" tvg-name="NBA: Denver Nuggets vs Miami Heat" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] NBA: Denver Nuggets vs Miami Heat [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1685693678-0-0-80aa7f6ceb333b1f0f7fcba9e4403b84
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="COL D1: Atletico Nacional vs Rionegro Aguilas" tvg-name="COL D1: Atletico Nacional vs Rionegro Aguilas" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] COL D1: Atletico Nacional vs Rionegro Aguilas [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=7d41f740ab4d668f7a0fb702f96951a2&txTime=6479a4ee
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ARG D1: Arsenal de Sarandi vs Boca Juniors" tvg-name="ARG D1: Arsenal de Sarandi vs Boca Juniors" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] ARG D1: Arsenal de Sarandi vs Boca Juniors [COLOR yellow]BLV PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1685693678-0-0-ad9dde62fed833b38de4123b6ab79a95
+https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=394aacdd3bebee548f28d8665f61e7c6&txTime=6479a5a2
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="COL D1: Atletico Nacional vs Rionegro Aguilas" tvg-name="COL D1: Atletico Nacional vs Rionegro Aguilas" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] COL D1: Atletico Nacional vs Rionegro Aguilas [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1685693678-0-0-1d61f308b711dc2e138ed224215b96af
+https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1685693858-0-0-71e80d6d55039bdc539a50dede3c4692
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ARG D1: Arsenal de Sarandi vs Boca Juniors" tvg-name="ARG D1: Arsenal de Sarandi vs Boca Juniors" tvg-logo="https://sta.vnres.co/file/head/20230531/a65b09d4765e44cc553238866493c91e.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Arsenal de Sarandi vs Boca Juniors [COLOR yellow]BLV CAPTAIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pullalilive.livnvess.com/live/stream-231997.m3u8?auth_key=1685693678-0-0-f0cdbdb4e20b5aa7f1d02e059acd2f2b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="COL D1: Atletico Nacional vs Rionegro Aguilas" tvg-name="COL D1: Atletico Nacional vs Rionegro Aguilas" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] COL D1: Atletico Nacional vs Rionegro Aguilas [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1685693678-0-0-d367daf6749f80d46b8e6a3ec1ef7c0c
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ARG D1: Arsenal de Sarandi vs Boca Juniors" tvg-name="ARG D1: Arsenal de Sarandi vs Boca Juniors" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Arsenal de Sarandi vs Boca Juniors [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=df2dd6eca372a7f68691e8bb5fe382ae&txTime=6479a4ee
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="NBA: Denver Nuggets vs Miami Heat" tvg-name="NBA: Denver Nuggets vs Miami Heat" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] NBA: Denver Nuggets vs Miami Heat [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1685693678-0-0-6867e7a9626883f933f89e6b680cd94f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="NBA: Denver Nuggets vs Miami Heat" tvg-name="NBA: Denver Nuggets vs Miami Heat" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] NBA: Denver Nuggets vs Miami Heat [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=bc4652f9e7b098fbb1cf244fd1028fad&txTime=6479a4ee
+#EXTINF:-1 tvg-id="ARG D1: Arsenal de Sarandi vs Boca Juniors" tvg-name="ARG D1: Arsenal de Sarandi vs Boca Juniors" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] ARG D1: Arsenal de Sarandi vs Boca Juniors [COLOR yellow]BLV PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1685693858-0-0-bd299298ec8b679a8f358c87e7b00c1a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="PER D1: Sporting Cristal vs Cienciano" tvg-name="PER D1: Sporting Cristal vs Cienciano" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] PER D1: Sporting Cristal vs Cienciano [COLOR yellow]Tạ Biên Giới[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1685693678-0-0-56cf75789c02061f2d424efd91903d79
+https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1685693858-0-0-0a4cd8fefe8fece566909ffd20398fe8
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="NBA: Denver Nuggets vs Miami Heat" tvg-name="NBA: Denver Nuggets vs Miami Heat" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] NBA: Denver Nuggets vs Miami Heat [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=133f7c732b267ee1a3012a8ffb331f72&txTime=6479a5a2
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ARG D1: Arsenal de Sarandi vs Boca Juniors" tvg-name="ARG D1: Arsenal de Sarandi vs Boca Juniors" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Arsenal de Sarandi vs Boca Juniors [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=02de56854c11a68ef689f415bbbe8638&txTime=6479a5a2
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="NBA: Denver Nuggets vs Miami Heat" tvg-name="NBA: Denver Nuggets vs Miami Heat" tvg-logo="https://sta.vnres.co/file/head/20230602/982cb65999e3312c138a809990427401.jpg",[COLOR red][LIVE][/COLOR] NBA: Denver Nuggets vs Miami Heat [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1685693858-0-0-5c638fcdbe568da9883a1e1a1465f9b6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="PER D1: Sporting Cristal vs Cienciano" tvg-name="PER D1: Sporting Cristal vs Cienciano" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] PER D1: Sporting Cristal vs Cienciano [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1685693858-0-0-e40814f0c46d9fdc24407d960a704412
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="COL D1: Atletico Nacional vs Rionegro Aguilas" tvg-name="COL D1: Atletico Nacional vs Rionegro Aguilas" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] COL D1: Atletico Nacional vs Rionegro Aguilas [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1685693858-0-0-5c7ee904edbebcaf4ebec8e2ae82e1f2
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ARG D1: Arsenal de Sarandi vs Boca Juniors" tvg-name="ARG D1: Arsenal de Sarandi vs Boca Juniors" tvg-logo="https://sta.vnres.co/file/head/20230531/a65b09d4765e44cc553238866493c91e.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Arsenal de Sarandi vs Boca Juniors [COLOR yellow]BLV CAPTAIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pullalilive.livnvess.com/live/stream-231997.m3u8?auth_key=1685693858-0-0-2d34f12ca997c1511a98b90eaf61d71f
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="NBA: Denver Nuggets vs Miami Heat" tvg-name="NBA: Denver Nuggets vs Miami Heat" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] NBA: Denver Nuggets vs Miami Heat [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1685693858-0-0-7e71eb6ce3fd2e74eeaa18d5bbb91e22
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="NBA: Denver Nuggets vs Miami Heat" tvg-name="NBA: Denver Nuggets vs Miami Heat" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] NBA: Denver Nuggets vs Miami Heat [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1685693858-0-0-218a4a5e5f0deb47c28ea761ef5dd04b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="PER D1: Sporting Cristal vs Cienciano" tvg-name="PER D1: Sporting Cristal vs Cienciano" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] PER D1: Sporting Cristal vs Cienciano [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1685693678-0-0-345e982a477b758a1fcba98c82c6e3d4
+https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1685693858-0-0-bc7e3da13ef9a3d9ee83b657d36c9964
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Arsenal de Sarandi vs Boca Juniors" tvg-name="ARG D1: Arsenal de Sarandi vs Boca Juniors" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Arsenal de Sarandi vs Boca Juniors [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-379816_lhd.m3u8?auth_key=1685693678-0-0-0453dcea16ad10b23d05aa24b36a620a
+https://pull06.scstream.net/live/stream-379816_lhd.m3u8?auth_key=1685693858-0-0-b7b2dc6c33d7d8934950319656e9c479
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="NBA: Denver Nuggets vs Miami Heat" tvg-name="NBA: Denver Nuggets vs Miami Heat" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] NBA: Denver Nuggets vs Miami Heat [COLOR yellow]BLV KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-168964_lhd.m3u8?txSecret=eb4a56acc7d7b0afdb5fd15168c38cdd&txTime=6479a4ee
+https://sports01.livnvess.com/live/stream-168964_lhd.m3u8?txSecret=af724b4cd0bbb2ee8bd3c50f63996ce6&txTime=6479a5a2
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="COL D1: Atletico Nacional vs Rionegro Aguilas" tvg-name="COL D1: Atletico Nacional vs Rionegro Aguilas" tvg-logo="https://sta.vnres.co/file/head/20221220/15cddfa1880beb36bfbea12feedfec95.jpg",[COLOR red][LIVE][/COLOR] COL D1: Atletico Nacional vs Rionegro Aguilas [COLOR yellow]BLV BRUCE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=bbe7e5fe3416360b40d8a5647ca3c437&txTime=6479a4ee
+https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=35caf1a58cb549ee0960cc58a2f77b33&txTime=6479a5a2
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="NBA: Denver Nuggets vs Miami Heat" tvg-name="NBA: Denver Nuggets vs Miami Heat" tvg-logo="https://sta.vnres.co/file/pic/202111/19/f8e41da7a8955dddd469d2cbe3e57716",[COLOR red][LIVE][/COLOR] NBA: Denver Nuggets vs Miami Heat [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1685693678-0-0-25e6659ecbcca085171034e76bf0bd45
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="PER D1: Sporting Cristal vs Cienciano" tvg-name="PER D1: Sporting Cristal vs Cienciano" tvg-logo="https://sta.vnres.co/file/head/20230329/571b39ae2e8e91a9b9ee7b45d829eba1.jpg",[COLOR red][LIVE][/COLOR] PER D1: Sporting Cristal vs Cienciano [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=7e14031e666f9d683f59a794b49a128d&txTime=6479a4ee
+https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1685693858-0-0-4437c6ed71f06c41c1281933f02d3b89
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="PER D1: Sporting Cristal vs Cienciano" tvg-name="PER D1: Sporting Cristal vs Cienciano" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",[COLOR red][LIVE][/COLOR] PER D1: Sporting Cristal vs Cienciano [COLOR yellow]BLV TONY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=7b198a6c9b454133daa83eb93d32c63b&txTime=6479a4ee
+https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=784ac78976cc0382ffa0e44bc290104b&txTime=6479a5a2
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="PER D1: Sporting Cristal vs Cienciano" tvg-name="PER D1: Sporting Cristal vs Cienciano" tvg-logo="https://sta.vnres.co/file/head/20230329/571b39ae2e8e91a9b9ee7b45d829eba1.jpg",[COLOR red][LIVE][/COLOR] PER D1: Sporting Cristal vs Cienciano [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=2c9d974574c5d95cbc765f1ddba8f231&txTime=6479a5a2
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="COL D1: Atletico Nacional vs Rionegro Aguilas" tvg-name="COL D1: Atletico Nacional vs Rionegro Aguilas" tvg-logo="https://sta.vnres.co/file/head/20230502/68132d91f46669cc419a689e6925c70b.jpg",[COLOR red][LIVE][/COLOR] COL D1: Atletico Nacional vs Rionegro Aguilas [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=0268e424976e289ef94633f2354ce9f6&txTime=6479a5a9
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
