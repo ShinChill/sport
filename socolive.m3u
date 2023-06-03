@@ -1,82 +1,79 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FIFA U20: Israel(U20 vs Brazil(U20" tvg-name="FIFA U20: Israel(U20 vs Brazil(U20" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg",[COLOR red][LIVE][/COLOR] FIFA U20: Israel(U20 vs Brazil(U20 [COLOR yellow]BLV FANCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1685836418-0-0-8057993f019963160f61dd4e8c55e646
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ITA D1: Torino vs Inter Milan" tvg-name="ITA D1: Torino vs Inter Milan" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] ITA D1: Torino vs Inter Milan [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=2cc802b836b98fc683c6d4fa82b987bd&txTime=647bd282
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SCOFAC: Celtic vs Inverness C.T." tvg-name="SCOFAC: Celtic vs Inverness C.T." tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] SCOFAC: Celtic vs Inverness C.T. [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=60a33ac24ebcda6ce03265c696d1a5dd&txTime=647bd282
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ITA D1:Torino vs Inter Milan" tvg-name="ITA D1:Torino vs Inter Milan" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] ITA D1:Torino vs Inter Milan [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=09e58264cdf1cb94c92db7724a2e934d&txTime=647bd282
+https://sports01.livnvess.com/live/stream-991124_lhd.m3u8?txSecret=ed30b606ef8603806087fa4342bc88f1&txTime=647bd336
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ITA D1: Torino vs Inter Milan" tvg-name="ITA D1: Torino vs Inter Milan" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Torino vs Inter Milan [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1685836418-0-0-82938334958a3cd5daf21c3ea1ec4340
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1685836598-0-0-5100abfb8de95fe267929d39783fdac9
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="TUR D1: Kasimpasa S.K. vs Besiktas JK" tvg-name="TUR D1: Kasimpasa S.K. vs Besiktas JK" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg",[COLOR red][LIVE][/COLOR] TUR D1: Kasimpasa S.K. vs Besiktas JK [COLOR yellow]BLV CHOVY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-319191_lhd.m3u8?auth_key=1685836418-0-0-aba0b4bbcc1c36a9f3912c30180d159e
+#EXTINF:-1 tvg-id="SCOFAC: Celtic vs Inverness C.T." tvg-name="SCOFAC: Celtic vs Inverness C.T." tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] SCOFAC: Celtic vs Inverness C.T. [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=ff29a7e830b4194d1baabeda95be3e4d&txTime=647bd336
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ITA D1: Torino vs Inter Milan" tvg-name="ITA D1: Torino vs Inter Milan" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] ITA D1: Torino vs Inter Milan [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=cd99c839fb1651da168bb2ba514cb4c3&txTime=647bd336
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SCOFAC: Celtic vs Inverness C.T." tvg-name="SCOFAC: Celtic vs Inverness C.T." tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] SCOFAC: Celtic vs Inverness C.T. [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=599d79b095cfb7a97c98605d121c38d9&txTime=647bd282
+https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=0a4db93e74add9966685d5beae570cd4&txTime=647bd336
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ITA D1: Torino vs Inter Milan" tvg-name="ITA D1: Torino vs Inter Milan" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Torino vs Inter Milan [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1685836418-0-0-1b44afc88c35d0080c098fa0612679e5
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SPA D2: Eibar vs Alaves" tvg-name="SPA D2: Eibar vs Alaves" tvg-logo="https://sta.vnres.co/file/head/20220703/14d4eb5fc2cadd8c2b7d1a724ebd9cff.jpg",[COLOR red][LIVE][/COLOR] SPA D2: Eibar vs Alaves [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1685836418-0-0-8d04938efea336ef31097c10d441203b
+#EXTINF:-1 tvg-id="TUR D1: Kasimpasa S.K. vs Besiktas JK" tvg-name="TUR D1: Kasimpasa S.K. vs Besiktas JK" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg",[COLOR red][LIVE][/COLOR] TUR D1: Kasimpasa S.K. vs Besiktas JK [COLOR yellow]BLV CHOVY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-319191_lhd.m3u8?auth_key=1685836598-0-0-9960d7937ffc4b1dfc909e2eaaf52ed4
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SPA D2: Eibar vs Alaves" tvg-name="SPA D2: Eibar vs Alaves" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] SPA D2: Eibar vs Alaves [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=395373395c49c02d53878b266663597e&txTime=647bd282
+https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=1bc3cb94c3cfe354731b1c59c0a30324&txTime=647bd336
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ITA D1: Torino vs Inter Milan" tvg-name="ITA D1: Torino vs Inter Milan" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] ITA D1: Torino vs Inter Milan [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991128_lhd.m3u8?txSecret=24a0cafca11ae938e4d03ba5055c832f&txTime=647bd282
+#EXTINF:-1 tvg-id="FIFA U20: Israel(U20 vs Brazil(U20" tvg-name="FIFA U20: Israel(U20 vs Brazil(U20" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg",[COLOR red][LIVE][/COLOR] FIFA U20: Israel(U20 vs Brazil(U20 [COLOR yellow]BLV FANCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1685836598-0-0-d6fe362e1b9305d6d3e0e02454ceb517
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ITA D1: Torino vs Inter Milan" tvg-name="ITA D1: Torino vs Inter Milan" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Torino vs Inter Milan [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1685836598-0-0-baa91869fcc46bc02d385d147a820902
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ITA D1: Torino vs Inter Milan" tvg-name="ITA D1: Torino vs Inter Milan" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] ITA D1: Torino vs Inter Milan [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=5b856bf8eca95af133e9d7c50ddd27d7&txTime=647bd282
+https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=5234a1f5f2ad179f5021a776db9d498b&txTime=647bd336
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SPA D2: Eibar vs Alaves" tvg-name="SPA D2: Eibar vs Alaves" tvg-logo="https://sta.vnres.co/file/head/20220703/14d4eb5fc2cadd8c2b7d1a724ebd9cff.jpg",[COLOR red][LIVE][/COLOR] SPA D2: Eibar vs Alaves [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1685836598-0-0-8abd6c3716bf206c98437ad3a2685b64
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ITA D1: Torino vs Inter Milan" tvg-name="ITA D1: Torino vs Inter Milan" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] ITA D1: Torino vs Inter Milan [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991128_lhd.m3u8?txSecret=a848e21760bc5293932a0561bb28447f&txTime=647bd336
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="GERC: RB Leipzig vs Eintracht Frankfurt" tvg-name="GERC: RB Leipzig vs Eintracht Frankfurt" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] GERC: RB Leipzig vs Eintracht Frankfurt [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1685836418-0-0-31918f3f4443ec79a072c4536dee30bd
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1685836598-0-0-84c1808dbb156177cd8334971e9312f7
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIFA U20: Israel(U20 vs Brazil(U20" tvg-name="FIFA U20: Israel(U20 vs Brazil(U20" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] FIFA U20: Israel(U20 vs Brazil(U20 [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1685836418-0-0-0edc61d3875ce002c73a8cc01baa1bee
+https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1685836598-0-0-dede070702dc753a6210a5b8b271a2e1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="GERC: RB Leipzig vs Eintracht Frankfurt" tvg-name="GERC: RB Leipzig vs Eintracht Frankfurt" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] GERC: RB Leipzig vs Eintracht Frankfurt [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1685836418-0-0-77ab5601abf9b3c39eb3c49ec28351f6
+https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1685836598-0-0-f428c7a41bb20c12d85a605032e4b840
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Belgrano vs Velez Sarsfield" tvg-name="ARG D1: Belgrano vs Velez Sarsfield" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Belgrano vs Velez Sarsfield [COLOR yellow]Tạ Biên Giới[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1685836418-0-0-c9882e80f5d7c2b5dcb6bd68198fc665
+https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1685836598-0-0-ec9cc4fa5dffa720db4e72fd57ef4b07
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIFA U20: Israel(U20 vs Brazil(U20" tvg-name="FIFA U20: Israel(U20 vs Brazil(U20" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg",[COLOR red][LIVE][/COLOR] FIFA U20: Israel(U20 vs Brazil(U20 [COLOR yellow]BLV DIHI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=5e6989b60f1090906930d89f44399a69&txTime=647bd283
+https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=28a010cfab41819631920cc1e54fe12b&txTime=647bd336
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIFA U20: Israel(U20 vs Brazil(U20" tvg-name="FIFA U20: Israel(U20 vs Brazil(U20" tvg-logo="https://sta.vnres.co/file/head/20230329/571b39ae2e8e91a9b9ee7b45d829eba1.jpg",[COLOR red][LIVE][/COLOR] FIFA U20: Israel(U20 vs Brazil(U20 [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=74481c1addb8f6f79ea028093b881d27&txTime=647bd282
+https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=1ce97c7899ca3b765e2df52d43f8e089&txTime=647bd336
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TUR D1: Kasimpasa S.K. vs Besiktas JK" tvg-name="TUR D1: Kasimpasa S.K. vs Besiktas JK" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] TUR D1: Kasimpasa S.K. vs Besiktas JK [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1685836418-0-0-8b13953838d797e6e7021b55a2ee8295
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SUI D1: Sion vs Stade Lausanne-Ouchy" tvg-name="SUI D1: Sion vs Stade Lausanne-Ouchy" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][LIVE][/COLOR] SUI D1: Sion vs Stade Lausanne-Ouchy [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1685836419-0-0-f68c602862c11739ca3d0f29f3fcaef9
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SUI D1: Sion vs Stade Lausanne-Ouchy" tvg-name="SUI D1: Sion vs Stade Lausanne-Ouchy" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] SUI D1: Sion vs Stade Lausanne-Ouchy [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-348199_lhd.m3u8?txSecret=e95516bd2a0200ee7cbff21612d7e887&txTime=647bd283
+https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1685836598-0-0-539b0d0ca10321b21e54349e2eb6df6c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SUI D1: Sion vs Stade Lausanne-Ouchy" tvg-name="SUI D1: Sion vs Stade Lausanne-Ouchy" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] SUI D1: Sion vs Stade Lausanne-Ouchy [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991116_lhd.m3u8?txSecret=f743fc3980b04eda30ad9fa4741be604&txTime=647bd282
+https://sports01.livnvess.com/live/stream-991116_lhd.m3u8?txSecret=4cf341f2ae37cb126b92a2c4b11c2178&txTime=647bd336
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ARG D1: Belgrano vs Velez Sarsfield" tvg-name="ARG D1: Belgrano vs Velez Sarsfield" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Belgrano vs Velez Sarsfield [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1685836418-0-0-63727d4d8158684f5f85c4e564ea91f5
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="GERC: RB Leipzig vs Eintracht Frankfurt" tvg-name="GERC: RB Leipzig vs Eintracht Frankfurt" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",[COLOR red][LIVE][/COLOR] GERC: RB Leipzig vs Eintracht Frankfurt [COLOR yellow]BLV TAM MAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=0371c4b0036b53cc55620a5909df9acf&txTime=647bd282
+#EXTINF:-1 tvg-id="SUI D1: Sion vs Stade Lausanne-Ouchy" tvg-name="SUI D1: Sion vs Stade Lausanne-Ouchy" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][LIVE][/COLOR] SUI D1: Sion vs Stade Lausanne-Ouchy [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1685836598-0-0-233b182bc51e2c6b12e72c2fa052cfba
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="GERC: RB Leipzig vs Eintracht Frankfurt" tvg-name="GERC: RB Leipzig vs Eintracht Frankfurt" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] GERC: RB Leipzig vs Eintracht Frankfurt [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=14c9c2cd3cec866edcd8c8c9e287e5a5&txTime=647bd282
+https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=57f322af89986d3480a4cb85d03b0058&txTime=647bd336
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="GERC: RB Leipzig vs Eintracht Frankfurt" tvg-name="GERC: RB Leipzig vs Eintracht Frankfurt" tvg-logo="https://sta.vnres.co/file/head/20230203/e7fcb68b4a251675c8343c19e58289d7.png",[COLOR red][LIVE][/COLOR] GERC: RB Leipzig vs Eintracht Frankfurt [COLOR yellow]BLV G Hip[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991127_lhd.m3u8?txSecret=dd1a2673cff7c8be4879dd54937a178e&txTime=647bd282
+https://sports01.livnvess.com/live/stream-991127_lhd.m3u8?txSecret=33f9981e579f7b0bdb5f7d5988bb4d56&txTime=647bd336
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ARG D1: Belgrano vs Velez Sarsfield" tvg-name="ARG D1: Belgrano vs Velez Sarsfield" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Belgrano vs Velez Sarsfield [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1685836598-0-0-41c6f07cf5dad78878f53e8b7a915d5c
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="GERC: RB Leipzig vs Eintracht Frankfurt" tvg-name="GERC: RB Leipzig vs Eintracht Frankfurt" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",[COLOR red][LIVE][/COLOR] GERC: RB Leipzig vs Eintracht Frankfurt [COLOR yellow]BLV TAM MAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=f59dcdca8f78bd4bff08ea3a11b5e969&txTime=647bd336
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Belgrano vs Velez Sarsfield" tvg-name="ARG D1: Belgrano vs Velez Sarsfield" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Belgrano vs Velez Sarsfield [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-379816_lhd.m3u8?auth_key=1685836419-0-0-5b6e4c6eeab2dc4a9a35f2376c1a652b
+https://pull06.scstream.net/live/stream-379816_lhd.m3u8?auth_key=1685836598-0-0-0374c2ff3c066827b608fe674644f4e5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
