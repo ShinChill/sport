@@ -1,22 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="USA MLS: Los Angeles FC vs Atlanta United FC" tvg-name="USA MLS: Los Angeles FC vs Atlanta United FC" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] USA MLS: Los Angeles FC vs Atlanta United FC [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=694baa7c6373161e9ffa8a0b3c6c1da3&txTime=6481ac2b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA MLS: Los Angeles FC vs Atlanta United FC" tvg-name="USA MLS: Los Angeles FC vs Atlanta United FC" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Los Angeles FC vs Atlanta United FC [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1686219819-0-0-80f7bebded6a75d7204f784762594504
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA MLS: Los Angeles FC vs Atlanta United FC" tvg-name="USA MLS: Los Angeles FC vs Atlanta United FC" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] USA MLS: Los Angeles FC vs Atlanta United FC [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1686219819-0-0-78e9e4a6d5b3e30260846fd622e95326
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IBL: Tangerang Hawks vs Hangtuah" tvg-name="IBL: Tangerang Hawks vs Hangtuah" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] IBL: Tangerang Hawks vs Hangtuah [COLOR yellow]BLV KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-168964_lhd.m3u8?txSecret=e7d271a6b0a68c4c077477279d2181e1&txTime=6481ac2b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="IBL: Tangerang Hawks vs Hangtuah" tvg-name="IBL: Tangerang Hawks vs Hangtuah" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] IBL: Tangerang Hawks vs Hangtuah [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1686219819-0-0-31994ec5c983ae896de9448b209b15a9
+https://sports01.livnvess.com/live/stream-168964_lhd.m3u8?txSecret=996779a0e94f1d6a7c8d8fe0336f5c3a&txTime=6481acdf
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IBL: Tangerang Hawks vs Hangtuah" tvg-name="IBL: Tangerang Hawks vs Hangtuah" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] IBL: Tangerang Hawks vs Hangtuah [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1686219819-0-0-d6bc6f9d2137a8ddf94bb8f3007eb755
+https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1686219999-0-0-0414fcdfbe7bfc18871296d9e320d35e
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA MLS: Los Angeles FC vs Atlanta United FC" tvg-name="USA MLS: Los Angeles FC vs Atlanta United FC" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Los Angeles FC vs Atlanta United FC [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1686219999-0-0-77ace2e1f79ac51d20244c0db556391d
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA MLS: Los Angeles FC vs Atlanta United FC" tvg-name="USA MLS: Los Angeles FC vs Atlanta United FC" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] USA MLS: Los Angeles FC vs Atlanta United FC [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1686219999-0-0-257cc3377c896721054cb34c05ee2591
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA MLS: Los Angeles FC vs Atlanta United FC" tvg-name="USA MLS: Los Angeles FC vs Atlanta United FC" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] USA MLS: Los Angeles FC vs Atlanta United FC [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=2ce6235cdee8f6925ef69818db1de145&txTime=6481acdf
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="IBL: Tangerang Hawks vs Hangtuah" tvg-name="IBL: Tangerang Hawks vs Hangtuah" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] IBL: Tangerang Hawks vs Hangtuah [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1686219999-0-0-5ab26776a45f90118b011bafd62fadd0
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: Los Angeles FC vs Atlanta United FC" tvg-name="USA MLS: Los Angeles FC vs Atlanta United FC" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] USA MLS: Los Angeles FC vs Atlanta United FC [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1686219819-0-0-da3a055a851f1bc151b7dbdc7ff624e7
+https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1686219999-0-0-9a20f68ffba3e17998bcd2a2095d5ee2
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Tường thuật: UEFA ECL Fiorentina(N vs West Ham United" tvg-name="Tường thuật: UEFA ECL Fiorentina(N vs West Ham United" tvg-logo="https://sta.vnres.co/file/head/20230125/aae6c042505133c84ca7da96d3e9a801.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA ECL Fiorentina(N vs West Ham United [COLOR yellow]Soc Mi nhon[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-198448_lhd.m3u8?auth_key=1686219999-0-0-ca792f25518b9c434a7c84c969ba5016
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
