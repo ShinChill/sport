@@ -1,55 +1,40 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TOUT: France(U21 vs Costa Rica(U23" tvg-name="TOUT: France(U21 vs Costa Rica(U23" tvg-logo="https://sta.vnres.co/file/head/20230601/c6ea462493f77254cc60a4d35a10a594.jpg",[COLOR red][LIVE][/COLOR] TOUT: France(U21 vs Costa Rica(U23 [COLOR yellow]BLV LÂM XUNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-344687_lhd.m3u8?auth_key=1686266799-0-0-77a1d4e65b25759da2499fff27e72ba3
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIFA U20: Uruguay U20 vs Israel(U20" tvg-name="FIFA U20: Uruguay U20 vs Israel(U20" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] FIFA U20: Uruguay U20 vs Israel(U20 [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1686266799-0-0-1c3674fff1249725b98fc972614c78ab
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="TOUT: France(U21 vs Costa Rica(U23" tvg-name="TOUT: France(U21 vs Costa Rica(U23" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] TOUT: France(U21 vs Costa Rica(U23 [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=8e2e59711a949ae2661d91cd4c8e4ca1&txTime=648263c1
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="TOUT: France(U21 vs Costa Rica(U23" tvg-name="TOUT: France(U21 vs Costa Rica(U23" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] TOUT: France(U21 vs Costa Rica(U23 [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=8c1140323041674511669b91d4f1a250&txTime=648263af
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIFA U20: Uruguay U20 vs Israel(U20" tvg-name="FIFA U20: Uruguay U20 vs Israel(U20" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg",[COLOR red][LIVE][/COLOR] FIFA U20: Uruguay U20 vs Israel(U20 [COLOR yellow]MĂNG CỤT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1686266799-0-0-10728b6f83bc2359f40d311cf4b172eb
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="EGY D1: El Ismaily vs Tala'ea El Gaish" tvg-name="EGY D1: El Ismaily vs Tala'ea El Gaish" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] EGY D1: El Ismaily vs Tala'ea El Gaish [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1686266799-0-0-f368b384cc9093d5787919156af69205
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="EGY D1: El Ismaily vs Tala'ea El Gaish" tvg-name="EGY D1: El Ismaily vs Tala'ea El Gaish" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] EGY D1: El Ismaily vs Tala'ea El Gaish [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1686266799-0-0-1fcb58b6339aff90ca5240edf21d6456
+#EXTINF:-1 tvg-id="FIFA U20: Uruguay U20 vs Israel(U20" tvg-name="FIFA U20: Uruguay U20 vs Israel(U20" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] FIFA U20: Uruguay U20 vs Israel(U20 [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1686266979-0-0-eb1c7a2b422c6f2812496c22c5f04c40
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EGY D1: El Ismaily vs Tala'ea El Gaish" tvg-name="EGY D1: El Ismaily vs Tala'ea El Gaish" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] EGY D1: El Ismaily vs Tala'ea El Gaish [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=812310572cefd8db7090ca647f34a84a&txTime=648263af
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="TOUT: France(U21 vs Costa Rica(U23" tvg-name="TOUT: France(U21 vs Costa Rica(U23" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] TOUT: France(U21 vs Costa Rica(U23 [COLOR yellow]Tạ Biên Giới[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1686266799-0-0-818e2832d3fb32365028e49a9ba2d7c5
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIFA U20: Uruguay U20 vs Israel(U20" tvg-name="FIFA U20: Uruguay U20 vs Israel(U20" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] FIFA U20: Uruguay U20 vs Israel(U20 [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1686266799-0-0-54a26ac3f43dee473ceea4b4036d4177
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="TOUT: France(U21 vs Costa Rica(U23" tvg-name="TOUT: France(U21 vs Costa Rica(U23" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] TOUT: France(U21 vs Costa Rica(U23 [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1686266799-0-0-864f3e3bef63c7e131fe7eee9c2ac5c4
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIFA U20: Uruguay U20 vs Israel(U20" tvg-name="FIFA U20: Uruguay U20 vs Israel(U20" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] FIFA U20: Uruguay U20 vs Israel(U20 [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1686266799-0-0-0f1710217fa746936775abcd68857057
+https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=514c4d5589a67e27106ed35f115dc201&txTime=64826463
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TUN D1: Club Sportif Sfaxien vs US Ben Guerdane" tvg-name="TUN D1: Club Sportif Sfaxien vs US Ben Guerdane" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] TUN D1: Club Sportif Sfaxien vs US Ben Guerdane [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991136_lhd.m3u8?txSecret=eddc1a49cfd9fc9fa8022abed50b837c&txTime=648263af
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="EGY D1: El Ismaily vs Tala'ea El Gaish" tvg-name="EGY D1: El Ismaily vs Tala'ea El Gaish" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] EGY D1: El Ismaily vs Tala'ea El Gaish [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=9c6b726ae51da51ac4baacf231d02584&txTime=648263af
+https://sports01.livnvess.com/live/stream-991136_lhd.m3u8?txSecret=51d7e7c7711ca845c4d8fc4cff4f30e7&txTime=64826463
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TOUT: France(U21 vs Costa Rica(U23" tvg-name="TOUT: France(U21 vs Costa Rica(U23" tvg-logo="https://sta.vnres.co/file/head/20230603/76e9400ebfdb98838d029077819af144.jpg",[COLOR red][LIVE][/COLOR] TOUT: France(U21 vs Costa Rica(U23 [COLOR yellow]BLV VĂN TÍCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1686266799-0-0-b430e22b4310832dbe3bbf9db35016ac
+https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1686266980-0-0-6b797a222c3339d88936f2276c92534e
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="EGY D1: El Ismaily vs Tala'ea El Gaish" tvg-name="EGY D1: El Ismaily vs Tala'ea El Gaish" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] EGY D1: El Ismaily vs Tala'ea El Gaish [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1686266979-0-0-e3f737b6edbb0b5cafcb67d3b0abbeaf
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="FIFA U20: Uruguay U20 vs Israel(U20" tvg-name="FIFA U20: Uruguay U20 vs Israel(U20" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] FIFA U20: Uruguay U20 vs Israel(U20 [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1686266979-0-0-2a576b0ec8ef45999085ce1adb4a8bce
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LKL: Rytas vs Zalgiris Kaunas" tvg-name="LKL: Rytas vs Zalgiris Kaunas" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] LKL: Rytas vs Zalgiris Kaunas [COLOR yellow]BLV KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-168964_lhd.m3u8?txSecret=4d499ad1a7166c15ab670e8540588dd9&txTime=648263af
+https://sports01.livnvess.com/live/stream-168964_lhd.m3u8?txSecret=ecdad68119c70467378180f7cf90c691&txTime=64826463
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="EGY D1: El Ismaily vs Tala'ea El Gaish" tvg-name="EGY D1: El Ismaily vs Tala'ea El Gaish" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] EGY D1: El Ismaily vs Tala'ea El Gaish [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=217a7535c22746cd53bc62d1f415c5d8&txTime=64826463
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TUN D1: Club Sportif Sfaxien vs US Ben Guerdane" tvg-name="TUN D1: Club Sportif Sfaxien vs US Ben Guerdane" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] TUN D1: Club Sportif Sfaxien vs US Ben Guerdane [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1686266799-0-0-ae621831b848748651b75c6e00e67fc5
+https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1686266979-0-0-e7e2cf515b0076f5b7b194b992113fd4
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="FIFA U20: Uruguay U20 vs Israel(U20" tvg-name="FIFA U20: Uruguay U20 vs Israel(U20" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg",[COLOR red][LIVE][/COLOR] FIFA U20: Uruguay U20 vs Israel(U20 [COLOR yellow]MĂNG CỤT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1686266979-0-0-c3644bc19017e4c1afd0a7641468ec98
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="EGY D1: El Ismaily vs Tala'ea El Gaish" tvg-name="EGY D1: El Ismaily vs Tala'ea El Gaish" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] EGY D1: El Ismaily vs Tala'ea El Gaish [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1686266979-0-0-3495eb9b54e2fbf44bd8bfc4a97da2f7
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="FIFA U20: Uruguay U20 vs Israel(U20" tvg-name="FIFA U20: Uruguay U20 vs Israel(U20" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] FIFA U20: Uruguay U20 vs Israel(U20 [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1686266979-0-0-b4494090412ce4eeaf956d3bd454545b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TUN D1: Club Sportif Sfaxien vs US Ben Guerdane" tvg-name="TUN D1: Club Sportif Sfaxien vs US Ben Guerdane" tvg-logo="https://sta.vnres.co/file/head/20230405/ec1bee82e4d11675221774242cd75d76.jpg",[COLOR red][LIVE][/COLOR] TUN D1: Club Sportif Sfaxien vs US Ben Guerdane [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=76ae691ab9d0145d6e739863bfa21bbd&txTime=648263af
+https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=383b267f4cf977d0c7a872a56ed0f234&txTime=64826463
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
