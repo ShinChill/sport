@@ -1,82 +1,85 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="DEN SASL: Viborg vs Midtjylland" tvg-name="DEN SASL: Viborg vs Midtjylland" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][LIVE][/COLOR] DEN SASL: Viborg vs Midtjylland [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1686356439-0-0-1bb7c6f4a9acd492681255b845b81f0a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="EGY D1: Ittihad Alexandria vs National Bank of Egypt SC" tvg-name="EGY D1: Ittihad Alexandria vs National Bank of Egypt SC" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] EGY D1: Ittihad Alexandria vs National Bank of Egypt SC [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1686356439-0-0-d7d9b27e99a9b0e4691a7e7e2fde4a4c
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SWE D1: Hammarby vs Brommapojkarna" tvg-name="SWE D1: Hammarby vs Brommapojkarna" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] SWE D1: Hammarby vs Brommapojkarna [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1686356439-0-0-c4532194790d669b0f329b6920ccb94a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SWE D1: Hammarby vs Brommapojkarna" tvg-name="SWE D1: Hammarby vs Brommapojkarna" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] SWE D1: Hammarby vs Brommapojkarna [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1686356439-0-0-86d45038bcf5e08f04c6b5e81a04f9cc
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SWE D1: Hammarby vs Brommapojkarna" tvg-name="SWE D1: Hammarby vs Brommapojkarna" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] SWE D1: Hammarby vs Brommapojkarna [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=17d28385e68d9f97f56265d022ee54d0&txTime=6483c1d7
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="DEN SASL: Viborg vs Midtjylland" tvg-name="DEN SASL: Viborg vs Midtjylland" tvg-logo="https://sta.vnres.co/file/head/20230114/4e19d9ee44846c0eb6a0721271ef1cc9.jpg",[COLOR red][LIVE][/COLOR] DEN SASL: Viborg vs Midtjylland [COLOR yellow]BLV Củ Chuối[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=d37fe28cfb19295be95051669cb41f28&txTime=6483c1d7
+#EXTINF:-1 tvg-id="DEN SASL: Viborg vs Midtjylland" tvg-name="DEN SASL: Viborg vs Midtjylland" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] DEN SASL: Viborg vs Midtjylland [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1686356619-0-0-b45ba9754a501e6bdd74a8130d3cc431
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SWE D1: Hammarby vs Brommapojkarna" tvg-name="SWE D1: Hammarby vs Brommapojkarna" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",[COLOR red][LIVE][/COLOR] SWE D1: Hammarby vs Brommapojkarna [COLOR yellow]BLV TAM MAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=886a2afd0f767e4bb92f97053d0b7213&txTime=6483c1d7
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Roland-Garros: Casper Ruud vs Alexander Zverev" tvg-name="Roland-Garros: Casper Ruud vs Alexander Zverev" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] Roland-Garros: Casper Ruud vs Alexander Zverev [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=d446f61012f0530cb52308f01f0cc882&txTime=6483c1d7
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="DEN SASL: Viborg vs Midtjylland" tvg-name="DEN SASL: Viborg vs Midtjylland" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] DEN SASL: Viborg vs Midtjylland [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1686356439-0-0-864279a23f66a94ce0ad308eb7a7dfd8
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="DEN SASL: Viborg vs Midtjylland" tvg-name="DEN SASL: Viborg vs Midtjylland" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] DEN SASL: Viborg vs Midtjylland [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=60b974aa1aaefabaac7d65c963f71379&txTime=6483c1d7
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SWE D1: Hammarby vs Brommapojkarna" tvg-name="SWE D1: Hammarby vs Brommapojkarna" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] SWE D1: Hammarby vs Brommapojkarna [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=19551bbc370d215fe9e14cfba54b6e25&txTime=6483c1d7
+https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=c18d0bf895324978fe7082d605e89986&txTime=6483c28b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="DEN SASL: Viborg vs Midtjylland" tvg-name="DEN SASL: Viborg vs Midtjylland" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",[COLOR red][LIVE][/COLOR] DEN SASL: Viborg vs Midtjylland [COLOR yellow]GIÀ LÀNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1686356439-0-0-2db93ed352d4e9caf2bfd26a47c8b31f
+https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1686356619-0-0-f3868ecded01cf29e185d1016535b306
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Roland-Garros: Casper Ruud vs Alexander Zverev" tvg-name="Roland-Garros: Casper Ruud vs Alexander Zverev" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] Roland-Garros: Casper Ruud vs Alexander Zverev [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=5cf5e9e078bf0b09c9aa74e494ee201c&txTime=6483c28b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SWE D1: Hammarby vs Brommapojkarna" tvg-name="SWE D1: Hammarby vs Brommapojkarna" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] SWE D1: Hammarby vs Brommapojkarna [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1686356619-0-0-c11380cfd7cfc2f04c86fc453e09f6d9
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="DEN SASL: Viborg vs Midtjylland" tvg-name="DEN SASL: Viborg vs Midtjylland" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][LIVE][/COLOR] DEN SASL: Viborg vs Midtjylland [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1686356619-0-0-ceac5a80be84bed6a14c1563a7358b18
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="EGY D1: Ittihad Alexandria vs National Bank of Egypt SC" tvg-name="EGY D1: Ittihad Alexandria vs National Bank of Egypt SC" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] EGY D1: Ittihad Alexandria vs National Bank of Egypt SC [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1686356619-0-0-7437254be3cf4100c37bd0304e2c3661
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SWE D1: Hammarby vs Brommapojkarna" tvg-name="SWE D1: Hammarby vs Brommapojkarna" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] SWE D1: Hammarby vs Brommapojkarna [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1686356619-0-0-6d25082ac40cbdd18aa14f7c756cd7e1
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="DEN SASL: Viborg vs Midtjylland" tvg-name="DEN SASL: Viborg vs Midtjylland" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] DEN SASL: Viborg vs Midtjylland [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=7f6b7de48c36648d77cd260c620d6208&txTime=6483c28b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="DEN SASL: Viborg vs Midtjylland" tvg-name="DEN SASL: Viborg vs Midtjylland" tvg-logo="https://sta.vnres.co/file/head/20230114/4e19d9ee44846c0eb6a0721271ef1cc9.jpg",[COLOR red][LIVE][/COLOR] DEN SASL: Viborg vs Midtjylland [COLOR yellow]BLV Củ Chuối[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=d086feb3d94c10ba8f71f2f98fb4eb20&txTime=6483c28b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SWE D1: Hammarby vs Brommapojkarna" tvg-name="SWE D1: Hammarby vs Brommapojkarna" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] SWE D1: Hammarby vs Brommapojkarna [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=46afe6e3f7ea6c5202e08583968cd3ac&txTime=6483c28b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SWE D1: Hammarby vs Brommapojkarna" tvg-name="SWE D1: Hammarby vs Brommapojkarna" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] SWE D1: Hammarby vs Brommapojkarna [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=bae842b540acec54038cf3ec4a0a1515&txTime=6483c28b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="DEN SASL: Viborg vs Midtjylland" tvg-name="DEN SASL: Viborg vs Midtjylland" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] DEN SASL: Viborg vs Midtjylland [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991136_lhd.m3u8?txSecret=5107ca28346c40df899469d2f38fffb3&txTime=6483c1d7
+https://sports01.livnvess.com/live/stream-991136_lhd.m3u8?txSecret=88923584638ecfdf22a8d222509eb249&txTime=6483c28b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IRE PR: Derry City vs Bohemians" tvg-name="IRE PR: Derry City vs Bohemians" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] IRE PR: Derry City vs Bohemians [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1686356439-0-0-873ffc560c2de743df4a1b3c4a3e0354
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="IRE PR: Derry City vs Bohemians" tvg-name="IRE PR: Derry City vs Bohemians" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg",[COLOR red][LIVE][/COLOR] IRE PR: Derry City vs Bohemians [COLOR yellow]MĂNG CỤT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1686356439-0-0-3041c8e029bd1a17932c4b6ec82e1d9b
+https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1686356619-0-0-f77537b322f387c0ebd380a116394a84
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Barracas Central vs Rosario Central" tvg-name="ARG D1: Barracas Central vs Rosario Central" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] ARG D1: Barracas Central vs Rosario Central [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-348199_lhd.m3u8?txSecret=d4e7b9791535ffd39103e23efee8d188&txTime=6483c1d7
+https://sports01.livnvess.com/live/stream-348199_lhd.m3u8?txSecret=181ce70322d47433177239d2cb764f6c&txTime=6483c28b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SWE D1: Hammarby vs Brommapojkarna" tvg-name="SWE D1: Hammarby vs Brommapojkarna" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] SWE D1: Hammarby vs Brommapojkarna [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1686356439-0-0-5d9fd7e0c96b659f025499ac89694339
+#EXTINF:-1 tvg-id="IRE PR: Derry City vs Bohemians" tvg-name="IRE PR: Derry City vs Bohemians" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg",[COLOR red][LIVE][/COLOR] IRE PR: Derry City vs Bohemians [COLOR yellow]MĂNG CỤT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1686356619-0-0-a4e7532b355c87447d2e4ba4a2c3ca59
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Luxembourg vs Malta" tvg-name="INTERF: Luxembourg vs Malta" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg",[COLOR red][LIVE][/COLOR] INTERF: Luxembourg vs Malta [COLOR yellow]BLV DIHI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=326dad3f2ab6096566d0d20801fa3238&txTime=6483c1d7
+https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=4afd6bea36962710446f3be21b778dbf&txTime=6483c28b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SWE D1: Hammarby vs Brommapojkarna" tvg-name="SWE D1: Hammarby vs Brommapojkarna" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] SWE D1: Hammarby vs Brommapojkarna [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1686356619-0-0-b4da432d2b8f7e89997ef82381fed855
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF Luxembourg  VS  Malta" tvg-name="INTERF Luxembourg  VS  Malta" tvg-logo="https://sta.vnres.co/file/head/20230513/0caf5377396b4e2c222f4a04e7caedc0.jpg",[COLOR red][LIVE][/COLOR] INTERF Luxembourg  VS  Malta [COLOR yellow]BLV TIGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=419a62fcada4c279d969f03dfdae2198&txTime=6483c1d7
+https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=ac698a8fef792844355046c7259c1e83&txTime=6483c28b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EGY D1: Ittihad Alexandria vs National Bank of Egypt SC" tvg-name="EGY D1: Ittihad Alexandria vs National Bank of Egypt SC" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] EGY D1: Ittihad Alexandria vs National Bank of Egypt SC [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=733ad344b91a60c78c35cc951824d033&txTime=6483c1d7
+https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=296806c7a15656604ba95bafbbd65b94&txTime=6483c28b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EGY D1: Ittihad Alexandria vs National Bank of Egypt SC" tvg-name="EGY D1: Ittihad Alexandria vs National Bank of Egypt SC" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] EGY D1: Ittihad Alexandria vs National Bank of Egypt SC [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=b990caf3c6e804f4a303dc2c43a077f0&txTime=6483c1d7
+https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=8ebdd6b57470d2af43c24cbb10bced42&txTime=6483c28b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Luxembourg vs Malta" tvg-name="INTERF: Luxembourg vs Malta" tvg-logo="https://sta.vnres.co/file/head/20230329/571b39ae2e8e91a9b9ee7b45d829eba1.jpg",[COLOR red][LIVE][/COLOR] INTERF: Luxembourg vs Malta [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=f08c8fdbe5d7de5bdecc1c51a7d19f4c&txTime=6483c1d7
+https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=2be651d1659f740f916fc93f467c4eb3&txTime=6483c28b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Barracas Central vs Rosario Central" tvg-name="ARG D1: Barracas Central vs Rosario Central" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Barracas Central vs Rosario Central [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=794cf72508a9d56f95d7a9e0b8fccbe0&txTime=6483c1d7
+https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=290216e09d860e170d7b6df13ea7208b&txTime=6483c28b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Luxembourg vs Malta" tvg-name="INTERF: Luxembourg vs Malta" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg",[COLOR red][LIVE][/COLOR] INTERF: Luxembourg vs Malta [COLOR yellow]BLV CAPTAIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-231997_lhd.m3u8?txSecret=777c55c4af57718f4677030fe73073ff&txTime=6483c1d7
+https://sports01.livnvess.com/live/stream-231997_lhd.m3u8?txSecret=9cae0f027bd8383c127f2e0d7ba0d003&txTime=6483c28b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Barracas Central vs Rosario Central" tvg-name="ARG D1: Barracas Central vs Rosario Central" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Barracas Central vs Rosario Central [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=83787f0c915e9b2cdfbda1827a6e8da3&txTime=6483c1d7
+https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=f927ad7ea0b96a144f52bba5c370009e&txTime=6483c28b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="IRE PR: Drogheda United vs St. Patrick's" tvg-name="IRE PR: Drogheda United vs St. Patrick's" tvg-logo="https://sta.vnres.co/file/head/20221220/15cddfa1880beb36bfbea12feedfec95.jpg",[COLOR red][LIVE][/COLOR] IRE PR: Drogheda United vs St. Patrick's [COLOR yellow]BLV BRUCE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=901250c75f438d464104a7605ea5ea92&txTime=6483c28b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IRE PR: Drogheda United vs St. Patrick's" tvg-name="IRE PR: Drogheda United vs St. Patrick's" tvg-logo="https://sta.vnres.co/file/head/20230606/c17007510c9bb192d480241db0fc70e5.jpg",[COLOR red][LIVE][/COLOR] IRE PR: Drogheda United vs St. Patrick's [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1686356439-0-0-5125916f0e699f34d5dac6ea02f5c8a5
+https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1686356619-0-0-484a37fcf6945241e589e84074ba5bc8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Barracas Central vs Rosario Central" tvg-name="ARG D1: Barracas Central vs Rosario Central" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Barracas Central vs Rosario Central [COLOR yellow]BLV FANCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1686356439-0-0-e8d97bb1da3446b0708eb065f0648a7e
+https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1686356619-0-0-76010ca09474b5c05162e3e3d587218d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
