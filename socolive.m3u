@@ -1,136 +1,130 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SWE D1: Kalmar FF vs Degerfors IF" tvg-name="SWE D1: Kalmar FF vs Degerfors IF" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] SWE D1: Kalmar FF vs Degerfors IF [COLOR yellow]Tạ Biên Giới[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1686427359-0-0-2a5482b41135b14a42246b7365166af4
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SWE D1: Kalmar FF vs Degerfors IF" tvg-name="SWE D1: Kalmar FF vs Degerfors IF" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] SWE D1: Kalmar FF vs Degerfors IF [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1686427359-0-0-c4a1a3a42f96c56c3157df3832505feb
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SWE D1: IFK Varnamo vs Malmo FF" tvg-name="SWE D1: IFK Varnamo vs Malmo FF" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] SWE D1: IFK Varnamo vs Malmo FF [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=598deeab1942557d9e98ffc0275108f1&txTime=6484d6df
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SWE D2: Utsiktens BK vs GIF Sundsvall" tvg-name="SWE D2: Utsiktens BK vs GIF Sundsvall" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] SWE D2: Utsiktens BK vs GIF Sundsvall [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-348199_lhd.m3u8?txSecret=1e75af455c68f20266e3f8baef4f637d&txTime=6484d6df
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LAT D1: FK Auda Riga vs BFC Daugavpils" tvg-name="LAT D1: FK Auda Riga vs BFC Daugavpils" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] LAT D1: FK Auda Riga vs BFC Daugavpils [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1686427359-0-0-aa9a4d5bf1abc9f730d3fb98519f7091
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="IDN D1: PSM Makassar vs Bali United FC" tvg-name="IDN D1: PSM Makassar vs Bali United FC" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] IDN D1: PSM Makassar vs Bali United FC [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1686427359-0-0-36711b47a5e4e5fd207da5533ab30760
+#EXTINF:-1 tvg-id="SWE D1: IFK Varnamo vs Malmo FF" tvg-name="SWE D1: IFK Varnamo vs Malmo FF" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] SWE D1: IFK Varnamo vs Malmo FF [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1686427539-0-0-5a5736e6dd97bd079d8509dd57004f31
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SWE D1: IFK Varnamo vs Malmo FF" tvg-name="SWE D1: IFK Varnamo vs Malmo FF" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] SWE D1: IFK Varnamo vs Malmo FF [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=046d3dc40cd22d8a9d2fea3d76593f13&txTime=6484d6df
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="EST D1: Parnu JK Vaprus vs FC Flora Tallinn" tvg-name="EST D1: Parnu JK Vaprus vs FC Flora Tallinn" tvg-logo="https://sta.vnres.co/file/head/20230114/4e19d9ee44846c0eb6a0721271ef1cc9.jpg",[COLOR red][LIVE][/COLOR] EST D1: Parnu JK Vaprus vs FC Flora Tallinn [COLOR yellow]BLV Củ Chuối[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=faf3f0ae65086bbf2cb96bd6b4ebb33d&txTime=6484d6df
+https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=948cf86a49d9f2e0626ffa02951655b2&txTime=6484d793
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IDN D1: PSM Makassar vs Bali United FC" tvg-name="IDN D1: PSM Makassar vs Bali United FC" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] IDN D1: PSM Makassar vs Bali United FC [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=2382bb359bcf45ecb2699ce003893fb7&txTime=6484d6df
+https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=88dae23f745450d8062cd28c28942a3f&txTime=6484d793
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SWE D1: IFK Varnamo vs Malmo FF" tvg-name="SWE D1: IFK Varnamo vs Malmo FF" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] SWE D1: IFK Varnamo vs Malmo FF [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1686427359-0-0-8afc89514e87a0ecf7fc44cbe749ee61
+#EXTINF:-1 tvg-id="LAT D1: FK Auda Riga vs BFC Daugavpils" tvg-name="LAT D1: FK Auda Riga vs BFC Daugavpils" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] LAT D1: FK Auda Riga vs BFC Daugavpils [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1686427539-0-0-c50a7e71ce0d72351adde4bff18e9228
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LAT D1: FK Auda Riga vs BFC Daugavpils" tvg-name="LAT D1: FK Auda Riga vs BFC Daugavpils" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] LAT D1: FK Auda Riga vs BFC Daugavpils [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1686427359-0-0-c85a648c76647ef30a9558d845111997
+#EXTINF:-1 tvg-id="EST D1: Parnu JK Vaprus vs FC Flora Tallinn" tvg-name="EST D1: Parnu JK Vaprus vs FC Flora Tallinn" tvg-logo="https://sta.vnres.co/file/head/20230114/4e19d9ee44846c0eb6a0721271ef1cc9.jpg",[COLOR red][LIVE][/COLOR] EST D1: Parnu JK Vaprus vs FC Flora Tallinn [COLOR yellow]BLV Củ Chuối[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=3cd62d27bedee74465223de65e5b8a97&txTime=6484d793
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="IDN D1: PSM Makassar vs Bali United FC" tvg-name="IDN D1: PSM Makassar vs Bali United FC" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] IDN D1: PSM Makassar vs Bali United FC [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1686427539-0-0-f0f3b5c2016471a63286fc590d89dd9f
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SWE D1: Kalmar FF vs Degerfors IF" tvg-name="SWE D1: Kalmar FF vs Degerfors IF" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] SWE D1: Kalmar FF vs Degerfors IF [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1686427539-0-0-1d2a82cc0c64cb90f88e009e902e4347
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SWE D1: IFK Varnamo vs Malmo FF" tvg-name="SWE D1: IFK Varnamo vs Malmo FF" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] SWE D1: IFK Varnamo vs Malmo FF [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1686427359-0-0-183aef8930c40dee05119b2924b44f03
+https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1686427539-0-0-a046a7660fb73fbe9c6843d2accd0c11
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LAT D1: FK Auda Riga vs BFC Daugavpils" tvg-name="LAT D1: FK Auda Riga vs BFC Daugavpils" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] LAT D1: FK Auda Riga vs BFC Daugavpils [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1686427539-0-0-8a2d202d9c166446dc1e5a47bc792587
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SWE D1: Kalmar FF vs Degerfors IF" tvg-name="SWE D1: Kalmar FF vs Degerfors IF" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] SWE D1: Kalmar FF vs Degerfors IF [COLOR yellow]Tạ Biên Giới[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1686427539-0-0-5551c2b60b909da62aff95a0913b9220
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SWE D2: Utsiktens BK vs GIF Sundsvall" tvg-name="SWE D2: Utsiktens BK vs GIF Sundsvall" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] SWE D2: Utsiktens BK vs GIF Sundsvall [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-348199_lhd.m3u8?txSecret=9ff196d6410c03d099fad9306e295484&txTime=6484d793
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SWE D1: IFK Varnamo vs Malmo FF" tvg-name="SWE D1: IFK Varnamo vs Malmo FF" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] SWE D1: IFK Varnamo vs Malmo FF [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=016c3e66b1535894b59a0c15ca79ca4b&txTime=6484d793
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="RUS D1: Fakel Voronezh vs Yenisey Krasnoyarsk" tvg-name="RUS D1: Fakel Voronezh vs Yenisey Krasnoyarsk" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] RUS D1: Fakel Voronezh vs Yenisey Krasnoyarsk [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=3c03bc325ebb39c66f8bf949f5c1e8e8&txTime=6484d6df
+https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=688a371f8508655fb22a285d8ecdc408&txTime=6484d793
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SWE D1: Kalmar FF vs Degerfors IF" tvg-name="SWE D1: Kalmar FF vs Degerfors IF" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][LIVE][/COLOR] SWE D1: Kalmar FF vs Degerfors IF [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1686427359-0-0-8d18a1972c01b021ece1a071a8f2d996
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="TOUT: Japan(U19(N vs Panama(U23" tvg-name="TOUT: Japan(U19(N vs Panama(U23" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][Chưa bắt đầu][/COLOR] TOUT: Japan(U19(N vs Panama(U23 [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=74107a3703fdc326f528ea548922b124&txTime=6484d6f6
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="TOUT: Japan(U19(N vs Panama(U23" tvg-name="TOUT: Japan(U19(N vs Panama(U23" tvg-logo="https://sta.vnres.co/file/head/20230603/76e9400ebfdb98838d029077819af144.jpg",[COLOR red][LIVE][/COLOR] TOUT: Japan(U19(N vs Panama(U23 [COLOR yellow]BLV VĂN TÍCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1686427374-0-0-7bf3750c493afc0fe4dcc26360acc071
+https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1686427539-0-0-7a2a08dcd3041e16515de90fd79c0203
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IDN D1: PSM Makassar vs Bali United FC" tvg-name="IDN D1: PSM Makassar vs Bali United FC" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] IDN D1: PSM Makassar vs Bali United FC [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1686427359-0-0-7f4516906352ce86af3ae637eda1e5e5
+https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1686427539-0-0-4e90e35ec3d3109fc2a54b5d111d2b43
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IDN D1: PSM Makassar vs Bali United FC" tvg-name="IDN D1: PSM Makassar vs Bali United FC" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26",[COLOR red][LIVE][/COLOR] IDN D1: PSM Makassar vs Bali United FC [COLOR yellow]BABY BOY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1686427359-0-0-6529c2f524f3a74c6d64ee84176217be
+https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1686427539-0-0-9aa3e49beac3a45b94bb70ed2fc4c41e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IDN D1: PSM Makassar vs Bali United FC" tvg-name="IDN D1: PSM Makassar vs Bali United FC" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg",[COLOR red][LIVE][/COLOR] IDN D1: PSM Makassar vs Bali United FC [COLOR yellow]BLV CAPTAIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-231997_lhd.m3u8?txSecret=f518b97fab0aa8dab2ef7269fe14670f&txTime=6484d6df
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VBA: Hanoi Buffaloes vs Saigon Heat" tvg-name="VBA: Hanoi Buffaloes vs Saigon Heat" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] VBA: Hanoi Buffaloes vs Saigon Heat [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pullalilive.livnvess.com/live/stream-166054.m3u8?auth_key=1686427359-0-0-4064db941bdae9e927949dff7abdfc23
+https://sports01.livnvess.com/live/stream-231997_lhd.m3u8?txSecret=f7ffa32f3030c7d1090bd77e30ad7ed7&txTime=6484d793
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SWE D1: IFK Varnamo vs Malmo FF" tvg-name="SWE D1: IFK Varnamo vs Malmo FF" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] SWE D1: IFK Varnamo vs Malmo FF [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=0340275056efdeaad1b9cb5c6a86b611&txTime=6484d6df
+https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=ceefb7ad2d496769349128ef3370d102&txTime=6484d793
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VBA: Hanoi Buffaloes vs Saigon Heat" tvg-name="VBA: Hanoi Buffaloes vs Saigon Heat" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] VBA: Hanoi Buffaloes vs Saigon Heat [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pullalilive.livnvess.com/live/stream-166054.m3u8?auth_key=1686427539-0-0-97c8fa9fff23be3ad6602d217b79f919
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SWE D1: Kalmar FF vs Degerfors IF" tvg-name="SWE D1: Kalmar FF vs Degerfors IF" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] SWE D1: Kalmar FF vs Degerfors IF [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=5b99f55722c45ede51eaa17a697ed689&txTime=6484d6df
+https://sports01.livnvess.com/live/stream-106737_lhd.m3u8?txSecret=ae42d4fba9489df00234c814f0bc2e36&txTime=6484d793
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SWE D2: Jonkopings Sodra IF vs Trelleborgs FF" tvg-name="SWE D2: Jonkopings Sodra IF vs Trelleborgs FF" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",[COLOR red][LIVE][/COLOR] SWE D2: Jonkopings Sodra IF vs Trelleborgs FF [COLOR yellow]BLV TAM MAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=d47b7c587de3a5c20be719a80fa163f9&txTime=6484d6df
+https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=69a001498b7b21af241753646864e910&txTime=6484d793
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SWE D1: IFK Varnamo vs Malmo FF" tvg-name="SWE D1: IFK Varnamo vs Malmo FF" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg",[COLOR red][LIVE][/COLOR] SWE D1: IFK Varnamo vs Malmo FF [COLOR yellow]DƯƠNG QUÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1686427359-0-0-e3eb086439ed2e88aac50b44cb9c5a23
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SWE D1: Kalmar FF vs Degerfors IF" tvg-name="SWE D1: Kalmar FF vs Degerfors IF" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",[COLOR red][LIVE][/COLOR] SWE D1: Kalmar FF vs Degerfors IF [COLOR yellow]BLV TONY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=4db1ce32c2807a2000de4247a40e463c&txTime=6484d6df
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SWE D1: Kalmar FF vs Degerfors IF" tvg-name="SWE D1: Kalmar FF vs Degerfors IF" tvg-logo="https://sta.vnres.co/file/head/20230310/c88aad2517438b870b70b682d81e61db.jpg",[COLOR red][LIVE][/COLOR] SWE D1: Kalmar FF vs Degerfors IF [COLOR yellow]YUKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1686427359-0-0-0a01bde2dc6c0b772093a72216d48043
+https://pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1686427539-0-0-a4d7af81b0de8df52e7865adb4ef64cf
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SWE D2: Utsiktens BK vs GIF Sundsvall" tvg-name="SWE D2: Utsiktens BK vs GIF Sundsvall" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] SWE D2: Utsiktens BK vs GIF Sundsvall [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=8ca3196e0ae2ad1ce1af702bf745b4f6&txTime=6484d6df
+https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=7bac1767f3e27d40796d07919dd71184&txTime=6484d793
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SWE D1: Kalmar FF vs Degerfors IF" tvg-name="SWE D1: Kalmar FF vs Degerfors IF" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",[COLOR red][LIVE][/COLOR] SWE D1: Kalmar FF vs Degerfors IF [COLOR yellow]BLV TONY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=a9480b9e9dc524f03fe7272cf913dedf&txTime=6484d793
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ICE PR: KA Akureyri vs Fylkir" tvg-name="ICE PR: KA Akureyri vs Fylkir" tvg-logo="https://sta.vnres.co/file/head/20230328/c19057ab3245d1531de39f82e3b38099.jpg",[COLOR red][LIVE][/COLOR] ICE PR: KA Akureyri vs Fylkir [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1686427359-0-0-a03dc9090c72694bef9d8bdfb7600651
+https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1686427539-0-0-b57cc4a714150983a2f9be2af816cee6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SWE D2: Jonkopings Sodra IF vs Trelleborgs FF" tvg-name="SWE D2: Jonkopings Sodra IF vs Trelleborgs FF" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] SWE D2: Jonkopings Sodra IF vs Trelleborgs FF [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1686427359-0-0-b118c31f91b1993dd630e71dceb2f4a3
+https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1686427539-0-0-b5ae67fd73631ec11eac046a79d6856e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SWE D2: Utsiktens BK vs GIF Sundsvall" tvg-name="SWE D2: Utsiktens BK vs GIF Sundsvall" tvg-logo="https://sta.vnres.co/file/head/20230329/571b39ae2e8e91a9b9ee7b45d829eba1.jpg",[COLOR red][LIVE][/COLOR] SWE D2: Utsiktens BK vs GIF Sundsvall [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=c069f4b6cc8d51c6e2cb60b4584d2caf&txTime=6484d6df
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ICE PR: KR Reykjavik vs IBV Vestmannaeyjar" tvg-name="ICE PR: KR Reykjavik vs IBV Vestmannaeyjar" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] ICE PR: KR Reykjavik vs IBV Vestmannaeyjar [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=d0f959d658b067dab5a1be7c7082543a&txTime=6484d6df
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ICE PR: KR Reykjavik vs IBV Vestmannaeyjar" tvg-name="ICE PR: KR Reykjavik vs IBV Vestmannaeyjar" tvg-logo="https://sta.vnres.co/file/head/20230601/c6ea462493f77254cc60a4d35a10a594.jpg",[COLOR red][LIVE][/COLOR] ICE PR: KR Reykjavik vs IBV Vestmannaeyjar [COLOR yellow]BLV LÂM XUNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-344687_lhd.m3u8?auth_key=1686427359-0-0-27d68e93ed1b172b1c7028ce48b6b0ad
+#EXTINF:-1 tvg-id="SWE D1: Kalmar FF vs Degerfors IF" tvg-name="SWE D1: Kalmar FF vs Degerfors IF" tvg-logo="https://sta.vnres.co/file/head/20230310/c88aad2517438b870b70b682d81e61db.jpg",[COLOR red][LIVE][/COLOR] SWE D1: Kalmar FF vs Degerfors IF [COLOR yellow]YUKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1686427539-0-0-34ba73dad0b5ccd5158363cfd13a1bab
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SWE D2: Jonkopings Sodra IF vs Trelleborgs FF" tvg-name="SWE D2: Jonkopings Sodra IF vs Trelleborgs FF" tvg-logo="https://sta.vnres.co/file/head/20221220/15cddfa1880beb36bfbea12feedfec95.jpg",[COLOR red][LIVE][/COLOR] SWE D2: Jonkopings Sodra IF vs Trelleborgs FF [COLOR yellow]BLV BRUCE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=1ae8ba833661b674cf147f342f680e88&txTime=6484d6df
+https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=29dada7076cbc54a3f602e64b8488f7b&txTime=6484d793
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BLR PL: FC Slutsk vs Naftan Novopolock" tvg-name="BLR PL: FC Slutsk vs Naftan Novopolock" tvg-logo="https://sta.vnres.co/file/head/20230606/bad1e1ef655e5193c90590bf9a090c4e.jpg",[COLOR red][LIVE][/COLOR] BLR PL: FC Slutsk vs Naftan Novopolock [COLOR yellow]BLV ROMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-332529_lhd.m3u8?auth_key=1686427359-0-0-328f7fbdf1403ebd0410a1de8c19aeda
+#EXTINF:-1 tvg-id="ICE PR: KR Reykjavik vs IBV Vestmannaeyjar" tvg-name="ICE PR: KR Reykjavik vs IBV Vestmannaeyjar" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] ICE PR: KR Reykjavik vs IBV Vestmannaeyjar [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=d215e506d6cb85915afa30252cee409b&txTime=6484d793
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BLR PL: FC Slutsk vs Naftan Novopolock" tvg-name="BLR PL: FC Slutsk vs Naftan Novopolock" tvg-logo="https://sta.vnres.co/file/head/20230609/81b3439e8286ce25be1569eb8352953e.jpg",[COLOR red][LIVE][/COLOR] BLR PL: FC Slutsk vs Naftan Novopolock [COLOR yellow]BLV SÓI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-427562_lhd.m3u8?auth_key=1686427359-0-0-01d25f69566dbdae7c6f8f9b77b5a9b6
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LAT D1: FK Auda Riga vs BFC Daugavpils" tvg-name="LAT D1: FK Auda Riga vs BFC Daugavpils" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] LAT D1: FK Auda Riga vs BFC Daugavpils [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-379816_lhd.m3u8?txSecret=cbf74ca906ded1bd1981b2275dac9035&txTime=6484d6df
+#EXTINF:-1 tvg-id="ICE PR: KR Reykjavik vs IBV Vestmannaeyjar" tvg-name="ICE PR: KR Reykjavik vs IBV Vestmannaeyjar" tvg-logo="https://sta.vnres.co/file/head/20230601/c6ea462493f77254cc60a4d35a10a594.jpg",[COLOR red][LIVE][/COLOR] ICE PR: KR Reykjavik vs IBV Vestmannaeyjar [COLOR yellow]BLV LÂM XUNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-344687_lhd.m3u8?auth_key=1686427539-0-0-73969f979dc8ef1185e27417e9f4e011
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EST D1: Parnu JK Vaprus vs FC Flora Tallinn" tvg-name="EST D1: Parnu JK Vaprus vs FC Flora Tallinn" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] EST D1: Parnu JK Vaprus vs FC Flora Tallinn [COLOR yellow]BLV PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1686427359-0-0-d5c0a819c2d9574b552e7548f90650de
+https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1686427539-0-0-0ff06625245fb44eb23460dd415bdb84
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SWE D2: Utsiktens BK vs GIF Sundsvall" tvg-name="SWE D2: Utsiktens BK vs GIF Sundsvall" tvg-logo="https://sta.vnres.co/file/head/20230329/571b39ae2e8e91a9b9ee7b45d829eba1.jpg",[COLOR red][LIVE][/COLOR] SWE D2: Utsiktens BK vs GIF Sundsvall [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=6d6b063b7bac33f3a3556e727018411e&txTime=6484d793
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LAT D1: FK Auda Riga vs BFC Daugavpils" tvg-name="LAT D1: FK Auda Riga vs BFC Daugavpils" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] LAT D1: FK Auda Riga vs BFC Daugavpils [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-379816_lhd.m3u8?txSecret=f94a1685e26081baabcc876caafeafef&txTime=6484d793
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="BLR PL: FC Slutsk vs Naftan Novopolock" tvg-name="BLR PL: FC Slutsk vs Naftan Novopolock" tvg-logo="https://sta.vnres.co/file/head/20230606/bad1e1ef655e5193c90590bf9a090c4e.jpg",[COLOR red][LIVE][/COLOR] BLR PL: FC Slutsk vs Naftan Novopolock [COLOR yellow]BLV ROMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-332529_lhd.m3u8?auth_key=1686427539-0-0-5dd4b9c574faa9803aa8c63e1b314a44
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="BLR PL: FC Slutsk vs Naftan Novopolock" tvg-name="BLR PL: FC Slutsk vs Naftan Novopolock" tvg-logo="https://sta.vnres.co/file/head/20230609/81b3439e8286ce25be1569eb8352953e.jpg",[COLOR red][LIVE][/COLOR] BLR PL: FC Slutsk vs Naftan Novopolock [COLOR yellow]BLV SÓI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-427562_lhd.m3u8?auth_key=1686427539-0-0-1fd93d37f73a2007477e9183ea53e3b5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ICE PR: KA Akureyri vs Fylkir" tvg-name="ICE PR: KA Akureyri vs Fylkir" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] ICE PR: KA Akureyri vs Fylkir [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=d36a1aaa2882bf0c258325b6ee8d0f57&txTime=6484d6df
+https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=187fda41d031db116abb0d161f7b1f49&txTime=6484d793
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EST D1: Parnu JK Vaprus vs FC Flora Tallinn" tvg-name="EST D1: Parnu JK Vaprus vs FC Flora Tallinn" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] EST D1: Parnu JK Vaprus vs FC Flora Tallinn [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1686427359-0-0-837623a2f93151e6f7db4ef4cf75503c
+https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1686427539-0-0-6aeaf76a63c38add7f35d7ab0071ecc0
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EST D1: Parnu JK Vaprus vs FC Flora Tallinn" tvg-name="EST D1: Parnu JK Vaprus vs FC Flora Tallinn" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg",[COLOR red][LIVE][/COLOR] EST D1: Parnu JK Vaprus vs FC Flora Tallinn [COLOR yellow]BLV CHOVY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-319191_lhd.m3u8?txSecret=2048947a7c84a6e469be9701dd79af43&txTime=6484d6df
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LAT D1: FK Auda Riga vs BFC Daugavpils" tvg-name="LAT D1: FK Auda Riga vs BFC Daugavpils" tvg-logo="https://sta.vnres.co/file/head/20230203/e7fcb68b4a251675c8343c19e58289d7.png",[COLOR red][LIVE][/COLOR] LAT D1: FK Auda Riga vs BFC Daugavpils [COLOR yellow]BLV G Hip[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991127_lhd.m3u8?txSecret=382e7f1433d255d8f60121b9ae917c76&txTime=6484d6df
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LIT D1: Suduva vs FK Riteriai" tvg-name="LIT D1: Suduva vs FK Riteriai" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg",[COLOR red][LIVE][/COLOR] LIT D1: Suduva vs FK Riteriai [COLOR yellow]BLV MÁT GAI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-273067_lhd.m3u8?txSecret=b30cb2f476c68e04349c03f508dcc817&txTime=6484d6df
+https://sports01.livnvess.com/live/stream-319191_lhd.m3u8?txSecret=4ac82e6c0d745b8989b8a4e158f0c199&txTime=6484d793
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ICE PR: KA Akureyri vs Fylkir" tvg-name="ICE PR: KA Akureyri vs Fylkir" tvg-logo="https://sta.vnres.co/file/head/20220627/4a25c211c3b42d3923895ce94a4331cb.jpg",[COLOR red][LIVE][/COLOR] ICE PR: KA Akureyri vs Fylkir [COLOR yellow]AMY BABE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-102153_lhd.m3u8?auth_key=1686427359-0-0-8685d4bbd674d992e32cbdc0a62aca50
+https://pull06.scstream.net/live/stream-102153_lhd.m3u8?auth_key=1686427539-0-0-99e902778d448478e9e83466642ffd35
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LAT D1: FK Auda Riga vs BFC Daugavpils" tvg-name="LAT D1: FK Auda Riga vs BFC Daugavpils" tvg-logo="https://sta.vnres.co/file/head/20230203/e7fcb68b4a251675c8343c19e58289d7.png",[COLOR red][LIVE][/COLOR] LAT D1: FK Auda Riga vs BFC Daugavpils [COLOR yellow]BLV G Hip[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991127_lhd.m3u8?txSecret=355010bfe522b1a9c3b546ed1af451be&txTime=6484d793
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="RUS D1: Fakel Voronezh vs Yenisey Krasnoyarsk" tvg-name="RUS D1: Fakel Voronezh vs Yenisey Krasnoyarsk" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] RUS D1: Fakel Voronezh vs Yenisey Krasnoyarsk [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1686427359-0-0-60e629c75ae32f9c3cdecca7b3dd12ea
+https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1686427539-0-0-40ccd1d4047fb7c2b4f723bf979aa3fc
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LIT D1: Suduva vs FK Riteriai" tvg-name="LIT D1: Suduva vs FK Riteriai" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg",[COLOR red][LIVE][/COLOR] LIT D1: Suduva vs FK Riteriai [COLOR yellow]BLV MÁT GAI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-273067_lhd.m3u8?txSecret=92bd371a4c9091dc4cc7c9b45a704ae0&txTime=6484d793
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LIT D1: Suduva vs FK Riteriai" tvg-name="LIT D1: Suduva vs FK Riteriai" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg",[COLOR red][LIVE][/COLOR] LIT D1: Suduva vs FK Riteriai [COLOR yellow]BLV FANCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1686427359-0-0-f206370d96643a13a8e433ef4d98775d
+https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1686427539-0-0-c04bd6874da1f226aac0b9d69ec2957c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
