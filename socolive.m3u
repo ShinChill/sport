@@ -1,73 +1,85 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="USA MLS: Saint Louis City vs Los Angeles Galaxy" tvg-name="USA MLS: Saint Louis City vs Los Angeles Galaxy" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] USA MLS: Saint Louis City vs Los Angeles Galaxy [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=a13b1a9828f083709e5b7c769a726ef9&txTime=6486636f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA MLS: Saint Louis City vs Los Angeles Galaxy" tvg-name="USA MLS: Saint Louis City vs Los Angeles Galaxy" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] USA MLS: Saint Louis City vs Los Angeles Galaxy [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1686528879-0-0-c54b8eeea48d49939286566cfb62d914
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="NOR D1: Brann vs Lillestrom" tvg-name="NOR D1: Brann vs Lillestrom" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg",[COLOR red][LIVE][/COLOR] NOR D1: Brann vs Lillestrom [COLOR yellow]MĂNG CỤT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1686528879-0-0-3a2e7bdb65cbafd9dae8aed8d1926658
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIFA U20: Israel(U20(N vs Korea Republic(U20" tvg-name="FIFA U20: Israel(U20(N vs Korea Republic(U20" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] FIFA U20: Israel(U20(N vs Korea Republic(U20 [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1686528879-0-0-60d2b4f03ebb9f188fb8041eea3ec05f
+#EXTINF:-1 tvg-id="NOR D1: Brann vs Lillestrom" tvg-name="NOR D1: Brann vs Lillestrom" tvg-logo="https://sta.vnres.co/file/head/20230405/ec1bee82e4d11675221774242cd75d76.jpg",[COLOR red][LIVE][/COLOR] NOR D1: Brann vs Lillestrom [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=ae4079e5a873a91426c0b51275ca8157&txTime=64866423
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="NOR D1: Brann vs Lillestrom" tvg-name="NOR D1: Brann vs Lillestrom" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] NOR D1: Brann vs Lillestrom [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-201313_lhd.m3u8?txSecret=1ec8fc0d65384c9058fddbffe77d6aae&txTime=6486636f
+https://sports01.livnvess.com/live/stream-201313_lhd.m3u8?txSecret=3c0b0f90c3c0095f58b7ce7e4bc2ed46&txTime=64866423
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIFA U20 Israel(U20(N vs Korea Republic(U20" tvg-name="FIFA U20 Israel(U20(N vs Korea Republic(U20" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] FIFA U20 Israel(U20(N vs Korea Republic(U20 [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1686528879-0-0-d2d106c5e0f902534e2256d44988c026
+#EXTINF:-1 tvg-id="FIFA U20: Israel(U20(N vs Korea Republic(U20" tvg-name="FIFA U20: Israel(U20(N vs Korea Republic(U20" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] FIFA U20: Israel(U20(N vs Korea Republic(U20 [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1686529059-0-0-f29734663f9ba1d6fcc36fbd55d2d156
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIFA U20: Israel(U20(N vs Korea Republic(U20" tvg-name="FIFA U20: Israel(U20(N vs Korea Republic(U20" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26",[COLOR red][LIVE][/COLOR] FIFA U20: Israel(U20(N vs Korea Republic(U20 [COLOR yellow]BABY BOY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1686528879-0-0-c59be16bec31171dbfe4ad4f4fc16a6d
+https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1686529059-0-0-34ab2fc2ce77cb2a35d70ccb0635a1dc
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ITA D2: FC Bari 1908 vs Cagliari" tvg-name="ITA D2: FC Bari 1908 vs Cagliari" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] ITA D2: FC Bari 1908 vs Cagliari [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-348199_lhd.m3u8?txSecret=5d066afb516a28dfb1d9097a2739aa27&txTime=6486636f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="NOR D1: Brann vs Lillestrom" tvg-name="NOR D1: Brann vs Lillestrom" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] NOR D1: Brann vs Lillestrom [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=7b33edd428f196f3f62290ef66094630&txTime=6486636f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="NOR D1: Brann vs Lillestrom" tvg-name="NOR D1: Brann vs Lillestrom" tvg-logo="https://sta.vnres.co/file/head/20230405/ec1bee82e4d11675221774242cd75d76.jpg",[COLOR red][LIVE][/COLOR] NOR D1: Brann vs Lillestrom [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=5b843b8b6878ef547ba969fd23c3a1ae&txTime=6486636f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIFA U20: Israel(U20(N vs Korea Republic(U20" tvg-name="FIFA U20: Israel(U20(N vs Korea Republic(U20" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] FIFA U20: Israel(U20(N vs Korea Republic(U20 [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1686528879-0-0-d733b09852f26f7b40275c9a069f0004
+#EXTINF:-1 tvg-id="USA MLS: Saint Louis City vs Los Angeles Galaxy" tvg-name="USA MLS: Saint Louis City vs Los Angeles Galaxy" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] USA MLS: Saint Louis City vs Los Angeles Galaxy [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=1f32c7c54eed3b3bf147dfa3c6f3a2e4&txTime=64866423
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIFA U20: Israel(U20(N vs Korea Republic(U20" tvg-name="FIFA U20: Israel(U20(N vs Korea Republic(U20" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] FIFA U20: Israel(U20(N vs Korea Republic(U20 [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1686528879-0-0-eac5ecb9f04afcb19c2cdbf4d6d10b51
+https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1686529059-0-0-6000b241103e41cbac8835d943fc0eef
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="NOR D1: Brann vs Lillestrom" tvg-name="NOR D1: Brann vs Lillestrom" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] NOR D1: Brann vs Lillestrom [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=ea766f840251532f683b68f9ed8185bb&txTime=64866423
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="FIFA U20: Israel(U20(N vs Korea Republic(U20" tvg-name="FIFA U20: Israel(U20(N vs Korea Republic(U20" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] FIFA U20: Israel(U20(N vs Korea Republic(U20 [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1686529059-0-0-5ca15e2d7ab3af5ee1cabd72026f40cc
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ITA D2: FC Bari 1908 vs Cagliari" tvg-name="ITA D2: FC Bari 1908 vs Cagliari" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] ITA D2: FC Bari 1908 vs Cagliari [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-348199_lhd.m3u8?txSecret=168e035c5cb09e931751153b0b22b6ae&txTime=64866423
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="NOR D1: Brann vs Lillestrom" tvg-name="NOR D1: Brann vs Lillestrom" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg",[COLOR red][LIVE][/COLOR] NOR D1: Brann vs Lillestrom [COLOR yellow]MĂNG CỤT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1686529059-0-0-f922b7b369a89cb70a797eca6ce98883
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="FIFA U20 Israel(U20(N vs Korea Republic(U20" tvg-name="FIFA U20 Israel(U20(N vs Korea Republic(U20" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] FIFA U20 Israel(U20(N vs Korea Republic(U20 [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1686529059-0-0-f8ef7faa8918705b8f402dd9c9adcecf
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA MLS: Saint Louis City vs Los Angeles Galaxy" tvg-name="USA MLS: Saint Louis City vs Los Angeles Galaxy" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] USA MLS: Saint Louis City vs Los Angeles Galaxy [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1686529059-0-0-ee7391be37c5f8fe881553737a25db63
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIFA U20: Israel(U20(N vs Korea Republic(U20" tvg-name="FIFA U20: Israel(U20(N vs Korea Republic(U20" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][LIVE][/COLOR] FIFA U20: Israel(U20(N vs Korea Republic(U20 [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1686528879-0-0-0041e804bb73cd40f1b3d2e1d925c5f8
+https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1686529059-0-0-c9f365f9e8197d535ccfaa62a89cbf86
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ITA D1: Spezia(N vs Hellas Verona" tvg-name="ITA D1: Spezia(N vs Hellas Verona" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Spezia(N vs Hellas Verona [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1686529059-0-0-cca28a7758c01b988cc968aafff05a8f
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ITA D1: Spezia(N vs Hellas Verona" tvg-name="ITA D1: Spezia(N vs Hellas Verona" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Spezia(N vs Hellas Verona [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1686529059-0-0-a7e2cc49f6df60bd57fc7d5536968865
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ITA D1: Spezia(N vs Hellas Verona" tvg-name="ITA D1: Spezia(N vs Hellas Verona" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Spezia(N vs Hellas Verona [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1686529059-0-0-2486b550135689ed05a173620cfa95e7
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TUR Cup: Fenerbahce vs Istanbul Basaksehir F.K." tvg-name="TUR Cup: Fenerbahce vs Istanbul Basaksehir F.K." tvg-logo="https://sta.vnres.co/file/head/20230601/c6ea462493f77254cc60a4d35a10a594.jpg",[COLOR red][LIVE][/COLOR] TUR Cup: Fenerbahce vs Istanbul Basaksehir F.K. [COLOR yellow]BLV LÂM XUNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-344687_lhd.m3u8?auth_key=1686528879-0-0-c08ec5d2ce6dfbc99b3e800dd8b7581b
+https://pull06.scstream.net/live/stream-344687_lhd.m3u8?auth_key=1686529059-0-0-14b0877de3e0e43fce5293e8924a4b2a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TUR Cup: Fenerbahce vs Istanbul Basaksehir F.K." tvg-name="TUR Cup: Fenerbahce vs Istanbul Basaksehir F.K." tvg-logo="https://sta.vnres.co/file/head/20230329/571b39ae2e8e91a9b9ee7b45d829eba1.jpg",[COLOR red][LIVE][/COLOR] TUR Cup: Fenerbahce vs Istanbul Basaksehir F.K. [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=69d1827c7d8571fd36b5859e32425c8c&txTime=6486636f
+https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=bdf6ff821f32efad5fd6ec25e1bafa4d&txTime=64866423
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: Saint Louis City vs Los Angeles Galaxy" tvg-name="USA MLS: Saint Louis City vs Los Angeles Galaxy" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Saint Louis City vs Los Angeles Galaxy [COLOR yellow]BLV TONY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=e79e24f660d1f39afe1d2025513980b1&txTime=6486636f
+https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=8cb670d20a28182d13e0e407b6f3edb9&txTime=64866423
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: Saint Louis City vs Los Angeles Galaxy" tvg-name="USA MLS: Saint Louis City vs Los Angeles Galaxy" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Saint Louis City vs Los Angeles Galaxy [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=0081a7996015608ab8dc83df4bd5f4fa&txTime=6486636f
+https://sports01.livnvess.com/live/stream-19949_lhd.m3u8?txSecret=ec88f37b5b18f8cbbbfb4cd62de20574&txTime=64866423
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: Saint Louis City vs Los Angeles Galaxy" tvg-name="USA MLS: Saint Louis City vs Los Angeles Galaxy" tvg-logo="https://sta.vnres.co/file/head/20230608/944e51718d34d61ad5d8b634a026c299.jpeg",[COLOR red][LIVE][/COLOR] USA MLS: Saint Louis City vs Los Angeles Galaxy [COLOR yellow]BLV HAKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-359236_lhd.m3u8?auth_key=1686528879-0-0-45fbb6fe296096c3cefd6bf6794e661d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="GBBL: Bonn vs Ulm" tvg-name="GBBL: Bonn vs Ulm" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] GBBL: Bonn vs Ulm [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1686528879-0-0-924b7be4c1f34f8fe44320790f71542e
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="GBBL: Bonn vs Ulm" tvg-name="GBBL: Bonn vs Ulm" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] GBBL: Bonn vs Ulm [COLOR yellow]BLV KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-168964_lhd.m3u8?txSecret=ec6f0e7e7a1afdb72009f77ed572120c&txTime=6486636f
+https://pull06.scstream.net/live/stream-359236_lhd.m3u8?auth_key=1686529059-0-0-b1857a63553100e7378a5d069f7684e4
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ITA D2: FC Bari 1908 vs Cagliari" tvg-name="ITA D2: FC Bari 1908 vs Cagliari" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] ITA D2: FC Bari 1908 vs Cagliari [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1686528879-0-0-390b2400855be0880a8e412241ff52eb
+https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1686529059-0-0-a0d2f2e4f4b71e7ac7098ebb31b8ac52
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ITA D2: FC Bari 1908 vs Cagliari" tvg-name="ITA D2: FC Bari 1908 vs Cagliari" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] ITA D2: FC Bari 1908 vs Cagliari [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1686528879-0-0-3b39899b2bac02356fe1e17de8f19402
+https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1686529059-0-0-21da51e7fb12820e6eaa08974e34d525
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ITA D2: FC Bari 1908 vs Cagliari" tvg-name="ITA D2: FC Bari 1908 vs Cagliari" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] ITA D2: FC Bari 1908 vs Cagliari [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1686528879-0-0-4912885a7c4e9b75e1093d1d96e3cc65
+https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1686529059-0-0-37b6747f64e98e3c42bd7e6ec5671240
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ITA D1: Spezia(N vs Hellas Verona" tvg-name="ITA D1: Spezia(N vs Hellas Verona" tvg-logo="https://sta.vnres.co/file/head/20230513/0caf5377396b4e2c222f4a04e7caedc0.jpg",[COLOR red][LIVE][/COLOR] ITA D1: Spezia(N vs Hellas Verona [COLOR yellow]BLV TIGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=85dc90cea498a37b9339a3c3853bcfac&txTime=64866423
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ITA D1: Spezia(N vs Hellas Verona" tvg-name="ITA D1: Spezia(N vs Hellas Verona" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",[COLOR red][LIVE][/COLOR] ITA D1: Spezia(N vs Hellas Verona [COLOR yellow]BLV TAM MAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=f97916c261679953a52742d4797dd34d&txTime=64866423
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ITA D2: FC Bari 1908 vs Cagliari" tvg-name="ITA D2: FC Bari 1908 vs Cagliari" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] ITA D2: FC Bari 1908 vs Cagliari [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=8d257099fbb8ef2e1d1f8f8bf2b26367&txTime=64866423
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: Saint Louis City vs Los Angeles Galaxy" tvg-name="USA MLS: Saint Louis City vs Los Angeles Galaxy" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Saint Louis City vs Los Angeles Galaxy [COLOR yellow]BLV KAKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1686528879-0-0-93e7ce1d2e427f59c62cea0bc76745a4
+https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1686529059-0-0-fe73fdb49ce0fec49126efa5af90dc00
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
