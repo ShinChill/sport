@@ -1,70 +1,73 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TOUT: Selection Mediterranean(U21(N vs Qatar(U23" tvg-name="TOUT: Selection Mediterranean(U21(N vs Qatar(U23" tvg-logo="https://sta.vnres.co/file/head/20230612/ef661746975ffa101b5df40864d75797.jpg",[COLOR red][LIVE][/COLOR] TOUT: Selection Mediterranean(U21(N vs Qatar(U23 [COLOR yellow]BLV G Hip[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991127_lhd.m3u8?txSecret=e53c7d99b166f4dbbbfb061ea3e1e80d&txTime=6487932f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: India vs Vanuatu" tvg-name="INTERF: India vs Vanuatu" tvg-logo="https://sta.vnres.co/file/head/20230114/4e19d9ee44846c0eb6a0721271ef1cc9.jpg",[COLOR red][LIVE][/COLOR] INTERF: India vs Vanuatu [COLOR yellow]BLV Củ Chuối[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=f7973c1645b093f1a90a092ca5b8d3b4&txTime=6487932f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="EST D2: Tallinna FC Levadia II vs Paide Linnameeskond B" tvg-name="EST D2: Tallinna FC Levadia II vs Paide Linnameeskond B" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] EST D2: Tallinna FC Levadia II vs Paide Linnameeskond B [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1686606639-0-0-1447baa62a88bc0697d075bc97c11499
+#EXTINF:-1 tvg-id="WAFF U23: Oman(U23 vs Lebanon(U23" tvg-name="WAFF U23: Oman(U23 vs Lebanon(U23" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] WAFF U23: Oman(U23 vs Lebanon(U23 [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1686606819-0-0-915cdcff891bdc7dea173ddfa710c768
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="WAFF U23: Oman(U23 vs Lebanon(U23" tvg-name="WAFF U23: Oman(U23 vs Lebanon(U23" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",[COLOR red][LIVE][/COLOR] WAFF U23: Oman(U23 vs Lebanon(U23 [COLOR yellow]GIÀ LÀNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1686606639-0-0-2731341be6be31283c6f67f542407f10
+https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1686606819-0-0-f68b4940702fc7e09d9bb7267c98a6e7
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Germany vs Ukraine" tvg-name="INTERF: Germany vs Ukraine" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] INTERF: Germany vs Ukraine [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=ac3050637ff4773107cbe86999b8d0c3&txTime=6487932f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: India vs Vanuatu" tvg-name="INTERF: India vs Vanuatu" tvg-logo="https://sta.vnres.co/file/head/20230601/c6ea462493f77254cc60a4d35a10a594.jpg",[COLOR red][LIVE][/COLOR] INTERF: India vs Vanuatu [COLOR yellow]BLV LÂM XUNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-344687_lhd.m3u8?auth_key=1686606639-0-0-2b2c471b279257ea29314bf01dc8988c
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="WAFF U23: Oman(U23 vs Lebanon(U23" tvg-name="WAFF U23: Oman(U23 vs Lebanon(U23" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] WAFF U23: Oman(U23 vs Lebanon(U23 [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1686606639-0-0-9fe7c49ff62f99c7d774a7b5bcb8728d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: India vs Vanuatu" tvg-name="INTERF: India vs Vanuatu" tvg-logo="https://sta.vnres.co/file/head/20230606/bad1e1ef655e5193c90590bf9a090c4e.jpg",[COLOR red][LIVE][/COLOR] INTERF: India vs Vanuatu [COLOR yellow]BLV ROMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-332529_lhd.m3u8?auth_key=1686606639-0-0-2f952eb4928d1fe77b3f6aeefe60af47
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Vanuatu vs India" tvg-name="INTERF: Vanuatu vs India" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] INTERF: Vanuatu vs India [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1686606639-0-0-b784e8f014e9a34cdcb166927c2a5001
+#EXTINF:-1 tvg-id="TOUT: Selection Mediterranean(U21(N vs Qatar(U23" tvg-name="TOUT: Selection Mediterranean(U21(N vs Qatar(U23" tvg-logo="https://sta.vnres.co/file/head/20230612/ef661746975ffa101b5df40864d75797.jpg",[COLOR red][LIVE][/COLOR] TOUT: Selection Mediterranean(U21(N vs Qatar(U23 [COLOR yellow]BLV G Hip[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991127_lhd.m3u8?txSecret=f19e0a82af01aa528da695875cacd10f&txTime=648793e3
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Germany vs Ukraine" tvg-name="INTERF: Germany vs Ukraine" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] INTERF: Germany vs Ukraine [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=555784cc9e8c2c705d6113e2fa9cedd0&txTime=6487932f
+https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=b7218571f64e3ccc7f1a2dc3033dc91d&txTime=648793e3
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: India vs Vanuatu" tvg-name="INTERF: India vs Vanuatu" tvg-logo="https://sta.vnres.co/file/head/20230601/c6ea462493f77254cc60a4d35a10a594.jpg",[COLOR red][LIVE][/COLOR] INTERF: India vs Vanuatu [COLOR yellow]BLV LÂM XUNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-344687_lhd.m3u8?auth_key=1686606819-0-0-9a387cd12f1c3e0c0f1ecb2b9f2e22ec
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Vanuatu vs India" tvg-name="INTERF: Vanuatu vs India" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] INTERF: Vanuatu vs India [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1686606819-0-0-6931b4057171cd9f57b0ea55e6f942c7
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: India vs Vanuatu" tvg-name="INTERF: India vs Vanuatu" tvg-logo="https://sta.vnres.co/file/head/20230114/4e19d9ee44846c0eb6a0721271ef1cc9.jpg",[COLOR red][LIVE][/COLOR] INTERF: India vs Vanuatu [COLOR yellow]BLV Củ Chuối[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-192778_lhd.m3u8?txSecret=59b413a7a9bc940e18b4e784c1b56da4&txTime=648793e3
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TOUT: Selection Mediterranean(U21(N vs Qatar(U23" tvg-name="TOUT: Selection Mediterranean(U21(N vs Qatar(U23" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] TOUT: Selection Mediterranean(U21(N vs Qatar(U23 [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1686606639-0-0-4e8cb7e49b6d4eb4a64be3d5ef70d67c
+https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1686606819-0-0-8bb07cc09be4504ad05339a9d6acfbd7
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TOUT: Selection Mediterranean(U21(N vs Qatar(U23" tvg-name="TOUT: Selection Mediterranean(U21(N vs Qatar(U23" tvg-logo="https://sta.vnres.co/file/head/20230405/ec1bee82e4d11675221774242cd75d76.jpg",[COLOR red][LIVE][/COLOR] TOUT: Selection Mediterranean(U21(N vs Qatar(U23 [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=2317d5a8d465c545cbc014ebe8f61dcd&txTime=6487932f
+https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=53e75c727210147db5734c360100c682&txTime=648793e3
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Germany vs Ukraine" tvg-name="INTERF: Germany vs Ukraine" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] INTERF: Germany vs Ukraine [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=0eef66fa17ae08ab856fecb17cc6c5d3&txTime=648793e3
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: India vs Vanuatu" tvg-name="INTERF: India vs Vanuatu" tvg-logo="https://sta.vnres.co/file/head/20230606/bad1e1ef655e5193c90590bf9a090c4e.jpg",[COLOR red][LIVE][/COLOR] INTERF: India vs Vanuatu [COLOR yellow]BLV ROMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-332529_lhd.m3u8?auth_key=1686606819-0-0-dd2382c4022686b80550bf5fe4414d37
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="EST D2: Tallinna FC Levadia II vs Paide Linnameeskond B" tvg-name="EST D2: Tallinna FC Levadia II vs Paide Linnameeskond B" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] EST D2: Tallinna FC Levadia II vs Paide Linnameeskond B [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1686606819-0-0-e5f6f12c1576f69d1ecc40aca8d76cce
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Germany vs Ukraine" tvg-name="INTERF: Germany vs Ukraine" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] INTERF: Germany vs Ukraine [COLOR yellow]Tạ Biên Giới[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1686606819-0-0-17b23788af83b35a91a3eb5dff05a8c3
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Germany vs Ukraine" tvg-name="INTERF: Germany vs Ukraine" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] INTERF: Germany vs Ukraine [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=d78206f4c03455d793de0487c293a3f8&txTime=6487932f
+https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=338475a7cf5dff263e14833f6dc88680&txTime=648793e3
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: India vs Vanuatu" tvg-name="INTERF: India vs Vanuatu" tvg-logo="https://sta.vnres.co/file/head/20230310/c88aad2517438b870b70b682d81e61db.jpg",[COLOR red][LIVE][/COLOR] INTERF: India vs Vanuatu [COLOR yellow]YUKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1686606639-0-0-4ce71d5a02ec0b1bcb4381ff61d0f50a
+https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1686606819-0-0-2a67e8ae4e9300c051cc94f7d7cef56f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TOUT: Selection Mediterranean(U21(N vs Qatar(U23" tvg-name="TOUT: Selection Mediterranean(U21(N vs Qatar(U23" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26",[COLOR red][LIVE][/COLOR] TOUT: Selection Mediterranean(U21(N vs Qatar(U23 [COLOR yellow]BABY BOY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1686606639-0-0-232f8ac0ec96dc56c3492a8e07c9d7c4
+https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1686606819-0-0-f64e0658e758f4da2bbf5091497f9f6d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TOUT: Selection Mediterranean(U21(N vs Qatar(U23" tvg-name="TOUT: Selection Mediterranean(U21(N vs Qatar(U23" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] TOUT: Selection Mediterranean(U21(N vs Qatar(U23 [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=d80cc945e0ea2c55c49bd736816683e3&txTime=6487932f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="TOUT: Selection Mediterranean(U21(N vs Qatar(U23" tvg-name="TOUT: Selection Mediterranean(U21(N vs Qatar(U23" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg",[COLOR red][LIVE][/COLOR] TOUT: Selection Mediterranean(U21(N vs Qatar(U23 [COLOR yellow]DƯƠNG QUÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1686606639-0-0-76eb22fb8a49663265e7028af8ffdbd5
+https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=b5e3bb1ca4bdd3d91e94f90053099265&txTime=648793e3
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="WAFF U23: Oman(U23 vs Lebanon(U23" tvg-name="WAFF U23: Oman(U23 vs Lebanon(U23" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] WAFF U23: Oman(U23 vs Lebanon(U23 [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=2e34da0d82fbe49fa2d2174edaa069d1&txTime=6487932f
+https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=4bafa958916da8b7cee2af714de682db&txTime=648793e3
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="TOUT: Selection Mediterranean(U21(N vs Qatar(U23" tvg-name="TOUT: Selection Mediterranean(U21(N vs Qatar(U23" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg",[COLOR red][LIVE][/COLOR] TOUT: Selection Mediterranean(U21(N vs Qatar(U23 [COLOR yellow]DƯƠNG QUÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1686606819-0-0-22591bad287f9747f809cf25b9b00304
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="WAFF U23: Oman(U23 vs Lebanon(U23" tvg-name="WAFF U23: Oman(U23 vs Lebanon(U23" tvg-logo="https://sta.vnres.co/file/head/20220627/4a25c211c3b42d3923895ce94a4331cb.jpg",[COLOR red][LIVE][/COLOR] WAFF U23: Oman(U23 vs Lebanon(U23 [COLOR yellow]AMY BABE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-102153_lhd.m3u8?auth_key=1686606639-0-0-001c9cc8c164771ce2c5c6420f87102e
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="EST D2: Tallinna FC Levadia II vs Paide Linnameeskond B" tvg-name="EST D2: Tallinna FC Levadia II vs Paide Linnameeskond B" tvg-logo="https://sta.vnres.co/file/head/20230328/c19057ab3245d1531de39f82e3b38099.jpg",[COLOR red][LIVE][/COLOR] EST D2: Tallinna FC Levadia II vs Paide Linnameeskond B [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1686606639-0-0-db56dbf4b48ffb9bc9d1045be4d82752
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="EST D2: Tallinna FC Levadia II vs Paide Linnameeskond B" tvg-name="EST D2: Tallinna FC Levadia II vs Paide Linnameeskond B" tvg-logo="https://sta.vnres.co/file/head/20230513/0caf5377396b4e2c222f4a04e7caedc0.jpg",[COLOR red][LIVE][/COLOR] EST D2: Tallinna FC Levadia II vs Paide Linnameeskond B [COLOR yellow]BLV TIGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=ccf2507de07aa0163cfe95363f12a7b9&txTime=6487932f
+https://pull06.scstream.net/live/stream-102153_lhd.m3u8?auth_key=1686606819-0-0-2bd358c4a21778c78c3ff1acd1bf65ec
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Germany vs Ukraine" tvg-name="INTERF: Germany vs Ukraine" tvg-logo="https://sta.vnres.co/file/head/20230603/76e9400ebfdb98838d029077819af144.jpg",[COLOR red][LIVE][/COLOR] INTERF: Germany vs Ukraine [COLOR yellow]BLV VĂN TÍCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1686606639-0-0-af676cc0b48c59ca39f124ab1a03cc57
+https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1686606819-0-0-fa524055265ac08d2a9a8547043342f4
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="EST D2: Tallinna FC Levadia II vs Paide Linnameeskond B" tvg-name="EST D2: Tallinna FC Levadia II vs Paide Linnameeskond B" tvg-logo="https://sta.vnres.co/file/head/20230328/c19057ab3245d1531de39f82e3b38099.jpg",[COLOR red][LIVE][/COLOR] EST D2: Tallinna FC Levadia II vs Paide Linnameeskond B [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1686606819-0-0-cdbd11886427b56a427b2b8dfc9d5805
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="EST D2: Tallinna FC Levadia II vs Paide Linnameeskond B" tvg-name="EST D2: Tallinna FC Levadia II vs Paide Linnameeskond B" tvg-logo="https://sta.vnres.co/file/head/20230513/0caf5377396b4e2c222f4a04e7caedc0.jpg",[COLOR red][LIVE][/COLOR] EST D2: Tallinna FC Levadia II vs Paide Linnameeskond B [COLOR yellow]BLV TIGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=9fd4d29f61fcba636442273e47873aa2&txTime=648793e3
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EST D2: Tallinna FC Levadia II vs Paide Linnameeskond B" tvg-name="EST D2: Tallinna FC Levadia II vs Paide Linnameeskond B" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg",[COLOR red][LIVE][/COLOR] EST D2: Tallinna FC Levadia II vs Paide Linnameeskond B [COLOR yellow]BLV CHOVY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-319191_lhd.m3u8?auth_key=1686606639-0-0-1015041e87e8efe42d6de9f67bf62cce
+https://pull06.scstream.net/live/stream-319191_lhd.m3u8?auth_key=1686606819-0-0-9f3d81226eb9d43deb633e0e0864447d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
