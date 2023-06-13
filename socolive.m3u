@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TEST LIVE" tvg-name="TEST LIVE" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg",[COLOR red][LIVE][/COLOR] TEST LIVE [COLOR yellow]BLV QUICK[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1686669459-0-0-fd149db9acc0839f838f15012b4fe062
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LPL: Oh My God vs Ninjas in Pyjamas" tvg-name="LPL: Oh My God vs Ninjas in Pyjamas" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] LPL: Oh My God vs Ninjas in Pyjamas [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=4b0e223e44b7f6df8bd8e8a7cde12bea&txTime=64888893
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="KOR WD1: Hyundai Steel Red angels Women's vs Suwon FMC Women's" tvg-name="KOR WD1: Hyundai Steel Red angels Women's vs Suwon FMC Women's" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] KOR WD1: Hyundai Steel Red angels Women's vs Suwon FMC Women's [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-379816_lhd.m3u8?txSecret=d220e25b94dace023ee8a3192d520f39&txTime=64888893
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LPL SUMMER NIP VS OMG - JDG VS RNG" tvg-name="LPL SUMMER NIP VS OMG - JDG VS RNG" tvg-logo="https://sta.vnres.co/file/head/20230612/b52c853178859bfecf19acf346f0032b.jpg",[COLOR red][LIVE][/COLOR] LPL SUMMER NIP VS OMG - JDG VS RNG [COLOR yellow]BLV DIFF[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-118969_lhd.m3u8?auth_key=1686669459-0-0-40930bd4fe9aeb8b72bfca41dabe12a5
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Australia(U18 vs Norway U18" tvg-name="INTERF: Australia(U18 vs Norway U18" tvg-logo="https://sta.vnres.co/file/head/20230328/c19057ab3245d1531de39f82e3b38099.jpg",[COLOR red][LIVE][/COLOR] INTERF: Australia(U18 vs Norway U18 [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1686669459-0-0-c9b64f4e503d56bb654ec8b67f92b808
+https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1686669639-0-0-f1a18770a7d0e88e7f038407982ea198
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LPL :  Ninjas in Pyjamas vs Oh My God" tvg-name="LPL :  Ninjas in Pyjamas vs Oh My God" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] LPL :  Ninjas in Pyjamas vs Oh My God [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1686669459-0-0-02d8604a0f54fb5bf8e3f4fd8cc6cf0f
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1686669639-0-0-ca859509eabd494b2d429cb5297b25c7
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="KOR WD1: Hyundai Steel Red angels Women's vs Suwon FMC Women's" tvg-name="KOR WD1: Hyundai Steel Red angels Women's vs Suwon FMC Women's" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] KOR WD1: Hyundai Steel Red angels Women's vs Suwon FMC Women's [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-379816_lhd.m3u8?txSecret=9db9bec6a3fe2805316c2206178ed89e&txTime=64888947
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LPL: Oh My God vs Ninjas in Pyjamas" tvg-name="LPL: Oh My God vs Ninjas in Pyjamas" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] LPL: Oh My God vs Ninjas in Pyjamas [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=260fd6473e23080ad13d777a416bd05e&txTime=64888947
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="TEST LIVE" tvg-name="TEST LIVE" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg",[COLOR red][LIVE][/COLOR] TEST LIVE [COLOR yellow]BLV QUICK[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1686669639-0-0-215ca2c3862db9512bc57df049e863eb
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LPL SUMMER NIP VS OMG - JDG VS RNG" tvg-name="LPL SUMMER NIP VS OMG - JDG VS RNG" tvg-logo="https://sta.vnres.co/file/head/20230612/b52c853178859bfecf19acf346f0032b.jpg",[COLOR red][LIVE][/COLOR] LPL SUMMER NIP VS OMG - JDG VS RNG [COLOR yellow]BLV DIFF[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-118969_lhd.m3u8?auth_key=1686669639-0-0-98daee6f4fdf6bca2052ed7e5848c876
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: ITA D1 - Spezia vs Hellas Verona" tvg-name="Tường thuật: ITA D1 - Spezia vs Hellas Verona" tvg-logo="https://sta.vnres.co/file/head/20220810/2a7ffd98fe2f64c7e36efb035d2cbc3b.png",[COLOR red][LIVE][/COLOR] Tường thuật: ITA D1 - Spezia vs Hellas Verona [COLOR yellow]Sóc phụ hồ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-133277_lhd.m3u8?txSecret=2a381a65d064a8d3214a29f39f50279d&txTime=64888893
+https://sports01.livnvess.com/live/stream-133277_lhd.m3u8?txSecret=c095ed9fa84723c7dc842b1edd93b5a7&txTime=64888947
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: ENG FAC - Manchester City vs Manchester United" tvg-name="Tường thuật: ENG FAC - Manchester City vs Manchester United" tvg-logo="https://sta.vnres.co/file/head/20221111/5dedadaf5ec33677f4ebc3a71ba3626c.png",[COLOR red][LIVE][/COLOR] Tường thuật: ENG FAC - Manchester City vs Manchester United [COLOR yellow]Sóc cam[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-152898_lhd.m3u8?txSecret=1f3007f2bc7ce4c5573a2fe045886573&txTime=64888893
+https://sports01.livnvess.com/live/stream-152898_lhd.m3u8?txSecret=2e94c5457b25b56f9f27213ac3966c35&txTime=64888947
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
