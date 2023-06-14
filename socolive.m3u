@@ -1,34 +1,34 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LPL SUMMER WBG vs LGD" tvg-name="LPL SUMMER WBG vs LGD" tvg-logo="https://sta.vnres.co/file/head/20230612/b52c853178859bfecf19acf346f0032b.jpg",[COLOR red][LIVE][/COLOR] LPL SUMMER WBG vs LGD [COLOR yellow]BLV DIFF[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-118969_lhd.m3u8?auth_key=1686753159-0-0-4438ba99de6e4cdc110c06002edb24d2
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LCK: Hanwha Life vs DRX" tvg-name="LCK: Hanwha Life vs DRX" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] LCK: Hanwha Life vs DRX [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=ec3fd9da4e43d9131336b37d04629588&txTime=6489cf87
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LPL: Weibo Gaming  VS  LGD Gaming" tvg-name="LPL: Weibo Gaming  VS  LGD Gaming" tvg-logo="https://sta.vnres.co/file/head/20230611/45ad3fec72e34d9b8e8a98d6cc02ef95.jpeg",[COLOR red][LIVE][/COLOR] LPL: Weibo Gaming  VS  LGD Gaming [COLOR yellow]DR STRANGE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-252519_lhd.m3u8?txSecret=42afb231679e30953e2f212e7313d35a&txTime=6489cf87
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LPL : Weibo Gaming vs LGD Gaming" tvg-name="LPL : Weibo Gaming vs LGD Gaming" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] LPL : Weibo Gaming vs LGD Gaming [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1686753159-0-0-5b2dfc4311f48e8f1bd81bc260a83414
+https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=ad0e3c90b507cf5c1aa0a9abe7d52fa8&txTime=6489d03b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LCK: Hanwha Life vs DRX" tvg-name="LCK: Hanwha Life vs DRX" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] LCK: Hanwha Life vs DRX [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=1bc24d52c59f3efaa449878464c75c42&txTime=6489cf87
+https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=756f34989a6b86ff46a71e5aa8bd7131&txTime=6489d03b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LPL : Weibo Gaming vs LGD Gaming" tvg-name="LPL : Weibo Gaming vs LGD Gaming" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] LPL : Weibo Gaming vs LGD Gaming [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1686753339-0-0-5b23fa25fdd0eea97d4404fac6e5881a
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LPL SUMMER WBG vs LGD" tvg-name="LPL SUMMER WBG vs LGD" tvg-logo="https://sta.vnres.co/file/head/20230612/b52c853178859bfecf19acf346f0032b.jpg",[COLOR red][LIVE][/COLOR] LPL SUMMER WBG vs LGD [COLOR yellow]BLV DIFF[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-118969_lhd.m3u8?auth_key=1686753339-0-0-9052f89cddf416332e00a9ba5121a7cb
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LPL: Weibo Gaming  VS  LGD Gaming" tvg-name="LPL: Weibo Gaming  VS  LGD Gaming" tvg-logo="https://sta.vnres.co/file/head/20230611/45ad3fec72e34d9b8e8a98d6cc02ef95.jpeg",[COLOR red][Chưa bắt đầu][/COLOR] LPL: Weibo Gaming  VS  LGD Gaming [COLOR yellow]DR STRANGE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-252519_lhd.m3u8?txSecret=f4b751fe68eb4dade374790f4fa1dd18&txTime=6489d04c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: FIFA U20 - Uruguay vs Italy" tvg-name="Tường thuật: FIFA U20 - Uruguay vs Italy" tvg-logo="https://sta.vnres.co/file/head/20220522/27ec59432f6894e2e4551627847383bd.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: FIFA U20 - Uruguay vs Italy [COLOR yellow]Sóc mèo méo meo[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-1_lhd.m3u8?txSecret=bf16872efb800a2dc08aa303f20c61e1&txTime=6489cf87
+https://sports01.livnvess.com/live/stream-1_lhd.m3u8?txSecret=a72cb232631ffba54a156bd162aa6dfa&txTime=6489d03b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA EL - Sevilla vs AS Roma" tvg-name="Tường thuật: UEFA EL - Sevilla vs AS Roma" tvg-logo="https://sta.vnres.co/file/head/20221213/1ccf6b3b54904f0da8610926a968d412.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA EL - Sevilla vs AS Roma [COLOR yellow]Sóc gánh nước[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-133824_lhd.m3u8?txSecret=59920f3403c04bcda89e2c88f1be5013&txTime=6489cf87
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Tường thuật: UEFA CL - Manchester City vs Inter Milan" tvg-name="Tường thuật: UEFA CL - Manchester City vs Inter Milan" tvg-logo="https://sta.vnres.co/file/head/20220810/7ec533b436e71ab93e03dda2f6a15678.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA CL - Manchester City vs Inter Milan [COLOR yellow]Sóc Minions[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-160872_lhd.m3u8?txSecret=eec0d11d0c8819ecf552d44bfc0804e3&txTime=6489cf87
+https://sports01.livnvess.com/live/stream-133824_lhd.m3u8?txSecret=799588b8995bde201b3953701e98cf7a&txTime=6489d03b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: ITA D1 - Spezia vs Hellas Verona" tvg-name="Tường thuật: ITA D1 - Spezia vs Hellas Verona" tvg-logo="https://sta.vnres.co/file/head/20220810/2a7ffd98fe2f64c7e36efb035d2cbc3b.png",[COLOR red][LIVE][/COLOR] Tường thuật: ITA D1 - Spezia vs Hellas Verona [COLOR yellow]Sóc phụ hồ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-133277_lhd.m3u8?txSecret=20226083dc836e3fb734ac50280d4b77&txTime=6489cf87
+https://sports01.livnvess.com/live/stream-133277_lhd.m3u8?txSecret=3e725768d816af90bd62f9c92e05fb02&txTime=6489d03b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Tường thuật: ENG FAC - Manchester City vs Manchester United" tvg-name="Tường thuật: ENG FAC - Manchester City vs Manchester United" tvg-logo="https://sta.vnres.co/file/head/20221111/5dedadaf5ec33677f4ebc3a71ba3626c.png",[COLOR red][LIVE][/COLOR] Tường thuật: ENG FAC - Manchester City vs Manchester United [COLOR yellow]Sóc cam[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-152898_lhd.m3u8?txSecret=8ce8b1d43f5650172ec7a06ce3e05790&txTime=6489cf87
+#EXTINF:-1 tvg-id="Tường thuật: UEFA CL - Manchester City vs Inter Milan" tvg-name="Tường thuật: UEFA CL - Manchester City vs Inter Milan" tvg-logo="https://sta.vnres.co/file/head/20220810/7ec533b436e71ab93e03dda2f6a15678.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA CL - Manchester City vs Inter Milan [COLOR yellow]Sóc Minions[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-160872_lhd.m3u8?txSecret=b01981a218dbc8f3ccfd1f0a348b1c7a&txTime=6489d03b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA ECL - Fiorentina vs West Ham United" tvg-name="Tường thuật: UEFA ECL - Fiorentina vs West Ham United" tvg-logo="https://sta.vnres.co/file/head/20221213/f2d17ad16d4acb59cfd9d0976f0fa77e.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA ECL - Fiorentina vs West Ham United [COLOR yellow]Sóc nhà giàu[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-187684_lhd.m3u8?txSecret=64da3dab044202d22ff3fb5421132ec7&txTime=6489cf87
+https://sports01.livnvess.com/live/stream-187684_lhd.m3u8?txSecret=981d2a776b04f0458c13e75995221970&txTime=6489d03b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Tường thuật: ENG FAC - Manchester City vs Manchester United" tvg-name="Tường thuật: ENG FAC - Manchester City vs Manchester United" tvg-logo="https://sta.vnres.co/file/head/20221111/5dedadaf5ec33677f4ebc3a71ba3626c.png",[COLOR red][LIVE][/COLOR] Tường thuật: ENG FAC - Manchester City vs Manchester United [COLOR yellow]Sóc cam[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-152898_lhd.m3u8?txSecret=28759daf7bec8ecce49eea52bd1110cb&txTime=6489d03b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
