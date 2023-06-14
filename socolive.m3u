@@ -1,55 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CAF NC: South Sudan vs Gambia" tvg-name="CAF NC: South Sudan vs Gambia" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] CAF NC: South Sudan vs Gambia [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1686776380-0-0-ac3ac53acf116cfd844992f6d77613d2
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAFA: Oman vs Tajikistan" tvg-name="CAFA: Oman vs Tajikistan" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg",[COLOR red][LIVE][/COLOR] CAFA: Oman vs Tajikistan [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1686776380-0-0-91410ad27db178d23cd499a6cc206f05
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Malaysia vs Solomon" tvg-name="INTERF: Malaysia vs Solomon" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] INTERF: Malaysia vs Solomon [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-197901_lhd.m3u8?txSecret=7504f03ba56eb7d407bcc51632e9f883&txTime=648a2a3c
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF NC: South Sudan vs Gambia" tvg-name="CAF NC: South Sudan vs Gambia" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] CAF NC: South Sudan vs Gambia [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1686776380-0-0-9793d7b4b425204feb8451a80a733019
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="WAFF U23: United Arab Emirates(U23 vs Jordan(U23" tvg-name="WAFF U23: United Arab Emirates(U23 vs Jordan(U23" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] WAFF U23: United Arab Emirates(U23 vs Jordan(U23 [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1686776380-0-0-2c0f622561df891eb3d270a695211ce8
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAFA Cup: Oman vs Tajikistan" tvg-name="CAFA Cup: Oman vs Tajikistan" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] CAFA Cup: Oman vs Tajikistan [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1686776380-0-0-9d684d67d2395efbe65afe8920f0a907
+#EXTINF:-1 tvg-id="CAF NC: South Sudan vs Gambia" tvg-name="CAF NC: South Sudan vs Gambia" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][Chưa bắt đầu][/COLOR] CAF NC: South Sudan vs Gambia [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1686776567-0-0-7689c1f2295f0f11f509239944acf9dc
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="WAFF U23: United Arab Emirates(U23 vs Jordan(U23" tvg-name="WAFF U23: United Arab Emirates(U23 vs Jordan(U23" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] WAFF U23: United Arab Emirates(U23 vs Jordan(U23 [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=6c9e40d58ce3c7ec9dc412584eb15ce8&txTime=648a2a3c
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAFA Cup: Uzbekistan vs Turkmenistan" tvg-name="CAFA Cup: Uzbekistan vs Turkmenistan" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] CAFA Cup: Uzbekistan vs Turkmenistan [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=5927688dfa2af6121d45a3b1f2851aaf&txTime=648a2a3c
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Malaysia vs Solomon" tvg-name="INTERF: Malaysia vs Solomon" tvg-logo="https://sta.vnres.co/file/head/20230613/574173bc84eb707d0dd66291fbb9c899.png",[COLOR red][LIVE][/COLOR] INTERF: Malaysia vs Solomon [COLOR yellow]BLV VĂN TÍCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1686776380-0-0-83e46b4dd11f5d130bc3b743cd5287e1
+https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=34ef3988cede07f204b7558134d8d70d&txTime=648a2af0
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAFA Cup: Oman vs Tajikistan" tvg-name="CAFA Cup: Oman vs Tajikistan" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",[COLOR red][LIVE][/COLOR] CAFA Cup: Oman vs Tajikistan [COLOR yellow]GIÀ LÀNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1686776380-0-0-e6ee92d84e7f169b4eafc511c3fd674d
+https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1686776560-0-0-50dfda9abe3a392765859fdd6ae4a2b4
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAFA Cup: Oman vs Tajikistan" tvg-name="CAFA Cup: Oman vs Tajikistan" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] CAFA Cup: Oman vs Tajikistan [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1686776560-0-0-dd0f4c204a9ddfb810a96713952ebe66
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAFA Cup: Oman vs Tajikistan" tvg-name="CAFA Cup: Oman vs Tajikistan" tvg-logo="https://sta.vnres.co/file/head/20230606/bad1e1ef655e5193c90590bf9a090c4e.jpg",[COLOR red][LIVE][/COLOR] CAFA Cup: Oman vs Tajikistan [COLOR yellow]BLV ROMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-332529_lhd.m3u8?auth_key=1686776380-0-0-7f4f23c86253745af5ff976655733be7
+https://pull06.scstream.net/live/stream-332529_lhd.m3u8?auth_key=1686776560-0-0-bc9173b8751dcd950fd37b613f5c3204
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF NC: South Sudan vs Gambia" tvg-name="CAF NC: South Sudan vs Gambia" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] CAF NC: South Sudan vs Gambia [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=45d0be05bad2c8c7baba64bcfdc75ff9&txTime=648a2a3c
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="WAFF U23: United Arab Emirates(U23 vs Jordan(U23" tvg-name="WAFF U23: United Arab Emirates(U23 vs Jordan(U23" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",[COLOR red][LIVE][/COLOR] WAFF U23: United Arab Emirates(U23 vs Jordan(U23 [COLOR yellow]BLV TAM MAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=923f229e3e19eb718b5dc68c05790d59&txTime=648a2a3c
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF NC: South Sudan vs Gambia" tvg-name="CAF NC: South Sudan vs Gambia" tvg-logo="https://sta.vnres.co/file/head/20230603/3eb91bc921be5aafb1eae6d9430117e3.jpg",[COLOR red][LIVE][/COLOR] CAF NC: South Sudan vs Gambia [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=805838f6bba555a80496f1b1a8f19395&txTime=648a2a3c
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Malaysia vs Solomon" tvg-name="INTERF: Malaysia vs Solomon" tvg-logo="https://sta.vnres.co/file/head/20221220/15cddfa1880beb36bfbea12feedfec95.jpg",[COLOR red][Chưa bắt đầu][/COLOR] INTERF: Malaysia vs Solomon [COLOR yellow]BLV BRUCE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=ea6527b12f1b5df59ae93f0199a409ba&txTime=648a2a40
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF NC: South Sudan vs Gambia" tvg-name="CAF NC: South Sudan vs Gambia" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg",[COLOR red][LIVE][/COLOR] CAF NC: South Sudan vs Gambia [COLOR yellow]BLV MÁT GAI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-273067_lhd.m3u8?txSecret=da69b650181eb242523e20fa4b9bc62a&txTime=648a2a3c
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="WAFF U23: United Arab  vs Jordan(U23" tvg-name="WAFF U23: United Arab  vs Jordan(U23" tvg-logo="https://sta.vnres.co/file/head/20230329/571b39ae2e8e91a9b9ee7b45d829eba1.jpg",[COLOR red][LIVE][/COLOR] WAFF U23: United Arab  vs Jordan(U23 [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=1b3b5aa2d779ae3c2381a82c7ae2c933&txTime=648a2a3c
+https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=ea3a1f640263913ce7d0db97d2edcd19&txTime=648a2af0
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="WAFF U23: United Arab Emirates(U23 vs Jordan(U23" tvg-name="WAFF U23: United Arab Emirates(U23 vs Jordan(U23" tvg-logo="https://sta.vnres.co/file/head/20230610/a84af4233fd893e55f97c40f31e5edad.jpg",[COLOR red][LIVE][/COLOR] WAFF U23: United Arab Emirates(U23 vs Jordan(U23 [COLOR yellow]BLV CHARLIE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-495263_lhd.m3u8?txSecret=6508d35d1f2bdabb0f627b7a856c6ea0&txTime=648a2a3c
+https://sports01.livnvess.com/live/stream-495263_lhd.m3u8?txSecret=5e10aa3e57b48b9fa78c90914ac2b330&txTime=648a2af0
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="WAFF U23: United Arab  vs Jordan(U23" tvg-name="WAFF U23: United Arab  vs Jordan(U23" tvg-logo="https://sta.vnres.co/file/head/20230329/571b39ae2e8e91a9b9ee7b45d829eba1.jpg",[COLOR red][LIVE][/COLOR] WAFF U23: United Arab  vs Jordan(U23 [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=b5e71b291f156792bd39a95f3ac6093a&txTime=648a2af0
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAFA Cup: Uzbekistan vs Turkmenistan" tvg-name="CAFA Cup: Uzbekistan vs Turkmenistan" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] CAFA Cup: Uzbekistan vs Turkmenistan [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991121_lhd.m3u8?txSecret=067887bb302ac939fd659dd322cbb4c7&txTime=648a2af0
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="WAFF U23: United Arab Emirates(U23 vs Jordan(U23" tvg-name="WAFF U23: United Arab Emirates(U23 vs Jordan(U23" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] WAFF U23: United Arab Emirates(U23 vs Jordan(U23 [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1686776560-0-0-16abfb6ecf3ed03e1fa4734f023f13ef
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAFA: Oman vs Tajikistan" tvg-name="CAFA: Oman vs Tajikistan" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg",[COLOR red][LIVE][/COLOR] CAFA: Oman vs Tajikistan [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1686776560-0-0-e19d56830e793bc8361a6cf549b16827
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="WAFF U23: United Arab Emirates(U23 vs Jordan(U23" tvg-name="WAFF U23: United Arab Emirates(U23 vs Jordan(U23" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",[COLOR red][LIVE][/COLOR] WAFF U23: United Arab Emirates(U23 vs Jordan(U23 [COLOR yellow]BLV TAM MAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=271090bafc3b354ac417a753dd015645&txTime=648a2af0
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF NC: South Sudan vs Gambia" tvg-name="CAF NC: South Sudan vs Gambia" tvg-logo="https://sta.vnres.co/file/head/20230603/3eb91bc921be5aafb1eae6d9430117e3.jpg",[COLOR red][Chưa bắt đầu][/COLOR] CAF NC: South Sudan vs Gambia [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=f37a748dab471d18d2db11ee6ebc4374&txTime=648a2b03
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF NC: South Sudan vs Gambia" tvg-name="CAF NC: South Sudan vs Gambia" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg",[COLOR red][Chưa bắt đầu][/COLOR] CAF NC: South Sudan vs Gambia [COLOR yellow]BLV MÁT GAI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-273067_lhd.m3u8?txSecret=2c87558c3835f4815fb7a49700809ee0&txTime=648a2b01
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
