@@ -1,25 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="USA MLS: Los Angeles FC vs Houston Dynamo" tvg-name="USA MLS: Los Angeles FC vs Houston Dynamo" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Los Angeles FC vs Houston Dynamo [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1686825700-0-0-0d5384fd397c4159bfc2648a3162c6e7
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA MLS: Los Angeles FC vs Houston Dynamo" tvg-name="USA MLS: Los Angeles FC vs Houston Dynamo" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Los Angeles FC vs Houston Dynamo [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=915d5f9d783da9a19ecf6b6de8f5878a&txTime=648aeab5
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Tường thuật: FIFA U20 - Uruguay vs Italy" tvg-name="Tường thuật: FIFA U20 - Uruguay vs Italy" tvg-logo="https://sta.vnres.co/file/head/20220522/27ec59432f6894e2e4551627847383bd.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: FIFA U20 - Uruguay vs Italy [COLOR yellow]Sóc mèo méo meo[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-1_lhd.m3u8?txSecret=18dca320a20a2837799a912a584ca279&txTime=648aeae4
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA CL - Manchester City vs Inter Milan" tvg-name="Tường thuật: UEFA CL - Manchester City vs Inter Milan" tvg-logo="https://sta.vnres.co/file/head/20220810/7ec533b436e71ab93e03dda2f6a15678.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA CL - Manchester City vs Inter Milan [COLOR yellow]Sóc Minions[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-160872_lhd.m3u8?txSecret=6015c6a1749f775fc1af3faec1f4aed0&txTime=648aeae4
+https://sports01.livnvess.com/live/stream-160872_lhd.m3u8?txSecret=34c2ca0955591f22c7e26af2a74d69b6&txTime=648aeb98
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: ITA D1 - Spezia vs Hellas Verona" tvg-name="Tường thuật: ITA D1 - Spezia vs Hellas Verona" tvg-logo="https://sta.vnres.co/file/head/20220810/2a7ffd98fe2f64c7e36efb035d2cbc3b.png",[COLOR red][LIVE][/COLOR] Tường thuật: ITA D1 - Spezia vs Hellas Verona [COLOR yellow]Sóc phụ hồ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-133277_lhd.m3u8?txSecret=489377fe6a161058954f4b0a9e22fcd1&txTime=648aeae4
+https://sports01.livnvess.com/live/stream-133277_lhd.m3u8?txSecret=eefecda1559b21c77865ea28c30921e6&txTime=648aeb98
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Tường thuật: FIFA U20 - Uruguay vs Italy" tvg-name="Tường thuật: FIFA U20 - Uruguay vs Italy" tvg-logo="https://sta.vnres.co/file/head/20220522/27ec59432f6894e2e4551627847383bd.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: FIFA U20 - Uruguay vs Italy [COLOR yellow]Sóc mèo méo meo[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-1_lhd.m3u8?txSecret=248b04168b93c0eca397f4cb24b43191&txTime=648aeb98
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: ENG FAC - Manchester City vs Manchester United" tvg-name="Tường thuật: ENG FAC - Manchester City vs Manchester United" tvg-logo="https://sta.vnres.co/file/head/20221111/5dedadaf5ec33677f4ebc3a71ba3626c.png",[COLOR red][LIVE][/COLOR] Tường thuật: ENG FAC - Manchester City vs Manchester United [COLOR yellow]Sóc cam[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-152898_lhd.m3u8?txSecret=312c2002dbe58a6609c8f6e1e646c91b&txTime=648aeae4
+https://sports01.livnvess.com/live/stream-152898_lhd.m3u8?txSecret=61eb55e09f04ef5a85e08e8f17341d7b&txTime=648aeb98
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA EL - Sevilla vs AS Roma" tvg-name="Tường thuật: UEFA EL - Sevilla vs AS Roma" tvg-logo="https://sta.vnres.co/file/head/20221213/1ccf6b3b54904f0da8610926a968d412.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA EL - Sevilla vs AS Roma [COLOR yellow]Sóc gánh nước[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-133824_lhd.m3u8?txSecret=85b16e3a3417c314f6d8e4788fa6c197&txTime=648aeae4
+https://sports01.livnvess.com/live/stream-133824_lhd.m3u8?txSecret=5dc5edc88d46f3121b16365014f70d32&txTime=648aeb98
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA ECL - Fiorentina vs West Ham United" tvg-name="Tường thuật: UEFA ECL - Fiorentina vs West Ham United" tvg-logo="https://sta.vnres.co/file/head/20221213/f2d17ad16d4acb59cfd9d0976f0fa77e.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA ECL - Fiorentina vs West Ham United [COLOR yellow]Sóc nhà giàu[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-187684_lhd.m3u8?txSecret=772dfbf073bb2a2669bd7f5ec964df46&txTime=648aeae4
+https://sports01.livnvess.com/live/stream-187684_lhd.m3u8?txSecret=16801d37a7287db1687d8bb76db87b15&txTime=648aeb98
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
