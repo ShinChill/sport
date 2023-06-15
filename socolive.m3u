@@ -1,25 +1,31 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="WNBA: Connecticut Sun W vs Atlanta Dream W" tvg-name="WNBA: Connecticut Sun W vs Atlanta Dream W" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] WNBA: Connecticut Sun W vs Atlanta Dream W [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-422166_lhd.m3u8?txSecret=3ca18be000977d2fe352dbe0eef5c26c&txTime=648be804
+#EXTINF:-1 tvg-id="CON NL: Panama vs Canada" tvg-name="CON NL: Panama vs Canada" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] CON NL: Panama vs Canada [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1686890680-0-0-5b9836408fa5e0fda8b14760f638cbce
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CON NL: Panama vs Canada" tvg-name="CON NL: Panama vs Canada" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][LIVE][/COLOR] CON NL: Panama vs Canada [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1686890500-0-0-597c31e2f2c99800cfa8462d0cebf784
+https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1686890680-0-0-f28b7004b7e79927722e6eeabd2bec4f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CON NL: Panama vs Canada" tvg-name="CON NL: Panama vs Canada" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] CON NL: Panama vs Canada [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1686890500-0-0-5b41a9e292eaabd9d02317964c2005d2
+#EXTINF:-1 tvg-id="CON NL: Panama vs Canada" tvg-name="CON NL: Panama vs Canada" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] CON NL: Panama vs Canada [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-348199_lhd.m3u8?txSecret=c9c567c5ad7e4a87d7e5ff95581ede05&txTime=648be8b8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CON NL: Panama vs Canada" tvg-name="CON NL: Panama vs Canada" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] CON NL: Panama vs Canada [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=e77e8a584f073fa121e49b69db7fd695&txTime=648be804
+https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=a9d033aa8add9acc244c50004e8e4160&txTime=648be8b8
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CON NL: Panama vs Canada" tvg-name="CON NL: Panama vs Canada" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] CON NL: Panama vs Canada [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1686890680-0-0-3de4e14f0f08c28dc8aa62cfc3950ead
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="WNBA: Connecticut Sun W vs Atlanta Dream W" tvg-name="WNBA: Connecticut Sun W vs Atlanta Dream W" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] WNBA: Connecticut Sun W vs Atlanta Dream W [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-422166_lhd.m3u8?txSecret=2ffb2d7a4b57324a6ece3d7962917503&txTime=648be8b8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: ENG FAC - Manchester City vs Manchester United" tvg-name="Tường thuật: ENG FAC - Manchester City vs Manchester United" tvg-logo="https://sta.vnres.co/file/head/20221111/5dedadaf5ec33677f4ebc3a71ba3626c.png",[COLOR red][LIVE][/COLOR] Tường thuật: ENG FAC - Manchester City vs Manchester United [COLOR yellow]Sóc cam[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-152898_lhd.m3u8?txSecret=d032d82518ece589ec0322efff888f6d&txTime=648be804
+https://sports01.livnvess.com/live/stream-152898_lhd.m3u8?txSecret=111b88abded8cd332c2e6ed9a260e2c1&txTime=648be8b8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA CL - Manchester City vs Inter Milan" tvg-name="Tường thuật: UEFA CL - Manchester City vs Inter Milan" tvg-logo="https://sta.vnres.co/file/head/20220810/7ec533b436e71ab93e03dda2f6a15678.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA CL - Manchester City vs Inter Milan [COLOR yellow]Sóc Minions[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-160872_lhd.m3u8?txSecret=32440cafb55f410e0089e39adcc76f7f&txTime=648be804
+https://sports01.livnvess.com/live/stream-160872_lhd.m3u8?txSecret=23e8de26d4d0f67eb26958d344b53990&txTime=648be8b8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường Thuật: ENG PR  Arsenal vs Crystal Palace" tvg-name="Tường Thuật: ENG PR  Arsenal vs Crystal Palace" tvg-logo="https://sta.vnres.co/file/head/20221223/cfb91612043b9a46eba4cce5e869582a.png",[COLOR red][LIVE][/COLOR] Tường Thuật: ENG PR  Arsenal vs Crystal Palace [COLOR yellow]Sóc trong rừng xà nu[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-179093_lhd.m3u8?auth_key=1686890500-0-0-0a63e616450d3778a29f28b30a73e5ba
+https://pull06.scstream.net/live/stream-179093_lhd.m3u8?auth_key=1686890680-0-0-8d81cc070213f470d790a0a333bb9db6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường Thuật:  ENG PR  Brighton & Hove Albion vs Manchester City" tvg-name="Tường Thuật:  ENG PR  Brighton & Hove Albion vs Manchester City" tvg-logo="https://sta.vnres.co/file/head/20221221/161d3466ac30b1b0bc03c25879073279.jpg",[COLOR red][LIVE][/COLOR] Tường Thuật:  ENG PR  Brighton & Hove Albion vs Manchester City [COLOR yellow]Sóc ở đáy sông[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-195670_lhd.m3u8?auth_key=1686890500-0-0-f40da8a9ac5ad8839cdc35ff6b3038c7
+https://pull06.scstream.net/live/stream-195670_lhd.m3u8?auth_key=1686890680-0-0-f196ddbf47221c942ee02988ec858294
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
