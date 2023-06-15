@@ -1,82 +1,85 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="INTERF: Vietnam  vs Hongkong China" tvg-name="INTERF: Vietnam  vs Hongkong China" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] INTERF: Vietnam  vs Hongkong China [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1686857920-0-0-27f8a8f6c9a5862908beea4e1045575c
+#EXTINF:-1 tvg-id="INTERF: Vietnam vs Hong Kong, China" tvg-name="INTERF: Vietnam vs Hong Kong, China" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Hong Kong, China [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=fbb77d1ac40070eda58b549a43250620&txTime=648b6974
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Argentina vs Australia" tvg-name="INTERF: Argentina vs Australia" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] INTERF: Argentina vs Australia [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=4e8805dffe39c40802e29e03e5dcec84&txTime=648b6974
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Việt Nam vs Hong Kong" tvg-name="INTERF: Việt Nam vs Hong Kong" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] INTERF: Việt Nam vs Hong Kong [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=ffa848322efc46d7a0b550a77200013a&txTime=648b68c0
+https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=d6dae85bda0e23065169f2a5dba1f692&txTime=648b6974
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Argentina vs Australia" tvg-name="INTERF: Argentina vs Australia" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] INTERF: Argentina vs Australia [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=4e0f25f6ef0ef011225ce55a22b8c09a&txTime=648b68c0
+https://sports01.livnvess.com/live/stream-102933_lhd.m3u8?txSecret=d138d36283ff876af8a45b5ab1d989f4&txTime=648b6974
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Argentina vs Australia" tvg-name="INTERF: Argentina vs Australia" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] INTERF: Argentina vs Australia [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1686858100-0-0-4c53fa99e1f1142350aa043cd7798341
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Vietnam vs Hong Kong, China" tvg-name="INTERF: Vietnam vs Hong Kong, China" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Hong Kong, China [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1686858100-0-0-82752c1188542287f1c93a25997776c4
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Vietnam  vs Hongkong China" tvg-name="INTERF: Vietnam  vs Hongkong China" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] INTERF: Vietnam  vs Hongkong China [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1686858100-0-0-2c6f90c05bfbdc21ebac2ce50e64d30b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Vietnam vs Hong Kong, China" tvg-name="INTERF: Vietnam vs Hong Kong, China" tvg-logo="https://sta.vnres.co/file/head/20230513/0caf5377396b4e2c222f4a04e7caedc0.jpg",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Hong Kong, China [COLOR yellow]BLV TIGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=3184d9d562c7758d4c7c767da7f164b7&txTime=648b68c0
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Vietnam vs Hong Kong, China" tvg-name="INTERF: Vietnam vs Hong Kong, China" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Hong Kong, China [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=6e22a57d1459e1a4c160fda5c12d9049&txTime=648b68c0
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Argentina vs Australia" tvg-name="INTERF: Argentina vs Australia" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] INTERF: Argentina vs Australia [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=c6f20f48f564e9b9d13514cd1d94602e&txTime=648b68c0
+https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=c2db8fbaff8df7f3d75fea4eec834495&txTime=648b6974
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Argentina vs Australia" tvg-name="INTERF: Argentina vs Australia" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] INTERF: Argentina vs Australia [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1686857920-0-0-2a4361b8b1ead3e154ced309c4278ac8
+https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1686858100-0-0-82fbaac39e419e35636d71e5c8f344c7
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Argentina vs Australia" tvg-name="INTERF: Argentina vs Australia" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] INTERF: Argentina vs Australia [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1686858100-0-0-8760cc7bb53e60910c5cb12234b6a27e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Vietnam vs Hong Kong, China" tvg-name="INTERF: Vietnam vs Hong Kong, China" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Hong Kong, China [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
 https://sports01.livnvess.com/live/stream-348199_lhd.m3u8?txSecret=6d2bbcca628886e32c5c5c0878410d74&txTime=648b68d5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Vietnam vs Hong Kong, China" tvg-name="INTERF: Vietnam vs Hong Kong, China" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Hong Kong, China [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1686857920-0-0-7d854a9799a907364f8b6f1def64c599
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Argentina vs Australia" tvg-name="INTERF: Argentina vs Australia" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] INTERF: Argentina vs Australia [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=1c763cabfa9a43f7538559bc29e04778&txTime=648b68c0
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Argentina vs Australia" tvg-name="INTERF: Argentina vs Australia" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] INTERF: Argentina vs Australia [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1686857920-0-0-310cd797dfaa031c0f2e8e8f6be601cb
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Argentina vs Australia" tvg-name="INTERF: Argentina vs Australia" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] INTERF: Argentina vs Australia [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1686857920-0-0-ec8da31d86adf7fa15f79e1109b7e126
+#EXTINF:-1 tvg-id="INTERF: Argentina vs Australia" tvg-name="INTERF: Argentina vs Australia" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] INTERF: Argentina vs Australia [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=1344ff3342ff8b4dd5f8263a65cb8f05&txTime=648b6974
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="AFF U17: Thailand(U17 vs Laos(U17" tvg-name="AFF U17: Thailand(U17 vs Laos(U17" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] AFF U17: Thailand(U17 vs Laos(U17 [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=25849076b8a99ec7d07f8f94742ae215&txTime=648b68c0
+https://sports01.livnvess.com/live/stream-118582_lhd.m3u8?txSecret=1285f5925f2cdf1ee9e3ed80403685f7&txTime=648b6974
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="AFF U17: Thailand(U17 vs Laos(U17" tvg-name="AFF U17: Thailand(U17 vs Laos(U17" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] AFF U17: Thailand(U17 vs Laos(U17 [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1686857920-0-0-67ff90621c836feda58e8997dfd7bd43
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: India vs Lebanon" tvg-name="INTERF: India vs Lebanon" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] INTERF: India vs Lebanon [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1686857920-0-0-fc834c5f218b88619f043cc9227d2706
+https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1686858100-0-0-a283d0f2e48e43c59a95bb9b874cdd0c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: India vs Lebanon" tvg-name="INTERF: India vs Lebanon" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] INTERF: India vs Lebanon [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1686857926-0-0-948eb2a5d5430df4561e07dff0faa584
+https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1686858100-0-0-80ab27f2c481ea17cd176b1251ab853d
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: India vs Lebanon" tvg-name="INTERF: India vs Lebanon" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] INTERF: India vs Lebanon [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1686858100-0-0-1b0a6d1f4bc9852e38ecf5d45ea37227
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Cambodia vs Bangladesh" tvg-name="INTERF: Cambodia vs Bangladesh" tvg-logo="https://sta.vnres.co/file/head/20230405/ec1bee82e4d11675221774242cd75d76.jpg",[COLOR red][LIVE][/COLOR] INTERF: Cambodia vs Bangladesh [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=2c0b331405b752694143091926b0af71&txTime=648b68c0
+https://sports01.livnvess.com/live/stream-420171_lhd.m3u8?txSecret=662ec41bff0d25ff4d6d907065684e89&txTime=648b6974
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Cambodia vs Bangladesh" tvg-name="INTERF: Cambodia vs Bangladesh" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] INTERF: Cambodia vs Bangladesh [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1686857920-0-0-ff494016aadd55cebcbcf48341e0e052
+https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1686858100-0-0-87dc0219cd3e8d5b1f7b8677e9218ac2
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="AFF U17: Thailand(U17 vs Laos(U17" tvg-name="AFF U17: Thailand(U17 vs Laos(U17" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] AFF U17: Thailand(U17 vs Laos(U17 [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1686857920-0-0-717af1e410882fde7906f5a5e639ecc9
+https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1686858100-0-0-050c3e9984df2f5b37d665c533307f98
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Cambodia vs Bangladesh" tvg-name="INTERF: Cambodia vs Bangladesh" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26",[COLOR red][LIVE][/COLOR] INTERF: Cambodia vs Bangladesh [COLOR yellow]BABY BOY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1686857920-0-0-f3f056bd3b4299d6002bbbff24038c53
+https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1686858100-0-0-dca6a8b6fdf68c3d9909516d483c9112
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Cambodia vs Bangladesh" tvg-name="INTERF: Cambodia vs Bangladesh" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg",[COLOR red][LIVE][/COLOR] INTERF: Cambodia vs Bangladesh [COLOR yellow]BLV MÁT GAI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-273067_lhd.m3u8?txSecret=a003e7fcf2e360820a85a95de8b78f6b&txTime=648b68c0
+https://sports01.livnvess.com/live/stream-273067_lhd.m3u8?txSecret=f572de73a1ea0f345cda18f00c323e84&txTime=648b6974
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Cambodia vs Bangladesh" tvg-name="INTERF: Cambodia vs Bangladesh" tvg-logo="https://sta.vnres.co/file/head/20230310/c88aad2517438b870b70b682d81e61db.jpg",[COLOR red][LIVE][/COLOR] INTERF: Cambodia vs Bangladesh [COLOR yellow]YUKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1686857920-0-0-75ae278c505d25f266a3bbaf4dc451e8
+https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1686858100-0-0-a3ed84e2781d3a375090b0859af986e5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VBA: Ho Chi Minh City Wings vs Thang Long Warriors" tvg-name="VBA: Ho Chi Minh City Wings vs Thang Long Warriors" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] VBA: Ho Chi Minh City Wings vs Thang Long Warriors [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1686857920-0-0-0090d84f228cfe1db9f33841dc8870c5
+https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1686858100-0-0-602e3edabd87f70c92f00e1a8930c2b8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VBA: Ho Chi Minh City Wings vs Thang Long Warriors" tvg-name="VBA: Ho Chi Minh City Wings vs Thang Long Warriors" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png",[COLOR red][LIVE][/COLOR] VBA: Ho Chi Minh City Wings vs Thang Long Warriors [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1686857920-0-0-1791717c7046cc176074b5cac994eae7
+https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1686858100-0-0-b44a6a3e12bae33f818ad5634733cfa9
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VBA: Ho Chi Minh City Wings vs Thang Long Warriors" tvg-name="VBA: Ho Chi Minh City Wings vs Thang Long Warriors" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] VBA: Ho Chi Minh City Wings vs Thang Long Warriors [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1686857920-0-0-88af9e817a0cd9ea61f580415f56dded
+https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1686858100-0-0-6354d317715e6eac4bcfb5d1423ac200
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: India vs Lebanon" tvg-name="INTERF: India vs Lebanon" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg",[COLOR red][LIVE][/COLOR] INTERF: India vs Lebanon [COLOR yellow]BLV CAPTAIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-231997_lhd.m3u8?txSecret=e38e046496c910e24c70bba2a9590345&txTime=648b68c0
+https://sports01.livnvess.com/live/stream-231997_lhd.m3u8?txSecret=2d883b299ce4e22ab0116e9e531a91fe&txTime=648b6974
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: India vs Lebanon" tvg-name="INTERF: India vs Lebanon" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] INTERF: India vs Lebanon [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-379816_lhd.m3u8?txSecret=d248ed3c29086b878c7df7d1d3c6d7cb&txTime=648b6974
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: India vs Lebanon" tvg-name="INTERF: India vs Lebanon" tvg-logo="https://sta.vnres.co/file/head/20221220/15cddfa1880beb36bfbea12feedfec95.jpg",[COLOR red][LIVE][/COLOR] INTERF: India vs Lebanon [COLOR yellow]BLV BRUCE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=6ad9d91056c1e03696453b86e6d5fe4f&txTime=648b68c0
+https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=f0e3906683084b3cb7eb5e1433286194&txTime=648b6974
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
