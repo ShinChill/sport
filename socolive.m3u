@@ -1,58 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="INTERF: Honduras vs Venezuela" tvg-name="INTERF: Honduras vs Venezuela" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] INTERF: Honduras vs Venezuela [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1686901840-0-0-5f596ea80861e03739d6cabd84f8d589
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Honduras vs Venezuela" tvg-name="INTERF: Honduras vs Venezuela" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] INTERF: Honduras vs Venezuela [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1686901840-0-0-5926792234cdb2e7f6d4a9885a7198de
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="WNBA: Chicago Sky W vs Indiana Fever W" tvg-name="WNBA: Chicago Sky W vs Indiana Fever W" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] WNBA: Chicago Sky W vs Indiana Fever W [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1686901840-0-0-934babc4ef18176013f14a2d979b581c
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Venezuela vs Honduras" tvg-name="INTERF: Venezuela vs Honduras" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",[COLOR red][LIVE][/COLOR] INTERF: Venezuela vs Honduras [COLOR yellow]BLV TAM MAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=b0069771df9f5b3419fca9e818bd8fcb&txTime=648c1450
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CON NL: USA vs Mexico" tvg-name="CON NL: USA vs Mexico" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] CON NL: USA vs Mexico [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=49dfb47f412fde4dd6bd3b4b6b24db47&txTime=648c1450
+https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=1b4bb2b049ab45a99e1870966e040704&txTime=648c1504
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CON NL: USA vs Mexico" tvg-name="CON NL: USA vs Mexico" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] CON NL: USA vs Mexico [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=018093b7321211363fb156dbe74db40c&txTime=648c1450
+https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=fcfa85b5e27f624e22b5a8f0a7d37ee8&txTime=648c1504
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA L2: Ventura County Fusion vs Arizona Arsenal" tvg-name="USA L2: Ventura County Fusion vs Arizona Arsenal" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] USA L2: Ventura County Fusion vs Arizona Arsenal [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-348199_lhd.m3u8?txSecret=3903f54c2551e036764f3c014441dc27&txTime=648c1450
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CON NL: USA vs Mexico" tvg-name="CON NL: USA vs Mexico" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] CON NL: USA vs Mexico [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1686901840-0-0-7222f085d69f81f4a20ecabdab7e5df1
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CON NL: USA vs Mexico" tvg-name="CON NL: USA vs Mexico" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] CON NL: USA vs Mexico [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1686901840-0-0-28327bc55becdd159914dae35e502522
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA L2: Ventura County Fusion vs Arizona Arsenal" tvg-name="USA L2: Ventura County Fusion vs Arizona Arsenal" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg",[COLOR red][LIVE][/COLOR] USA L2: Ventura County Fusion vs Arizona Arsenal [COLOR yellow]BLV KAKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1686901840-0-0-34df3a09027f0274407544b17d8dac4b
+#EXTINF:-1 tvg-id="INTERF: Honduras vs Venezuela" tvg-name="INTERF: Honduras vs Venezuela" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] INTERF: Honduras vs Venezuela [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1686902020-0-0-196656328f04bcec6140840368531f9c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Venezuela vs Honduras" tvg-name="INTERF: Venezuela vs Honduras" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] INTERF: Venezuela vs Honduras [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=4a621cdc4e6fe74f007bcab49a6c6653&txTime=648c1450
+https://sports01.livnvess.com/live/stream-421651_lhd.m3u8?txSecret=4ec9c97afd81055f71a1f14e743c6bb2&txTime=648c1504
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Honduras vs Venezuela" tvg-name="INTERF: Honduras vs Venezuela" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] INTERF: Honduras vs Venezuela [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1686902020-0-0-4886bd66e91d3fa1639d508f3fe3a096
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA L2: Ventura County Fusion vs Arizona Arsenal" tvg-name="USA L2: Ventura County Fusion vs Arizona Arsenal" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] USA L2: Ventura County Fusion vs Arizona Arsenal [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-348199_lhd.m3u8?txSecret=8ca1f3a6adb318afa7d7bb72557471cf&txTime=648c1504
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CON NL: USA vs Mexico" tvg-name="CON NL: USA vs Mexico" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] CON NL: USA vs Mexico [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1686902020-0-0-b965b61aea0dd00c0d464dfb49bc1be4
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CON NL: USA vs Mexico" tvg-name="CON NL: USA vs Mexico" tvg-logo="https://sta.vnres.co/file/head/20230610/a84af4233fd893e55f97c40f31e5edad.jpg",[COLOR red][LIVE][/COLOR] CON NL: USA vs Mexico [COLOR yellow]BLV CHARLIE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-495263_lhd.m3u8?txSecret=9d660196ed4aa63f2b3a6188c0163113&txTime=648c1450
+https://sports01.livnvess.com/live/stream-495263_lhd.m3u8?txSecret=4ee2eb4dbd04e39a8c5b1d8b5ebad2d4&txTime=648c1504
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="WNBA: Las Vegas Aces W vs Seattle Storm W" tvg-name="WNBA: Las Vegas Aces W vs Seattle Storm W" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] WNBA: Las Vegas Aces W vs Seattle Storm W [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-422166_lhd.m3u8?txSecret=18a51b541196f60c0e28fdaee9b89469&txTime=648c1450
+https://sports01.livnvess.com/live/stream-422166_lhd.m3u8?txSecret=2872c3f8bfa9c09bef20f51bc817a3bc&txTime=648c1504
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA L2: Ventura County Fusion vs Arizona Arsena" tvg-name="USA L2: Ventura County Fusion vs Arizona Arsena" tvg-logo="https://sta.vnres.co/file/head/20230606/ea2fb298192cd1ea95046cf3ac74d043.jpg",[COLOR red][LIVE][/COLOR] USA L2: Ventura County Fusion vs Arizona Arsena [COLOR yellow]BLV ENZO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-380460_lhd.m3u8?auth_key=1686901840-0-0-1cfe22e02e454f5cf289430ead32bc8a
+#EXTINF:-1 tvg-id="CON NL: USA vs Mexico" tvg-name="CON NL: USA vs Mexico" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] CON NL: USA vs Mexico [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1686902020-0-0-8f3106080e80a5dddd5af826a2d9de4b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA L2: Ventura County Fusion vs Arizona Arsenal" tvg-name="USA L2: Ventura County Fusion vs Arizona Arsenal" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg",[COLOR red][LIVE][/COLOR] USA L2: Ventura County Fusion vs Arizona Arsenal [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1686901854-0-0-48ab30d105434801516802e9bb52ba36
+#EXTINF:-1 tvg-id="CON NL: USA vs Mexico" tvg-name="CON NL: USA vs Mexico" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] CON NL: USA vs Mexico [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991118_lhd.m3u8?txSecret=630a80cd2c5c2619c32a0f50fe6f2d87&txTime=648c1504
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="WNBA:  Las Vegas Aces W vs  Seattle Storm W" tvg-name="WNBA:  Las Vegas Aces W vs  Seattle Storm W" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] WNBA:  Las Vegas Aces W vs  Seattle Storm W [COLOR yellow]BLV KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-168964_lhd.m3u8?txSecret=aba515dcb5d02ce8cf413089b4e44d4a&txTime=648c1450
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CON NL: USA vs Mexico" tvg-name="CON NL: USA vs Mexico" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg",[COLOR red][LIVE][/COLOR] CON NL: USA vs Mexico [COLOR yellow]BLV QUICK[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1686901840-0-0-6694df6bf6593f7b365bbdedab846027
+#EXTINF:-1 tvg-id="USA L2: Ventura County Fusion vs Arizona Arsenal" tvg-name="USA L2: Ventura County Fusion vs Arizona Arsenal" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg",[COLOR red][LIVE][/COLOR] USA L2: Ventura County Fusion vs Arizona Arsenal [COLOR yellow]BLV KAKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1686902020-0-0-9e09efa1c53390cdc6ae0db7d9703775
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA L2: Ventura County Fusion vs Arizona Arsenal" tvg-name="USA L2: Ventura County Fusion vs Arizona Arsenal" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] USA L2: Ventura County Fusion vs Arizona Arsenal [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=df3dbab959e7f29691f0da3989cff8f7&txTime=648c1450
+https://sports01.livnvess.com/live/stream-144861_lhd.m3u8?txSecret=97387fe340515a81a6699b241857cc90&txTime=648c1504
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA L2: Ventura County Fusion vs Arizona Arsenal" tvg-name="USA L2: Ventura County Fusion vs Arizona Arsenal" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg",[COLOR red][LIVE][/COLOR] USA L2: Ventura County Fusion vs Arizona Arsenal [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1686902020-0-0-d736ed99f17c403b9ac6564223e482be
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA L2: Ventura County Fusion vs Arizona Arsena" tvg-name="USA L2: Ventura County Fusion vs Arizona Arsena" tvg-logo="https://sta.vnres.co/file/head/20230606/ea2fb298192cd1ea95046cf3ac74d043.jpg",[COLOR red][LIVE][/COLOR] USA L2: Ventura County Fusion vs Arizona Arsena [COLOR yellow]BLV ENZO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-380460_lhd.m3u8?auth_key=1686902020-0-0-5557b0af9000b4ad1569f4ebeb759ab9
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="WNBA: Chicago Sky W vs Indiana Fever W" tvg-name="WNBA: Chicago Sky W vs Indiana Fever W" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] WNBA: Chicago Sky W vs Indiana Fever W [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1686902020-0-0-edc3c7da2937eb8e9582cc0cf31208b0
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ABWU16: Puerto Rico U16 W vs Colombia U16 W" tvg-name="ABWU16: Puerto Rico U16 W vs Colombia U16 W" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png",[COLOR red][LIVE][/COLOR] ABWU16: Puerto Rico U16 W vs Colombia U16 W [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1686901840-0-0-8dd6af04fc143be86849a0444068a4f4
+https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1686902020-0-0-09d754d4a8e8ae55813ea0586d265e66
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CON NL: USA vs Mexico" tvg-name="CON NL: USA vs Mexico" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg",[COLOR red][LIVE][/COLOR] CON NL: USA vs Mexico [COLOR yellow]BLV QUICK[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1686902020-0-0-4853e254336644bbf001d1cc7854fb92
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="WNBA:  Las Vegas Aces W vs  Seattle Storm W" tvg-name="WNBA:  Las Vegas Aces W vs  Seattle Storm W" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] WNBA:  Las Vegas Aces W vs  Seattle Storm W [COLOR yellow]BLV KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-168964_lhd.m3u8?txSecret=0dba72d5f5f4ee6c964ea4d0451bf3b1&txTime=648c1504
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ABWU16: Mexico U16 W vs USA U16 W" tvg-name="ABWU16: Mexico U16 W vs USA U16 W" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] ABWU16: Mexico U16 W vs USA U16 W [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1686902020-0-0-fe87d749dc3b6ad2c0fc36de91c40fea
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
