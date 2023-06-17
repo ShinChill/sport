@@ -1,94 +1,91 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UEFA EURO: Portugal vs Bosnia and Herzegovina" tvg-name="UEFA EURO: Portugal vs Bosnia and Herzegovina" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][LIVE][/COLOR] UEFA EURO: Portugal vs Bosnia and Herzegovina [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1687055740-0-0-0c5335400453f1550e09763632fbd3dd
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA EURO: Cyprus vs Georgia" tvg-name="UEFA EURO: Cyprus vs Georgia" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg",[COLOR red][LIVE][/COLOR] UEFA EURO: Cyprus vs Georgia [COLOR yellow]BLV FANCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1687055740-0-0-08340f98017184f0930d77306c0f9243
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA EURO: Belgium vs Austria" tvg-name="UEFA EURO: Belgium vs Austria" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] UEFA EURO: Belgium vs Austria [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1687055740-0-0-50117805849997e6cdc8f21536c8871e
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA EURO: Portugal vs Bosnia and Herzegovina" tvg-name="UEFA EURO: Portugal vs Bosnia and Herzegovina" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] UEFA EURO: Portugal vs Bosnia and Herzegovina [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1687055740-0-0-399fb1af207f819a10a72722c5949746
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Brazil vs Guinea" tvg-name="INTERF: Brazil vs Guinea" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] INTERF: Brazil vs Guinea [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=118e2debacd1819682a26982689d6b24&txTime=648e6d7c
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1687055920-0-0-c2b6fc46837d98bdf92dd644438f9c0f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA EURO: Belgium vs Austria" tvg-name="UEFA EURO: Belgium vs Austria" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] UEFA EURO: Belgium vs Austria [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=3923400019f47ef2553ed0834c49f2ed&txTime=648e6d7c
+https://sports01.livnvess.com/live/stream-991122_lhd.m3u8?txSecret=342c04da38d3be6cadc792e4fc99b566&txTime=648e6e30
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Brazil vs Guinea" tvg-name="INTERF: Brazil vs Guinea" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] INTERF: Brazil vs Guinea [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=805727b959821591ea6ac55dc8b738ed&txTime=648e6e30
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA EURO: Portugal vs Bosnia and Herzegovina" tvg-name="UEFA EURO: Portugal vs Bosnia and Herzegovina" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] UEFA EURO: Portugal vs Bosnia and Herzegovina [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1687055740-0-0-83c0e967a1c2c816f92e6c46105fecdc
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA EURO: Belgium vs Austria" tvg-name="UEFA EURO: Belgium vs Austria" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] UEFA EURO: Belgium vs Austria [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1687055740-0-0-28500a4eb349d7b6401ab0472eb6b194
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA EURO: Portugal vs Bosnia and Herzegovina" tvg-name="UEFA EURO: Portugal vs Bosnia and Herzegovina" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] UEFA EURO: Portugal vs Bosnia and Herzegovina [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991128_lhd.m3u8?txSecret=878f8cd43cfacc805bbbfe8551b6e0a0&txTime=648e6d7c
+https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1687055920-0-0-da8d5dab9065d9acbec04d0bac7b644e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA EURO: Belgium vs Austria" tvg-name="UEFA EURO: Belgium vs Austria" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg",[COLOR red][LIVE][/COLOR] UEFA EURO: Belgium vs Austria [COLOR yellow]MĂNG CỤT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1687055740-0-0-97739f0024b65f8240d4240ed8c47470
+https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1687055920-0-0-72f8d46c836877bb8c914a507370d7d5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA EURO: Portugal vs Bosnia and Herzegovina" tvg-name="UEFA EURO: Portugal vs Bosnia and Herzegovina" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] UEFA EURO: Portugal vs Bosnia and Herzegovina [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=5fa37fe5d3e3f0b63076c0f0f65f6d7c&txTime=648e6d7c
+#EXTINF:-1 tvg-id="UEFA EURO: Belgium vs Austria" tvg-name="UEFA EURO: Belgium vs Austria" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] UEFA EURO: Belgium vs Austria [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1687055920-0-0-8d63f96fb8d2ae23a84085cd96afee37
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA EURO: Portugal vs Bosnia and Herzegovina" tvg-name="UEFA EURO: Portugal vs Bosnia and Herzegovina" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] UEFA EURO: Portugal vs Bosnia and Herzegovina [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1687055920-0-0-e65c1f602ccda43b554612b1094286f1
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA EURO: Portugal vs Bosnia and Herzegovina" tvg-name="UEFA EURO: Portugal vs Bosnia and Herzegovina" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][LIVE][/COLOR] UEFA EURO: Portugal vs Bosnia and Herzegovina [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1687055920-0-0-102bab8f95bfb901e171e17f8fa754b7
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA EURO: Portugal vs Bosnia and Herzegovina" tvg-name="UEFA EURO: Portugal vs Bosnia and Herzegovina" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] UEFA EURO: Portugal vs Bosnia and Herzegovina [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=e0dbaa7944bb7fae0e71670adf615c00&txTime=648e6d7c
+https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=5c89927f0fc619e4f558d917fb596581&txTime=648e6e30
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA EURO: Portugal vs Bosnia and Herzegovina" tvg-name="UEFA EURO: Portugal vs Bosnia and Herzegovina" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] UEFA EURO: Portugal vs Bosnia and Herzegovina [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-158814_lhd.m3u8?txSecret=826cd3f61f15eac9d253157049f73e16&txTime=648e6e30
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA EURO: Cyprus vs Georgia" tvg-name="UEFA EURO: Cyprus vs Georgia" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg",[COLOR red][LIVE][/COLOR] UEFA EURO: Cyprus vs Georgia [COLOR yellow]BLV FANCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1687055920-0-0-4b4eada2238c172a255b23c40f1fa913
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA EURO: Portugal vs Bosnia and Herzegovina" tvg-name="UEFA EURO: Portugal vs Bosnia and Herzegovina" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] UEFA EURO: Portugal vs Bosnia and Herzegovina [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991128_lhd.m3u8?txSecret=b981bb03114f0483e3425908d7bc9f2d&txTime=648e6e30
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: French Guiana(N vs Sint Maarten" tvg-name="Gold Cup: French Guiana(N vs Sint Maarten" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] Gold Cup: French Guiana(N vs Sint Maarten [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1687055740-0-0-9a44afcd111a94d0a7b9a23bc10acb74
+https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1687055920-0-0-1c935cae766ca7005d8bf6ee9540dcc9
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA EURO: Iceland vs Slovakia" tvg-name="UEFA EURO: Iceland vs Slovakia" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] UEFA EURO: Iceland vs Slovakia [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1687055740-0-0-2f89a8d1fc3f6f5e76389ec53feb402d
+https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1687055920-0-0-5ea856b801968734bce1a778daf8ef5a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA EURO: Cyprus vs Georgia" tvg-name="UEFA EURO: Cyprus vs Georgia" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] UEFA EURO: Cyprus vs Georgia [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-348199_lhd.m3u8?txSecret=b68ee672ab6810750130b96efb9251e9&txTime=648e6d7c
+https://sports01.livnvess.com/live/stream-348199_lhd.m3u8?txSecret=386c7a159b854a0f3ec344b9cdb5f712&txTime=648e6e30
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Brazil vs Guinea" tvg-name="INTERF: Brazil vs Guinea" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] INTERF: Brazil vs Guinea [COLOR yellow]Tạ Biên Giới[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1687055740-0-0-042e128784213ce22252670dd8351865
+https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1687055920-0-0-ecc5870e543a6eb20c602cd84b774bac
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA EURO: Belgium vs Austria" tvg-name="UEFA EURO: Belgium vs Austria" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] UEFA EURO: Belgium vs Austria [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1687055740-0-0-d94f6b83e5d47d3b1f0f189c2fa5fb55
+https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1687055920-0-0-11096796079f22032fe5e2ee25aaf962
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SPA D2: Levante vs Alaves" tvg-name="SPA D2: Levante vs Alaves" tvg-logo="https://sta.vnres.co/file/head/20230601/c6ea462493f77254cc60a4d35a10a594.jpg",[COLOR red][LIVE][/COLOR] SPA D2: Levante vs Alaves [COLOR yellow]BLV LÂM XUNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-344687_lhd.m3u8?auth_key=1687055740-0-0-e7ee849bdf035cff3eea5ec32b831fad
+https://pull06.scstream.net/live/stream-344687_lhd.m3u8?auth_key=1687055920-0-0-929a1a342d0c2cfd6059b603c2d0ecf7
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA EURO: Albania vs Moldova" tvg-name="UEFA EURO: Albania vs Moldova" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg",[COLOR red][LIVE][/COLOR] UEFA EURO: Albania vs Moldova [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1687055740-0-0-82fd3b06e039b3d923804038f62870d5
+https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1687055920-0-0-8d98733925b6838d3ea59ec552680dd3
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA EURO: Faroe Islands vs Czech Republic" tvg-name="UEFA EURO: Faroe Islands vs Czech Republic" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26",[COLOR red][LIVE][/COLOR] UEFA EURO: Faroe Islands vs Czech Republic [COLOR yellow]BABY BOY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1687055762-0-0-2ba2016e1cc0aa4a71067e1368ba41f3
+#EXTINF:-1 tvg-id="UEFA EURO: Faroe Islands vs Czech Republic" tvg-name="UEFA EURO: Faroe Islands vs Czech Republic" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26",[COLOR red][Chưa bắt đầu][/COLOR] UEFA EURO: Faroe Islands vs Czech Republic [COLOR yellow]BABY BOY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1687055927-0-0-f8ba95b59378e3bb83c130ff5d2f1733
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA EURO: Iceland vs Slovakia" tvg-name="UEFA EURO: Iceland vs Slovakia" tvg-logo="https://sta.vnres.co/file/head/20230614/f8b999fcc9453ca30d8c26ab55daed67.jpg",[COLOR red][LIVE][/COLOR] UEFA EURO: Iceland vs Slovakia [COLOR yellow]BLV GEM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-452823_lhd.m3u8?auth_key=1687055740-0-0-4ef78d408e1c8564b6890238ea9825b5
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA EURO : Faroe Islands vs Czech Republic" tvg-name="UEFA EURO : Faroe Islands vs Czech Republic" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg",[COLOR red][LIVE][/COLOR] UEFA EURO : Faroe Islands vs Czech Republic [COLOR yellow]BLV KAKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1687055740-0-0-f78e211fa5a2ae9c68c58c399aaae07b
+https://pull06.scstream.net/live/stream-452823_lhd.m3u8?auth_key=1687055920-0-0-71e19e0edcb26e502092233ebb8707b5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SPA D2: Levante vs Alaves" tvg-name="SPA D2: Levante vs Alaves" tvg-logo="https://sta.vnres.co/file/head/20230329/571b39ae2e8e91a9b9ee7b45d829eba1.jpg",[COLOR red][LIVE][/COLOR] SPA D2: Levante vs Alaves [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=4263f4c6215c4f489f92a6f2dad51410&txTime=648e6d7c
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF NC: Benin vs Senegal" tvg-name="CAF NC: Benin vs Senegal" tvg-logo="https://sta.vnres.co/file/head/20230603/3eb91bc921be5aafb1eae6d9430117e3.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Benin vs Senegal [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=cab0c203dffd6182b10101a1a3f87e16&txTime=648e6d7c
+https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=39f5cb09a81b22befb1bd8e85006ba22&txTime=648e6e30
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF NC: Benin vs Senegal" tvg-name="CAF NC: Benin vs Senegal" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Benin vs Senegal [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=197ce28ffa71dad4224412ef790a08e6&txTime=648e6d7c
+https://sports01.livnvess.com/live/stream-143449_lhd.m3u8?txSecret=09d679ecdc2089619847e48ad60100aa&txTime=648e6e30
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF NC: Benin vs Senegal" tvg-name="CAF NC: Benin vs Senegal" tvg-logo="https://sta.vnres.co/file/head/20230603/3eb91bc921be5aafb1eae6d9430117e3.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Benin vs Senegal [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=a22f4a120c1138df678c3a6281193e28&txTime=648e6e30
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: New York City FC vs Columbus Crew" tvg-name="USA MLS: New York City FC vs Columbus Crew" tvg-logo="https://sta.vnres.co/file/head/20230613/bb0941541fdd35e29ba3f39843feadbf.jpg",[COLOR red][LIVE][/COLOR] USA MLS: New York City FC vs Columbus Crew [COLOR yellow]BLV BÁC SĨ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1687055740-0-0-ecc90ac23a488d628fefe7ff9c3f9ee6
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ARG D1: Union Santa Fe vs Lanus" tvg-name="ARG D1: Union Santa Fe vs Lanus" tvg-logo="https://sta.vnres.co/file/head/20230610/a84af4233fd893e55f97c40f31e5edad.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Union Santa Fe vs Lanus [COLOR yellow]BLV CHARLIE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pullalilive.livnvess.com/live/stream-495263.m3u8?auth_key=1687055740-0-0-c7b43bcd4196b9a6c9fda78b6a17f44e
+https://pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1687055920-0-0-a8c12f2fd2c647883bf0410639b75330
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: French Guiana(N vs Sint Maarten" tvg-name="Gold Cup: French Guiana(N vs Sint Maarten" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: French Guiana(N vs Sint Maarten [COLOR yellow]BLV CHOVY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-319191_lhd.m3u8?txSecret=71516e2edd9cd8cf328982f90a184f28&txTime=648e6d7c
+https://sports01.livnvess.com/live/stream-319191_lhd.m3u8?txSecret=3234fce604f627f9627fea70706a430e&txTime=648e6e30
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ARG D1: Union Santa Fe vs Lanus" tvg-name="ARG D1: Union Santa Fe vs Lanus" tvg-logo="https://sta.vnres.co/file/head/20230610/a84af4233fd893e55f97c40f31e5edad.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Union Santa Fe vs Lanus [COLOR yellow]BLV CHARLIE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pullalilive.livnvess.com/live/stream-495263.m3u8?auth_key=1687055920-0-0-5100143ac1b75572d6376f11583d6984
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA EURO:  Albania vs Moldova" tvg-name="UEFA EURO:  Albania vs Moldova" tvg-logo="https://sta.vnres.co/file/head/20230608/944e51718d34d61ad5d8b634a026c299.jpeg",[COLOR red][LIVE][/COLOR] UEFA EURO:  Albania vs Moldova [COLOR yellow]BLV HAKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-359236_lhd.m3u8?auth_key=1687055740-0-0-cc5035bf3c32556614c010a801c6fd89
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA EURO: Cyprus vs Georgia" tvg-name="UEFA EURO: Cyprus vs Georgia" tvg-logo="https://sta.vnres.co/file/head/20221220/15cddfa1880beb36bfbea12feedfec95.jpg",[COLOR red][LIVE][/COLOR] UEFA EURO: Cyprus vs Georgia [COLOR yellow]BLV BRUCE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=980c650176f1b4f582cd2e28f289555d&txTime=648e6d7c
+https://pull06.scstream.net/live/stream-359236_lhd.m3u8?auth_key=1687055920-0-0-642fb1a62fdbec32055d618d465be0e6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ECU D1: Gualaceo SC vs Guayaquil City F.C." tvg-name="ECU D1: Gualaceo SC vs Guayaquil City F.C." tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg",[COLOR red][LIVE][/COLOR] ECU D1: Gualaceo SC vs Guayaquil City F.C. [COLOR yellow]BLV MÁT GAI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-273067_lhd.m3u8?txSecret=1caf63f7586130ceeadd83f887616c07&txTime=648e6d7c
+https://sports01.livnvess.com/live/stream-273067_lhd.m3u8?txSecret=814395f178d8da1e9f78237290f8ab6a&txTime=648e6e30
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA EURO: Cyprus vs Georgia" tvg-name="UEFA EURO: Cyprus vs Georgia" tvg-logo="https://sta.vnres.co/file/head/20221220/15cddfa1880beb36bfbea12feedfec95.jpg",[COLOR red][LIVE][/COLOR] UEFA EURO: Cyprus vs Georgia [COLOR yellow]BLV BRUCE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-206851_lhd.m3u8?txSecret=18610aeb18269c7ca943bcbef70ca001&txTime=648e6e30
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
