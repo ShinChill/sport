@@ -1,52 +1,58 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="JPN D2: Tokushima Vortis vs Montedio Yamagata" tvg-name="JPN D2: Tokushima Vortis vs Montedio Yamagata" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] JPN D2: Tokushima Vortis vs Montedio Yamagata [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687022980-0-0-b2c5b850a03c796a99e3f71b18f892b2
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="JPN D2: Tokushima Vortis vs Montedio Yamagata" tvg-name="JPN D2: Tokushima Vortis vs Montedio Yamagata" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] JPN D2: Tokushima Vortis vs Montedio Yamagata [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1687022980-0-0-43ac128af0e81433a6a04d9dcc610107
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="JPN D2: Oita Trinita vs Fagiano Okayama" tvg-name="JPN D2: Oita Trinita vs Fagiano Okayama" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] JPN D2: Oita Trinita vs Fagiano Okayama [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=d7c19925a8bf06e553d8863e3d24a52e&txTime=648ded84
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LPL SUMMER  LND vs EDG" tvg-name="LPL SUMMER  LND vs EDG" tvg-logo="https://sta.vnres.co/file/head/20230612/b52c853178859bfecf19acf346f0032b.jpg",[COLOR red][LIVE][/COLOR] LPL SUMMER  LND vs EDG [COLOR yellow]BLV DIFF[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-118969_lhd.m3u8?auth_key=1687022980-0-0-62766c7d3ea2e2dcef03eec9b31d0024
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="JPN D2: V-Varen Nagasaki vs Omiya Ardija" tvg-name="JPN D2: V-Varen Nagasaki vs Omiya Ardija" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] JPN D2: V-Varen Nagasaki vs Omiya Ardija [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-379816_lhd.m3u8?txSecret=7deee844d2c43773f212a04dcdd38fc9&txTime=648ded84
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="JPN D2: V-Varen Nagasaki vs Omiya Ardija" tvg-name="JPN D2: V-Varen Nagasaki vs Omiya Ardija" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] JPN D2: V-Varen Nagasaki vs Omiya Ardija [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1687022980-0-0-3a85982ef8211647d2eb2fb2c6cbad6b
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1687023160-0-0-f67280524294eb70df5ccaa48d4494e4
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="JPN D2: Oita Trinita vs Fagiano Okayama" tvg-name="JPN D2: Oita Trinita vs Fagiano Okayama" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] JPN D2: Oita Trinita vs Fagiano Okayama [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1687022980-0-0-115026a8fb4a94e3b8c7f9d5dfa0eb38
+https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1687023160-0-0-e1cb9c222e86d4f875fe32b11f2a23e8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LPL: LNG Esports vs EDward Gaming" tvg-name="LPL: LNG Esports vs EDward Gaming" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] LPL: LNG Esports vs EDward Gaming [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1687022980-0-0-bd1f673882d3fa2f82afc9e7e620613b
+#EXTINF:-1 tvg-id="JPN D2: Oita Trinita vs Fagiano Okayama" tvg-name="JPN D2: Oita Trinita vs Fagiano Okayama" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] JPN D2: Oita Trinita vs Fagiano Okayama [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991120_lhd.m3u8?txSecret=53485dda4e352add54fd97d2be5f315c&txTime=648dee38
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="JPN D2: Oita Trinita vs Fagiano Okayama" tvg-name="JPN D2: Oita Trinita vs Fagiano Okayama" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] JPN D2: Oita Trinita vs Fagiano Okayama [COLOR yellow]Tạ Biên Giới[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1687022980-0-0-e350475c75da0fb5101ec222b7d42eee
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="AFF U17: India(U17 vs Vietnam(U17" tvg-name="AFF U17: India(U17 vs Vietnam(U17" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",[COLOR red][LIVE][/COLOR] AFF U17: India(U17 vs Vietnam(U17 [COLOR yellow]GIÀ LÀNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1687022980-0-0-f579d6e0c4b6e8169e03b98902754855
+#EXTINF:-1 tvg-id="JPN D2: Tokushima Vortis vs Montedio Yamagata" tvg-name="JPN D2: Tokushima Vortis vs Montedio Yamagata" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] JPN D2: Tokushima Vortis vs Montedio Yamagata [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687023160-0-0-0ae83f200457386be7b8656f7c5c28ba
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="JPN D2: V-Varen Nagasaki vs Omiya Ardija" tvg-name="JPN D2: V-Varen Nagasaki vs Omiya Ardija" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg",[COLOR red][LIVE][/COLOR] JPN D2: V-Varen Nagasaki vs Omiya Ardija [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1687022980-0-0-cdb9030572e55295dd128bbe86190754
+https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1687023160-0-0-ad8d2f581d3032487d322410010b2b11
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="JPN D2: V-Varen Nagasaki vs Omiya Ardija" tvg-name="JPN D2: V-Varen Nagasaki vs Omiya Ardija" tvg-logo="https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg",[COLOR red][LIVE][/COLOR] JPN D2: V-Varen Nagasaki vs Omiya Ardija [COLOR yellow]BLV MESSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-494201_lhd.m3u8?auth_key=1687022980-0-0-02a8ec9f390e7facc240a926075572f6
+#EXTINF:-1 tvg-id="AFF U17: India(U17 vs Vietnam(U17" tvg-name="AFF U17: India(U17 vs Vietnam(U17" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] AFF U17: India(U17 vs Vietnam(U17 [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687023160-0-0-f4726698554700e94cdd282c93baa0ef
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="JPN D2: Oita Trinita vs Fagiano Okayama" tvg-name="JPN D2: Oita Trinita vs Fagiano Okayama" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] JPN D2: Oita Trinita vs Fagiano Okayama [COLOR yellow]Tạ Biên Giới[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1687023160-0-0-03e3b470985abb5e7ca87ff3e0002699
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="AFF U17: India(U17 vs Vietnam(U17" tvg-name="AFF U17: India(U17 vs Vietnam(U17" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",[COLOR red][LIVE][/COLOR] AFF U17: India(U17 vs Vietnam(U17 [COLOR yellow]GIÀ LÀNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1687023160-0-0-07f044f4a533e7371634f04206fd0ecb
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LPL: LNG Esports vs EDward Gaming" tvg-name="LPL: LNG Esports vs EDward Gaming" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] LPL: LNG Esports vs EDward Gaming [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1687023160-0-0-787a6d9641bb36b136ba433317b1a11e
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="JPN D2: V-Varen Nagasaki vs Omiya Ardija" tvg-name="JPN D2: V-Varen Nagasaki vs Omiya Ardija" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] JPN D2: V-Varen Nagasaki vs Omiya Ardija [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1687023160-0-0-a97cc4a06af340de669fb99d4065902b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LPL SUMMER  LND vs EDG" tvg-name="LPL SUMMER  LND vs EDG" tvg-logo="https://sta.vnres.co/file/head/20230612/b52c853178859bfecf19acf346f0032b.jpg",[COLOR red][LIVE][/COLOR] LPL SUMMER  LND vs EDG [COLOR yellow]BLV DIFF[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-118969_lhd.m3u8?auth_key=1687023160-0-0-ae56899f4d2185f800439b4f77770fa6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LPL: Rare Atom vs Weibo Gaming" tvg-name="LPL: Rare Atom vs Weibo Gaming" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg",[COLOR red][LIVE][/COLOR] LPL: Rare Atom vs Weibo Gaming [COLOR yellow]DƯƠNG QUÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1687022980-0-0-e5dc6b62c1df218f93c35b11ecb14269
+https://pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1687023160-0-0-1d3f9764986d6c9e86b2d774cfa71797
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="JPN D2: V-Varen Nagasaki vs Omiya Ardija" tvg-name="JPN D2: V-Varen Nagasaki vs Omiya Ardija" tvg-logo="https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg",[COLOR red][LIVE][/COLOR] JPN D2: V-Varen Nagasaki vs Omiya Ardija [COLOR yellow]BLV MESSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-494201_lhd.m3u8?auth_key=1687023160-0-0-23589a42b3ebfb877ddddd13c718cd0e
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="JPN D2: V-Varen Nagasaki vs Omiya Ardija" tvg-name="JPN D2: V-Varen Nagasaki vs Omiya Ardija" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] JPN D2: V-Varen Nagasaki vs Omiya Ardija [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-379816_lhd.m3u8?txSecret=1efb4c7475b433c82c3260d8d58b5b6b&txTime=648dee38
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="JPN D2: Tokushima Vortis vs Montedio Yamagata" tvg-name="JPN D2: Tokushima Vortis vs Montedio Yamagata" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg",[COLOR red][LIVE][/COLOR] JPN D2: Tokushima Vortis vs Montedio Yamagata [COLOR yellow]BLV DIHI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=4722d036787e33c9e8d9902e33ebe825&txTime=648ded84
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="JPN D2: Tokushima Vortis vs Montedio Yamagata" tvg-name="JPN D2: Tokushima Vortis vs Montedio Yamagata" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] JPN D2: Tokushima Vortis vs Montedio Yamagata [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1687022980-0-0-c2732971be4071166dcbc2fbc5fc178e
+https://sports01.livnvess.com/live/stream-379975_lhd.m3u8?txSecret=8959024e0fd1b527ee510d8674865c2a&txTime=648dee38
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="JPN D2: V-Varen Nagasaki vs Omiya Ardija" tvg-name="JPN D2: V-Varen Nagasaki vs Omiya Ardija" tvg-logo="https://sta.vnres.co/file/head/20230610/a84af4233fd893e55f97c40f31e5edad.jpg",[COLOR red][LIVE][/COLOR] JPN D2: V-Varen Nagasaki vs Omiya Ardija [COLOR yellow]BLV CHARLIE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-495263_lhd.m3u8?txSecret=98127ed95dce022e74ae56df1b23c9bc&txTime=648ded84
+https://sports01.livnvess.com/live/stream-495263_lhd.m3u8?txSecret=d016959300efa1040bac45452cb12219&txTime=648dee38
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="JPN D2: Tokushima Vortis vs Montedio Yamagata" tvg-name="JPN D2: Tokushima Vortis vs Montedio Yamagata" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] JPN D2: Tokushima Vortis vs Montedio Yamagata [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1687023160-0-0-c3441f9ea77f9d61f705cf81ca8510b1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="JPN D2: V-Varen Nagasaki vs Omiya Ardija" tvg-name="JPN D2: V-Varen Nagasaki vs Omiya Ardija" tvg-logo="https://sta.vnres.co/file/head/20230310/c88aad2517438b870b70b682d81e61db.jpg",[COLOR red][LIVE][/COLOR] JPN D2: V-Varen Nagasaki vs Omiya Ardija [COLOR yellow]YUKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1687022980-0-0-37e3297d0ed741b46bd332895290ab7c
+https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1687023160-0-0-faae5ccbad0be65b3f23a25d8ce7fc14
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Pakistan vs Djibouti" tvg-name="INTERF: Pakistan vs Djibouti" tvg-logo="https://sta.vnres.co/file/head/20230609/81b3439e8286ce25be1569eb8352953e.jpg",[COLOR red][LIVE][/COLOR] INTERF: Pakistan vs Djibouti [COLOR yellow]BLV SÓI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-427562_lhd.m3u8?auth_key=1687023160-0-0-863c037ceb58b467cc809ab0f335b839
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
