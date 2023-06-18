@@ -1,94 +1,91 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CAF NC: Gabon vs Democratic Rep Congo" tvg-name="CAF NC: Gabon vs Democratic Rep Congo" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Gabon vs Democratic Rep Congo [COLOR yellow]MĂNG CỤT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1687132420-0-0-6ca15dbe34bbce959cb69d8a1577f322
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF NC: Sierra Leone vs Nigeria" tvg-name="CAF NC: Sierra Leone vs Nigeria" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] CAF NC: Sierra Leone vs Nigeria [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991128_lhd.m3u8?txSecret=077f8f6e1c1cb1d8961882853b70e63a&txTime=648f9904
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF NC: Congo vs Mali" tvg-name="CAF NC: Congo vs Mali" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Congo vs Mali [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687132420-0-0-fe220472d43ddfb8b0e62c0e297710f8
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF NC: Congo vs Mali" tvg-name="CAF NC: Congo vs Mali" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Congo vs Mali [COLOR yellow]BLV CHOVY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-319191_lhd.m3u8?auth_key=1687132420-0-0-45704f67f36839c8906d3fa3ee01dbcc
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="AF NC: Congo vs Mali" tvg-name="AF NC: Congo vs Mali" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] AF NC: Congo vs Mali [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1687132420-0-0-693c3d0aa9b41cd5e7d95e094f5be8ca
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF NC: Congo vs Mali" tvg-name="CAF NC: Congo vs Mali" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] CAF NC: Congo vs Mali [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-348199_lhd.m3u8?txSecret=02853e673e8e61048b8ec46dfabe2a82&txTime=648f9904
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF NC: Sierra Leone vs Nigeria" tvg-name="CAF NC: Sierra Leone vs Nigeria" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Sierra Leone vs Nigeria [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687132420-0-0-8d2855234309eedf9211f7f3132f18db
+https://sports01.livnvess.com/live/stream-348199_lhd.m3u8?txSecret=a7e3b3815958b338a3c50574817cbc74&txTime=648f99b8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF NC: Sierra Leone vs Nigeria" tvg-name="CAF NC: Sierra Leone vs Nigeria" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] CAF NC: Sierra Leone vs Nigeria [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=17fb668e3d6bed619b026d9a08df6553&txTime=648f9904
+https://sports01.livnvess.com/live/stream-991114_lhd.m3u8?txSecret=14515ede6b2d7ab07bc8f7ac5211850b&txTime=648f99b8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF NC: Congo vs Mali" tvg-name="CAF NC: Congo vs Mali" tvg-logo="https://sta.vnres.co/file/head/20230610/a84af4233fd893e55f97c40f31e5edad.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Congo vs Mali [COLOR yellow]BLV CHARLIE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pullalilive.livnvess.com/live/stream-495263.m3u8?auth_key=1687132420-0-0-9e7dfb0ecdd83df4d9605ce336151feb
+#EXTINF:-1 tvg-id="CAF NC: Sierra Leone vs Nigeria" tvg-name="CAF NC: Sierra Leone vs Nigeria" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Sierra Leone vs Nigeria [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687132600-0-0-a70559d4eb41068c40272f153c54c0b3
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="EBCQ: Slovenia W vs France W" tvg-name="EBCQ: Slovenia W vs France W" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] EBCQ: Slovenia W vs France W [COLOR yellow]BLV KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-168964_lhd.m3u8?txSecret=569ba254247519326336f882f253f322&txTime=648f9904
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF NC: Sierra Leone vs Nigeria" tvg-name="CAF NC: Sierra Leone vs Nigeria" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Sierra Leone vs Nigeria [COLOR yellow]BLV TONY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=963931f1df5cc8f5950ad60a1add1fde&txTime=648f9904
+#EXTINF:-1 tvg-id="CAF NC: Congo vs Mali" tvg-name="CAF NC: Congo vs Mali" tvg-logo="https://sta.vnres.co/file/head/20230610/a84af4233fd893e55f97c40f31e5edad.jpg",[COLOR red][Chưa bắt đầu][/COLOR] CAF NC: Congo vs Mali [COLOR yellow]BLV CHARLIE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pullalilive.livnvess.com/live/stream-495263.m3u8?auth_key=1687132616-0-0-68021e68b8d5300241877ae144fb2ad9
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHI D2: Deportes Temuco vs Puerto Montt" tvg-name="CHI D2: Deportes Temuco vs Puerto Montt" tvg-logo="https://sta.vnres.co/file/head/20230513/0caf5377396b4e2c222f4a04e7caedc0.jpg",[COLOR red][LIVE][/COLOR] CHI D2: Deportes Temuco vs Puerto Montt [COLOR yellow]BLV TIGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=882b074e00f33f27508d601ae07ed702&txTime=648f9904
+https://sports01.livnvess.com/live/stream-171964_lhd.m3u8?txSecret=4691eaf00da6f9fbfe0ae43e6ca9933b&txTime=648f99b8
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="AF NC: Congo vs Mali" tvg-name="AF NC: Congo vs Mali" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] AF NC: Congo vs Mali [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1687132600-0-0-6d6f7a6ddeca90c6046a8a80e78829c3
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="EBCQ: Slovenia W vs France W" tvg-name="EBCQ: Slovenia W vs France W" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] EBCQ: Slovenia W vs France W [COLOR yellow]BLV KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-168964_lhd.m3u8?txSecret=c2a8ab406400364b1d66626a4d47af93&txTime=648f99b8
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF NC: Congo vs Mali" tvg-name="CAF NC: Congo vs Mali" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Congo vs Mali [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687132600-0-0-3ac2a82a4a1bc0c50588613726e29f34
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF NC: Sierra Leone vs Nigeria" tvg-name="CAF NC: Sierra Leone vs Nigeria" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] CAF NC: Sierra Leone vs Nigeria [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991128_lhd.m3u8?txSecret=4b470b755468616ecb317ff47e4e2e74&txTime=648f99b8
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF NC: Sierra Leone vs Nigeria" tvg-name="CAF NC: Sierra Leone vs Nigeria" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Sierra Leone vs Nigeria [COLOR yellow]BLV TONY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-991117_lhd.m3u8?txSecret=01b94dcf9a99d61b3a99e2503d7a5622&txTime=648f99b8
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF NC: Congo vs Mali" tvg-name="CAF NC: Congo vs Mali" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Congo vs Mali [COLOR yellow]BLV CHOVY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-319191_lhd.m3u8?auth_key=1687132600-0-0-dc637350241a5aeda0473d53ef2ad6d6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF NC: Gabon vs Democratic Rep Congo" tvg-name="CAF NC: Gabon vs Democratic Rep Congo" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Gabon vs Democratic Rep Congo [COLOR yellow]MĂNG CỤT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1687132600-0-0-422ed28a7e71ef1c2d7b0e1516ede03c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF NC: Gabon vs Democratic Rep Congo" tvg-name="CAF NC: Gabon vs Democratic Rep Congo" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] CAF NC: Gabon vs Democratic Rep Congo [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1687132420-0-0-5ffd3b49476fa9ea594862e6e5093093
+https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1687132600-0-0-0686f39756e9873e2d153a0838f520a0
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Egypt vs South Sudan" tvg-name="INTERF: Egypt vs South Sudan" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] INTERF: Egypt vs South Sudan [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1687132420-0-0-6b260874b14e6719b452a6433a94d394
+https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1687132600-0-0-906b468b1aba02e283ce5b37b75e6823
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Egypt vs South Sudan" tvg-name="INTERF: Egypt vs South Sudan" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] INTERF: Egypt vs South Sudan [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1687132420-0-0-62ed8aebbed9ed1e411cf5120bb17f9d
+https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1687132600-0-0-41b95330a5a446c5438ebfce39e7c4c3
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Egypt vs South Sudan" tvg-name="INTERF: Egypt vs South Sudan" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] INTERF: Egypt vs South Sudan [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1687132420-0-0-5699683cd7c4bba768daac70762b8a12
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="TOUT: Panama U23 vs Mexico U23" tvg-name="TOUT: Panama U23 vs Mexico U23" tvg-logo="https://sta.vnres.co/file/head/20230603/3eb91bc921be5aafb1eae6d9430117e3.jpg",[COLOR red][LIVE][/COLOR] TOUT: Panama U23 vs Mexico U23 [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=0ad43cec4ab5ad25cca2779873003268&txTime=648f9904
+https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1687132600-0-0-ca5bb587b59ddb66bab6d10dbe53b54d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TOUT : Panama U23 vs Mexico U23" tvg-name="TOUT : Panama U23 vs Mexico U23" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg",[COLOR red][LIVE][/COLOR] TOUT : Panama U23 vs Mexico U23 [COLOR yellow]BLV KAKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
 https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1687132443-0-0-372fc932b37b698b3316ce3680842421
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Egypt vs South Sudan" tvg-name="INTERF: Egypt vs South Sudan" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] INTERF: Egypt vs South Sudan [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1687132420-0-0-21b974e63488d3047b9168344afd8045
+#EXTINF:-1 tvg-id="TOUT: Panama U23 vs Mexico U23" tvg-name="TOUT: Panama U23 vs Mexico U23" tvg-logo="https://sta.vnres.co/file/head/20230603/3eb91bc921be5aafb1eae6d9430117e3.jpg",[COLOR red][LIVE][/COLOR] TOUT: Panama U23 vs Mexico U23 [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-434154_lhd.m3u8?txSecret=e511378bf31cc90a28c667121d6ddcdf&txTime=648f99b8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TOUT: Panama U23 vs Mexico U23" tvg-name="TOUT: Panama U23 vs Mexico U23" tvg-logo="https://sta.vnres.co/file/head/20230329/571b39ae2e8e91a9b9ee7b45d829eba1.jpg",[COLOR red][LIVE][/COLOR] TOUT: Panama U23 vs Mexico U23 [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
 https://sports01.livnvess.com/live/stream-115447_lhd.m3u8?txSecret=2661558836eb92590fad4b6deb2d7552&txTime=648f98eb
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ACB: Barcelona vs Real Madrid" tvg-name="ACB: Barcelona vs Real Madrid" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png",[COLOR red][LIVE][/COLOR] ACB: Barcelona vs Real Madrid [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1687132420-0-0-2ef401c2b89ba9866f659572f45bd313
+#EXTINF:-1 tvg-id="INTERF: Egypt vs South Sudan" tvg-name="INTERF: Egypt vs South Sudan" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] INTERF: Egypt vs South Sudan [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1687132600-0-0-9bc2239ffcad04f627dcfac75f673792
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF NC: Congo vs Mali" tvg-name="CAF NC: Congo vs Mali" tvg-logo="https://sta.vnres.co/file/head/20230613/bb0941541fdd35e29ba3f39843feadbf.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Congo vs Mali [COLOR yellow]BLV BÁC SĨ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1687132420-0-0-3ab253aab9fa1f762baf36d20b6b70c5
+#EXTINF:-1 tvg-id="ACB: Barcelona vs Real Madrid" tvg-name="ACB: Barcelona vs Real Madrid" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png",[COLOR red][LIVE][/COLOR] ACB: Barcelona vs Real Madrid [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1687132600-0-0-7f9a1cb40ad7d29832828abfc72ab7bc
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHI D2: Deportes Temuco vs Puerto Montt" tvg-name="CHI D2: Deportes Temuco vs Puerto Montt" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] CHI D2: Deportes Temuco vs Puerto Montt [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1687132420-0-0-32b8601a295f820b0b6db3656d2e02dc
+https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1687132600-0-0-e3e9968eb6f22d2a0a964ea82604c64b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EBCQ: Slovenia W vs France W" tvg-name="EBCQ: Slovenia W vs France W" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] EBCQ: Slovenia W vs France W [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-422166_lhd.m3u8?txSecret=a1709f904219f57bb75b662a42a1d992&txTime=648f9904
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CHI D2: Deportes Temuco vs Puerto Montt" tvg-name="CHI D2: Deportes Temuco vs Puerto Montt" tvg-logo="https://sta.vnres.co/file/head/20230614/f8b999fcc9453ca30d8c26ab55daed67.jpg",[COLOR red][LIVE][/COLOR] CHI D2: Deportes Temuco vs Puerto Montt [COLOR yellow]BLV GEM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-452823_lhd.m3u8?auth_key=1687132420-0-0-295326d8360a5d72cdf36217ff33365f
+https://sports01.livnvess.com/live/stream-422166_lhd.m3u8?txSecret=de02ab387fd2a5921eb6f118d1d230a1&txTime=648f99b8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF NC:  Gabon VS Democratic Rep Congo" tvg-name="CAF NC:  Gabon VS Democratic Rep Congo" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] CAF NC:  Gabon VS Democratic Rep Congo [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=a845a3d0ed78d32fc05d646a4fe3c3a9&txTime=648f9904
+https://sports01.livnvess.com/live/stream-214855_lhd.m3u8?txSecret=63048c63d158b34b19fb8eb482aac559&txTime=648f99b8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CHI D2: Deportes Temuco vs Puerto Montt" tvg-name="CHI D2: Deportes Temuco vs Puerto Montt" tvg-logo="https://sta.vnres.co/file/head/20230615/b7fa6450d1237f6a8ac9ca60acc62486.jpg",[COLOR red][LIVE][/COLOR] CHI D2: Deportes Temuco vs Puerto Montt [COLOR yellow]BLV SHINZAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-432010_lhd.m3u8?auth_key=1687132420-0-0-873059842a4a3b4cd9e068cfc489b921
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF NC: Gabon vs Democratic Rep Congo" tvg-name="CAF NC: Gabon vs Democratic Rep Congo" tvg-logo="https://sta.vnres.co/file/head/20230601/c6ea462493f77254cc60a4d35a10a594.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Gabon vs Democratic Rep Congo [COLOR yellow]BLV LÂM XUNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-344687_lhd.m3u8?auth_key=1687132420-0-0-abc43b9e5a4e6b8f83c916c47823c320
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="TOUT: Panama U23 vs Mexico U23" tvg-name="TOUT: Panama U23 vs Mexico U23" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg",[COLOR red][LIVE][/COLOR] TOUT: Panama U23 vs Mexico U23 [COLOR yellow]BLV FANCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1687132420-0-0-abb7d9d9a23e33e25395948c92f21e30
+#EXTINF:-1 tvg-id="CHI D2: Deportes Temuco vs Puerto Montt" tvg-name="CHI D2: Deportes Temuco vs Puerto Montt" tvg-logo="https://sta.vnres.co/file/head/20230614/f8b999fcc9453ca30d8c26ab55daed67.jpg",[COLOR red][LIVE][/COLOR] CHI D2: Deportes Temuco vs Puerto Montt [COLOR yellow]BLV GEM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-452823_lhd.m3u8?auth_key=1687132600-0-0-cf0ed8e3628a3d281d0d8fb44786be76
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF NC: Gabon vs Democratic Rep Congo" tvg-name="CAF NC: Gabon vs Democratic Rep Congo" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Gabon vs Democratic Rep Congo [COLOR yellow]BLV CAPTAIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://sports01.livnvess.com/live/stream-231997_lhd.m3u8?txSecret=6e8f2982d0e4e0b9cbb11a788c89f4cf&txTime=648f9904
+https://sports01.livnvess.com/live/stream-231997_lhd.m3u8?txSecret=623683b8ce303c142142af30dc57bbf3&txTime=648f99b8
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CHI D2: Deportes Temuco vs Puerto Montt" tvg-name="CHI D2: Deportes Temuco vs Puerto Montt" tvg-logo="https://sta.vnres.co/file/head/20230615/b7fa6450d1237f6a8ac9ca60acc62486.jpg",[COLOR red][LIVE][/COLOR] CHI D2: Deportes Temuco vs Puerto Montt [COLOR yellow]BLV SHINZAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-432010_lhd.m3u8?auth_key=1687132600-0-0-487e04922643e97f75ae377703fcbf88
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF NC: Gabon vs Democratic Rep Congo" tvg-name="CAF NC: Gabon vs Democratic Rep Congo" tvg-logo="https://sta.vnres.co/file/head/20230601/c6ea462493f77254cc60a4d35a10a594.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Gabon vs Democratic Rep Congo [COLOR yellow]BLV LÂM XUNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-344687_lhd.m3u8?auth_key=1687132600-0-0-6af2fe0515bd69925d0fa0ec61d477b8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF NC: Gabon vs Democratic Rep Congo" tvg-name="CAF NC: Gabon vs Democratic Rep Congo" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Gabon vs Democratic Rep Congo [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1687132420-0-0-1d9a8cf81001cd141f6e3419bfd733d8
+https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1687132600-0-0-08aa9443a40162e55f1ad9d223aab65f
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="URU D1: CA Penarol vs CA River Plate" tvg-name="URU D1: CA Penarol vs CA River Plate" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",[COLOR red][LIVE][/COLOR] URU D1: CA Penarol vs CA River Plate [COLOR yellow]BLV TAM MAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://sports01.livnvess.com/live/stream-113906_lhd.m3u8?txSecret=ae9d5fa5c21abfbcfbe7935d46db3dd7&txTime=648f99b8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
