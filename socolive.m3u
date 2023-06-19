@@ -1,73 +1,82 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UEFA EURO: Finland vs San Marino" tvg-name="UEFA EURO: Finland vs San Marino" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] UEFA EURO: Finland vs San Marino [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=36fd76faf46f059d3108e8a1d6b6afa0&txTime=6490ca42
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA EURO: Armenia vs Latvia" tvg-name="UEFA EURO: Armenia vs Latvia" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] UEFA EURO: Armenia vs Latvia [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1687192562-0-0-37d1c86faa58a487ac46428ca4d18116
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="AFC U17: Saudi Arabia(U17(N vs Tajikistan(U17" tvg-name="AFC U17: Saudi Arabia(U17(N vs Tajikistan(U17" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] AFC U17: Saudi Arabia(U17(N vs Tajikistan(U17 [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991120_lhd.m3u8?txSecret=937f01df97a1e686bf7a823d496c4a6c&txTime=6490ca42
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="AFC U17: Qatar(U17(N vs Iran(U17" tvg-name="AFC U17: Qatar(U17(N vs Iran(U17" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Qatar(U17(N vs Iran(U17 [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-197901_lhd.m3u8?txSecret=13c8060bbf6d850a6be1895777d5f583&txTime=6490ca42
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA U21Q: Gibraltar(U21 vs Sweden(U21" tvg-name="UEFA U21Q: Gibraltar(U21 vs Sweden(U21" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] UEFA U21Q: Gibraltar(U21 vs Sweden(U21 [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-348199_lhd.m3u8?txSecret=f685fb697e0a00da4a8696fa1266ca4c&txTime=6490ca42
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA U21Q: Gibraltar(U21 vs Sweden(U21" tvg-name="UEFA U21Q: Gibraltar(U21 vs Sweden(U21" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg",[COLOR red][LIVE][/COLOR] UEFA U21Q: Gibraltar(U21 vs Sweden(U21 [COLOR yellow]BLV KAKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1687192562-0-0-3cded23b71eddd8986357e02bb53c134
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="AFC U17: Qatar(U17(N vs Iran(U17" tvg-name="AFC U17: Qatar(U17(N vs Iran(U17" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Qatar(U17(N vs Iran(U17 [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1687192562-0-0-214354982c25b33f0fb857fe0b516e59
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1687192742-0-0-d505509ca726d5e8d599a841383f736c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA EURO: Ukraine vs Malta" tvg-name="UEFA EURO: Ukraine vs Malta" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] UEFA EURO: Ukraine vs Malta [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687192562-0-0-8536f6cd5f35e2017345268b7c9b020b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="AFC U17: Qatar(U17(N vs Iran(U17" tvg-name="AFC U17: Qatar(U17(N vs Iran(U17" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Qatar(U17(N vs Iran(U17 [COLOR yellow]BLV CHOVY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-319191_lhd.m3u8?txSecret=83a3e176a1b4819c19fc5fba0575debd&txTime=6490ca42
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="AFC U17: Saudi Arabia(U17(N vs Tajikistan(U17" tvg-name="AFC U17: Saudi Arabia(U17(N vs Tajikistan(U17" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] AFC U17: Saudi Arabia(U17(N vs Tajikistan(U17 [COLOR yellow]BLV PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-208390_lhd.m3u8?txSecret=70ecea5742492527f9b86ccff55ea05d&txTime=6490ca42
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="AFC U17: Qatar(U17(N vs Iran(U17" tvg-name="AFC U17: Qatar(U17(N vs Iran(U17" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Qatar(U17(N vs Iran(U17 [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-421651_lhd.m3u8?txSecret=1c484c0071b858dc06ae95add98b4249&txTime=6490ca42
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA U21Q: Gibraltar(U21 vs Sweden(U21" tvg-name="UEFA U21Q: Gibraltar(U21 vs Sweden(U21" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] UEFA U21Q: Gibraltar(U21 vs Sweden(U21 [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1687192562-0-0-93ab79f23666dd97ebc534dd1b6cf4f2
+https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687192742-0-0-0b59bd8a2da3190f099112dba1b92bb6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="AFC U17: Qatar(U17(N vs Iran(U17" tvg-name="AFC U17: Qatar(U17(N vs Iran(U17" tvg-logo="https://sta.vnres.co/file/head/20230603/3eb91bc921be5aafb1eae6d9430117e3.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Qatar(U17(N vs Iran(U17 [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=342ea48cbcd3a8cff5bc53b76c3e83bf&txTime=6490ca42
+https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=8294c75752be630ead7243a79f10965c&txTime=6490caf6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA U21Q: Gibraltar(U21 vs Sweden(U21" tvg-name="UEFA U21Q: Gibraltar(U21 vs Sweden(U21" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg",[COLOR red][LIVE][/COLOR] UEFA U21Q: Gibraltar(U21 vs Sweden(U21 [COLOR yellow]BLV KAKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1687192742-0-0-008fa491804cf32d66434d78f8b95cf4
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA U21Q: Gibraltar(U21 vs Sweden(U21" tvg-name="UEFA U21Q: Gibraltar(U21 vs Sweden(U21" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] UEFA U21Q: Gibraltar(U21 vs Sweden(U21 [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-348199_lhd.m3u8?txSecret=237e2ba9f8ecfc9904aadae9453dd416&txTime=6490caf6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA EURO: Finland vs San Marino" tvg-name="UEFA EURO: Finland vs San Marino" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] UEFA EURO: Finland vs San Marino [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=c3bde01077c703735d9c810f11038ee7&txTime=6490caf6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="AFC U17: Qatar(U17(N vs Iran(U17" tvg-name="AFC U17: Qatar(U17(N vs Iran(U17" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Qatar(U17(N vs Iran(U17 [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1687192742-0-0-8de1d6559d3d5c07a012dadf8247460e
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="AFC U17: Qatar(U17(N vs Iran(U17" tvg-name="AFC U17: Qatar(U17(N vs Iran(U17" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Qatar(U17(N vs Iran(U17 [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-421651_lhd.m3u8?txSecret=096abf299ab95a7e55d7aabbebba57b9&txTime=6490caf6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA U21Q: Gibraltar(U21 vs Sweden(U21" tvg-name="UEFA U21Q: Gibraltar(U21 vs Sweden(U21" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] UEFA U21Q: Gibraltar(U21 vs Sweden(U21 [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1687192742-0-0-2ef3fa1850e07e071aed3474f9e20e8e
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="AFC U17: Saudi Arabia(U17(N vs Tajikistan(U17" tvg-name="AFC U17: Saudi Arabia(U17(N vs Tajikistan(U17" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] AFC U17: Saudi Arabia(U17(N vs Tajikistan(U17 [COLOR yellow]BLV PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-208390_lhd.m3u8?txSecret=ae4861b8cee366bf8a9e720d238ee260&txTime=6490caf6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="AFC U17: Qatar(U17(N vs Iran(U17" tvg-name="AFC U17: Qatar(U17(N vs Iran(U17" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Qatar(U17(N vs Iran(U17 [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-197901_lhd.m3u8?txSecret=79e6865499c01c8f970a83122a4a821b&txTime=6490caf6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="AFC U17: Saudi Arabia(U17(N vs Tajikistan(U17" tvg-name="AFC U17: Saudi Arabia(U17(N vs Tajikistan(U17" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] AFC U17: Saudi Arabia(U17(N vs Tajikistan(U17 [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991120_lhd.m3u8?txSecret=a9081eeb0e6cdbdc05341f361cc8d1ca&txTime=6490caf6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="AFC U17: Qatar(U17(N vs Iran(U17" tvg-name="AFC U17: Qatar(U17(N vs Iran(U17" tvg-logo="https://sta.vnres.co/file/head/20230310/c88aad2517438b870b70b682d81e61db.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Qatar(U17(N vs Iran(U17 [COLOR yellow]YUKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1687192562-0-0-1f8af7199e7bc8918e812f38d601da99
+https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1687192742-0-0-c06d3e1201b1e5b16e38f10193d45c25
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA EURO: Finland vs San Marino" tvg-name="UEFA EURO: Finland vs San Marino" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] UEFA EURO: Finland vs San Marino [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1687192742-0-0-bf75bfba842b40caba0a9665df3ce2d0
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="AFC U17: Saudi Arabia(U17(N vs Tajikistan(U17" tvg-name="AFC U17: Saudi Arabia(U17(N vs Tajikistan(U17" tvg-logo="https://sta.vnres.co/file/head/20230601/c6ea462493f77254cc60a4d35a10a594.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Saudi Arabia(U17(N vs Tajikistan(U17 [COLOR yellow]BLV LÂM XUNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-344687_lhd.m3u8?auth_key=1687192562-0-0-cfa26e66cf0421713da6ac6fad06093c
+https://pull06.scstream.net/live/stream-344687_lhd.m3u8?auth_key=1687192742-0-0-3b2e511b59ccb6f2c5773d6fc7049e84
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="AFC U17: Qatar(U17(N vs Iran(U17" tvg-name="AFC U17: Qatar(U17(N vs Iran(U17" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Qatar(U17(N vs Iran(U17 [COLOR yellow]BLV CHOVY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-319191_lhd.m3u8?txSecret=eb5137861e98228a65f61ac2814d9af6&txTime=6490caf6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="AFC U17: Saudi Arabia(U17(N vs Tajikistan(U17" tvg-name="AFC U17: Saudi Arabia(U17(N vs Tajikistan(U17" tvg-logo="https://sta.vnres.co/file/head/20230405/ec1bee82e4d11675221774242cd75d76.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Saudi Arabia(U17(N vs Tajikistan(U17 [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-420171_lhd.m3u8?txSecret=868238f2d88a2d876dfa56f56d5493ad&txTime=6490ca42
+https://pull01.rrwes.live/live/stream-420171_lhd.m3u8?txSecret=f80489beeeab23a01dbe67a462d1c1ea&txTime=6490caf6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="AFC U17: Saudi Arabia(U17(N vs Tajikistan(U17" tvg-name="AFC U17: Saudi Arabia(U17(N vs Tajikistan(U17" tvg-logo="https://sta.vnres.co/file/head/20220627/4a25c211c3b42d3923895ce94a4331cb.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Saudi Arabia(U17(N vs Tajikistan(U17 [COLOR yellow]AMY BABE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-102153_lhd.m3u8?auth_key=1687192562-0-0-d41a0145215991f7846b40eced07e371
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Qatar vs New Zealand" tvg-name="INTERF: Qatar vs New Zealand" tvg-logo="https://sta.vnres.co/file/head/20230614/42f95823a1cfff31a879a9d6b7222bfd.jpg",[COLOR red][LIVE][/COLOR] INTERF: Qatar vs New Zealand [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1687192562-0-0-9d22419528154b3f3896d796e6b4ad1a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Hong Kong vs Thailand" tvg-name="INTERF: Hong Kong vs Thailand" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] INTERF: Hong Kong vs Thailand [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1687192562-0-0-3c2026b80a97d09c86b9575b462fb4e2
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SWE WD1: FC Rosengard Women's vs IK Uppsala Women's" tvg-name="SWE WD1: FC Rosengard Women's vs IK Uppsala Women's" tvg-logo="https://sta.vnres.co/file/head/20221002/c76cdb4e7501dc9df12b98057e83df92.jpg",[COLOR red][LIVE][/COLOR] SWE WD1: FC Rosengard Women's vs IK Uppsala Women's [COLOR yellow]BLV CHRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991112_lhd.m3u8?auth_key=1687192562-0-0-3430db8865bd5d9ac41685404362e22e
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Qatar vs New Zealand" tvg-name="INTERF: Qatar vs New Zealand" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] INTERF: Qatar vs New Zealand [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=df22ff633a27db67d95008c50f562746&txTime=6490ca42
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA EURO: Armenia vs Latvia" tvg-name="UEFA EURO: Armenia vs Latvia" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] UEFA EURO: Armenia vs Latvia [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1687192562-0-0-80f036da82c93c7aba08d4c9c830a4fb
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SWE WD1: FC Rosengard Women's vs IK Uppsala Women's" tvg-name="SWE WD1: FC Rosengard Women's vs IK Uppsala Women's" tvg-logo="https://sta.vnres.co/file/head/20230613/bb0941541fdd35e29ba3f39843feadbf.jpg",[COLOR red][LIVE][/COLOR] SWE WD1: FC Rosengard Women's vs IK Uppsala Women's [COLOR yellow]BLV BÁC SĨ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1687192562-0-0-383fa35d628fa8d6a7ee13617c2ff150
+https://pull06.scstream.net/live/stream-102153_lhd.m3u8?auth_key=1687192742-0-0-e6d2ab66ddda793dea2bdb2c6512536f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SWE WD1: FC Rosengard Women's vs IK Uppsala Women's" tvg-name="SWE WD1: FC Rosengard Women's vs IK Uppsala Women's" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg",[COLOR red][LIVE][/COLOR] SWE WD1: FC Rosengard Women's vs IK Uppsala Women's [COLOR yellow]BLV CAPTAIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-231997_lhd.m3u8?txSecret=0354a739498b6532e1a2a18589c0cfef&txTime=6490ca42
+https://pull01.rrwes.live/live/stream-231997_lhd.m3u8?txSecret=f8ab0a74c7f2ff5a24d48e8f05ee5c29&txTime=6490caf6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Qatar vs New Zealand" tvg-name="INTERF: Qatar vs New Zealand" tvg-logo="https://sta.vnres.co/file/head/20230614/42f95823a1cfff31a879a9d6b7222bfd.jpg",[COLOR red][LIVE][/COLOR] INTERF: Qatar vs New Zealand [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1687192742-0-0-588ddbde86c9c3a81b8f498558fbbeba
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Hong Kong vs Thailand" tvg-name="INTERF: Hong Kong vs Thailand" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] INTERF: Hong Kong vs Thailand [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1687192742-0-0-576eb4976ab8c621e5afbdf02f11ad8e
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA EURO: Ukraine vs Malta" tvg-name="UEFA EURO: Ukraine vs Malta" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",[COLOR red][LIVE][/COLOR] UEFA EURO: Ukraine vs Malta [COLOR yellow]BLV TAM MAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-113906_lhd.m3u8?txSecret=3d5f80348039cb821445ee07f99b8044&txTime=6490caf6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA EURO: Armenia vs Latvia" tvg-name="UEFA EURO: Armenia vs Latvia" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] UEFA EURO: Armenia vs Latvia [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1687192742-0-0-bbc6848787dc8867a7077d75fb3780d2
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Qatar vs New Zealand" tvg-name="INTERF: Qatar vs New Zealand" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] INTERF: Qatar vs New Zealand [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=2841078b663bc347d9e600da4320d062&txTime=6490caf6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SWE WD1: FC Rosengard Women's vs IK Uppsala Women's" tvg-name="SWE WD1: FC Rosengard Women's vs IK Uppsala Women's" tvg-logo="https://sta.vnres.co/file/head/20230613/bb0941541fdd35e29ba3f39843feadbf.jpg",[COLOR red][LIVE][/COLOR] SWE WD1: FC Rosengard Women's vs IK Uppsala Women's [COLOR yellow]BLV BÁC SĨ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1687192742-0-0-6e64069cab4b4661be9987d851996656
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SWE WD1: FC Rosengard Women's vs IK Uppsala Women's" tvg-name="SWE WD1: FC Rosengard Women's vs IK Uppsala Women's" tvg-logo="https://sta.vnres.co/file/head/20221002/c76cdb4e7501dc9df12b98057e83df92.jpg",[COLOR red][LIVE][/COLOR] SWE WD1: FC Rosengard Women's vs IK Uppsala Women's [COLOR yellow]BLV CHRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991112_lhd.m3u8?auth_key=1687192742-0-0-cd0656efa585e0b1bc7efa2d2e9ac347
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: New Zealand vs Qatar" tvg-name="INTERF: New Zealand vs Qatar" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] INTERF: New Zealand vs Qatar [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-143449_lhd.m3u8?txSecret=af9dcaa74b6da1fe27931a5b23f49d84&txTime=6490caf6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
