@@ -1,22 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tên trận đấu : &lt; test&gt;" tvg-name="tên trận đấu : &lt; test&gt;" tvg-logo="https://sta.vnres.co/file/head/20230618/70d7448b3264c06f92ebcdb7cc1547eb.jpg",[COLOR red][LIVE][/COLOR] tên trận đấu : &lt; test&gt; [COLOR yellow]BLV KIỀU PHONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-276100_lhd.m3u8?auth_key=1687164640-0-0-620d6416f2460d1aae937e7a6b241094
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="WNBA: Las Vegas Aces W vs Minnesota Lynx W" tvg-name="WNBA: Las Vegas Aces W vs Minnesota Lynx W" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] WNBA: Las Vegas Aces W vs Minnesota Lynx W [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1687164640-0-0-1ab9abc65b2942503030df195a8e817f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CON NL: Canada vs USA" tvg-name="CON NL: Canada vs USA" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] CON NL: Canada vs USA [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1687164640-0-0-7453c56ac50e94660a181f5e19bee34d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CON NL: Canada vs USA" tvg-name="CON NL: Canada vs USA" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] CON NL: Canada vs USA [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687164640-0-0-2c99c26fcdc1f24da8c3401d06831c23
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CON NL: Canada vs USA" tvg-name="CON NL: Canada vs USA" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] CON NL: Canada vs USA [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1687164640-0-0-5f4a4a7dd88134c230114c28ae579fa7
+https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1687164820-0-0-899998850de698abf4fa667d32b1f192
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="WNBA: Las Vegas Aces W vs Minnesota Lynx W" tvg-name="WNBA: Las Vegas Aces W vs Minnesota Lynx W" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] WNBA: Las Vegas Aces W vs Minnesota Lynx W [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1687164640-0-0-c2f406d49586229b8b3542ad01410081
+#EXTINF:-1 tvg-id="tên trận đấu : &lt; test&gt;" tvg-name="tên trận đấu : &lt; test&gt;" tvg-logo="https://sta.vnres.co/file/head/20230618/70d7448b3264c06f92ebcdb7cc1547eb.jpg",[COLOR red][LIVE][/COLOR] tên trận đấu : &lt; test&gt; [COLOR yellow]BLV KIỀU PHONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-276100_lhd.m3u8?auth_key=1687164820-0-0-44b068aff1258f4c3d7e72d4063f5fcc
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CON NL: Canada vs USA" tvg-name="CON NL: Canada vs USA" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] CON NL: Canada vs USA [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687164640-0-0-cdf1c83ecc7fa038f65ca63a3a3d4a5d
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687164820-0-0-69700aeb7c10145f036eb30bfec8886d
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CON NL: Canada vs USA" tvg-name="CON NL: Canada vs USA" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] CON NL: Canada vs USA [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687164820-0-0-24ab2e6098e5fe96dce16d1b7c72b2d0
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CON NL: Canada vs USA" tvg-name="CON NL: Canada vs USA" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] CON NL: Canada vs USA [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1687164820-0-0-e90a4a8a72770db8b7e79ee75f4d0714
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="WNBA: Las Vegas Aces W vs Minnesota Lynx W" tvg-name="WNBA: Las Vegas Aces W vs Minnesota Lynx W" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] WNBA: Las Vegas Aces W vs Minnesota Lynx W [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1687164820-0-0-a8ec368a334cda1133d0c7f302d4ddf1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
