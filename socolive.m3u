@@ -1,21 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="tên trận đấu : &lt; test&gt;" tvg-name="tên trận đấu : &lt; test&gt;" tvg-logo="https://sta.vnres.co/file/head/20230618/70d7448b3264c06f92ebcdb7cc1547eb.jpg",[COLOR red][LIVE][/COLOR] tên trận đấu : &lt; test&gt; [COLOR yellow]BLV KIỀU PHONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-276100_lhd.m3u8?auth_key=1687167519-0-0-cc04e2516a1e801ec94497d2bd8a5158
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA NL - Croatia vs Spain" tvg-name="Tường thuật: UEFA NL - Croatia vs Spain" tvg-logo="https://sta.vnres.co/file/head/20220810/7ec533b436e71ab93e03dda2f6a15678.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA NL - Croatia vs Spain [COLOR yellow]Sóc Minions[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-160872_lhd.m3u8?auth_key=1687167700-0-0-a1c73a83b1670d39af9894493938eb9e
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Tường thuật: UEFA EURO - Norway vs Scotland" tvg-name="Tường thuật: UEFA EURO - Norway vs Scotland" tvg-logo="https://sta.vnres.co/file/head/20221213/1ccf6b3b54904f0da8610926a968d412.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA EURO - Norway vs Scotland [COLOR yellow]Sóc gánh nước[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-133824_lhd.m3u8?auth_key=1687167700-0-0-3e742b62dbf0203352dac663e29749bd
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Tường thuật: UEFA NL - Spain vs Italy" tvg-name="Tường thuật: UEFA NL - Spain vs Italy" tvg-logo="https://sta.vnres.co/file/head/20221213/f2d17ad16d4acb59cfd9d0976f0fa77e.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA NL - Spain vs Italy [COLOR yellow]Sóc nhà giàu[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-187684_lhd.m3u8?auth_key=1687167700-0-0-8401a48a30b3461aebd252abf556bcf6
+https://pull06.scstream.net/live/stream-160872_lhd.m3u8?auth_key=1687167880-0-0-f55cd4e85738a7b1862751c1ab9b4605
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA NL - Netherlands vs Italy" tvg-name="Tường thuật: UEFA NL - Netherlands vs Italy" tvg-logo="https://sta.vnres.co/file/head/20221111/5dedadaf5ec33677f4ebc3a71ba3626c.png",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA NL - Netherlands vs Italy [COLOR yellow]Sóc cam[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-152898_lhd.m3u8?auth_key=1687167700-0-0-6dca8415d4846b8445c58c93d4f4c539
+https://pull06.scstream.net/live/stream-152898_lhd.m3u8?auth_key=1687167880-0-0-dc25da39019a65d2f33c5f8a212c8491
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Tường thuật: UEFA NL - Spain vs Italy" tvg-name="Tường thuật: UEFA NL - Spain vs Italy" tvg-logo="https://sta.vnres.co/file/head/20221213/f2d17ad16d4acb59cfd9d0976f0fa77e.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA NL - Spain vs Italy [COLOR yellow]Sóc nhà giàu[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-187684_lhd.m3u8?auth_key=1687167880-0-0-77b56c3dc07072fb4326256986734a98
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Tường thuật: UEFA EURO - Norway vs Scotland" tvg-name="Tường thuật: UEFA EURO - Norway vs Scotland" tvg-logo="https://sta.vnres.co/file/head/20221213/1ccf6b3b54904f0da8610926a968d412.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA EURO - Norway vs Scotland [COLOR yellow]Sóc gánh nước[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-133824_lhd.m3u8?auth_key=1687167880-0-0-cac9b821fbb61ba7e1fd24cfead5491b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA NL - Netherlands vs Croatia" tvg-name="Tường thuật: UEFA NL - Netherlands vs Croatia" tvg-logo="https://sta.vnres.co/file/head/20220810/2a7ffd98fe2f64c7e36efb035d2cbc3b.png",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA NL - Netherlands vs Croatia [COLOR yellow]Sóc phụ hồ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-133277_lhd.m3u8?auth_key=1687167700-0-0-f4414de3898bf6030701b7e2d8b6c9e4
+https://pull06.scstream.net/live/stream-133277_lhd.m3u8?auth_key=1687167880-0-0-b2d42661fd57b9fb02f505dfa723aa32
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA EURO - Portugal vs Bosnia and Herzegovina" tvg-name="Tường thuật: UEFA EURO - Portugal vs Bosnia and Herzegovina" tvg-logo="https://sta.vnres.co/file/head/20220522/27ec59432f6894e2e4551627847383bd.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA EURO - Portugal vs Bosnia and Herzegovina [COLOR yellow]Sóc mèo méo meo[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
 https://pull06.scstream.net/live/stream-1_lhd.m3u8?auth_key=1687167616-0-0-5d4b6ee4fd58694cb5515f23f471690f
