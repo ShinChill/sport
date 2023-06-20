@@ -1,76 +1,79 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="INTERF: Korea Republic vs El Salvador" tvg-name="INTERF: Korea Republic vs El Salvador" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] INTERF: Korea Republic vs El Salvador [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1687267742-0-0-9aed473250b4c25aa1458030abdf2c28
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Vietnam vs Syria" tvg-name="INTERF: Vietnam vs Syria" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Syria [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991120_lhd.m3u8?txSecret=e5169cf4eb3d83b00f4aec5d48ea94f2&txTime=6491f02a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Korea Republic vs El Salvador" tvg-name="INTERF: Korea Republic vs El Salvador" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] INTERF: Korea Republic vs El Salvador [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1687267802-0-0-52d3e6f4fa842cafa1a6ae104170b720
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Vietnam vs Syria" tvg-name="INTERF: Vietnam vs Syria" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Syria [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687267802-0-0-ae1ec32e2e1c6038fd0f0294ef561ffe
+https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687267982-0-0-ae003a09d54038ac58ee686f6f5196e9
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: China vs Palestine" tvg-name="INTERF: China vs Palestine" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] INTERF: China vs Palestine [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1687267802-0-0-78a4808f047739341ea7ba4c61cad087
+https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1687267982-0-0-bc82f142d973859709d1adc74b4def80
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="AFC U17: Uzbekistan(U17(N vs India(U17" tvg-name="AFC U17: Uzbekistan(U17(N vs India(U17" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Uzbekistan(U17(N vs India(U17 [COLOR yellow]BLV TONY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991117_lhd.m3u8?txSecret=b1dbfd117aa7e571c623081c4fb3e0d2&txTime=6491f02a
+#EXTINF:-1 tvg-id="INTERF: Korea Republic vs El Salvador" tvg-name="INTERF: Korea Republic vs El Salvador" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] INTERF: Korea Republic vs El Salvador [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1687267982-0-0-3736a7c11bb68f49a9644e70b305d8ba
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Vietnam vs Syria" tvg-name="INTERF: Vietnam vs Syria" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Syria [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687267802-0-0-a1cbf5cd3305c0eb9dc119bef2449832
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Vietnam vs Syria" tvg-name="INTERF: Vietnam vs Syria" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Syria [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1687267802-0-0-b3dda5cd8de429b957eda73c7d10d310
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Vietnam vs Syria" tvg-name="INTERF: Vietnam vs Syria" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Syria [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1687267802-0-0-b5ee838c12b99174db4c0c910549a66b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: China vs Palestine" tvg-name="INTERF: China vs Palestine" tvg-logo="https://sta.vnres.co/file/head/20230618/70d7448b3264c06f92ebcdb7cc1547eb.jpg",[COLOR red][LIVE][/COLOR] INTERF: China vs Palestine [COLOR yellow]KIỀU PHONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-276100_lhd.m3u8?txSecret=f50b9486756d4eb4abd4e8c5fef6b3a7&txTime=6491f02a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Korea Republic vs El Salvador" tvg-name="INTERF: Korea Republic vs El Salvador" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] INTERF: Korea Republic vs El Salvador [COLOR yellow]BLV PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1687267802-0-0-6de1a2e16bdccdf239ccfa49eef28762
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687267982-0-0-2841a89b33c44fc6c1614ca4f3894dfe
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Korea Republic vs El Salvador" tvg-name="INTERF: Korea Republic vs El Salvador" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] INTERF: Korea Republic vs El Salvador [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1687267802-0-0-854bdc627a9c7c5796f209b2f7b288c9
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1687267982-0-0-92ff9162eb75dbef79333beb09e8469b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Vietnam vs Syria" tvg-name="INTERF: Vietnam vs Syria" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Syria [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1687267982-0-0-acada0300bb4e6066991c270a30f20fc
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: China vs Palestine" tvg-name="INTERF: China vs Palestine" tvg-logo="https://sta.vnres.co/file/head/20230618/70d7448b3264c06f92ebcdb7cc1547eb.jpg",[COLOR red][LIVE][/COLOR] INTERF: China vs Palestine [COLOR yellow]KIỀU PHONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-276100_lhd.m3u8?txSecret=c0473b1a427162204524bb113c96cb6f&txTime=6491f0de
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Vietnam vs Syria" tvg-name="INTERF: Vietnam vs Syria" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Syria [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991120_lhd.m3u8?txSecret=91c3bef895b49ade4489853f7f7b5f3f&txTime=6491f0de
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Korea Republic vs El Salvador" tvg-name="INTERF: Korea Republic vs El Salvador" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] INTERF: Korea Republic vs El Salvador [COLOR yellow]BLV PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1687267982-0-0-e878c9cb7200cb4571ffb36d10c29614
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="AFC U17: Uzbekistan(U17(N vs India(U17" tvg-name="AFC U17: Uzbekistan(U17(N vs India(U17" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Uzbekistan(U17(N vs India(U17 [COLOR yellow]BLV TONY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991117_lhd.m3u8?txSecret=c5243ad55d286df90fb7d8ada53d4393&txTime=6491f0de
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Vietnam vs Syria" tvg-name="INTERF: Vietnam vs Syria" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Syria [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1687267982-0-0-23147b395a110c9588d6026d342e7939
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Korea Republic vs El Salvador" tvg-name="INTERF: Korea Republic vs El Salvador" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] INTERF: Korea Republic vs El Salvador [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1687267982-0-0-999dc2755e4d0a15e0a26789fbbc409b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Vietnam vs Syria" tvg-name="INTERF: Vietnam vs Syria" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Syria [COLOR yellow]GIÀ LÀNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1687267802-0-0-244555840a75612c8f7126eb76b28e02
+https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1687267982-0-0-3990d116dea6fe96263a744feb819c7f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Korea Republic vs El Salvador" tvg-name="INTERF: Korea Republic vs El Salvador" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] INTERF: Korea Republic vs El Salvador [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1687267802-0-0-cb93830d9e48f1502405595b05074221
+https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1687267982-0-0-4501e072fe36833f65dc051df5af7ba2
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="AFC U17: Uzbekistan(U17(N vs India(U17" tvg-name="AFC U17: Uzbekistan(U17(N vs India(U17" tvg-logo="https://sta.vnres.co/file/head/20230603/3eb91bc921be5aafb1eae6d9430117e3.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Uzbekistan(U17(N vs India(U17 [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=8f58a98d5758556ce063bc3e5fca9acf&txTime=6491f02a
+https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=ea6d500ee1530ddf4179f88e13ecaa08&txTime=6491f0de
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="AFC U17: Uzbekistan(U17(N vs India(U17" tvg-name="AFC U17: Uzbekistan(U17(N vs India(U17" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Uzbekistan(U17(N vs India(U17 [COLOR yellow]BLV MÁT GAI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-273067_lhd.m3u8?auth_key=1687267802-0-0-30c0bfafb16e31ca7b24bbbd4ef02091
+https://pull06.scstream.net/live/stream-273067_lhd.m3u8?auth_key=1687267982-0-0-d1ceb87f0b57b7e77a7fff900648d784
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="AFC U17: Uzbekistan(U17(N vs India(U17" tvg-name="AFC U17: Uzbekistan(U17(N vs India(U17" tvg-logo="https://sta.vnres.co/file/head/20230310/c88aad2517438b870b70b682d81e61db.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Uzbekistan(U17(N vs India(U17 [COLOR yellow]YUKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1687267802-0-0-fad8b52face61be734adc32e9a40765f
+https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1687267982-0-0-b26a30ba4149fdcbfa4ebdc348da9b0b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: China vs Palestine" tvg-name="INTERF: China vs Palestine" tvg-logo="https://sta.vnres.co/file/head/20230606/ea2fb298192cd1ea95046cf3ac74d043.jpg",[COLOR red][LIVE][/COLOR] INTERF: China vs Palestine [COLOR yellow]BLV ENZO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-380460_lhd.m3u8?auth_key=1687267802-0-0-35605fcecdf9564ce3703dbfa8b292ec
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="AFC U17: Uzbekistan (U17(N vs India (U17" tvg-name="AFC U17: Uzbekistan (U17(N vs India (U17" tvg-logo="https://sta.vnres.co/file/head/20230617/8cb09474f329a0ca1fc83d33784f9bb7.JPEG",[COLOR red][LIVE][/COLOR] AFC U17: Uzbekistan (U17(N vs India (U17 [COLOR yellow]BLV BOM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-400382_lhd.m3u8?auth_key=1687267802-0-0-f03ead973e9b995d288c65fa0f817ce0
+https://pull06.scstream.net/live/stream-380460_lhd.m3u8?auth_key=1687267982-0-0-673e19d9ac41190c47af9402926c9fb0
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LPL: FunPlus Phoenix vs Invictus Gaming" tvg-name="LPL: FunPlus Phoenix vs Invictus Gaming" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] LPL: FunPlus Phoenix vs Invictus Gaming [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1687267802-0-0-da4813a5f9ffc3d55692ab35edc7dd9c
+https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1687267982-0-0-c16cfffb20fc5edc27ab4d57c9e027f9
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: China vs Palestine" tvg-name="INTERF: China vs Palestine" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] INTERF: China vs Palestine [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1687267802-0-0-3270ec36e633ec98b36c1dfb2935b087
+#EXTINF:-1 tvg-id="AFC U17: Uzbekistan (U17(N vs India (U17" tvg-name="AFC U17: Uzbekistan (U17(N vs India (U17" tvg-logo="https://sta.vnres.co/file/head/20230617/8cb09474f329a0ca1fc83d33784f9bb7.JPEG",[COLOR red][LIVE][/COLOR] AFC U17: Uzbekistan (U17(N vs India (U17 [COLOR yellow]BLV BOM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-400382_lhd.m3u8?auth_key=1687267982-0-0-d1534ae8647e08058dbe81440fb75fe4
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LPL: FunPlus Phoenix vs Invictus Gaming" tvg-name="LPL: FunPlus Phoenix vs Invictus Gaming" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] LPL: FunPlus Phoenix vs Invictus Gaming [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=52c50933209eef88317f6754ea2850c2&txTime=6491f02a
+https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=58c426410e38fd3dc6ec746f3868ce02&txTime=6491f0de
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: China vs Palestine" tvg-name="INTERF: China vs Palestine" tvg-logo="https://sta.vnres.co/file/head/20220627/4a25c211c3b42d3923895ce94a4331cb.jpg",[COLOR red][LIVE][/COLOR] INTERF: China vs Palestine [COLOR yellow]AMY BABE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-102153_lhd.m3u8?auth_key=1687267802-0-0-c9222541a77b030e53784393db182bb1
+https://pull06.scstream.net/live/stream-102153_lhd.m3u8?auth_key=1687267982-0-0-fd348c89ae4514f09b1d9a4978e392a4
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VBA: Can Tho Catfish vs Da Nang Dragons" tvg-name="VBA: Can Tho Catfish vs Da Nang Dragons" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] VBA: Can Tho Catfish vs Da Nang Dragons [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=bee425481476fb02d8a3fec2b4861a94&txTime=6491f02a
+https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=95ccb246d6cdfdf204e3672b0faa7a5a&txTime=6491f0de
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: China vs Palestine" tvg-name="INTERF: China vs Palestine" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] INTERF: China vs Palestine [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1687267982-0-0-a8e660025b576122eb736ea9cf7ee6c2
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VBA: Can Tho Catfish vs Da Nang Dragons" tvg-name="VBA: Can Tho Catfish vs Da Nang Dragons" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] VBA: Can Tho Catfish vs Da Nang Dragons [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1687267802-0-0-e0f8606cdbb745345cb729d5d702f91f
+https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1687267982-0-0-8d5a1fcb8d87cf402d56b12ce79765cd
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Malaysia vs Papua New Guinea" tvg-name="INTERF: Malaysia vs Papua New Guinea" tvg-logo="https://sta.vnres.co/file/head/20230613/bb0941541fdd35e29ba3f39843feadbf.jpg",[COLOR red][LIVE][/COLOR] INTERF: Malaysia vs Papua New Guinea [COLOR yellow]BLV BÁC SĨ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1687267982-0-0-8b1a385ba20529779b032d122e423216
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
