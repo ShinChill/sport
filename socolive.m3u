@@ -1,94 +1,91 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="INTERF: Malaysia vs Papua New Guinea" tvg-name="INTERF: Malaysia vs Papua New Guinea" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] INTERF: Malaysia vs Papua New Guinea [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1687274642-0-0-32ab4eaf15d074d8ec77a6d66fa278ce
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF NC: Ethiopia vs Malawi" tvg-name="CAF NC: Ethiopia vs Malawi" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Ethiopia vs Malawi [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1687274642-0-0-dbd1edc2531bb86373fa27aa8a4bfa7e
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF NC: Ethiopia vs Malawi" tvg-name="CAF NC: Ethiopia vs Malawi" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Ethiopia vs Malawi [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1687274642-0-0-0168201a91f130e37892cf08cb5fee62
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF NC: Burundi vs Namibia" tvg-name="CAF NC: Burundi vs Namibia" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Burundi vs Namibia [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1687274642-0-0-c5ac88372ee3cd9654ed4ef091c50037
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Vietnam vs Syria" tvg-name="INTERF: Vietnam vs Syria" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Syria [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991120_lhd.m3u8?txSecret=de8d0c5151fe4671243e4b2a67fdef57&txTime=64920ae2
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF NC: Ethiopia vs Malawi" tvg-name="CAF NC: Ethiopia vs Malawi" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Ethiopia vs Malawi [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1687274642-0-0-cf342951bd9bfa7f9a1c8f7b7b88c7d9
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Vietnam vs Syria" tvg-name="INTERF: Vietnam vs Syria" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Syria [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687274642-0-0-74f7b3edf7e67175aab46118db8ff59a
+https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687274822-0-0-a517ffb316f799346576b28b3a346a08
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF NC: Ethiopia vs Malawi" tvg-name="CAF NC: Ethiopia vs Malawi" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] CAF NC: Ethiopia vs Malawi [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1687274642-0-0-77432b91bec196a84f3203fa96d8a069
+https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1687274822-0-0-28876663907d932c2d4f429ed89e338c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Vietnam vs Syria" tvg-name="INTERF: Vietnam vs Syria" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Syria [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1687274642-0-0-48f2920aef3db7530172711cfbdcbd5b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Vietnam vs Syria" tvg-name="INTERF: Vietnam vs Syria" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Syria [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1687274642-0-0-79be7b72a5055c51650ea593796dd463
+https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1687274822-0-0-f4618792190406171b0f4f3e907926be
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Vietnam vs Syria" tvg-name="INTERF: Vietnam vs Syria" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Syria [COLOR yellow]GIÀ LÀNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1687274642-0-0-fc5b0cdce8dccf37ea5773979798070f
+https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1687274822-0-0-088cfec9b4f17e07413991b6abcc76b7
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF NC: Ethiopia vs Malawi" tvg-name="CAF NC: Ethiopia vs Malawi" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Ethiopia vs Malawi [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1687274822-0-0-8b35c023d5bb4e91a63abf5a3e4a8af0
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF NC: Burundi vs Namibia" tvg-name="CAF NC: Burundi vs Namibia" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Burundi vs Namibia [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1687274822-0-0-fd7149e2ddb30e9c77644c31eb42b3a3
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Malaysia vs Papua New Guinea" tvg-name="INTERF: Malaysia vs Papua New Guinea" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] INTERF: Malaysia vs Papua New Guinea [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1687274822-0-0-7f1dfb019eb3c0aa659bce6126c8234f
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF NC: Ethiopia vs Malawi" tvg-name="CAF NC: Ethiopia vs Malawi" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Ethiopia vs Malawi [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1687274822-0-0-1ddd7b9473af5f6784dbd904e134936d
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Vietnam vs Syria" tvg-name="INTERF: Vietnam vs Syria" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Syria [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1687274822-0-0-a007290e2ae8267803e9c94acdf2d027
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Vietnam vs Syria" tvg-name="INTERF: Vietnam vs Syria" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Syria [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991120_lhd.m3u8?txSecret=e1eb34a6bb241e66b580b35b1bfb2437&txTime=64920b96
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF NC: Ethiopia vs Malawi" tvg-name="CAF NC: Ethiopia vs Malawi" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Ethiopia vs Malawi [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1687274822-0-0-ab727728a96378f9db23099935b08c33
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Vietnam vs Syria" tvg-name="INTERF: Vietnam vs Syria" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] INTERF: Vietnam vs Syria [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687274642-0-0-2b13b53588bdc628c20741243ea0113f
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687274822-0-0-4be6b6e4d973c4608b5fe3bd7106b137
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAFA Cup: Kyrgyzstan vs Oman" tvg-name="CAFA Cup: Kyrgyzstan vs Oman" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][LIVE][/COLOR] CAFA Cup: Kyrgyzstan vs Oman [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1687274642-0-0-f25541f3366c7f64734b1afd2cb0ff39
+https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1687274822-0-0-b341e622cd2a6e790903c265c841479e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF Malaysia -  Papua New Guinea" tvg-name="INTERF Malaysia -  Papua New Guinea" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] INTERF Malaysia -  Papua New Guinea [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1687274642-0-0-ea97237c4598606acdd092a6bf779809
+https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1687274822-0-0-ed8b66aca1b4328e809b9ba824c6147a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Malaysia vs Papua New Guinea" tvg-name="INTERF: Malaysia vs Papua New Guinea" tvg-logo="https://sta.vnres.co/file/head/20230601/c6ea462493f77254cc60a4d35a10a594.jpg",[COLOR red][LIVE][/COLOR] INTERF: Malaysia vs Papua New Guinea [COLOR yellow]BLV LÂM XUNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-344687_lhd.m3u8?auth_key=1687274642-0-0-8b24e6962f0af5c032b06f13b65ce933
+https://pull06.scstream.net/live/stream-344687_lhd.m3u8?auth_key=1687274822-0-0-b772b1257cd5ce5c22e1ceee4fd45b9c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAFA Cup: Kyrgyzstan vs Oman" tvg-name="CAFA Cup: Kyrgyzstan vs Oman" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] CAFA Cup: Kyrgyzstan vs Oman [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1687274642-0-0-0b09b5d2a78e56ac48ff918742c911ab
+https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1687274822-0-0-4be437f65a9661871edbc2407e966a7b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Malaysia vs Papua New Guinea" tvg-name="INTERF: Malaysia vs Papua New Guinea" tvg-logo="https://sta.vnres.co/file/head/20230613/bb0941541fdd35e29ba3f39843feadbf.jpg",[COLOR red][LIVE][/COLOR] INTERF: Malaysia vs Papua New Guinea [COLOR yellow]BLV BÁC SĨ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1687274642-0-0-c2e38c5de3d4019fe2fbbf9404cd5545
+https://pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1687274822-0-0-d1f4c49e7d413e23ad661e85a120869d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VBA: Can Tho Catfish vs Da Nang Dragons" tvg-name="VBA: Can Tho Catfish vs Da Nang Dragons" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] VBA: Can Tho Catfish vs Da Nang Dragons [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1687274642-0-0-82af9ef07abf352766080d930294cb8a
+https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1687274822-0-0-eff980bcf5708e95ef1ee71cc5c3f345
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF NC: Burundi vs Namibia" tvg-name="CAF NC: Burundi vs Namibia" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Burundi vs Namibia [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1687274642-0-0-2c80f8166e4f255dafd960fa63f2b8cb
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAFA Cup: Kyrgyzstan vs Oman" tvg-name="CAFA Cup: Kyrgyzstan vs Oman" tvg-logo="https://sta.vnres.co/file/head/20230613/574173bc84eb707d0dd66291fbb9c899.png",[COLOR red][LIVE][/COLOR] CAFA Cup: Kyrgyzstan vs Oman [COLOR yellow]BLV VĂN TÍCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1687274642-0-0-7a7edeae76dcb82eabdcf7df0b960739
+https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1687274822-0-0-3d04d9cc6e95c8236c21f7cb84f9644a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF NC: Burundi vs Namibia" tvg-name="CAF NC: Burundi vs Namibia" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] CAF NC: Burundi vs Namibia [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-106737_lhd.m3u8?txSecret=96952acc46920a111638f43c26fd5dd5&txTime=64920ae2
+https://pull01.rrwes.live/live/stream-106737_lhd.m3u8?txSecret=f5b3f9281d57e0cf908d77a34673bf27&txTime=64920b96
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAFA Cup: Kyrgyzstan vs Oman" tvg-name="CAFA Cup: Kyrgyzstan vs Oman" tvg-logo="https://sta.vnres.co/file/head/20230405/ec1bee82e4d11675221774242cd75d76.jpg",[COLOR red][LIVE][/COLOR] CAFA Cup: Kyrgyzstan vs Oman [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-420171_lhd.m3u8?txSecret=55f2af5689fc5f1ebae8b3dd6bd12c25&txTime=64920ae2
+#EXTINF:-1 tvg-id="CAFA Cup: Kyrgyzstan vs Oman" tvg-name="CAFA Cup: Kyrgyzstan vs Oman" tvg-logo="https://sta.vnres.co/file/head/20230613/574173bc84eb707d0dd66291fbb9c899.png",[COLOR red][LIVE][/COLOR] CAFA Cup: Kyrgyzstan vs Oman [COLOR yellow]BLV VĂN TÍCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1687274822-0-0-5a925f9bdbd5260c35f7c5bb7627ca45
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF NC: Burundi vs Namibia" tvg-name="CAF NC: Burundi vs Namibia" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Burundi vs Namibia [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1687274642-0-0-ab4ece9a60fb4e28380c15804ee018b4
+https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1687274822-0-0-3cf78d3747033de153f815148e5450f6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF NC: Burundi vs Namibia" tvg-name="CAF NC: Burundi vs Namibia" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Burundi vs Namibia [COLOR yellow]BLV FANCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1687274642-0-0-d8b0b398084953d70df3b9558d948a59
+https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1687274822-0-0-e78b975e0549d29cbdc170b3e03aa118
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAFA Cup: Kyrgyzstan vs Oman" tvg-name="CAFA Cup: Kyrgyzstan vs Oman" tvg-logo="https://sta.vnres.co/file/head/20221002/c76cdb4e7501dc9df12b98057e83df92.jpg",[COLOR red][LIVE][/COLOR] CAFA Cup: Kyrgyzstan vs Oman [COLOR yellow]BLV CHRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991112_lhd.m3u8?auth_key=1687274642-0-0-da98b8c982514c676923db14ff1894fa
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="AFC U17: Uzbekistan(U17(N vs India(U17" tvg-name="AFC U17: Uzbekistan(U17(N vs India(U17" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg",[COLOR red][Chưa bắt đầu][/COLOR] AFC U17: Uzbekistan(U17(N vs India(U17 [COLOR yellow]BLV MÁT GAI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-273067_lhd.m3u8?auth_key=1687274631-0-0-71b0ba50f4bb21825abc2ab658fb5659
+#EXTINF:-1 tvg-id="CAFA Cup: Kyrgyzstan vs Oman" tvg-name="CAFA Cup: Kyrgyzstan vs Oman" tvg-logo="https://sta.vnres.co/file/head/20230405/ec1bee82e4d11675221774242cd75d76.jpg",[COLOR red][LIVE][/COLOR] CAFA Cup: Kyrgyzstan vs Oman [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-420171_lhd.m3u8?txSecret=e772658424d988bef34097632fc5469a&txTime=64920b96
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF NC: Burundi vs Namibia" tvg-name="CAF NC: Burundi vs Namibia" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg",[COLOR red][LIVE][/COLOR] CAF NC: Burundi vs Namibia [COLOR yellow]BLV QUICK[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1687274642-0-0-78b2200b0fbd15fba2e1b2840bcb03e1
+https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1687274822-0-0-8801c59aeb87135b14f9ebfa6377dc10
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAFA Cup: Kyrgyzstan vs Oman" tvg-name="CAFA Cup: Kyrgyzstan vs Oman" tvg-logo="https://sta.vnres.co/file/head/20221002/c76cdb4e7501dc9df12b98057e83df92.jpg",[COLOR red][LIVE][/COLOR] CAFA Cup: Kyrgyzstan vs Oman [COLOR yellow]BLV CHRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991112_lhd.m3u8?auth_key=1687274822-0-0-db27a79c9e022ccdb2f8997909c93977
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF NC: Ethiopia vs Malawi" tvg-name="CAF NC: Ethiopia vs Malawi" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Ethiopia vs Malawi [COLOR yellow]BLV KAKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1687274642-0-0-65f1819fb5076a6ac9d4fafab78bd3c8
+https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1687274822-0-0-e500d3aec2f65dd2f837a62a45c43d8f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VBA: Can Tho Catfish vs Da Nang Dragons" tvg-name="VBA: Can Tho Catfish vs Da Nang Dragons" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] VBA: Can Tho Catfish vs Da Nang Dragons [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=2c48d27d888dae1d1b55398498a294e7&txTime=64920ae2
+https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=dbd2e09a9cbea92b5f6dcface92eb764&txTime=64920b96
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Korea Republic vs El Salvador" tvg-name="INTERF: Korea Republic vs El Salvador" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] INTERF: Korea Republic vs El Salvador [COLOR yellow]BLV PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1687274642-0-0-963ac3ef3d1123b879f7e171ffbb2d61
+https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1687274822-0-0-b6c386af9477071e6d03afe86f4d5999
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF NC: Ethiopia vs Malawi" tvg-name="CAF NC: Ethiopia vs Malawi" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] CAF NC: Ethiopia vs Malawi [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1687274642-0-0-7391d6e4b7eb230705cccb415e318043
+https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1687274822-0-0-fbef27e85ed990bcf5f2a3bc245ffb9a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
