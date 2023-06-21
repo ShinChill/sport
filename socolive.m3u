@@ -1,16 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="HOL D3: SteDoCo vs GVVV" tvg-name="HOL D3: SteDoCo vs GVVV" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] HOL D3: SteDoCo vs GVVV [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1687375022-0-0-6e6deea09b21f43f6057888d88fa3df1
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ITABL: Virtus Bologna vs Olimpia Milano" tvg-name="ITABL: Virtus Bologna vs Olimpia Milano" tvg-logo="https://sta.vnres.co/file/head/20230611/45ad3fec72e34d9b8e8a98d6cc02ef95.jpeg",[COLOR red][LIVE][/COLOR] ITABL: Virtus Bologna vs Olimpia Milano [COLOR yellow]DR STRANGE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-252519_lhd.m3u8?txSecret=49780c0622dd73c52d72c741113cfb39&txTime=6493933a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA U21: Romania(U21 vs Spain(U21" tvg-name="UEFA U21: Romania(U21 vs Spain(U21" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg",[COLOR red][LIVE][/COLOR] UEFA U21: Romania(U21 vs Spain(U21 [COLOR yellow]MĂNG CỤT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1687375082-0-0-c8c4a0298dd0bf90cec879938e6213b3
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="HOL D3: SteDoCo vs GVVV" tvg-name="HOL D3: SteDoCo vs GVVV" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] HOL D3: SteDoCo vs GVVV [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1687375082-0-0-5b3c78f995ea057b099db3b606a0b61a
+https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1687375202-0-0-01b4269d24ae0b3927d4f31c013c9a4f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="HOL D3: SteDoCo vs GVVV" tvg-name="HOL D3: SteDoCo vs GVVV" tvg-logo="https://sta.vnres.co/file/head/20230621/328a06ad6d57b30357f8ec528c004ea8.jpg",[COLOR red][LIVE][/COLOR] HOL D3: SteDoCo vs GVVV [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
 https://pull01.rrwes.live/live/stream-115447_lhd.m3u8?txSecret=01b42d5a715554f8b5c19c70245a401f&txTime=649392f4
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ITABL: Virtus Bologna vs Olimpia Milano" tvg-name="ITABL: Virtus Bologna vs Olimpia Milano" tvg-logo="https://sta.vnres.co/file/head/20230611/45ad3fec72e34d9b8e8a98d6cc02ef95.jpeg",[COLOR red][LIVE][/COLOR] ITABL: Virtus Bologna vs Olimpia Milano [COLOR yellow]DR STRANGE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-252519_lhd.m3u8?txSecret=574c4b7ac565b111fcb7b70950f8d765&txTime=649393ee
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="HOL D3: SteDoCo vs GVVV" tvg-name="HOL D3: SteDoCo vs GVVV" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][Chưa bắt đầu][/COLOR] HOL D3: SteDoCo vs GVVV [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1687375233-0-0-7c42740d83676385b895a34ed1ee1a8b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
