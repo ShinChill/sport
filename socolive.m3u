@@ -1,64 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="INTERF: Ecuador vs Costa Rica" tvg-name="INTERF: Ecuador vs Costa Rica" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] INTERF: Ecuador vs Costa Rica [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=07031eb3554944fe1b6dd1416e732635&txTime=6492adc6
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Bolivia vs Chile" tvg-name="INTERF: Bolivia vs Chile" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",[COLOR red][LIVE][/COLOR] INTERF: Bolivia vs Chile [COLOR yellow]BLV TAM MAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-113906_lhd.m3u8?auth_key=1687316402-0-0-62ec7237484ac49fc7ea7462d7af403c
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Martinique vs Puerto Rico" tvg-name="Gold Cup: Martinique vs Puerto Rico" tvg-logo="https://sta.vnres.co/file/head/20230613/574173bc84eb707d0dd66291fbb9c899.png",[COLOR red][LIVE][/COLOR] Gold Cup: Martinique vs Puerto Rico [COLOR yellow]BLV VĂN TÍCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1687316402-0-0-58d25e7704de1892304fb0169aafa691
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAN CPL: Vancouver FC vs Forge FC" tvg-name="CAN CPL: Vancouver FC vs Forge FC" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] CAN CPL: Vancouver FC vs Forge FC [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1687316402-0-0-82a8e0a07cc1a5b4f3db234223386181
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Ecuador vs Costa Rica" tvg-name="INTERF: Ecuador vs Costa Rica" tvg-logo="https://sta.vnres.co/file/head/20230405/ec1bee82e4d11675221774242cd75d76.jpg",[COLOR red][LIVE][/COLOR] INTERF: Ecuador vs Costa Rica [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-420171_lhd.m3u8?txSecret=79ce0a2ec3423d1f9d78c428c65bed6a&txTime=6492ae02
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAN CPL: Vancouver FC vs Forge FC" tvg-name="CAN CPL: Vancouver FC vs Forge FC" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] CAN CPL: Vancouver FC vs Forge FC [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687316402-0-0-b5042d7be9e8f5e6b91a329a438342fa
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Martinique vs Puerto Rico" tvg-name="Gold Cup: Martinique vs Puerto Rico" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] Gold Cup: Martinique vs Puerto Rico [COLOR yellow]BLV PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1687316402-0-0-398ee6314ba711662cce2678ec754589
+#EXTINF:-1 tvg-id="WNBA: Dallas Wings W vs Atlanta Dream W" tvg-name="WNBA: Dallas Wings W vs Atlanta Dream W" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] WNBA: Dallas Wings W vs Atlanta Dream W [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1687316582-0-0-2cb79ddb8c73942b5967687af23e057a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Bolivia vs Chile" tvg-name="INTERF: Bolivia vs Chile" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] INTERF: Bolivia vs Chile [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687316402-0-0-182faf6489f39d7ff06e89be4dfcef39
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Bolivia vs Chile" tvg-name="INTERF: Bolivia vs Chile" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][Chưa bắt đầu][/COLOR] INTERF: Bolivia vs Chile [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1687316394-0-0-5b4d784784226056c504154de16d8e00
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687316582-0-0-95d75d8cbe5c1b0d57392c6534ebda8c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Ecuador vs Costa Rica" tvg-name="INTERF: Ecuador vs Costa Rica" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] INTERF: Ecuador vs Costa Rica [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-348199_lhd.m3u8?auth_key=1687316402-0-0-47f774afe6047fb27d7e0d309686d118
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAN CPL: Vancouver FC vs Forge FC" tvg-name="CAN CPL: Vancouver FC vs Forge FC" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] CAN CPL: Vancouver FC vs Forge FC [COLOR yellow]Tạ Biên Giới[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1687316402-0-0-4f702cce5e084890e11108834dffafea
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Bolivia vs Chile" tvg-name="INTERF: Bolivia vs Chile" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] INTERF: Bolivia vs Chile [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1687316342-0-0-cf2a761996a32864e72c96b94eebb3ff
+https://pull06.scstream.net/live/stream-348199_lhd.m3u8?auth_key=1687316582-0-0-273badbc832dac31ff4dd8eba73b4ccb
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Ecuador vs Costa Rica" tvg-name="INTERF: Ecuador vs Costa Rica" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg",[COLOR red][LIVE][/COLOR] INTERF: Ecuador vs Costa Rica [COLOR yellow]BLV CAPTAIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-231997_lhd.m3u8?auth_key=1687316402-0-0-55ac012fad0ab50b0c570b44bc206de9
+https://pull06.scstream.net/live/stream-231997_lhd.m3u8?auth_key=1687316582-0-0-b4f5db090812f4da42651292e25b4c68
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Bolivia vs Chile" tvg-name="INTERF: Bolivia vs Chile" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][Chưa bắt đầu][/COLOR] INTERF: Bolivia vs Chile [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-143449_lhd.m3u8?txSecret=c6289d18a0e7eb047162eef84e700a1c&txTime=6492adec
+#EXTINF:-1 tvg-id="CAN CPL: Vancouver FC vs Forge FC" tvg-name="CAN CPL: Vancouver FC vs Forge FC" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] CAN CPL: Vancouver FC vs Forge FC [COLOR yellow]Tạ Biên Giới[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1687316582-0-0-5598517eb30693bb99f4570ec07e841f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="WNBA: Dallas Wings W vs Atlanta Dream W" tvg-name="WNBA: Dallas Wings W vs Atlanta Dream W" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] WNBA: Dallas Wings W vs Atlanta Dream W [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1687316402-0-0-4f44c7a9deb70f0f72d512e6427364d2
+#EXTINF:-1 tvg-id="CAN CPL: Vancouver FC vs Forge FC" tvg-name="CAN CPL: Vancouver FC vs Forge FC" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] CAN CPL: Vancouver FC vs Forge FC [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687316582-0-0-fd3c0998a3a80d884a8589d2fd38ff53
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Martinique vs Puerto Rico" tvg-name="Gold Cup: Martinique vs Puerto Rico" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] Gold Cup: Martinique vs Puerto Rico [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-106737_lhd.m3u8?txSecret=9891239205781892bc38a208c409da55&txTime=6492ae02
+#EXTINF:-1 tvg-id="Gold Cup: Martinique vs Puerto Rico" tvg-name="Gold Cup: Martinique vs Puerto Rico" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] Gold Cup: Martinique vs Puerto Rico [COLOR yellow]BLV PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1687316582-0-0-1095d8e4df1f03c0a8e15f8dfe25aed2
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Ecuador vs Costa Rica" tvg-name="INTERF: Ecuador vs Costa Rica" tvg-logo="https://sta.vnres.co/file/head/20230405/ec1bee82e4d11675221774242cd75d76.jpg",[COLOR red][LIVE][/COLOR] INTERF: Ecuador vs Costa Rica [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-420171_lhd.m3u8?txSecret=c6a02f2b969289a578ff0364f98ffabe&txTime=6492aeb6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Martinique vs Puerto Rico" tvg-name="Gold Cup: Martinique vs Puerto Rico" tvg-logo="https://sta.vnres.co/file/head/20230613/574173bc84eb707d0dd66291fbb9c899.png",[COLOR red][LIVE][/COLOR] Gold Cup: Martinique vs Puerto Rico [COLOR yellow]BLV VĂN TÍCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1687316582-0-0-51d50a4acb53d09a21d6ca5ba384836e
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAN CPL: Vancouver FC vs Forge FC" tvg-name="CAN CPL: Vancouver FC vs Forge FC" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] CAN CPL: Vancouver FC vs Forge FC [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1687316582-0-0-905d4b83e58e6803a124e48fe63645f7
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: Ecuador vs Costa Rica" tvg-name="INTERF: Ecuador vs Costa Rica" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] INTERF: Ecuador vs Costa Rica [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=ee9d377b0073f190cda8307cb802fb48&txTime=6492aeb6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="WNBA: Dallas Wings W vs Atlanta Dream W" tvg-name="WNBA: Dallas Wings W vs Atlanta Dream W" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] WNBA: Dallas Wings W vs Atlanta Dream W [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1687316402-0-0-a3280d249101af236f5b5ee73d514b42
+https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1687316582-0-0-37279c17c3910f9dd2892268b90e7df0
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="DLNB: Leones vs Soles" tvg-name="DLNB: Leones vs Soles" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] DLNB: Leones vs Soles [COLOR yellow]BLV KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1687316402-0-0-486765f74f5f8e29b6dc064b795390cd
+#EXTINF:-1 tvg-id="Gold Cup: Martinique vs Puerto Rico" tvg-name="Gold Cup: Martinique vs Puerto Rico" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] Gold Cup: Martinique vs Puerto Rico [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-106737_lhd.m3u8?txSecret=d28e7723146d198502e2a50147b90e01&txTime=6492aeb6
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAN CPL: Vancouver FC vs Forge FC" tvg-name="CAN CPL: Vancouver FC vs Forge FC" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",[COLOR red][LIVE][/COLOR] CAN CPL: Vancouver FC vs Forge FC [COLOR yellow]BLV TAM MAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-113906_lhd.m3u8?auth_key=1687316582-0-0-6e1a0e2ba32412bdc82f576ee1c02c3f
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="WNBA: Seattle Storm W vs Connecticut Sun W" tvg-name="WNBA: Seattle Storm W vs Connecticut Sun W" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] WNBA: Seattle Storm W vs Connecticut Sun W [COLOR yellow]BLV KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1687316582-0-0-3df9c2b82cf1f7ef78960290553a4cf9
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="WNBA: Los Angeles Sparks W vs Minnesota Lynx W" tvg-name="WNBA: Los Angeles Sparks W vs Minnesota Lynx W" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] WNBA: Los Angeles Sparks W vs Minnesota Lynx W [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=714dcbca495b88934d904b73bb2f184e&txTime=6492ae02
+https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=274e5e8e64c04d3175f9b9bd5b41eaad&txTime=6492aeb6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAN CPL: Vancouver FC vs Forge FC" tvg-name="CAN CPL: Vancouver FC vs Forge FC" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg",[COLOR red][LIVE][/COLOR] CAN CPL: Vancouver FC vs Forge FC [COLOR yellow]BLV QUICK[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1687316402-0-0-fd0b9b4147c103aed2d19e482cfa40ca
+https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1687316582-0-0-018aa959ac63d4bcf725ba984daf4e98
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: Saint Kitts and Nevis vs French Guiana" tvg-name="Gold Cup: Saint Kitts and Nevis vs French Guiana" tvg-logo="https://sta.vnres.co/file/head/20230612/ef661746975ffa101b5df40864d75797.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Saint Kitts and Nevis vs French Guiana [COLOR yellow]BLV G Hip[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991127_lhd.m3u8?auth_key=1687316402-0-0-477f2873ab3b3c8dd6b9e712fa700a5d
+https://pull06.scstream.net/live/stream-991127_lhd.m3u8?auth_key=1687316582-0-0-9f06ef2e82e2982edf87c0b05048b6a0
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
