@@ -1,148 +1,157 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="FIN CUP: AC Oulu vs VPS Vaasa" tvg-name="FIN CUP: AC Oulu vs VPS Vaasa" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] FIN CUP: AC Oulu vs VPS Vaasa [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1687451703-0-0-9a98e9764412810b4229d9ec3c9bb350
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="AFC U17: Korea Republic(U17(N vs Iran(U17" tvg-name="AFC U17: Korea Republic(U17(N vs Iran(U17" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] AFC U17: Korea Republic(U17(N vs Iran(U17 [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991120_lhd.m3u8?txSecret=5ee7cf0160a17ebf3eb5df87ec543ba1&txTime=6494be87
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="EGYCup: Ittihad Alexandria vs Pyramids FC" tvg-name="EGYCup: Ittihad Alexandria vs Pyramids FC" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] EGYCup: Ittihad Alexandria vs Pyramids FC [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991122_lhd.m3u8?auth_key=1687451703-0-0-27e64498b1981b97b430cf7de39b4f02
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIN CUP: KuPS vs HIFK" tvg-name="FIN CUP: KuPS vs HIFK" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] FIN CUP: KuPS vs HIFK [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1687451763-0-0-7eac745097219b7e1f11063a2ffae5ce
+#EXTINF:-1 tvg-id="FIN CUP: KuPS vs HIFK" tvg-name="FIN CUP: KuPS vs HIFK" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] FIN CUP: KuPS vs HIFK [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1687451943-0-0-0843f52bb00364effc23517946838692
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="21:00 AFC U17: Korea Republic(U17(N vs Iran(U17" tvg-name="21:00 AFC U17: Korea Republic(U17(N vs Iran(U17" tvg-logo="https://sta.vnres.co/file/head/20230618/70d7448b3264c06f92ebcdb7cc1547eb.jpg",[COLOR red][LIVE][/COLOR] 21:00 AFC U17: Korea Republic(U17(N vs Iran(U17 [COLOR yellow]KIỀU PHONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-276100_lhd.m3u8?txSecret=c42e2bc655556defb9afcaf93b605e84&txTime=6494bec3
+https://pull01.rrwes.live/live/stream-276100_lhd.m3u8?txSecret=83cad81dc9095e6ae732707e03066fa4&txTime=6494bf77
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="FIN CUP: AC Oulu vs VPS Vaasa" tvg-name="FIN CUP: AC Oulu vs VPS Vaasa" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] FIN CUP: AC Oulu vs VPS Vaasa [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1687451943-0-0-5ba44e599c583bf725c53b8bfcd5c623
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="AFC U17: Korea Republic(U17(N vs Iran(U17" tvg-name="AFC U17: Korea Republic(U17(N vs Iran(U17" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] AFC U17: Korea Republic(U17(N vs Iran(U17 [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991128_lhd.m3u8?txSecret=628c1f1877b9454a0ec220c00cc2f849&txTime=6494bec3
+https://pull01.rrwes.live/live/stream-991128_lhd.m3u8?txSecret=85b792515fbbe1b5f1f2eed3c54b53aa&txTime=6494bf77
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIN CUP: KuPS vs HIFK" tvg-name="FIN CUP: KuPS vs HIFK" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] FIN CUP: KuPS vs HIFK [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1687451763-0-0-d2d7d782beaf8a48f618977263117671
+#EXTINF:-1 tvg-id="AFC U17: Korea Republic(U17(N vs Iran(U17" tvg-name="AFC U17: Korea Republic(U17(N vs Iran(U17" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] AFC U17: Korea Republic(U17(N vs Iran(U17 [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991120_lhd.m3u8?txSecret=f02f33df0cc6ce480e890ab6c983b4b7&txTime=6494bf77
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="AFC U17: Afghanistan (U17(N vs Qatar(U17" tvg-name="AFC U17: Afghanistan (U17(N vs Qatar(U17" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Afghanistan (U17(N vs Qatar(U17 [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1687451763-0-0-bd75ee527426af6a98b6bbc05f538178
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="AFC U17: Korea Republic(U17(N vs Iran(U17" tvg-name="AFC U17: Korea Republic(U17(N vs Iran(U17" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Korea Republic(U17(N vs Iran(U17 [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687451763-0-0-ebb0e5aa1b1180f31bfeb34ce33655a9
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIN D2: JJK Jyvaskyla vs Turun Palloseura" tvg-name="FIN D2: JJK Jyvaskyla vs Turun Palloseura" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] FIN D2: JJK Jyvaskyla vs Turun Palloseura [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-348199_lhd.m3u8?auth_key=1687451763-0-0-0dc0e2dccbb166db44281f97807de0d8
+#EXTINF:-1 tvg-id="FIN CUP: KuPS vs HIFK" tvg-name="FIN CUP: KuPS vs HIFK" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] FIN CUP: KuPS vs HIFK [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1687451943-0-0-cc6a3e7e53ddc4dbe835a5e80c5f6e4c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIN CUP: VIFK Vaasa vs IFK Mariehamn" tvg-name="FIN CUP: VIFK Vaasa vs IFK Mariehamn" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] FIN CUP: VIFK Vaasa vs IFK Mariehamn [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1687451763-0-0-bb23a14445f5fca8376eea62fd58cd1a
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1687451943-0-0-d50b40d8410de8128de8984657d510c7
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="AFC U17: Afghanistan (U17(N vs Qatar(U17" tvg-name="AFC U17: Afghanistan (U17(N vs Qatar(U17" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Afghanistan (U17(N vs Qatar(U17 [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1687451943-0-0-32d76e3cc4492a8a5a64601eda0ca75b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="AFC U17: Korea Republic(U17(N vs Iran(U17" tvg-name="AFC U17: Korea Republic(U17(N vs Iran(U17" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Korea Republic(U17(N vs Iran(U17 [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687451943-0-0-f4743405a6a40b3472fecf94ce854b30
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="AFC U17: Korea Republic(U17(N vs Iran(U17" tvg-name="AFC U17: Korea Republic(U17(N vs Iran(U17" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] AFC U17: Korea Republic(U17(N vs Iran(U17 [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1687451763-0-0-a34e49460a34812afa75b361b8b1410e
+https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1687451943-0-0-8b15b53d1988c7f8c97286d1e36a3fb9
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="FIN D2: JJK Jyvaskyla vs Turun Palloseura" tvg-name="FIN D2: JJK Jyvaskyla vs Turun Palloseura" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] FIN D2: JJK Jyvaskyla vs Turun Palloseura [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-348199_lhd.m3u8?auth_key=1687451943-0-0-7f61d96cabf2e7e24d4add0b65c57ad9
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA U21: Germany(U21 vs Israel(U21" tvg-name="UEFA U21: Germany(U21 vs Israel(U21" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] UEFA U21: Germany(U21 vs Israel(U21 [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687451943-0-0-43ac5f7e4c69fc8674583982a2d7cb11
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="EGYCup: Ittihad Alexandria vs Pyramids FC" tvg-name="EGYCup: Ittihad Alexandria vs Pyramids FC" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] EGYCup: Ittihad Alexandria vs Pyramids FC [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991122_lhd.m3u8?auth_key=1687451943-0-0-6bbb08c003575150e6819583693b6695
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SAFF: Maldives vs Bhutan" tvg-name="SAFF: Maldives vs Bhutan" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg",[COLOR red][LIVE][/COLOR] SAFF: Maldives vs Bhutan [COLOR yellow]MĂNG CỤT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1687451763-0-0-f29d310d32a6712edfd39b3eafb0da27
+https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1687451943-0-0-2c55c76afa2812d27413476f6fd497a6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="AFC U17: Afghanistan (U17(N vs Qatar(U17" tvg-name="AFC U17: Afghanistan (U17(N vs Qatar(U17" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] AFC U17: Afghanistan (U17(N vs Qatar(U17 [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1687451763-0-0-0cad81c5f1e31a64744e30c6aeded15a
+https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1687451943-0-0-c246a93b5ca3c7f3fdbb767cb28b4007
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIN CUP: KuPS vs HIFK" tvg-name="FIN CUP: KuPS vs HIFK" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][LIVE][/COLOR] FIN CUP: KuPS vs HIFK [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1687451763-0-0-4476322930f3ab10e5e42be804850a15
+https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1687451943-0-0-58072b9d4a1b31825be661fe24bc1ec5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIN D2: JJK Jyvaskyla vs Turun Palloseura" tvg-name="FIN D2: JJK Jyvaskyla vs Turun Palloseura" tvg-logo="https://sta.vnres.co/file/head/20230114/4e19d9ee44846c0eb6a0721271ef1cc9.jpg",[COLOR red][LIVE][/COLOR] FIN D2: JJK Jyvaskyla vs Turun Palloseura [COLOR yellow]BLV Củ Chuối[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-192778_lhd.m3u8?txSecret=981ddeebb51b5830a939c8bb7578067d&txTime=6494bec3
+https://pull01.rrwes.live/live/stream-192778_lhd.m3u8?txSecret=c061fe0936202eab313acd6d71ccddff&txTime=6494bf77
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA U21: Germany(U21 vs Israel(U21" tvg-name="UEFA U21: Germany(U21 vs Israel(U21" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] UEFA U21: Germany(U21 vs Israel(U21 [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1687451943-0-0-74a52dd5ba119df2295a470b16e83ac2
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA U21: Norway(U21 vs Switzerland(U21" tvg-name="UEFA U21: Norway(U21 vs Switzerland(U21" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] UEFA U21: Norway(U21 vs Switzerland(U21 [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1687451943-0-0-83342cff614e84be71059cdf4b7e6803
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIN CUP: KuPS vs HIFK" tvg-name="FIN CUP: KuPS vs HIFK" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26",[COLOR red][LIVE][/COLOR] FIN CUP: KuPS vs HIFK [COLOR yellow]BABY BOY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1687451763-0-0-a7265b9fdbf9b2cc540d900c62e121d9
+https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1687451943-0-0-ea97e3e1cb923171e95e02feebe7d623
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIN CUP:  KuPS vs HIFK" tvg-name="FIN CUP:  KuPS vs HIFK" tvg-logo="https://sta.vnres.co/file/head/20230608/944e51718d34d61ad5d8b634a026c299.jpeg",[COLOR red][LIVE][/COLOR] FIN CUP:  KuPS vs HIFK [COLOR yellow]BLV HAKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-359236_lhd.m3u8?auth_key=1687451763-0-0-f674221d799769ee332fbf88f0719288
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SAFF: Maldives vs Bhutan" tvg-name="SAFF: Maldives vs Bhutan" tvg-logo="https://sta.vnres.co/file/head/20221002/c76cdb4e7501dc9df12b98057e83df92.jpg",[COLOR red][LIVE][/COLOR] SAFF: Maldives vs Bhutan [COLOR yellow]BLV CHRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991112_lhd.m3u8?auth_key=1687451763-0-0-2722ab1a25d1d086041fe33ffe588095
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SAFF: Maldives vs Bhutan" tvg-name="SAFF: Maldives vs Bhutan" tvg-logo="https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg",[COLOR red][LIVE][/COLOR] SAFF: Maldives vs Bhutan [COLOR yellow]BLV MESSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-494201_lhd.m3u8?auth_key=1687451763-0-0-bcfa3a654dd4d8da42f52603a7921730
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SAFF: Maldives vs Bhutan" tvg-name="SAFF: Maldives vs Bhutan" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] SAFF: Maldives vs Bhutan [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1687451763-0-0-e17f7fd887fbabbddc0d07f941185410
+https://pull06.scstream.net/live/stream-359236_lhd.m3u8?auth_key=1687451943-0-0-c58b697fbfaa5b0f24d28e9f7132ba2d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="AFC U17: Afghanistan (U17(N vs Qatar(U17" tvg-name="AFC U17: Afghanistan (U17(N vs Qatar(U17" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Afghanistan (U17(N vs Qatar(U17 [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1687451763-0-0-de14ebdbeda7ce6e9bccd28b3b9f7412
+https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1687451943-0-0-b4de3499e25f5858cee75366882df6c6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SAFF: Maldives vs Bhutan" tvg-name="SAFF: Maldives vs Bhutan" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] SAFF: Maldives vs Bhutan [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1687451763-0-0-a6a8f558b5726bcf2ecb55b26bcd1ca0
+#EXTINF:-1 tvg-id="SAFF: Maldives vs Bhutan" tvg-name="SAFF: Maldives vs Bhutan" tvg-logo="https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg",[COLOR red][LIVE][/COLOR] SAFF: Maldives vs Bhutan [COLOR yellow]BLV MESSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-494201_lhd.m3u8?auth_key=1687451943-0-0-f1590f0b487fc8d9e2fa2b11eba78405
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SAFF: Maldives vs Bhutan" tvg-name="SAFF: Maldives vs Bhutan" tvg-logo="https://sta.vnres.co/file/head/20221002/c76cdb4e7501dc9df12b98057e83df92.jpg",[COLOR red][LIVE][/COLOR] SAFF: Maldives vs Bhutan [COLOR yellow]BLV CHRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991112_lhd.m3u8?auth_key=1687451943-0-0-1fd630c1f5f18e83eae56453c1c6fb21
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SAFF: Maldives vs Bhutan" tvg-name="SAFF: Maldives vs Bhutan" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] SAFF: Maldives vs Bhutan [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1687451943-0-0-bc37b8868a0813f242cf2abbad3109f9
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="AFC U17: Afghanistan (U17(N vs Qatar(U17" tvg-name="AFC U17: Afghanistan (U17(N vs Qatar(U17" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] AFC U17: Afghanistan (U17(N vs Qatar(U17 [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-106737_lhd.m3u8?auth_key=1687451763-0-0-f4984dda0e054ec8643e948e9eefc804
+https://pull06.scstream.net/live/stream-106737_lhd.m3u8?auth_key=1687451943-0-0-ad6ab025e17a1e5b35a8080480bfd3cb
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="AFC U17: Saudi Arabia(U17(N vs China(U17" tvg-name="AFC U17: Saudi Arabia(U17(N vs China(U17" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Saudi Arabia(U17(N vs China(U17 [COLOR yellow]BLV CAPTAIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-231997_lhd.m3u8?auth_key=1687451763-0-0-1a05941ea29cee5e97ecf1ac4df11aa3
+#EXTINF:-1 tvg-id="SAFF: Maldives vs Bhutan" tvg-name="SAFF: Maldives vs Bhutan" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] SAFF: Maldives vs Bhutan [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1687451943-0-0-46aa213126f1de044e58cc49e535915b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIN CUP: Ilves Tampere vs KPV Kokkola" tvg-name="FIN CUP: Ilves Tampere vs KPV Kokkola" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] FIN CUP: Ilves Tampere vs KPV Kokkola [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1687451763-0-0-26008705da57108b84b101b2f3dcdcea
+https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1687451943-0-0-695fa4ffbdee8ddd5dcdd270372f5532
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIN CUP: AC Oulu vs VPS Vaasa" tvg-name="FIN CUP: AC Oulu vs VPS Vaasa" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg",[COLOR red][LIVE][/COLOR] FIN CUP: AC Oulu vs VPS Vaasa [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1687451763-0-0-ce78116a848dbc9c0dafd5793468dfa3
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIN CUP: AC Oulu vs VPS Vaasa" tvg-name="FIN CUP: AC Oulu vs VPS Vaasa" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] FIN CUP: AC Oulu vs VPS Vaasa [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=97ffe058aa23213a698cd8c88c309370&txTime=6494bec3
+#EXTINF:-1 tvg-id="AFC U17: Saudi Arabia(U17(N vs China(U17" tvg-name="AFC U17: Saudi Arabia(U17(N vs China(U17" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg",[COLOR red][LIVE][/COLOR] AFC U17: Saudi Arabia(U17(N vs China(U17 [COLOR yellow]BLV CAPTAIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-231997_lhd.m3u8?auth_key=1687451943-0-0-57a2a16c97f9548d88bf2caca3c3a8e5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIN CUP: VIFK Vaasa vs IFK Mariehamn" tvg-name="FIN CUP: VIFK Vaasa vs IFK Mariehamn" tvg-logo="https://sta.vnres.co/file/head/20230405/ec1bee82e4d11675221774242cd75d76.jpg",[COLOR red][LIVE][/COLOR] FIN CUP: VIFK Vaasa vs IFK Mariehamn [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-420171_lhd.m3u8?txSecret=5061c602561ddac56174d2eee1dfdd70&txTime=6494bec3
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIFK Vaasa vs IFK Mariehamn" tvg-name="VIFK Vaasa vs IFK Mariehamn" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] VIFK Vaasa vs IFK Mariehamn [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-143449_lhd.m3u8?txSecret=005553092500e85f1f858e697d22871c&txTime=6494bec3
+https://pull01.rrwes.live/live/stream-420171_lhd.m3u8?txSecret=581af24f7691b338551e9750093d1363&txTime=6494bf77
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIN CUP: Ilves Tampere vs KPV Kokkola" tvg-name="FIN CUP: Ilves Tampere vs KPV Kokkola" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] FIN CUP: Ilves Tampere vs KPV Kokkola [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1687451763-0-0-af9e0293feef3ef62accfb5046c4a5ae
+https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1687451943-0-0-660d2993a0a39f9637f15fcbd39e1f89
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="FIN CUP: AC Oulu vs VPS Vaasa" tvg-name="FIN CUP: AC Oulu vs VPS Vaasa" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg",[COLOR red][LIVE][/COLOR] FIN CUP: AC Oulu vs VPS Vaasa [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1687451943-0-0-14717d360b6164bc5a8f2ce3d527e646
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="FIN CUP: AC Oulu vs VPS Vaasa" tvg-name="FIN CUP: AC Oulu vs VPS Vaasa" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] FIN CUP: AC Oulu vs VPS Vaasa [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=03e11642a7896598313aa342c24191bf&txTime=6494bf77
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIN CUP: VIFK Vaasa vs IFK Mariehamn" tvg-name="FIN CUP: VIFK Vaasa vs IFK Mariehamn" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg",[COLOR red][LIVE][/COLOR] FIN CUP: VIFK Vaasa vs IFK Mariehamn [COLOR yellow]BLV QUICK[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1687451763-0-0-0ed0a06c8601fecc1e61efdebc1f00c9
+https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1687451943-0-0-ca3c34041a32f9c340c836b8e2119f4c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="KAZ D1: Astana B vs FO Jas Qyran" tvg-name="KAZ D1: Astana B vs FO Jas Qyran" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg",[COLOR red][LIVE][/COLOR] KAZ D1: Astana B vs FO Jas Qyran [COLOR yellow]BLV CHOVY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-319191_lhd.m3u8?auth_key=1687451763-0-0-70f25cc2d6ff23e8bcf896e4e3677901
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIN CUP: AC Oulu vs VPS Vaasa" tvg-name="FIN CUP: AC Oulu vs VPS Vaasa" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] FIN CUP: AC Oulu vs VPS Vaasa [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1687451763-0-0-e30a1b8b0a50f1daa8883e16f37f14af
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIN CUP: Ilves Tampere vs KPV Kokkola" tvg-name="FIN CUP: Ilves Tampere vs KPV Kokkola" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg",[COLOR red][LIVE][/COLOR] FIN CUP: Ilves Tampere vs KPV Kokkola [COLOR yellow]BLV KAKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1687451763-0-0-27bc209f56bbd9fccd1f220143ef089d
+#EXTINF:-1 tvg-id="VIFK Vaasa vs IFK Mariehamn" tvg-name="VIFK Vaasa vs IFK Mariehamn" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] VIFK Vaasa vs IFK Mariehamn [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-143449_lhd.m3u8?txSecret=ed32b48e51cb77c1e3cd2f42e88c80ad&txTime=6494bf77
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIN CUP: Ilves Tampere vs KPV Kokkola" tvg-name="FIN CUP: Ilves Tampere vs KPV Kokkola" tvg-logo="https://sta.vnres.co/file/head/20230612/ef661746975ffa101b5df40864d75797.jpg",[COLOR red][LIVE][/COLOR] FIN CUP: Ilves Tampere vs KPV Kokkola [COLOR yellow]BLV G Hip[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991127_lhd.m3u8?auth_key=1687451763-0-0-ed2a1d71724570b3fb483eadfea54173
+https://pull06.scstream.net/live/stream-991127_lhd.m3u8?auth_key=1687451943-0-0-b0a97dbd71268ad07e8d7a3f9cb2bc49
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="KAZ D1: Astana B vs FO Jas Qyran" tvg-name="KAZ D1: Astana B vs FO Jas Qyran" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg",[COLOR red][LIVE][/COLOR] KAZ D1: Astana B vs FO Jas Qyran [COLOR yellow]BLV CHOVY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-319191_lhd.m3u8?auth_key=1687451943-0-0-2c4a9bd529bcdc0095baeefd8dc5690a
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="FIN CUP: AC Oulu vs VPS Vaasa" tvg-name="FIN CUP: AC Oulu vs VPS Vaasa" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] FIN CUP: AC Oulu vs VPS Vaasa [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1687451943-0-0-1885366d4f1ff348e91ebe26dce55c83
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIN D2: JJK Jyvaskyla vs Turun Palloseura" tvg-name="FIN D2: JJK Jyvaskyla vs Turun Palloseura" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] FIN D2: JJK Jyvaskyla vs Turun Palloseura [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=1e45dc2119c8269a6eae3d2b574ae7e5&txTime=6494bec3
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIN CUP: AC Oulu vs VPS Vaasa" tvg-name="FIN CUP: AC Oulu vs VPS Vaasa" tvg-logo="https://sta.vnres.co/file/head/20230615/b7fa6450d1237f6a8ac9ca60acc62486.jpg",[COLOR red][LIVE][/COLOR] FIN CUP: AC Oulu vs VPS Vaasa [COLOR yellow]BLV SHINZAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-432010_lhd.m3u8?auth_key=1687451763-0-0-d7c81b28d115941b50b0495d7361b6c6
+https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=c361963c95cb1a67fb1df4d8b45d3c23&txTime=6494bf77
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIN D2: JJK Jyvaskyla vs Turun Palloseura" tvg-name="FIN D2: JJK Jyvaskyla vs Turun Palloseura" tvg-logo="https://sta.vnres.co/file/head/20230621/328a06ad6d57b30357f8ec528c004ea8.jpg",[COLOR red][LIVE][/COLOR] FIN D2: JJK Jyvaskyla vs Turun Palloseura [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-115447_lhd.m3u8?txSecret=18f2256beb676d8481d2b25e3e9439cf&txTime=6494bec3
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="KAZ D1: Astana B vs FO Jas Qyran" tvg-name="KAZ D1: Astana B vs FO Jas Qyran" tvg-logo="https://sta.vnres.co/file/head/20220627/4a25c211c3b42d3923895ce94a4331cb.jpg",[COLOR red][LIVE][/COLOR] KAZ D1: Astana B vs FO Jas Qyran [COLOR yellow]AMY BABE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-102153_lhd.m3u8?auth_key=1687451763-0-0-b7a5090defeffe3af54620b086ab440f
+https://pull01.rrwes.live/live/stream-115447_lhd.m3u8?txSecret=5bc847751265b4caaa60c82cdb0a746a&txTime=6494bf77
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="KAZ D1: Astana B vs FO Jas Qyran" tvg-name="KAZ D1: Astana B vs FO Jas Qyran" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] KAZ D1: Astana B vs FO Jas Qyran [COLOR yellow]BLV PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1687451763-0-0-011a9fc1796cbdf3d1b8c8cb5c4c8d46
+https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1687451943-0-0-f8c7237fedc4caf8ce43e0b8119005cf
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="KAZ D1: Astana B vs FO Jas Qyran" tvg-name="KAZ D1: Astana B vs FO Jas Qyran" tvg-logo="https://sta.vnres.co/file/head/20220627/4a25c211c3b42d3923895ce94a4331cb.jpg",[COLOR red][LIVE][/COLOR] KAZ D1: Astana B vs FO Jas Qyran [COLOR yellow]AMY BABE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-102153_lhd.m3u8?auth_key=1687451943-0-0-f22a5d2703be97a515c4076e3c66b05d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIN D2: JJK Jyvaskyla vs Turun Palloseura" tvg-name="FIN D2: JJK Jyvaskyla vs Turun Palloseura" tvg-logo="https://sta.vnres.co/file/head/20230606/ea2fb298192cd1ea95046cf3ac74d043.jpg",[COLOR red][LIVE][/COLOR] FIN D2: JJK Jyvaskyla vs Turun Palloseura [COLOR yellow]BLV ENZO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-380460_lhd.m3u8?auth_key=1687451763-0-0-bf6ec8c7f9cf2ec74437103fbc3bbb27
+https://pull06.scstream.net/live/stream-380460_lhd.m3u8?auth_key=1687451943-0-0-17be84d4de444f1cdf809e028ca15c9e
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="FIN CUP: AC Oulu vs VPS Vaasa" tvg-name="FIN CUP: AC Oulu vs VPS Vaasa" tvg-logo="https://sta.vnres.co/file/head/20230615/b7fa6450d1237f6a8ac9ca60acc62486.jpg",[COLOR red][LIVE][/COLOR] FIN CUP: AC Oulu vs VPS Vaasa [COLOR yellow]BLV SHINZAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-432010_lhd.m3u8?auth_key=1687451943-0-0-b6f23a99db8cdf0a4cf3173dc38204d7
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EGYCup: Ittihad Alexandria vs Pyramids FC" tvg-name="EGYCup: Ittihad Alexandria vs Pyramids FC" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] EGYCup: Ittihad Alexandria vs Pyramids FC [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1687451763-0-0-acb6baceab6bd7d058478c70bb0f89d5
+https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1687451943-0-0-d21d4f13cad0c8b85b9cbb2616dd35c4
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EGYCup: Ittihad Alexandria vs Pyramids FC" tvg-name="EGYCup: Ittihad Alexandria vs Pyramids FC" tvg-logo="https://sta.vnres.co/file/head/20230614/42f95823a1cfff31a879a9d6b7222bfd.jpg",[COLOR red][LIVE][/COLOR] EGYCup: Ittihad Alexandria vs Pyramids FC [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1687451763-0-0-7576ad15abe8962115509f7e4119d394
+https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1687451943-0-0-ea0d27717888c13ff138365c0d75b8c3
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA U21: Czech Republic(U21 vs England(U21" tvg-name="UEFA U21: Czech Republic(U21 vs England(U21" tvg-logo="https://sta.vnres.co/file/head/20230603/3eb91bc921be5aafb1eae6d9430117e3.jpg",[COLOR red][LIVE][/COLOR] UEFA U21: Czech Republic(U21 vs England(U21 [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=4525e47cf46bb8495e8991ca4c3c5711&txTime=6494bec3
+https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=16c144150e8b947e0b04649be7f7a89c&txTime=6494bf77
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EGYCup: Ittihad Alexandria vs Pyramids FC" tvg-name="EGYCup: Ittihad Alexandria vs Pyramids FC" tvg-logo="https://sta.vnres.co/file/head/20230617/8cb09474f329a0ca1fc83d33784f9bb7.JPEG",[COLOR red][LIVE][/COLOR] EGYCup: Ittihad Alexandria vs Pyramids FC [COLOR yellow]BLV BOM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-400382_lhd.m3u8?auth_key=1687451763-0-0-0dfab05b6e79a766ab855deb19f99983
+https://pull06.scstream.net/live/stream-400382_lhd.m3u8?auth_key=1687451943-0-0-0fb174c02dadaf799d93cf3df6454791
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA U21: Germany(U21 vs Israel(U21" tvg-name="UEFA U21: Germany(U21 vs Israel(U21" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] UEFA U21: Germany(U21 vs Israel(U21 [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1687451763-0-0-d43ac7916878df96c09a3a763304d988
+https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1687451943-0-0-7fc7a6cdf805f98cfac5a4a076dcf6f8
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="FIN CUP: Ilves Tampere vs KPV Kokkola" tvg-name="FIN CUP: Ilves Tampere vs KPV Kokkola" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg",[COLOR red][LIVE][/COLOR] FIN CUP: Ilves Tampere vs KPV Kokkola [COLOR yellow]BLV KAKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1687451943-0-0-ff5690609f6210917d76e0266852c82e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EBCQ: France W vs Montenegro W" tvg-name="EBCQ: France W vs Montenegro W" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] EBCQ: France W vs Montenegro W [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=ba2c0a94037b2517d226c807bebedd35&txTime=6494bec3
+https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=e39f2423527017c90f399185cbccc50f&txTime=6494bf77
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA U21: Germany(U21 vs Israel(U21" tvg-name="UEFA U21: Germany(U21 vs Israel(U21" tvg-logo="https://sta.vnres.co/file/head/20230513/0caf5377396b4e2c222f4a04e7caedc0.jpg",[COLOR red][LIVE][/COLOR] UEFA U21: Germany(U21 vs Israel(U21 [COLOR yellow]BLV TIGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-171964_lhd.m3u8?txSecret=401b76086e1af4a97a6678fe793ed207&txTime=6494bec3
+https://pull01.rrwes.live/live/stream-171964_lhd.m3u8?txSecret=e1e381030774ca5b0962261f5417f9d0&txTime=6494bf77
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
