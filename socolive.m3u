@@ -1,19 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ICE PR: Keflavik vs Fylkir" tvg-name="ICE PR: Keflavik vs Fylkir" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] ICE PR: Keflavik vs Fylkir [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=4f8390c7adefe13257e2d48159ac05b9&txTime=649659db
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ICE PR: Hafnarfjordur FH vs Fram Reykjavik" tvg-name="ICE PR: Hafnarfjordur FH vs Fram Reykjavik" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][LIVE][/COLOR] ICE PR: Hafnarfjordur FH vs Fram Reykjavik [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1687557063-0-0-568680cc76d1c34e5f20d212a1229faf
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BOL D1: Vaca Diez vs Club Aurora" tvg-name="BOL D1: Vaca Diez vs Club Aurora" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] BOL D1: Vaca Diez vs Club Aurora [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1687557063-0-0-4d81ce6cfab48913638ecc2be5261e52
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ICE PR: HK Kopavogur vs Breidablik" tvg-name="ICE PR: HK Kopavogur vs Breidablik" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] ICE PR: HK Kopavogur vs Breidablik [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991122_lhd.m3u8?auth_key=1687557063-0-0-15cc525611a0038ef7f22d4502c85b9a
+https://pull06.scstream.net/live/stream-991122_lhd.m3u8?auth_key=1687557243-0-0-27fbbcaa48ce144f75da96ebe8cf9cd1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ICE PR: Keflavik vs Fylkir" tvg-name="ICE PR: Keflavik vs Fylkir" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] ICE PR: Keflavik vs Fylkir [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1687557063-0-0-0daa3bda9f802c074b2219a77059f152
+https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1687557243-0-0-f0ec9fba7be5f2ee4cd4d05bf09ae136
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="BOL D1: Vaca Diez vs Club Aurora" tvg-name="BOL D1: Vaca Diez vs Club Aurora" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] BOL D1: Vaca Diez vs Club Aurora [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1687557243-0-0-0bf94177f2d4abc6edb50e20ba06e748
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ICE PR: Keflavik vs Fylkir" tvg-name="ICE PR: Keflavik vs Fylkir" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] ICE PR: Keflavik vs Fylkir [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=b0e438f46d1be89724e1498d794a87ba&txTime=64965acb
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ICE PR: Hafnarfjordur FH vs Fram Reykjavik" tvg-name="ICE PR: Hafnarfjordur FH vs Fram Reykjavik" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][LIVE][/COLOR] ICE PR: Hafnarfjordur FH vs Fram Reykjavik [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1687557243-0-0-a7a7201a18692fcd9b92d0e0565df962
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BOL D1: Vaca Diez vs Club Aurora" tvg-name="BOL D1: Vaca Diez vs Club Aurora" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg",[COLOR red][LIVE][/COLOR] BOL D1: Vaca Diez vs Club Aurora [COLOR yellow]BLV CAPTAIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-231997_lhd.m3u8?txSecret=7aec98139aba0c991c8fc81cf1576cfe&txTime=64965a17
+https://pull01.rrwes.live/live/stream-231997_lhd.m3u8?txSecret=98bba6c13836e12f3249dd2bb68e6b6d&txTime=64965acb
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
