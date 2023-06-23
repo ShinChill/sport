@@ -1,85 +1,88 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CHAFAC: Zibo Qisheng vs Beijing Guoan" tvg-name="CHAFAC: Zibo Qisheng vs Beijing Guoan" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] CHAFAC: Zibo Qisheng vs Beijing Guoan [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=8c592a64cd012b18d20d874ccfdc9941&txTime=6495b913
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau" tvg-name="VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1687515843-0-0-cd4d3bdeb30825ef53a73717a58dde7f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-name="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991120_lhd.m3u8?txSecret=8fb91c16935ec341e19bbb2a03e926ef&txTime=6495b913
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHAFAC: Zibo Qisheng vs Beijing Guoan" tvg-name="CHAFAC: Zibo Qisheng vs Beijing Guoan" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] CHAFAC: Zibo Qisheng vs Beijing Guoan [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1687515843-0-0-c05a852a4133558abb835101063036f4
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-name="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1687515843-0-0-5d167616f554378a07fe497ae157049c
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-name="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-348199_lhd.m3u8?auth_key=1687515843-0-0-e7ab61c7974ae99cacf00cc2af882d90
+https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1687516023-0-0-c989f1b35ff040d4e3c1124d0342a8a6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-name="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg",[COLOR red][LIVE][/COLOR] CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC [COLOR yellow]BLV CAPTAIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-231997_lhd.m3u8?auth_key=1687515843-0-0-3f953d7f0c341e1b4aaf3bde2115f850
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau" tvg-name="VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau" tvg-logo="https://sta.vnres.co/file/head/20230609/81b3439e8286ce25be1569eb8352953e.jpg",[COLOR red][LIVE][/COLOR] VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau [COLOR yellow]BLV SÓI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-427562_lhd.m3u8?auth_key=1687515843-0-0-6ba1e4e77edb6842118d2b30e07f7b61
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau" tvg-name="VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26",[COLOR red][LIVE][/COLOR] VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau [COLOR yellow]BABY BOY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1687515843-0-0-9a89fcdc9411fb5f30a8c7df663aba68
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau" tvg-name="VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1687515843-0-0-b8c3fffd989661b4af135218b0e63546
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-name="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1687515843-0-0-74191327cde7a29399e4a8cca14e2ef9
+https://pull06.scstream.net/live/stream-231997_lhd.m3u8?auth_key=1687516023-0-0-62a32d41d82ff3194d4a0fd9c37bc0c4
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LPL: Ultra Prime vs LNG Esports" tvg-name="LPL: Ultra Prime vs LNG Esports" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] LPL: Ultra Prime vs LNG Esports [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=c6e269bd74c7517ac8e74d35bb4606c3&txTime=6495b913
+https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=7c174960bfd8fd65598d1e1b7ab7e8bd&txTime=6495b9c7
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-name="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1687516023-0-0-29410df0b28e49e611c7a4fd8898b714
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-name="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1687516023-0-0-ed0d42fe1c2e915e8b8c0da0dc766fd7
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau" tvg-name="VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1687516023-0-0-c75c0ca45161cc48dd635222573fc03b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-name="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-348199_lhd.m3u8?auth_key=1687516023-0-0-bf2041c1a5e9c3dd7a1ff980f66feeb5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LCK: Kwangdong Freecs vs Nongshim RedForce" tvg-name="LCK: Kwangdong Freecs vs Nongshim RedForce" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] LCK: Kwangdong Freecs vs Nongshim RedForce [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1687515843-0-0-67aca7a6579073a2d9e73da7a6990d7a
+https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1687516023-0-0-accf0dd1f39f3c74b0e94a4a3fc7195e
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CHAFAC: Zibo Qisheng vs Beijing Guoan" tvg-name="CHAFAC: Zibo Qisheng vs Beijing Guoan" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] CHAFAC: Zibo Qisheng vs Beijing Guoan [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=bed1d866ce1093dfacb07c3df925e7a2&txTime=6495b9c7
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau" tvg-name="VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1687516023-0-0-2b691462986148ff2204678e17bf2383
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau" tvg-name="VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26",[COLOR red][LIVE][/COLOR] VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau [COLOR yellow]BABY BOY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1687516023-0-0-c3fd868be53abab01a6465e509aae06c
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau" tvg-name="VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau" tvg-logo="https://sta.vnres.co/file/head/20230609/81b3439e8286ce25be1569eb8352953e.jpg",[COLOR red][LIVE][/COLOR] VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau [COLOR yellow]BLV SÓI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-427562_lhd.m3u8?auth_key=1687516023-0-0-88a779546805f12f65f11d861248052f
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-name="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-logo="https://sta.vnres.co/file/pic/202112/05/81f9721835eb5a48dd17640c399b4bbb",[COLOR red][LIVE][/COLOR] CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC [COLOR yellow]IRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991120_lhd.m3u8?txSecret=bd46487764e8f8d1be1c80d90b65b6ec&txTime=6495b9c7
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHAFAC: Zibo Qisheng vs Beijing Guoan" tvg-name="CHAFAC: Zibo Qisheng vs Beijing Guoan" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] CHAFAC: Zibo Qisheng vs Beijing Guoan [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1687515843-0-0-51012fcb28fc805ac5f7ac97c612a403
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CHAFAC: Zibo Qisheng vs Beijing Guoan" tvg-name="CHAFAC: Zibo Qisheng vs Beijing Guoan" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] CHAFAC: Zibo Qisheng vs Beijing Guoan [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=a430968a53d578ce0133bacae8c90321&txTime=6495b913
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-name="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1687515843-0-0-e5553d895a8d6c18b6a12bfe8851c261
+https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1687516023-0-0-9434008bc4adf83392d7f86268e14bde
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="PBC: Terrafirma Dyip vs Phoenix Fuelmasters" tvg-name="PBC: Terrafirma Dyip vs Phoenix Fuelmasters" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] PBC: Terrafirma Dyip vs Phoenix Fuelmasters [COLOR yellow]BLV KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1687515843-0-0-79eda8c17b04f105d7ff6f074704a427
+https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1687516023-0-0-330bd13dd2e1d33ad23f4004a5ac57b8
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-name="CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] CHAFAC: Jiangxi LuShan FC vs Wuhan Three Towns FC [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1687516023-0-0-4ffeda8d0257a8528bd1b3decf623c4a
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CHAFAC: Zibo Qisheng vs Beijing Guoan" tvg-name="CHAFAC: Zibo Qisheng vs Beijing Guoan" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] CHAFAC: Zibo Qisheng vs Beijing Guoan [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=1c73ace792d5a3bc38fb96d6fc67d12b&txTime=6495b9c7
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau" tvg-name="VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1687515843-0-0-dbcc046eca6e661cce414251f14d2a76
+https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1687516023-0-0-f2bbef7f4efadca5ceea84ffe50cac6f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau" tvg-name="VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg",[COLOR red][LIVE][/COLOR] VIE D2: TTBD Phu Dong vs Ba Ria Vung Tau [COLOR yellow]BLV DIHI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-379975_lhd.m3u8?auth_key=1687515843-0-0-446a01358790145ba9c2a862b8b98518
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LCK: Kwangdong Freecs vs Nongshim RedForce" tvg-name="LCK: Kwangdong Freecs vs Nongshim RedForce" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] LCK: Kwangdong Freecs vs Nongshim RedForce [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-143449_lhd.m3u8?txSecret=5f631d3f2e2be9f3e2ef8852ee24c0bd&txTime=6495b913
+https://pull06.scstream.net/live/stream-379975_lhd.m3u8?auth_key=1687516023-0-0-e5664df4ce6606528a01d7cd0c47c635
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FFSA WPL: Salisbury Inter Women's vs Adelaide University Women's" tvg-name="FFSA WPL: Salisbury Inter Women's vs Adelaide University Women's" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] FFSA WPL: Salisbury Inter Women's vs Adelaide University Women's [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-106737_lhd.m3u8?auth_key=1687515843-0-0-74af4c4b490ce1e2a9111773d2fd46e0
+https://pull06.scstream.net/live/stream-106737_lhd.m3u8?auth_key=1687516023-0-0-4e81aa55545af7c59f6de5ef30c7c6ec
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LCK: Kwangdong Freecs vs Nongshim RedForce" tvg-name="LCK: Kwangdong Freecs vs Nongshim RedForce" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg",[COLOR red][LIVE][/COLOR] LCK: Kwangdong Freecs vs Nongshim RedForce [COLOR yellow]BLV QUICK[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1687515843-0-0-76486815a5fce1ac6a386f293d4100fc
+#EXTINF:-1 tvg-id="LCK: Kwangdong Freecs vs Nongshim RedForce" tvg-name="LCK: Kwangdong Freecs vs Nongshim RedForce" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] LCK: Kwangdong Freecs vs Nongshim RedForce [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-143449_lhd.m3u8?txSecret=6bd87d08d6d971f530201e3e825ead5f&txTime=6495b9c7
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FFSA WPL: Salisbury Inter Women's vs Adelaide University Women's" tvg-name="FFSA WPL: Salisbury Inter Women's vs Adelaide University Women's" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg",[COLOR red][LIVE][/COLOR] FFSA WPL: Salisbury Inter Women's vs Adelaide University Women's [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1687515843-0-0-0671817fbfec62a927c555b88a1b4b98
+https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1687516023-0-0-9b9dabeeb8b1ceb5783f14c0b835e288
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LCK: Kwangdong Freecs vs Nongshim RedForce" tvg-name="LCK: Kwangdong Freecs vs Nongshim RedForce" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg",[COLOR red][LIVE][/COLOR] LCK: Kwangdong Freecs vs Nongshim RedForce [COLOR yellow]BLV QUICK[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1687516023-0-0-5c9e4727585f1e774b92999f24aac54d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IBL: Prawira Bandung vs West Bandits Solo" tvg-name="IBL: Prawira Bandung vs West Bandits Solo" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] IBL: Prawira Bandung vs West Bandits Solo [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=bd4b86954d43ff2deab9a3fa6bd1e98a&txTime=6495b913
+https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=e82c22f9a4791dc27c25709504eff5f9&txTime=6495b9c7
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MYA D1: Sagaing United vs Mawyawadi" tvg-name="MYA D1: Sagaing United vs Mawyawadi" tvg-logo="https://sta.vnres.co/file/head/20230612/ef661746975ffa101b5df40864d75797.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Sagaing United vs Mawyawadi [COLOR yellow]BLV G Hip[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991127_lhd.m3u8?auth_key=1687515843-0-0-a0570e75cf24e26b052702417f386fb2
+https://pull06.scstream.net/live/stream-991127_lhd.m3u8?auth_key=1687516023-0-0-bc49003d44adf74cd40bd8910851b3dd
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MYA D1: Sagaing United vs Mawyawadi" tvg-name="MYA D1: Sagaing United vs Mawyawadi" tvg-logo="https://sta.vnres.co/file/head/20230312/aaa07ce8e1ac249c6793fc567dbe11a1.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Sagaing United vs Mawyawadi [COLOR yellow]SUNNY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-104707_lhd.m3u8?auth_key=1687515843-0-0-39b3ff4c3439b6a242b555755e85f4c7
+https://pull06.scstream.net/live/stream-104707_lhd.m3u8?auth_key=1687516023-0-0-ce06336a8216f02a8db53c2cad47ef45
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Aus VPL: Green Gully vs Avondale FC" tvg-name="Aus VPL: Green Gully vs Avondale FC" tvg-logo="https://sta.vnres.co/file/head/20230614/42f95823a1cfff31a879a9d6b7222bfd.jpg",[COLOR red][LIVE][/COLOR] Aus VPL: Green Gully vs Avondale FC [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1687516023-0-0-2694d506fd2f70960e471f9aa74bb7c6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IBL: Prawira Bandung vs West Bandits Solo" tvg-name="IBL: Prawira Bandung vs West Bandits Solo" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png",[COLOR red][LIVE][/COLOR] IBL: Prawira Bandung vs West Bandits Solo [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1687515843-0-0-84ea1db060837f5707ebecc466c4237a
+https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1687516023-0-0-8daa24fbbdacf4cf17a1461cacd13dd4
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Casting 01" tvg-name="Casting 01" tvg-logo="https://sta.vnres.co/file/pic/202204/02/c5f7190c377d574202c30a5ed47a122f",[COLOR red][LIVE][/COLOR] Casting 01 [COLOR yellow]Casting 01[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-198006_lhd.m3u8?auth_key=1687515843-0-0-03024c0d5f7d1ba1448634047e51a28f
+https://pull06.scstream.net/live/stream-198006_lhd.m3u8?auth_key=1687516023-0-0-a332eb199a7834f5970e627bd15b081e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
