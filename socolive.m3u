@@ -1,64 +1,58 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SAFF: Nepal vs India" tvg-name="SAFF: Nepal vs India" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg",[COLOR red][LIVE][/COLOR] SAFF: Nepal vs India [COLOR yellow]BLV MÁT GAI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-273067_lhd.m3u8?txSecret=1166f8d884c04461286f23919e5d7577&txTime=64975863
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BRA D2: Botafogo SP vs Vila Nova (GO" tvg-name="BRA D2: Botafogo SP vs Vila Nova (GO" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] BRA D2: Botafogo SP vs Vila Nova (GO [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1687622223-0-0-c641659620383db1b4e04870df80dfc5
+#EXTINF:-1 tvg-id="KAZ PR: FK Aksu vs Ordabasy" tvg-name="KAZ PR: FK Aksu vs Ordabasy" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg",[COLOR red][LIVE][/COLOR] KAZ PR: FK Aksu vs Ordabasy [COLOR yellow]BLV DIHI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-379975_lhd.m3u8?auth_key=1687622343-0-0-df7bad9dba43e2441f510fb193a5664f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="KAZ PR: FK Aksu vs Ordabasy" tvg-name="KAZ PR: FK Aksu vs Ordabasy" tvg-logo="https://sta.vnres.co/file/head/20230613/574173bc84eb707d0dd66291fbb9c899.png",[COLOR red][LIVE][/COLOR] KAZ PR: FK Aksu vs Ordabasy [COLOR yellow]BLV VĂN TÍCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1687622223-0-0-e16081652d1c507fb94e00ddf02c5c79
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UZB PFL: Nasaf Qarshi vs AGMK" tvg-name="UZB PFL: Nasaf Qarshi vs AGMK" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg",[COLOR red][LIVE][/COLOR] UZB PFL: Nasaf Qarshi vs AGMK [COLOR yellow]BLV FANCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1687622223-0-0-9836f7b678bdf9ed8458e8829fa31a62
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="KAZ PR: FK Aksu vs Ordabasy" tvg-name="KAZ PR: FK Aksu vs Ordabasy" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg",[COLOR red][LIVE][/COLOR] KAZ PR: FK Aksu vs Ordabasy [COLOR yellow]BLV DIHI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-379975_lhd.m3u8?auth_key=1687622223-0-0-c528b292d29d725773d3c0c0ff88eb33
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="NOR D2: Ranheim IL vs Mjondalen" tvg-name="NOR D2: Ranheim IL vs Mjondalen" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][Chưa bắt đầu][/COLOR] NOR D2: Ranheim IL vs Mjondalen [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1687622179-0-0-dc3b94ea62a712093387300724e01603
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ICE PR: IBV Vestmannaeyjar vs Valur" tvg-name="ICE PR: IBV Vestmannaeyjar vs Valur" tvg-logo="https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg",[COLOR red][LIVE][/COLOR] ICE PR: IBV Vestmannaeyjar vs Valur [COLOR yellow]BLV MESSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-494201_lhd.m3u8?auth_key=1687622223-0-0-504a8a8818d8e89dbcdd946fb7210be2
+https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1687622343-0-0-d79872a94cfa70832e00b44fffd9a3f8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BRA D2: Botafogo SP vs Vila Nova (GO" tvg-name="BRA D2: Botafogo SP vs Vila Nova (GO" tvg-logo="https://sta.vnres.co/file/head/20230610/a84af4233fd893e55f97c40f31e5edad.jpg",[COLOR red][LIVE][/COLOR] BRA D2: Botafogo SP vs Vila Nova (GO [COLOR yellow]BLV CHARLIE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pullalilive.livnvess.com/live/stream-495263.m3u8?auth_key=1687640223-0-0-beb1ff5b7d8465eda15ef4e81f4f1244
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ICE PR: IBV Vestmannaeyjar vs Valur" tvg-name="ICE PR: IBV Vestmannaeyjar vs Valur" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] ICE PR: IBV Vestmannaeyjar vs Valur [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-143449_lhd.m3u8?txSecret=990ef62c88a8a596ceefb25e875fc745&txTime=6497589f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SAFF: Nepal vs india" tvg-name="SAFF: Nepal vs india" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg",[COLOR red][LIVE][/COLOR] SAFF: Nepal vs india [COLOR yellow]VAN PEPSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-365007_lhd.m3u8?auth_key=1687622223-0-0-ed5bc6e9ffbf67a6b8497737c5c3e71d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="SAFF: India vs Nepal" tvg-name="SAFF: India vs Nepal" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] SAFF: India vs Nepal [COLOR yellow]BLV PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1687622223-0-0-cebcd569c3ed374b81d7da0e8b1d2ed8
+https://pullalilive.livnvess.com/live/stream-495263.m3u8?auth_key=1687640343-0-0-931b98deb0add9ab55c7cc590ccd9f2f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BRA D2: Botafogo SP vs Vila Nova (GO" tvg-name="BRA D2: Botafogo SP vs Vila Nova (GO" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] BRA D2: Botafogo SP vs Vila Nova (GO [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=a6c3f4734ecdfc19cf231b05a0f162cd&txTime=6497589f
+https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=884ca9749817f4a9d462b08543709520&txTime=64975917
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="BRA D2: Botafogo SP vs Vila Nova (GO" tvg-name="BRA D2: Botafogo SP vs Vila Nova (GO" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] BRA D2: Botafogo SP vs Vila Nova (GO [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1687622403-0-0-61727f8da5469e2784e58d5d1c4673ca
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ICE PR: IBV Vestmannaeyjar vs Valur" tvg-name="ICE PR: IBV Vestmannaeyjar vs Valur" tvg-logo="https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg",[COLOR red][LIVE][/COLOR] ICE PR: IBV Vestmannaeyjar vs Valur [COLOR yellow]BLV MESSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-494201_lhd.m3u8?auth_key=1687622403-0-0-57751fd21ef7ecf49a274d8b447f55b3
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ICE PR: IBV Vestmannaeyjar vs Valur" tvg-name="ICE PR: IBV Vestmannaeyjar vs Valur" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] ICE PR: IBV Vestmannaeyjar vs Valur [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-143449_lhd.m3u8?txSecret=53e6f2128bcc034f5e98174ac2d5ef7f&txTime=64975953
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SAFF: India vs Nepal" tvg-name="SAFF: India vs Nepal" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] SAFF: India vs Nepal [COLOR yellow]BLV PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1687622403-0-0-3ad517b8dc1dab9cdf0d7df18ad033b3
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SAFF: Nepal vs india" tvg-name="SAFF: Nepal vs india" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg",[COLOR red][LIVE][/COLOR] SAFF: Nepal vs india [COLOR yellow]VAN PEPSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-365007_lhd.m3u8?auth_key=1687622403-0-0-588eaacd09d60afe4336e40ddb668673
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="SAFF: Nepal vs India" tvg-name="SAFF: Nepal vs India" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg",[COLOR red][LIVE][/COLOR] SAFF: Nepal vs India [COLOR yellow]BLV MÁT GAI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-273067_lhd.m3u8?txSecret=f10d6ec244fded3183a3b7d7eb7b48ba&txTime=64975953
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UZB PFL: Nasaf Qarshi vs AGMK" tvg-name="UZB PFL: Nasaf Qarshi vs AGMK" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg",[COLOR red][LIVE][/COLOR] UZB PFL: Nasaf Qarshi vs AGMK [COLOR yellow]BLV FANCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1687622403-0-0-7d2d1c578858fb956bf24fb2b746f622
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ICE PR: IBV Vestmannaeyjar vs Valur" tvg-name="ICE PR: IBV Vestmannaeyjar vs Valur" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] ICE PR: IBV Vestmannaeyjar vs Valur [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1687622223-0-0-6c322935463be4697decc0f2740422dd
+https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1687622403-0-0-5cfa05442db0c0ff2079b1f905c535a2
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="SAFF : India  vs  Nepal" tvg-name="SAFF : India  vs  Nepal" tvg-logo="https://sta.vnres.co/file/head/20220627/4a25c211c3b42d3923895ce94a4331cb.jpg",[COLOR red][LIVE][/COLOR] SAFF : India  vs  Nepal [COLOR yellow]AMY BABE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-102153_lhd.m3u8?auth_key=1687622223-0-0-8ac3eeb4aa4cddc29a28859c01ec523a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="NOR D2: Ranheim IL vs Mjondalen" tvg-name="NOR D2: Ranheim IL vs Mjondalen" tvg-logo="https://sta.vnres.co/file/head/20230612/ef661746975ffa101b5df40864d75797.jpg",[COLOR red][LIVE][/COLOR] NOR D2: Ranheim IL vs Mjondalen [COLOR yellow]BLV G Hip[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991127_lhd.m3u8?auth_key=1687622163-0-0-b1614770ea0202bab77469a7b5076267
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UZB PFL: Nasaf Qarshi vs AGMK" tvg-name="UZB PFL: Nasaf Qarshi vs AGMK" tvg-logo="https://sta.vnres.co/file/head/20230613/bb0941541fdd35e29ba3f39843feadbf.jpg",[COLOR red][LIVE][/COLOR] UZB PFL: Nasaf Qarshi vs AGMK [COLOR yellow]BLV BÁC SĨ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1687622223-0-0-740ccf2dcd192a000ded3b489ecf257f
+https://pull06.scstream.net/live/stream-102153_lhd.m3u8?auth_key=1687622403-0-0-d526da6aa653b7fcac6653a5dd935674
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIBA U19: Argentina U19 vs Turkey U19" tvg-name="FIBA U19: Argentina U19 vs Turkey U19" tvg-logo="https://sta.vnres.co/file/head/20230611/45ad3fec72e34d9b8e8a98d6cc02ef95.jpeg",[COLOR red][LIVE][/COLOR] FIBA U19: Argentina U19 vs Turkey U19 [COLOR yellow]DR STRANGE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-252519_lhd.m3u8?txSecret=aa8dca6d2477573972eb571ad92b48a0&txTime=6497589f
+https://pull01.rrwes.live/live/stream-252519_lhd.m3u8?txSecret=645166f8de7300beb1004ff15ac88f09&txTime=64975953
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UZB PFL: Nasaf Qarshi vs AGMK" tvg-name="UZB PFL: Nasaf Qarshi vs AGMK" tvg-logo="https://sta.vnres.co/file/head/20230613/bb0941541fdd35e29ba3f39843feadbf.jpg",[COLOR red][LIVE][/COLOR] UZB PFL: Nasaf Qarshi vs AGMK [COLOR yellow]BLV BÁC SĨ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1687622403-0-0-be502f4f223716dc1f19f525076fd46e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UZB PFL: Nasaf Qarshi vs AGMK" tvg-name="UZB PFL: Nasaf Qarshi vs AGMK" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] UZB PFL: Nasaf Qarshi vs AGMK [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1687622223-0-0-f1dd8607160fa886b6472ad5a4899bfd
+https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1687622403-0-0-6cf8e7d2b4b0ec4af24570c5ff56cdac
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="KAZ PR: FK Aksu vs Ordabasy" tvg-name="KAZ PR: FK Aksu vs Ordabasy" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg",[COLOR red][LIVE][/COLOR] KAZ PR: FK Aksu vs Ordabasy [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1687622223-0-0-52eddfb2b52d14712141aa85eda48e3f
+https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1687622403-0-0-813c7b386239fec77e75acbe632a3a31
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIBA U19: Argentina U19 vs Turkey U19" tvg-name="FIBA U19: Argentina U19 vs Turkey U19" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] FIBA U19: Argentina U19 vs Turkey U19 [COLOR yellow]BLV KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1687622223-0-0-1ab851f797892b2190b26b573b09861e
+https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1687622403-0-0-63cedcaa03ef8b0889c49c0a0f1e6f42
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="KAZ PR: FK Aksu vs Ordabasy" tvg-name="KAZ PR: FK Aksu vs Ordabasy" tvg-logo="https://sta.vnres.co/file/head/20230606/ea2fb298192cd1ea95046cf3ac74d043.jpg",[COLOR red][LIVE][/COLOR] KAZ PR: FK Aksu vs Ordabasy [COLOR yellow]BLV ENZO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-380460_lhd.m3u8?auth_key=1687622223-0-0-d2908e3ce52cd75cab4dc96d000e3cd6
+https://pull06.scstream.net/live/stream-380460_lhd.m3u8?auth_key=1687622403-0-0-cb3aaec59f61b4a6cf0fc1a85723c673
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
