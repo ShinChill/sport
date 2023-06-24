@@ -1,115 +1,103 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="VIE D1: XM Hai Phong FC vs Da Nang" tvg-name="VIE D1: XM Hai Phong FC vs Da Nang" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] VIE D1: XM Hai Phong FC vs Da Nang [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1687613523-0-0-e708796667a7077a3c2ca2e97c258eff
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE D1: Nam Dinh vs Thanh Hoa FC" tvg-name="VIE D1: Nam Dinh vs Thanh Hoa FC" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] VIE D1: Nam Dinh vs Thanh Hoa FC [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1687613343-0-0-322ef863640bd9ed87b4957c1adca1a5
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE D1: XM Hai Phong FC vs Da Nang" tvg-name="VIE D1: XM Hai Phong FC vs Da Nang" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] VIE D1: XM Hai Phong FC vs Da Nang [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=0b69e341facc0ed877402afa96e9a1c4&txTime=6497362b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE D1: Cong An Ha Noi vs Hong Linh Ha Tinh" tvg-name="VIE D1: Cong An Ha Noi vs Hong Linh Ha Tinh" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",[COLOR red][LIVE][/COLOR] VIE D1: Cong An Ha Noi vs Hong Linh Ha Tinh [COLOR yellow]GIÀ LÀNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1687613403-0-0-a0131bc7651087c055eae4c810d1ba63
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE D1: Nam Dinh vs Thanh Hoa FC" tvg-name="VIE D1: Nam Dinh vs Thanh Hoa FC" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] VIE D1: Nam Dinh vs Thanh Hoa FC [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=def658890aef797a5e139f373f4b3347&txTime=6497362b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE D1: XM Hai Phong FC vs Da Nang" tvg-name="VIE D1: XM Hai Phong FC vs Da Nang" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] VIE D1: XM Hai Phong FC vs Da Nang [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1687613403-0-0-484258473106dd71bdaad74e1ba8e585
+https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1687613523-0-0-0368471b01593f9b6f5387856b2f81ca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE D1: Cong An Ha Noi vs Hong Linh Ha Tinh" tvg-name="VIE D1: Cong An Ha Noi vs Hong Linh Ha Tinh" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] VIE D1: Cong An Ha Noi vs Hong Linh Ha Tinh [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991122_lhd.m3u8?auth_key=1687613403-0-0-44f0e72c82108215513bfcd0b233d985
+https://pull06.scstream.net/live/stream-991122_lhd.m3u8?auth_key=1687613523-0-0-5d3dfb2d46b0cbe605af92667e6d1907
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE D1: Nam Dinh vs Thanh Hoa FC" tvg-name="VIE D1: Nam Dinh vs Thanh Hoa FC" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] VIE D1: Nam Dinh vs Thanh Hoa FC [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1687613403-0-0-7e2a3820f20516250b3702681af22549
+https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1687613583-0-0-e9ab38bcb6e8435dc07af98a388b5386
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE D1: Nam Dinh vs Thanh Hoa FC" tvg-name="VIE D1: Nam Dinh vs Thanh Hoa FC" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] VIE D1: Nam Dinh vs Thanh Hoa FC [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=e9a5d7e5cb5313456e5589aeeb105653&txTime=649736df
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE D1: Cong An Ha Noi vs Hong Linh Ha Tinh" tvg-name="VIE D1: Cong An Ha Noi vs Hong Linh Ha Tinh" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] VIE D1: Cong An Ha Noi vs Hong Linh Ha Tinh [COLOR yellow]BLV KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1687613403-0-0-20dcfbf115370aef338a8009d55eae5a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE D1: XM Hai Phong FC vs Da Nang" tvg-name="VIE D1: XM Hai Phong FC vs Da Nang" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] VIE D1: XM Hai Phong FC vs Da Nang [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1687613403-0-0-69073a9912b4f8152739047c8f508121
+https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1687613583-0-0-4c85f210a028b7236f22d4e0b383fb0a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE D1: Cong An Ha Noi vs Hong Linh Ha Tinh" tvg-name="VIE D1: Cong An Ha Noi vs Hong Linh Ha Tinh" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] VIE D1: Cong An Ha Noi vs Hong Linh Ha Tinh [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687613403-0-0-22d7c599ba0f45fe465a24192f372b8e
+https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687613583-0-0-3d44586b140fec2e5070e976b8c76522
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE D1: Cong An Ha Noi vs Hong Linh Ha Tinh" tvg-name="VIE D1: Cong An Ha Noi vs Hong Linh Ha Tinh" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",[COLOR red][LIVE][/COLOR] VIE D1: Cong An Ha Noi vs Hong Linh Ha Tinh [COLOR yellow]GIÀ LÀNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1687613583-0-0-cd932bf8fdddffbe5a70107bacd4e97e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE D1: XM Hai Phong FC vs Da Nang" tvg-name="VIE D1: XM Hai Phong FC vs Da Nang" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] VIE D1: XM Hai Phong FC vs Da Nang [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-348199_lhd.m3u8?txSecret=c7290c8be979a819625a45e0d92fa01c&txTime=6497362b
+https://pull01.rrwes.live/live/stream-348199_lhd.m3u8?txSecret=c3ff47c618dba3efdbe34843652ed8dd&txTime=649736df
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE D1: XM Hai Phong FC vs Da Nang" tvg-name="VIE D1: XM Hai Phong FC vs Da Nang" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] VIE D1: XM Hai Phong FC vs Da Nang [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1687613583-0-0-ab8da8008f95ee9675a11444928a683e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE D1: Cong An Ha Noi vs Hong Linh Ha Tinh" tvg-name="VIE D1: Cong An Ha Noi vs Hong Linh Ha Tinh" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] VIE D1: Cong An Ha Noi vs Hong Linh Ha Tinh [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991128_lhd.m3u8?txSecret=dbe5af49fea85b5740e6bc09fa5a6f7d&txTime=6497362b
+https://pull01.rrwes.live/live/stream-991128_lhd.m3u8?txSecret=0f67b610c666699393247dbe7ef54a72&txTime=649736df
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="JPN D1: Urawa Red Diamonds vs Kawasaki Frontale" tvg-name="JPN D1: Urawa Red Diamonds vs Kawasaki Frontale" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] JPN D1: Urawa Red Diamonds vs Kawasaki Frontale [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1687613403-0-0-4f9e4c0322c03e9320cedcf1e22b6858
+#EXTINF:-1 tvg-id="VIE D1: XM Hai Phong FC vs Da Nang" tvg-name="VIE D1: XM Hai Phong FC vs Da Nang" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] VIE D1: XM Hai Phong FC vs Da Nang [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=f7c05e8572a989a96c2a3d34d204d121&txTime=649736df
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE D1: XM Hai Phong FC vs Da Nang" tvg-name="VIE D1: XM Hai Phong FC vs Da Nang" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] VIE D1: XM Hai Phong FC vs Da Nang [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1687613403-0-0-ea35c3ca3f198a206d895074c17bb4c3
+https://pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1687613583-0-0-3cae32a54b40282474e356f6e079a73a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE D1: XM Hai Phong FC vs Da Nang" tvg-name="VIE D1: XM Hai Phong FC vs Da Nang" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] VIE D1: XM Hai Phong FC vs Da Nang [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1687613403-0-0-1c62cb1d2e6dab4444016eeebf9c519e
+https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1687613583-0-0-dbc8f14f852e27137b75911f824fc0b2
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="KOR D1: Ulsan Hyundai FC vs Daegu FC" tvg-name="KOR D1: Ulsan Hyundai FC vs Daegu FC" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] KOR D1: Ulsan Hyundai FC vs Daegu FC [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1687613403-0-0-d1c433ff0b6a1694c6c577cbc28cb036
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE D1: Nam Dinh vs Thanh Hoa FC" tvg-name="VIE D1: Nam Dinh vs Thanh Hoa FC" tvg-logo="https://sta.vnres.co/file/head/20230623/58659179c3d06dc0bae15fdca12d1ee0.png",[COLOR red][LIVE][/COLOR] VIE D1: Nam Dinh vs Thanh Hoa FC [COLOR yellow]BLV SÓI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-427562_lhd.m3u8?auth_key=1687613403-0-0-0ad796f570a79f250c193ad3cf4e91ac
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1687613583-0-0-21f53315e4b4d5c6b9fe1d6fec25e5f4
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHAFAC: Dongguan Guanlian vs Shandong Taishan" tvg-name="CHAFAC: Dongguan Guanlian vs Shandong Taishan" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] CHAFAC: Dongguan Guanlian vs Shandong Taishan [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1687613403-0-0-507830f69936f38fc5f16a705a360adf
+https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1687613583-0-0-cffd4d546b42926e5513a2cd3c6f7098
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE D1: Nam Dinh vs Thanh Hoa FC" tvg-name="VIE D1: Nam Dinh vs Thanh Hoa FC" tvg-logo="https://sta.vnres.co/file/head/20230623/58659179c3d06dc0bae15fdca12d1ee0.png",[COLOR red][LIVE][/COLOR] VIE D1: Nam Dinh vs Thanh Hoa FC [COLOR yellow]BLV SÓI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-427562_lhd.m3u8?auth_key=1687613583-0-0-73bab094bbf82ece0cd818341d24020f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE D1:  Nam Dinh vs Thanh Hoa FC" tvg-name="VIE D1:  Nam Dinh vs Thanh Hoa FC" tvg-logo="https://sta.vnres.co/file/head/20230608/944e51718d34d61ad5d8b634a026c299.jpeg",[COLOR red][LIVE][/COLOR] VIE D1:  Nam Dinh vs Thanh Hoa FC [COLOR yellow]BLV HAKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-359236_lhd.m3u8?auth_key=1687613403-0-0-abc21b22ff5404ead261800cdba70745
+https://pull06.scstream.net/live/stream-359236_lhd.m3u8?auth_key=1687613583-0-0-a8f92888cdca8e5f44376ef296887792
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHAFAC: Dongguan Guanlian vs Shandong Taishan" tvg-name="CHAFAC: Dongguan Guanlian vs Shandong Taishan" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg",[COLOR red][LIVE][/COLOR] CHAFAC: Dongguan Guanlian vs Shandong Taishan [COLOR yellow]MĂNG CỤT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1687613403-0-0-991cb8dd3b203bcd9fa092af4864dc9f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="JPN D1: Urawa Red Diamonds vs Kawasaki Frontale" tvg-name="JPN D1: Urawa Red Diamonds vs Kawasaki Frontale" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg",[COLOR red][Chưa bắt đầu][/COLOR] JPN D1: Urawa Red Diamonds vs Kawasaki Frontale [COLOR yellow]DƯƠNG QUÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1687613403-0-0-70779f9c1afdf3f54c74138b25d24ebe
+https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1687613583-0-0-4b7175ee8cc5ac919de7866d5b087fc6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE D1: Cong An Ha Noi vs Hong Linh Ha Tinh" tvg-name="VIE D1: Cong An Ha Noi vs Hong Linh Ha Tinh" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26",[COLOR red][LIVE][/COLOR] VIE D1: Cong An Ha Noi vs Hong Linh Ha Tinh [COLOR yellow]BABY BOY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1687613403-0-0-733cac3d3c36e3d4bf4d46c50e94cf0d
+https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1687613583-0-0-a49e7e389cbc93b2bd3adfca1f0ed8fb
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHAFAC: Dongguan Guanlian vs Shandong Taishan" tvg-name="CHAFAC: Dongguan Guanlian vs Shandong Taishan" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] CHAFAC: Dongguan Guanlian vs Shandong Taishan [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1687613403-0-0-2ed385efad0e09cd1eb82f6d9aabb978
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="JPN D1: Urawa Red Diamonds vs Kawasaki Frontale" tvg-name="JPN D1: Urawa Red Diamonds vs Kawasaki Frontale" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] JPN D1: Urawa Red Diamonds vs Kawasaki Frontale [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1687613403-0-0-0f76eb20b4e0fb997dee6d79fceaab58
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="JPN D1: Urawa Red Diamonds vs Kawasaki Frontale" tvg-name="JPN D1: Urawa Red Diamonds vs Kawasaki Frontale" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] JPN D1: Urawa Red Diamonds vs Kawasaki Frontale [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=e3659efe7367a569abb0cf79bc326c0e&txTime=6497362b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="JPN D1: Urawa Red Diamonds vs Kawasaki Frontale" tvg-name="JPN D1: Urawa Red Diamonds vs Kawasaki Frontale" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg",[COLOR red][LIVE][/COLOR] JPN D1: Urawa Red Diamonds vs Kawasaki Frontale [COLOR yellow]BLV FANCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1687613403-0-0-e45dfe2eef916f7abb894fe069d51683
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="JPN D1: Urawa Red Diamonds vs Kawasaki Frontale" tvg-name="JPN D1: Urawa Red Diamonds vs Kawasaki Frontale" tvg-logo="https://sta.vnres.co/file/head/20230615/b7fa6450d1237f6a8ac9ca60acc62486.jpg",[COLOR red][LIVE][/COLOR] JPN D1: Urawa Red Diamonds vs Kawasaki Frontale [COLOR yellow]BLV SHINZAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-432010_lhd.m3u8?auth_key=1687613403-0-0-8605c1fe82d7eded04dfdef103230b26
+https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1687613583-0-0-0f7075ac96ca70d18e57be98a6976fab
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LPL: Weibo Gaming  VS  Bilibili Gaming" tvg-name="LPL: Weibo Gaming  VS  Bilibili Gaming" tvg-logo="https://sta.vnres.co/file/head/20230611/45ad3fec72e34d9b8e8a98d6cc02ef95.jpeg",[COLOR red][LIVE][/COLOR] LPL: Weibo Gaming  VS  Bilibili Gaming [COLOR yellow]DR STRANGE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-252519_lhd.m3u8?txSecret=3a708756472a29a453b23e738d5e6f88&txTime=6497362b
+https://pull01.rrwes.live/live/stream-252519_lhd.m3u8?txSecret=6b2f7a6c9e1341a251d6eb8a6e68c771&txTime=649736df
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="KOR D2: Gimcheon Sangmu FC vs Cheonan City FC" tvg-name="KOR D2: Gimcheon Sangmu FC vs Cheonan City FC" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] KOR D2: Gimcheon Sangmu FC vs Cheonan City FC [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1687613403-0-0-c1acd80da6cd388ca95bb70b72cf0d66
+https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1687613583-0-0-32ce3b103bc3595598488d1576fc53fa
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="KOR D2: Gimcheon Sangmu FC vs Cheonan City FC" tvg-name="KOR D2: Gimcheon Sangmu FC vs Cheonan City FC" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg",[COLOR red][LIVE][/COLOR] KOR D2: Gimcheon Sangmu FC vs Cheonan City FC [COLOR yellow]BLV CHOVY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-319191_lhd.m3u8?auth_key=1687613403-0-0-0df5cbc139c53792b9537b4aa5625d10
+https://pull06.scstream.net/live/stream-319191_lhd.m3u8?auth_key=1687613583-0-0-f68be7e150a330fb26b3ea670016f73d
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="JPN D1: Urawa Red Diamonds vs Kawasaki Frontale" tvg-name="JPN D1: Urawa Red Diamonds vs Kawasaki Frontale" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][Chưa bắt đầu][/COLOR] JPN D1: Urawa Red Diamonds vs Kawasaki Frontale [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=bd2a24c1543e810d597273565bf8f8fa&txTime=649736cd
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="JPN D1: Urawa Red Diamonds vs Kawasaki Frontale" tvg-name="JPN D1: Urawa Red Diamonds vs Kawasaki Frontale" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][Chưa bắt đầu][/COLOR] JPN D1: Urawa Red Diamonds vs Kawasaki Frontale [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1687613535-0-0-f0d2a3f512544977b72cc50a3930cb68
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHAFAC: Wuxi WuGou vs Tianjin Jinmen Tiger" tvg-name="CHAFAC: Wuxi WuGou vs Tianjin Jinmen Tiger" tvg-logo="https://sta.vnres.co/file/head/20230601/c6ea462493f77254cc60a4d35a10a594.jpg",[COLOR red][LIVE][/COLOR] CHAFAC: Wuxi WuGou vs Tianjin Jinmen Tiger [COLOR yellow]BLV LÂM XUNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-344687_lhd.m3u8?auth_key=1687613403-0-0-b6a73400b856a3e65a5dd02e6d524fc8
+https://pull06.scstream.net/live/stream-344687_lhd.m3u8?auth_key=1687613583-0-0-3f6ff51d46e299c265b8616b3677b31c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHAFAC: Dongguan Guanlian vs Shandong Taishan" tvg-name="CHAFAC: Dongguan Guanlian vs Shandong Taishan" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg",[COLOR red][LIVE][/COLOR] CHAFAC: Dongguan Guanlian vs Shandong Taishan [COLOR yellow]VAN PEPSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-365007_lhd.m3u8?auth_key=1687613403-0-0-a083b0dc37bd91470de525b34b72f98c
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CHAFAC: Heilongjiang Ice City vs Nantong Zhiyun" tvg-name="CHAFAC: Heilongjiang Ice City vs Nantong Zhiyun" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] CHAFAC: Heilongjiang Ice City vs Nantong Zhiyun [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1687613403-0-0-062e3ed14283c204682b92d746922bf9
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CHAFAC: Heilongjiang Ice City vs Nantong Zhiyun" tvg-name="CHAFAC: Heilongjiang Ice City vs Nantong Zhiyun" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] CHAFAC: Heilongjiang Ice City vs Nantong Zhiyun [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1687613403-0-0-bf399cd1083503c45b21eb02ae096cc2
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CHAFAC: Heilongjiang Ice City vs Nantong Zhiyun" tvg-name="CHAFAC: Heilongjiang Ice City vs Nantong Zhiyun" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] CHAFAC: Heilongjiang Ice City vs Nantong Zhiyun [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1687613403-0-0-d15faec30b903a53ac535ba69a86d831
+https://pull06.scstream.net/live/stream-365007_lhd.m3u8?auth_key=1687613583-0-0-bf4b87435e14aea3e63aae259ea9c213
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHAFAC: Dongguan Guanlian vs Shandong Taishan" tvg-name="CHAFAC: Dongguan Guanlian vs Shandong Taishan" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] CHAFAC: Dongguan Guanlian vs Shandong Taishan [COLOR yellow]BLV PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1687613403-0-0-25d9b3cae3c5d5b21ae9fc3b1d9ca5f5
+https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1687613583-0-0-e371d6892e7dc83fc52466a4b8b7d6e5
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CHAFAC: Heilongjiang Ice City vs Nantong Zhiyun" tvg-name="CHAFAC: Heilongjiang Ice City vs Nantong Zhiyun" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] CHAFAC: Heilongjiang Ice City vs Nantong Zhiyun [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1687613583-0-0-724b23147ad8ffcfea100b0f96f511a2
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CHAFAC: Heilongjiang Ice City vs Nantong Zhiyun" tvg-name="CHAFAC: Heilongjiang Ice City vs Nantong Zhiyun" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] CHAFAC: Heilongjiang Ice City vs Nantong Zhiyun [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1687613583-0-0-ee57ba39e2586b48820f5cd4b3abb8bf
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHAFAC: Heilongjiang Ice City vs Nantong Zhiyun" tvg-name="CHAFAC: Heilongjiang Ice City vs Nantong Zhiyun" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg",[COLOR red][LIVE][/COLOR] CHAFAC: Heilongjiang Ice City vs Nantong Zhiyun [COLOR yellow]BLV CAPTAIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-231997_lhd.m3u8?txSecret=8767da214c695ebf791596b55a2631fc&txTime=6497362b
+https://pull01.rrwes.live/live/stream-231997_lhd.m3u8?txSecret=51dc84d3eee077e8e5367c746780061b&txTime=649736df
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CHAFAC: Heilongjiang Ice City vs Nantong Zhiyun" tvg-name="CHAFAC: Heilongjiang Ice City vs Nantong Zhiyun" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] CHAFAC: Heilongjiang Ice City vs Nantong Zhiyun [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1687613583-0-0-b18a549b57f9750702744bc0eecb4ea4
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="KOR D2: Gimcheon Sangmu FC vs Cheonan City FC" tvg-name="KOR D2: Gimcheon Sangmu FC vs Cheonan City FC" tvg-logo="https://sta.vnres.co/file/head/20220627/4a25c211c3b42d3923895ce94a4331cb.jpg",[COLOR red][LIVE][/COLOR] KOR D2: Gimcheon Sangmu FC vs Cheonan City FC [COLOR yellow]AMY BABE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-102153_lhd.m3u8?auth_key=1687613403-0-0-36fdbb002f94c6f546a79e9cb750f1fe
+https://pull06.scstream.net/live/stream-102153_lhd.m3u8?auth_key=1687613583-0-0-4a7ddea0e19ec812983e6d92b969cec8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
