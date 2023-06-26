@@ -1,52 +1,58 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LPL Oh My God vs LGD Gaming" tvg-name="LPL Oh My God vs LGD Gaming" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] LPL Oh My God vs LGD Gaming [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1687772103-0-0-c4a5682638a405fc41f7f852f02fffc1
+#EXTINF:-1 tvg-id="LPL: Oh My God vs LGD Gaming" tvg-name="LPL: Oh My God vs LGD Gaming" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] LPL: Oh My God vs LGD Gaming [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=4b0381a121133562ad3cb167bf8e032d&txTime=6499a2cb
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LPL : Oh My God vs  LGD Gaming" tvg-name="LPL : Oh My God vs  LGD Gaming" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] LPL : Oh My God vs  LGD Gaming [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1687772103-0-0-3fb6d3c9a3f67cd0a092e7f291508993
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ACW: Japan W vs Chinese Taipei W" tvg-name="ACW: Japan W vs Chinese Taipei W" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] ACW: Japan W vs Chinese Taipei W [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=82194ce3ce6f676f568ce7f5c35272de&txTime=6499a217
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1687772103-0-0-7bd3a01aed0efec534c26c0175e65d62
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ACW: Japan W vs Chinese Taipei W" tvg-name="ACW: Japan W vs Chinese Taipei W" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] ACW: Japan W vs Chinese Taipei W [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1687772103-0-0-99aa88f2ae3f2f21904912f3197501a7
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MYA D1: Yangon vs Hantharwady United" tvg-name="MYA D1: Yangon vs Hantharwady United" tvg-logo="https://sta.vnres.co/file/head/20230613/bb0941541fdd35e29ba3f39843feadbf.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Yangon vs Hantharwady United [COLOR yellow]BLV BÁC SĨ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1687772103-0-0-0c0a1e99fb0f0d2b5cbc487d1620c98d
+#EXTINF:-1 tvg-id="ACW: Japan W vs Chinese Taipei W" tvg-name="ACW: Japan W vs Chinese Taipei W" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][Chưa bắt đầu][/COLOR] ACW: Japan W vs Chinese Taipei W [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1687772284-0-0-8d47dc26d307eddf7e63d8b96c22426d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LCKCL : NONGSHIM ESPORTS ACADEMY vs Gen.G" tvg-name="LCKCL : NONGSHIM ESPORTS ACADEMY vs Gen.G" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg",[COLOR red][LIVE][/COLOR] LCKCL : NONGSHIM ESPORTS ACADEMY vs Gen.G [COLOR yellow]BLV QUICK[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1687772163-0-0-3471367f68b810547132c6510545666a
+https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1687772283-0-0-18bfdcc9443309f3703cea86dbb0c735
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LPL: Oh My God vs LGD Gaming" tvg-name="LPL: Oh My God vs LGD Gaming" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] LPL: Oh My God vs LGD Gaming [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=60c7ce821f1707913dd34b6a1ba8e3e9&txTime=6499a253
+#EXTINF:-1 tvg-id="LPL : Oh My God vs  LGD Gaming" tvg-name="LPL : Oh My God vs  LGD Gaming" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] LPL : Oh My God vs  LGD Gaming [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1687772343-0-0-26efbadd040622ce2ed6014497757da1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ACW: Japan W vs Chinese Taipei W" tvg-name="ACW: Japan W vs Chinese Taipei W" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] ACW: Japan W vs Chinese Taipei W [COLOR yellow]BLV KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1687772163-0-0-d64b2d2b418f590188dfdb0441aef8ad
+#EXTINF:-1 tvg-id="LPL Oh My God vs LGD Gaming" tvg-name="LPL Oh My God vs LGD Gaming" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] LPL Oh My God vs LGD Gaming [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1687772343-0-0-625e292aba464b3bc2318024b82dd3b8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LCKCL: NONGSHIM ESPORTS ACADEMY vs Gen.G Global Academy" tvg-name="LCKCL: NONGSHIM ESPORTS ACADEMY vs Gen.G Global Academy" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] LCKCL: NONGSHIM ESPORTS ACADEMY vs Gen.G Global Academy [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1687772163-0-0-c88da423a633970094aca78ce603b182
+https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1687772343-0-0-35e578bf14816f1d203a4a90a7c4ebc8
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ACW: Japan W vs Chinese Taipei W" tvg-name="ACW: Japan W vs Chinese Taipei W" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] ACW: Japan W vs Chinese Taipei W [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=fb7e288094e5df5b75c534a3871b9944&txTime=6499a302
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1687772343-0-0-2e4170ffa87bded51ddd663941050054
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MYA D1: Yangon vs Hantharwady United" tvg-name="MYA D1: Yangon vs Hantharwady United" tvg-logo="https://sta.vnres.co/file/head/20230613/bb0941541fdd35e29ba3f39843feadbf.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Yangon vs Hantharwady United [COLOR yellow]BLV BÁC SĨ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1687772343-0-0-0cf39cb45ab13b1fe7979148e26691f3
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ACW: Japan W vs Chinese Taipei W" tvg-name="ACW: Japan W vs Chinese Taipei W" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] ACW: Japan W vs Chinese Taipei W [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=6121e94eb14b99b5c45a85e5ad20b6cc&txTime=6499a253
+https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=fe2e312f9ec791f8adc3571d10214e69&txTime=6499a307
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Tường thuật: UEFA EURO - Portugal vs Bosnia and Herzegovina" tvg-name="Tường thuật: UEFA EURO - Portugal vs Bosnia and Herzegovina" tvg-logo="https://sta.vnres.co/file/head/20220522/27ec59432f6894e2e4551627847383bd.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA EURO - Portugal vs Bosnia and Herzegovina [COLOR yellow]Sóc mèo méo meo[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-1_lhd.m3u8?auth_key=1687772163-0-0-90a8b2d4c9ff315ef7df4e4836b9218f
+#EXTINF:-1 tvg-id="ACW: Japan W vs Chinese Taipei W" tvg-name="ACW: Japan W vs Chinese Taipei W" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] ACW: Japan W vs Chinese Taipei W [COLOR yellow]BLV KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1687772343-0-0-92d566d276a94801adbc61184019f256
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MYA D1: Yangon vs Hantharwady United" tvg-name="MYA D1: Yangon vs Hantharwady United" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Yangon vs Hantharwady United [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687772343-0-0-0186322cfffa9c38eb5c7e63c57782fd
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MYA D1: Yangon vs Hantharwady United" tvg-name="MYA D1: Yangon vs Hantharwady United" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Yangon vs Hantharwady United [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1687772343-0-0-02ef51d252fb1d28380c21d0948b268d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA NL - Croatia vs Spain" tvg-name="Tường thuật: UEFA NL - Croatia vs Spain" tvg-logo="https://sta.vnres.co/file/head/20220810/7ec533b436e71ab93e03dda2f6a15678.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA NL - Croatia vs Spain [COLOR yellow]Sóc Minions[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-160872_lhd.m3u8?auth_key=1687772163-0-0-92e520f17c96ec13772a763f3b212939
+https://pull06.scstream.net/live/stream-160872_lhd.m3u8?auth_key=1687772343-0-0-3aa4bbf073a0d54c2411b2a5a24e56b7
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Tường thuật: UEFA EURO - Portugal vs Bosnia and Herzegovina" tvg-name="Tường thuật: UEFA EURO - Portugal vs Bosnia and Herzegovina" tvg-logo="https://sta.vnres.co/file/head/20220522/27ec59432f6894e2e4551627847383bd.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA EURO - Portugal vs Bosnia and Herzegovina [COLOR yellow]Sóc mèo méo meo[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-1_lhd.m3u8?auth_key=1687772343-0-0-c8fd14eec3afb4f0acf34cfab4f7de8d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA NL - Spain vs Italy" tvg-name="Tường thuật: UEFA NL - Spain vs Italy" tvg-logo="https://sta.vnres.co/file/head/20221213/f2d17ad16d4acb59cfd9d0976f0fa77e.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA NL - Spain vs Italy [COLOR yellow]Sóc nhà giàu[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-187684_lhd.m3u8?auth_key=1687772163-0-0-a73171d32ad45a1316936e3a9b100273
+https://pull06.scstream.net/live/stream-187684_lhd.m3u8?auth_key=1687772343-0-0-ee1832f30d8858b6efb6be9475c2130f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA EURO - Norway vs Scotland" tvg-name="Tường thuật: UEFA EURO - Norway vs Scotland" tvg-logo="https://sta.vnres.co/file/head/20221213/1ccf6b3b54904f0da8610926a968d412.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA EURO - Norway vs Scotland [COLOR yellow]Sóc gánh nước[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-133824_lhd.m3u8?auth_key=1687772163-0-0-86285b8c885da5a0814bff29af770343
+https://pull06.scstream.net/live/stream-133824_lhd.m3u8?auth_key=1687772343-0-0-da934dafaffdfcb381e0125c052f5841
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: INTERF - Vietnam vs Syria" tvg-name="Tường thuật: INTERF - Vietnam vs Syria" tvg-logo="https://sta.vnres.co/file/head/20220810/2a7ffd98fe2f64c7e36efb035d2cbc3b.png",[COLOR red][LIVE][/COLOR] Tường thuật: INTERF - Vietnam vs Syria [COLOR yellow]Sóc phụ hồ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-133277_lhd.m3u8?auth_key=1687772163-0-0-56c2852793216f237fc6c31b66809e48
+https://pull06.scstream.net/live/stream-133277_lhd.m3u8?auth_key=1687772343-0-0-744d194b3fcf7bf712e35449e276dbaa
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA NL - Netherlands vs Italy" tvg-name="Tường thuật: UEFA NL - Netherlands vs Italy" tvg-logo="https://sta.vnres.co/file/head/20221111/5dedadaf5ec33677f4ebc3a71ba3626c.png",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA NL - Netherlands vs Italy [COLOR yellow]Sóc cam[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-152898_lhd.m3u8?auth_key=1687772163-0-0-e0ab006bfe3c2f61f039dd759e0a7ce9
+https://pull06.scstream.net/live/stream-152898_lhd.m3u8?auth_key=1687772343-0-0-0aede08fc12bd2b0198a105326436aa8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
