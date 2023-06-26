@@ -1,52 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Gold Cup: Mexico vs Honduras" tvg-name="Gold Cup: Mexico vs Honduras" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] Gold Cup: Mexico vs Honduras [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991128_lhd.m3u8?txSecret=631524943d80260b867061e09b40a5d1&txTime=649941c3
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Mexico vs Honduras" tvg-name="Gold Cup: Mexico vs Honduras" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Mexico vs Honduras [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1687747443-0-0-fccc839a9519efbcf95e4e6fa23d8ac8
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Mexico vs Honduras" tvg-name="Gold Cup: Mexico vs Honduras" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Mexico vs Honduras [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687747443-0-0-7ac5631a590a939e81756b4557c3395f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIBA ACQ: Nicaragua vs Cuba" tvg-name="FIBA ACQ: Nicaragua vs Cuba" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] FIBA ACQ: Nicaragua vs Cuba [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=743e53b7794ca1f648a0784b4ebd7c99&txTime=649941ff
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ACW: South Korea W vs New Zealand W" tvg-name="ACW: South Korea W vs New Zealand W" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] ACW: South Korea W vs New Zealand W [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1687747503-0-0-88146f52b50e8f5e9d8af15bc98bcf05
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Mexico vs Honduras" tvg-name="Gold Cup: Mexico vs Honduras" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] Gold Cup: Mexico vs Honduras [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1687747503-0-0-885348f2ecbae3a20ad51d2dec02fcb8
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Mexico vs Honduras" tvg-name="Gold Cup: Mexico vs Honduras" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",[COLOR red][LIVE][/COLOR] Gold Cup: Mexico vs Honduras [COLOR yellow]GIÀ LÀNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1687747503-0-0-415841a783fb7a8f17ee55d7bcb3145d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA NWSL: Angel City FC Women's vs Houston Dash Women's" tvg-name="USA NWSL: Angel City FC Women's vs Houston Dash Women's" tvg-logo="https://sta.vnres.co/file/head/20221002/c76cdb4e7501dc9df12b98057e83df92.jpg",[COLOR red][LIVE][/COLOR] USA NWSL: Angel City FC Women's vs Houston Dash Women's [COLOR yellow]BLV CHRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991112_lhd.m3u8?auth_key=1687747503-0-0-e059ad85d6a8a05c7cb182e2ecb2a835
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA NWSL: Angel City FC Women's vs Houston Dash Women's" tvg-name="USA NWSL: Angel City FC Women's vs Houston Dash Women's" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] USA NWSL: Angel City FC Women's vs Houston Dash Women's [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1687747503-0-0-95f6d8e0a78ce1c41d21da6b4adf0ba5
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Mexico vs Honduras" tvg-name="Gold Cup: Mexico vs Honduras" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] Gold Cup: Mexico vs Honduras [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=420e0eb88ec2d357ed1fb1c8b8c10337&txTime=649941ff
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA NWSL: Angel City FC Women's vs Houston Dash" tvg-name="USA NWSL: Angel City FC Women's vs Houston Dash" tvg-logo="https://sta.vnres.co/file/head/20230615/b7fa6450d1237f6a8ac9ca60acc62486.jpg",[COLOR red][LIVE][/COLOR] USA NWSL: Angel City FC Women's vs Houston Dash [COLOR yellow]BLV SHINZAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-432010_lhd.m3u8?auth_key=1687747503-0-0-54ff7b7c9f59c13d63706cac0effa0ed
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA NWSL: Angel City FC Women's vs Houston Dash Women's" tvg-name="USA NWSL: Angel City FC Women's vs Houston Dash Women's" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] USA NWSL: Angel City FC Women's vs Houston Dash Women's [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1687747503-0-0-cf54fb74ac3be2c7cc3128e7ca365bb9
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIBA ACQ: Barbados vs Ecuador" tvg-name="FIBA ACQ: Barbados vs Ecuador" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] FIBA ACQ: Barbados vs Ecuador [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=754c75daea5d3f7a0bbfd84f82d8b5eb&txTime=649941ff
+https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=4f74f6a27b15f2c7de268f08af0082b7&txTime=64994277
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIBA ACQ: Barbados vs Ecuador" tvg-name="FIBA ACQ: Barbados vs Ecuador" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] FIBA ACQ: Barbados vs Ecuador [COLOR yellow]BLV KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1687747503-0-0-54b9e79cc6b39be0dccb42ed22ab557b
+https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1687747623-0-0-e86b5d634bbde88a8aecf57808496f6a
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Mexico vs Honduras" tvg-name="Gold Cup: Mexico vs Honduras" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Mexico vs Honduras [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1687747623-0-0-6ef76f596afc6d41b8fa8602c2c99c56
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Mexico vs Honduras" tvg-name="Gold Cup: Mexico vs Honduras" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] Gold Cup: Mexico vs Honduras [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=152d2410f0982fa165dab9d6a2b9d867&txTime=64994277
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Mexico vs Honduras" tvg-name="Gold Cup: Mexico vs Honduras" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Mexico vs Honduras [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687747623-0-0-3dae51a39db427d3c1702a5dca696743
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA NWSL: Angel City FC Women's vs Houston Dash Women's" tvg-name="USA NWSL: Angel City FC Women's vs Houston Dash Women's" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] USA NWSL: Angel City FC Women's vs Houston Dash Women's [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1687747683-0-0-dfc5ede36605a7b86f3a339f291f5a00
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA NWSL: Angel City FC Women's vs Houston Dash Women's" tvg-name="USA NWSL: Angel City FC Women's vs Houston Dash Women's" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] USA NWSL: Angel City FC Women's vs Houston Dash Women's [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1687747683-0-0-fbac21c79292f7b4c9d34bc1efd71bc1
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Mexico vs Honduras" tvg-name="Gold Cup: Mexico vs Honduras" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] Gold Cup: Mexico vs Honduras [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1687747683-0-0-8ece46fd953ccb91dc9230d1995fe270
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Mexico vs Honduras" tvg-name="Gold Cup: Mexico vs Honduras" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] Gold Cup: Mexico vs Honduras [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991128_lhd.m3u8?txSecret=f3da9c0e78338f58e6c5b84ab3ecea62&txTime=649942b3
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ACW: South Korea W vs New Zealand W" tvg-name="ACW: South Korea W vs New Zealand W" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] ACW: South Korea W vs New Zealand W [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1687747683-0-0-88b91a941776793aba39f8f8575487d7
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Mexico vs Honduras" tvg-name="Gold Cup: Mexico vs Honduras" tvg-logo="https://sta.vnres.co/file/head/20220610/97a2fc3836281b336406b85baa28f099.jpeg",[COLOR red][LIVE][/COLOR] Gold Cup: Mexico vs Honduras [COLOR yellow]GIÀ LÀNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991134_lhd.m3u8?auth_key=1687747683-0-0-1d4b19eb4eb451b097158361a70147aa
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA NWSL: Angel City FC Women's vs Houston Dash Women's" tvg-name="USA NWSL: Angel City FC Women's vs Houston Dash Women's" tvg-logo="https://sta.vnres.co/file/head/20221002/c76cdb4e7501dc9df12b98057e83df92.jpg",[COLOR red][LIVE][/COLOR] USA NWSL: Angel City FC Women's vs Houston Dash Women's [COLOR yellow]BLV CHRIS[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991112_lhd.m3u8?auth_key=1687747683-0-0-77d39a53ec4d6f083b11a3b76286059a
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA NWSL: Angel City FC Women's vs Houston Dash" tvg-name="USA NWSL: Angel City FC Women's vs Houston Dash" tvg-logo="https://sta.vnres.co/file/head/20230615/b7fa6450d1237f6a8ac9ca60acc62486.jpg",[COLOR red][LIVE][/COLOR] USA NWSL: Angel City FC Women's vs Houston Dash [COLOR yellow]BLV SHINZAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-432010_lhd.m3u8?auth_key=1687747683-0-0-874ca00f2bb9666cdee84ad837e8226c
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="FIBA ACQ: Barbados vs Ecuador" tvg-name="FIBA ACQ: Barbados vs Ecuador" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] FIBA ACQ: Barbados vs Ecuador [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=a8581ca6d2014157a06c534fe5310c78&txTime=649942b3
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA L2: Marin FC Legends vs Project 51O" tvg-name="USA L2: Marin FC Legends vs Project 51O" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg",[COLOR red][LIVE][/COLOR] USA L2: Marin FC Legends vs Project 51O [COLOR yellow]BLV QUICK[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1687747503-0-0-f49c90e86f2f43f4f50692f4da5d8b55
+https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1687747683-0-0-a5dadf2f55678f3fe5f2135805e4f263
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ACW: South Korea W vs New Zealand W" tvg-name="ACW: South Korea W vs New Zealand W" tvg-logo="https://sta.vnres.co/file/head/20230611/45ad3fec72e34d9b8e8a98d6cc02ef95.jpeg",[COLOR red][LIVE][/COLOR] ACW: South Korea W vs New Zealand W [COLOR yellow]DR STRANGE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-252519_lhd.m3u8?txSecret=a346452341dfccc2d32729dd5ab48b48&txTime=649941ff
+https://pull01.rrwes.live/live/stream-252519_lhd.m3u8?txSecret=3d07dab801ff6140f0a6bf38810a28b0&txTime=649942b3
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA L2: Marin FC Legends vs Project 51O" tvg-name="USA L2: Marin FC Legends vs Project 51O" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",[COLOR red][LIVE][/COLOR] USA L2: Marin FC Legends vs Project 51O [COLOR yellow]BLV TONY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991117_lhd.m3u8?txSecret=0b59b47d06b95062fd8df9d4dcf4fb42&txTime=649941ff
+https://pull01.rrwes.live/live/stream-991117_lhd.m3u8?txSecret=33ca495850edade6063f4294dc85987f&txTime=649942b3
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA L2: Marin FC Legends vs Project 51O" tvg-name="USA L2: Marin FC Legends vs Project 51O" tvg-logo="https://sta.vnres.co/file/head/20230608/944e51718d34d61ad5d8b634a026c299.jpeg",[COLOR red][LIVE][/COLOR] USA L2: Marin FC Legends vs Project 51O [COLOR yellow]BLV HAKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-359236_lhd.m3u8?auth_key=1687747683-0-0-cd4e6ad33ad83ad4b80c31ca66bdad2c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
