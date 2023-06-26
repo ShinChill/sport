@@ -1,61 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MAS FAC: Johor Darul Takzim vs Selangor FA" tvg-name="MAS FAC: Johor Darul Takzim vs Selangor FA" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] MAS FAC: Johor Darul Takzim vs Selangor FA [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=3f88b226027fdb781d09c337eadcfaa6&txTime=6499dddb
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VBA: Saigon Heat vs Thang Long Warriors" tvg-name="VBA: Saigon Heat vs Thang Long Warriors" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] VBA: Saigon Heat vs Thang Long Warriors [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=dd0aef10f4504387a01a927efa1ed86e&txTime=6499dddb
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LPL: Top Esports vs Team WE" tvg-name="LPL: Top Esports vs Team WE" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg",[COLOR red][Chưa bắt đầu][/COLOR] LPL: Top Esports vs Team WE [COLOR yellow]DƯƠNG QUÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1687787430-0-0-8f289a9d70d17a84ea152888e63579f6
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MAS FAC: Johor Darul Takzim vs Selangor FA" tvg-name="MAS FAC: Johor Darul Takzim vs Selangor FA" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] MAS FAC: Johor Darul Takzim vs Selangor FA [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1687787403-0-0-3beadef18e30696b1cd55d3a396e4d65
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MAS SL: Kelantan United vs Sabah FA" tvg-name="MAS SL: Kelantan United vs Sabah FA" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] MAS SL: Kelantan United vs Sabah FA [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1687787463-0-0-5dde85d9bfe40137b7858e2176ba79f1
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MAS FAC: Johor Darul Takzim vs Selangor FA" tvg-name="MAS FAC: Johor Darul Takzim vs Selangor FA" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] MAS FAC: Johor Darul Takzim vs Selangor FA [COLOR yellow]KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1687787463-0-0-08007d5a0013997315fa65c6898d9877
+https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1687787583-0-0-d036a6fb972524f8aa6a7a84c1e15543
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MAS SL: Negeri Sembilan FC vs Pulau Penang FA" tvg-name="MAS SL: Negeri Sembilan FC vs Pulau Penang FA" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] MAS SL: Negeri Sembilan FC vs Pulau Penang FA [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1687787463-0-0-5a1b188a9152324c8e99079c3a84bb85
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="AFC U17: Japan(U17 vs Australia(U17" tvg-name="AFC U17: Japan(U17 vs Australia(U17" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] AFC U17: Japan(U17 vs Australia(U17 [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991128_lhd.m3u8?txSecret=5d9861541068b471fbd08a00e84288fc&txTime=6499de17
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MAS SL: Negeri Sembilan FC vs Pulau Penang FA" tvg-name="MAS SL: Negeri Sembilan FC vs Pulau Penang FA" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] MAS SL: Negeri Sembilan FC vs Pulau Penang FA [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1687787463-0-0-3deef86be71db6e28dcf8d748d33248d
+https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1687787583-0-0-dbbb942688ef9f435d1e36bb4c63eb6d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="19:30 VBA: Saigon Heat vs Thang Long Warriors" tvg-name="19:30 VBA: Saigon Heat vs Thang Long Warriors" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] 19:30 VBA: Saigon Heat vs Thang Long Warriors [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1687787463-0-0-69c0c21cd1650c03b2cb1b7af6d4dc66
+https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1687787583-0-0-02a243a7d0de492e6eb01fe020fd9369
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MAS FAC: Johor Darul Takzim vs Selangor FA" tvg-name="MAS FAC: Johor Darul Takzim vs Selangor FA" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] MAS FAC: Johor Darul Takzim vs Selangor FA [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687787463-0-0-74f72ccbb4a2c6c5f6aba4bb1cc34ab1
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MAS SL: Kelantan United vs Sabah FA" tvg-name="MAS SL: Kelantan United vs Sabah FA" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] MAS SL: Kelantan United vs Sabah FA [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1687787463-0-0-29ae90bc755dc178410f285095bdffe8
+#EXTINF:-1 tvg-id="MAS FAC: Johor Darul Takzim vs Selangor FA" tvg-name="MAS FAC: Johor Darul Takzim vs Selangor FA" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] MAS FAC: Johor Darul Takzim vs Selangor FA [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=57cc6ea4faa19b25439eafc6395c75aa&txTime=6499de8f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IND WD1  Haryana  Odisha FC" tvg-name="IND WD1  Haryana  Odisha FC" tvg-logo="https://sta.vnres.co/file/head/20230405/ec1bee82e4d11675221774242cd75d76.jpg",[COLOR red][LIVE][/COLOR] IND WD1  Haryana  Odisha FC [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-420171_lhd.m3u8?txSecret=ee0a070cb25dc49c93cdb4d7dd87e39d&txTime=6499de17
+https://pull01.rrwes.live/live/stream-420171_lhd.m3u8?txSecret=f8e1e14f212e13c75c08aa16e9dd8d4e&txTime=6499de8f
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MAS FAC: Johor Darul Takzim vs Selangor FA" tvg-name="MAS FAC: Johor Darul Takzim vs Selangor FA" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] MAS FAC: Johor Darul Takzim vs Selangor FA [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1687787583-0-0-0db110f31e77de5e0b876c8f5c9557e3
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MAS SL: Negeri Sembilan FC vs Pulau Penang FA" tvg-name="MAS SL: Negeri Sembilan FC vs Pulau Penang FA" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] MAS SL: Negeri Sembilan FC vs Pulau Penang FA [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1687787643-0-0-d0baa66075af31b7e47fe2deb4022c4f
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MAS FAC: Johor Darul Takzim vs Selangor FA" tvg-name="MAS FAC: Johor Darul Takzim vs Selangor FA" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] MAS FAC: Johor Darul Takzim vs Selangor FA [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687787643-0-0-9f8b88ec395a39bf955dd51472a67ba5
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VBA: Saigon Heat vs Thang Long Warriors" tvg-name="VBA: Saigon Heat vs Thang Long Warriors" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] VBA: Saigon Heat vs Thang Long Warriors [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=bb9ff7d599d7ff4571ea10b93ebdae10&txTime=6499decb
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MAS SL: Kelantan United vs Sabah FA" tvg-name="MAS SL: Kelantan United vs Sabah FA" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] MAS SL: Kelantan United vs Sabah FA [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1687787643-0-0-e3e3c78c3821888dd1fb7492322fbbb2
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MAS FAC: Johor Darul Takzim vs Selangor FA" tvg-name="MAS FAC: Johor Darul Takzim vs Selangor FA" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] MAS FAC: Johor Darul Takzim vs Selangor FA [COLOR yellow]KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1687787643-0-0-48f1dfa78a31b71bdbbda37128426d7c
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="AFC U17: Japan(U17 vs Australia(U17" tvg-name="AFC U17: Japan(U17 vs Australia(U17" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] AFC U17: Japan(U17 vs Australia(U17 [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991128_lhd.m3u8?txSecret=218c1b9ae348bc2799a2f3f55ddb2ac5&txTime=6499decb
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IND WD1  Haryana  Odisha FC" tvg-name="IND WD1  Haryana  Odisha FC" tvg-logo="https://sta.vnres.co/file/head/20230626/0120819f12a19f93d4e06eb6cd63bfb6.jpg",[COLOR red][LIVE][/COLOR] IND WD1  Haryana  Odisha FC [COLOR yellow]SUNNY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-104707_lhd.m3u8?auth_key=1687787463-0-0-59ea5511ea5ce299152d6d722af3192a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LPL: Top Esports vs Team WE" tvg-name="LPL: Top Esports vs Team WE" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] LPL: Top Esports vs Team WE [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1687787463-0-0-d0560c48784e5f42a8d3f8717c8f73bf
+https://pull06.scstream.net/live/stream-104707_lhd.m3u8?auth_key=1687787643-0-0-ddd7c04f941ffbcf608802cfd38e7060
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IND WD1 Haryana vs Odisha FC" tvg-name="IND WD1 Haryana vs Odisha FC" tvg-logo="https://sta.vnres.co/file/head/20230310/c88aad2517438b870b70b682d81e61db.jpg",[COLOR red][LIVE][/COLOR] IND WD1 Haryana vs Odisha FC [COLOR yellow]YUKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1687787463-0-0-13ab54f50fe5531db87d1949bdf00890
+https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1687787643-0-0-9000b73a8cfc921a5b4d2202843a2aad
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MAS SL: Negeri Sembilan FC vs Pulau Penang FA" tvg-name="MAS SL: Negeri Sembilan FC vs Pulau Penang FA" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] MAS SL: Negeri Sembilan FC vs Pulau Penang FA [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1687787463-0-0-32e1617dbfced6450c2f2d66218cfa56
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MAS SL: Kelantan United vs Sabah FA" tvg-name="MAS SL: Kelantan United vs Sabah FA" tvg-logo="https://sta.vnres.co/file/head/20230613/574173bc84eb707d0dd66291fbb9c899.png",[COLOR red][LIVE][/COLOR] MAS SL: Kelantan United vs Sabah FA [COLOR yellow]BLV VĂN TÍCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1687787463-0-0-8a1cfab9050ec050b3f82dd7aba450ec
+https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1687787643-0-0-49f98091bfe751ebfac1e436da7db3d6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MAS SL: Negeri Sembilan FC vs Pulau Penang FA" tvg-name="MAS SL: Negeri Sembilan FC vs Pulau Penang FA" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] MAS SL: Negeri Sembilan FC vs Pulau Penang FA [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1687787463-0-0-154336e3660d56284d193f5d07e947d1
+https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1687787643-0-0-da6a1388f1a5c9d201901fe277118c2a
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MAS SL: Kelantan United vs Sabah FA" tvg-name="MAS SL: Kelantan United vs Sabah FA" tvg-logo="https://sta.vnres.co/file/head/20230613/574173bc84eb707d0dd66291fbb9c899.png",[COLOR red][LIVE][/COLOR] MAS SL: Kelantan United vs Sabah FA [COLOR yellow]BLV VĂN TÍCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1687787643-0-0-91ee9dee5edb0e51ea72202f5b1c7c19
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MAS FAC: Johor Darul Takzim vs Selangor FA" tvg-name="MAS FAC: Johor Darul Takzim vs Selangor FA" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png",[COLOR red][LIVE][/COLOR] MAS FAC: Johor Darul Takzim vs Selangor FA [COLOR yellow]BLV ODIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1687787463-0-0-a45b3f5071de52227e7d57082952bdb0
+https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1687787643-0-0-46230d16a4eafaf1f91f3f7d5ff018bd
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
