@@ -1,76 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Gold Cup: Costa Rica(N vs Panama" tvg-name="Gold Cup: Costa Rica(N vs Panama" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Costa Rica(N vs Panama [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687830783-0-0-fee652ce1107d190370adea8f95bcc20
+#EXTINF:-1 tvg-id="BRA D1: Vasco da Gama(RJ vs Cuiaba (MT" tvg-name="BRA D1: Vasco da Gama(RJ vs Cuiaba (MT" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] BRA D1: Vasco da Gama(RJ vs Cuiaba (MT [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1687830963-0-0-f664640f685284af129584f4fb66f5a0
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BRA D1: Vasco da Gama(RJ vs Cuiaba (MT" tvg-name="BRA D1: Vasco da Gama(RJ vs Cuiaba (MT" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] BRA D1: Vasco da Gama(RJ vs Cuiaba (MT [COLOR yellow]PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-208390_lhd.m3u8?txSecret=fa6a998f28413c8832491abb3606774c&txTime=649a874f
+https://pull01.rrwes.live/live/stream-208390_lhd.m3u8?txSecret=d3f34a4cefdbacaac0365c0372d61903&txTime=649a8803
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="BRA D1: Vasco da Gama(RJ vs Cuiaba (MT" tvg-name="BRA D1: Vasco da Gama(RJ vs Cuiaba (MT" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] BRA D1: Vasco da Gama(RJ vs Cuiaba (MT [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1687830963-0-0-cd0126b598627e42166a212230a7b3cd
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ARG D1: Belgrano vs CA Banfield" tvg-name="ARG D1: Belgrano vs CA Banfield" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Belgrano vs CA Banfield [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1687831023-0-0-a78c84e11df9a855db6a8cdb2b47535e
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ARG D1: Belgrano vs CA Banfield" tvg-name="ARG D1: Belgrano vs CA Banfield" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Belgrano vs CA Banfield [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1687831023-0-0-698a8e9d6800588f811d2e6c7008815b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ARG D1: Belgrano vs CA Banfield" tvg-name="ARG D1: Belgrano vs CA Banfield" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] ARG D1: Belgrano vs CA Banfield [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-106737_lhd.m3u8?auth_key=1687831023-0-0-b48787fb5ef40bbf809e9e362935defe
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="BRA D1: Vasco da Gama(RJ vs Cuiaba (MT" tvg-name="BRA D1: Vasco da Gama(RJ vs Cuiaba (MT" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] BRA D1: Vasco da Gama(RJ vs Cuiaba (MT [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1687831023-0-0-7b00c5a16c4482ddf38a3c54e8ffa013
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="BRA D1: Vasco da Gama(RJ vs Cuiaba (MT" tvg-name="BRA D1: Vasco da Gama(RJ vs Cuiaba (MT" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] BRA D1: Vasco da Gama(RJ vs Cuiaba (MT [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1687831023-0-0-863004346582bddb4bd3e24db255eb5a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: Costa Rica(N vs Panama" tvg-name="Gold Cup: Costa Rica(N vs Panama" tvg-logo="https://sta.vnres.co/file/head/20220625/bba872f07eb03082abff1b0c6c524fd7.jpeg",[COLOR red][LIVE][/COLOR] Gold Cup: Costa Rica(N vs Panama [COLOR yellow]BLV LEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
 https://pull06.scstream.net/live/stream-991124_lhd.m3u8?auth_key=1687830768-0-0-49ab289d561f5bd4f518220c25b4e8bf
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BRA D1: Vasco da Gama(RJ vs Cuiaba (MT" tvg-name="BRA D1: Vasco da Gama(RJ vs Cuiaba (MT" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] BRA D1: Vasco da Gama(RJ vs Cuiaba (MT [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1687830783-0-0-7b7772df0e97f7634a5594c18998a929
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BRA D1: Vasco da Gama(RJ vs Cuiaba (MT" tvg-name="BRA D1: Vasco da Gama(RJ vs Cuiaba (MT" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] BRA D1: Vasco da Gama(RJ vs Cuiaba (MT [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1687830783-0-0-6374fb42c94c823b73c90934943ec997
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ARG D1: Belgrano vs CA Banfield" tvg-name="ARG D1: Belgrano vs CA Banfield" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Belgrano vs CA Banfield [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1687830843-0-0-634bd7476038f747235cd1eea1398bbe
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BRA D1: Vasco da Gama(RJ vs Cuiaba (MT" tvg-name="BRA D1: Vasco da Gama(RJ vs Cuiaba (MT" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] BRA D1: Vasco da Gama(RJ vs Cuiaba (MT [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687830843-0-0-7d669d83e400388dd85c6dd0f9bda5de
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BRA D1: Vasco da Gama(RJ vs Cuiaba (MT" tvg-name="BRA D1: Vasco da Gama(RJ vs Cuiaba (MT" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] BRA D1: Vasco da Gama(RJ vs Cuiaba (MT [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1687830843-0-0-6167430bf8d9b369f4ae6d98f356a2c5
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BRA D1: Vasco da Gama(RJ vs Cuiaba (MT" tvg-name="BRA D1: Vasco da Gama(RJ vs Cuiaba (MT" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] BRA D1: Vasco da Gama(RJ vs Cuiaba (MT [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1687830843-0-0-86911e2af388714cfb8d8c0d2a6e2092
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687831023-0-0-76eabf37bd6acd768c7a2cbfaf86d93b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: Costa Rica(N vs Panama" tvg-name="Gold Cup: Costa Rica(N vs Panama" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] Gold Cup: Costa Rica(N vs Panama [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=a17d7db1ec2004084bf06086793c5078&txTime=649a878b
+https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=23002827efa0350d2c6e9d2eac0bda5c&txTime=649a883f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ARG D1: Belgrano vs CA Banfield" tvg-name="ARG D1: Belgrano vs CA Banfield" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Belgrano vs CA Banfield [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1687830843-0-0-cc50e1dc69d48ccc52c880766409f36b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ARG D1: Belgrano vs CA Banfield" tvg-name="ARG D1: Belgrano vs CA Banfield" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] ARG D1: Belgrano vs CA Banfield [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-106737_lhd.m3u8?auth_key=1687830843-0-0-2fae1826a7e85b1547368bc209712e6a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BOL D1: Independiente Petrolero vs Club Guabira" tvg-name="BOL D1: Independiente Petrolero vs Club Guabira" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][Chưa bắt đầu][/COLOR] BOL D1: Independiente Petrolero vs Club Guabira [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=b75b2dbd30ab9a0189aa2ae53db0a02f&txTime=649a8783
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Independiente Petrolero vs Club Guabira" tvg-name="Independiente Petrolero vs Club Guabira" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][LIVE][/COLOR] Independiente Petrolero vs Club Guabira [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1687830843-0-0-6924d0b2a3521383f6aa919d235ba89a
+#EXTINF:-1 tvg-id="Gold Cup: Costa Rica(N vs Panama" tvg-name="Gold Cup: Costa Rica(N vs Panama" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Costa Rica(N vs Panama [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1687831023-0-0-f5e7eccbd39bc40149749b0d277cffa1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Belgrano vs CA Banfield" tvg-name="ARG D1: Belgrano vs CA Banfield" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] ARG D1: Belgrano vs CA Banfield [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=8eb7d573b7e960a4a5348434b0ab4dc3&txTime=649a878b
+https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=7d64a2c5a9fa08c84b85fa5501ba11a5&txTime=649a883f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Belgrano vs CA Banfield" tvg-name="ARG D1: Belgrano vs CA Banfield" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Belgrano vs CA Banfield [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1687830843-0-0-aa0e8e60857b735d665a750a70bede7a
+https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1687831023-0-0-3480fd3b33ee2f6ae92c65f39aa1d5ce
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Belgrano vs CA Banfield" tvg-name="ARG D1: Belgrano vs CA Banfield" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Belgrano vs CA Banfield [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1687830843-0-0-ddcae937c13617bff860ed596d4eb9c7
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BOL D1: Independiente Petrolero vs Club Guabira" tvg-name="BOL D1: Independiente Petrolero vs Club Guabira" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",[COLOR red][LIVE][/COLOR] BOL D1: Independiente Petrolero vs Club Guabira [COLOR yellow]BLV TONY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991117_lhd.m3u8?txSecret=dcd6900503fff15ca1ad93a00c26946e&txTime=649a878b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BOL D1: Independiente Petrolero vs Club Guabira" tvg-name="BOL D1: Independiente Petrolero vs Club Guabira" tvg-logo="https://sta.vnres.co/file/head/20230513/0caf5377396b4e2c222f4a04e7caedc0.jpg",[COLOR red][Chưa bắt đầu][/COLOR] BOL D1: Independiente Petrolero vs Club Guabira [COLOR yellow]BLV TIGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-171964_lhd.m3u8?auth_key=1687830841-0-0-4cb5880298d62685812ca12789ad7c74
+https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1687831023-0-0-b9ffb91f5f714fdb2249b679428ad0bd
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="DLNB: Caneros vs Leones" tvg-name="DLNB: Caneros vs Leones" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] DLNB: Caneros vs Leones [COLOR yellow]BLV KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1687830843-0-0-e084c42b6fff208e2dc8daf292ce9f33
+https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1687831023-0-0-a7923b526cc357cf4040260fd67e9bc1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BOL D1: Independiente Petrolero vs Club Guabira" tvg-name="BOL D1: Independiente Petrolero vs Club Guabira" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] BOL D1: Independiente Petrolero vs Club Guabira [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=8057124a41c5bcae9518d97b21f4621d&txTime=649a878b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BOL D1: Independiente Petrolero vs Club Guabira" tvg-name="BOL D1: Independiente Petrolero vs Club Guabira" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] BOL D1: Independiente Petrolero vs Club Guabira [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1687830842-0-0-8b5b938428cec4c36f1822b6c23a9afb
+https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=d9826632ba44278a0c646f11681b6283&txTime=649a883f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="DLNB: Caneros vs Leones" tvg-name="DLNB: Caneros vs Leones" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] DLNB: Caneros vs Leones [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=758cbadaf25c68b8f092f77d3c2cb4b0&txTime=649a878b
+https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=63588d4171d1990dc68a9a9a1223b508&txTime=649a883f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ACW: Lebanon W vs South Korea W" tvg-name="ACW: Lebanon W vs South Korea W" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] ACW: Lebanon W vs South Korea W [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1687830843-0-0-30eed4458b8e579b1670fe9812f935bc
+https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1687831023-0-0-09429bb7c9c63cde068045a162662481
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ACW: Lebanon W vs South Korea W" tvg-name="ACW: Lebanon W vs South Korea W" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png",[COLOR red][LIVE][/COLOR] ACW: Lebanon W vs South Korea W [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1687830843-0-0-338ef2a570aa06058e3c0b13f1df19bc
+https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1687831023-0-0-2591d66a42c25db45c751c7080b02c1d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
