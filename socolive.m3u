@@ -1,19 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LPL: JD Gaming vs Ninjas in Pyjamas" tvg-name="LPL: JD Gaming vs Ninjas in Pyjamas" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] LPL: JD Gaming vs Ninjas in Pyjamas [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1687852023-0-0-041fdeb19d590cf197fa4509b0d4ef23
+#EXTINF:-1 tvg-id="ACW: New Zealand W vs China W" tvg-name="ACW: New Zealand W vs China W" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png",[COLOR red][LIVE][/COLOR] ACW: New Zealand W vs China W [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1687852204-0-0-053f945c92e719d184e873c1b8d2c015
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1687852023-0-0-c7847dc5325fe0d58ead6ddf5687f229
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ACW: New Zealand W vs China W" tvg-name="ACW: New Zealand W vs China W" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png",[COLOR red][LIVE][/COLOR] ACW: New Zealand W vs China W [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1687852083-0-0-87fb5c22a3ace9ab0d66324b2a2017b9
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1687852204-0-0-03345d99d7be8795ded8d3ad58d451db
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ACW: New Zealand W vs China W" tvg-name="ACW: New Zealand W vs China W" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] ACW: New Zealand W vs China W [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=3711757519d40518eaaae26f4431961e&txTime=649ada83
+https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=20ca3033caaa70bdabf71f03f81cecd2&txTime=649adafc
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LPL: JD Gaming vs Ninjas in Pyjamas" tvg-name="LPL: JD Gaming vs Ninjas in Pyjamas" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] LPL: JD Gaming vs Ninjas in Pyjamas [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1687852204-0-0-4634c25617d14a0dfe900fa1aa3e4dd3
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="TALK SHOW :BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW :BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230612/ef661746975ffa101b5df40864d75797.jpg",[COLOR red][Chưa bắt đầu][/COLOR] TALK SHOW :BÀN LUẬN BÓNG ĐÁ [COLOR yellow]G HIP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991127_lhd.m3u8?auth_key=1687852233-0-0-1cb2422c53302fa4a202bd17580e796c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LPL: JD Gaming vs Ninjas in Pyjamas" tvg-name="LPL: JD Gaming vs Ninjas in Pyjamas" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] LPL: JD Gaming vs Ninjas in Pyjamas [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1687852083-0-0-757b34764870036123df726100074e45
+https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1687852263-0-0-739767830cc68625ca9dee11490f77be
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LPL :  JD Gaming vs  Ninjas in Pyjamas" tvg-name="LPL :  JD Gaming vs  Ninjas in Pyjamas" tvg-logo="https://sta.vnres.co/file/head/20230406/e04accba4fed823cffd75d96ca0e568c.jpg",[COLOR red][LIVE][/COLOR] LPL :  JD Gaming vs  Ninjas in Pyjamas [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1687852083-0-0-87a869fd2089674126dbb37cadd28b75
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1687852263-0-0-e94be5141fa37d990d60199f312a7a61
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
