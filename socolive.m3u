@@ -1,82 +1,85 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LIB Cup: Club Libertad vs Atletico Mineiro (MG" tvg-name="LIB Cup: Club Libertad vs Atletico Mineiro (MG" tvg-logo="https://sta.vnres.co/file/head/20230114/4e19d9ee44846c0eb6a0721271ef1cc9.jpg",[COLOR red][LIVE][/COLOR] LIB Cup: Club Libertad vs Atletico Mineiro (MG [COLOR yellow]CỦ CHUỐI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-192778_lhd.m3u8?txSecret=d4f918c9f8cefd7665dc2b4dbb26adc0&txTime=649bc8a4
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: Canada vs Guadeloupe" tvg-name="Gold Cup: Canada vs Guadeloupe" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Canada vs Guadeloupe [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1687913044-0-0-757ad80ad30c4d4e21bfcc5fba81186a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Fluminense (RJ vs Sporting Cristal" tvg-name="Fluminense (RJ vs Sporting Cristal" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg",[COLOR red][LIVE][/COLOR] Fluminense (RJ vs Sporting Cristal [COLOR yellow]VAN PEPSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-365007_lhd.m3u8?auth_key=1687913044-0-0-6b7dc040a75c011522cc83038614958f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LIB Cup: Fluminense (RJ vs Sporting Cristal" tvg-name="LIB Cup: Fluminense (RJ vs Sporting Cristal" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] LIB Cup: Fluminense (RJ vs Sporting Cristal [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687913044-0-0-6d06f12f4c9788d63279dea692d1490f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Canada vs Guadeloupe" tvg-name="Gold Cup: Canada vs Guadeloupe" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] Gold Cup: Canada vs Guadeloupe [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-106737_lhd.m3u8?auth_key=1687913104-0-0-ad873bae970c7018398d1e7d4d695f98
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Canada vs Guadeloupe" tvg-name="Gold Cup: Canada vs Guadeloupe" tvg-logo="https://sta.vnres.co/file/head/20221220/15cddfa1880beb36bfbea12feedfec95.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Canada vs Guadeloupe [COLOR yellow]BLV BRUCE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-206851_lhd.m3u8?txSecret=a5ce7cba7ab3216e5e6f08da653afb8e&txTime=649bc8e0
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Canada vs Guadeloupe" tvg-name="Gold Cup: Canada vs Guadeloupe" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Canada vs Guadeloupe [COLOR yellow]KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1687913104-0-0-efb7e837df41146b51a683fa9989bd25
+https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1687913224-0-0-b0aa2276261659ebf4cf48c9dc9a8b5c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LIB Cup: Atletico Paranaense vs Alianza Lim" tvg-name="LIB Cup: Atletico Paranaense vs Alianza Lim" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] LIB Cup: Atletico Paranaense vs Alianza Lim [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1687913104-0-0-59ed581d9ed2318658567dc0088b0ae1
+https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1687913224-0-0-9b2007668c9468ab250b519dc9037b4c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Canada vs Guadeloupe" tvg-name="Gold Cup: Canada vs Guadeloupe" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png",[COLOR red][LIVE][/COLOR] Gold Cup: Canada vs Guadeloupe [COLOR yellow]BLV ODIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1687913104-0-0-9ab584ad866f6cea4ab260a35563444e
+#EXTINF:-1 tvg-id="Gold Cup: Canada vs Guadeloupe" tvg-name="Gold Cup: Canada vs Guadeloupe" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] Gold Cup: Canada vs Guadeloupe [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-106737_lhd.m3u8?auth_key=1687913224-0-0-82b04d109aebd3cb4c1801fdd656fca6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LIB Cup: River Plate vs The Strongest" tvg-name="LIB Cup: River Plate vs The Strongest" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][LIVE][/COLOR] LIB Cup: River Plate vs The Strongest [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1687913104-0-0-93aedcc8a4e600c99bbf343486524958
+#EXTINF:-1 tvg-id="LIB Cup: Fluminense (RJ vs Sporting Cristal" tvg-name="LIB Cup: Fluminense (RJ vs Sporting Cristal" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] LIB Cup: Fluminense (RJ vs Sporting Cristal [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1687913224-0-0-ce67b5321b4a5ee0950e7fba6529b2d1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LIB Cup: Fluminense (RJ vs Sporting Cristal" tvg-name="LIB Cup: Fluminense (RJ vs Sporting Cristal" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg",[COLOR red][LIVE][/COLOR] LIB Cup: Fluminense (RJ vs Sporting Cristal [COLOR yellow]MĂNG CỤT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1687913104-0-0-13e2459a7dba3d0e80140f312ae8c00f
+#EXTINF:-1 tvg-id="LIB Cup: Club Libertad vs Atletico Mineiro (MG" tvg-name="LIB Cup: Club Libertad vs Atletico Mineiro (MG" tvg-logo="https://sta.vnres.co/file/head/20230114/4e19d9ee44846c0eb6a0721271ef1cc9.jpg",[COLOR red][LIVE][/COLOR] LIB Cup: Club Libertad vs Atletico Mineiro (MG [COLOR yellow]CỦ CHUỐI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-192778_lhd.m3u8?txSecret=2a9e7bf4209959ecc6b991d4802e32bf&txTime=649bc958
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: Canada vs Guadeloupe" tvg-name="Gold Cup: Canada vs Guadeloupe" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] Gold Cup: Canada vs Guadeloupe [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=ff4eb9ee51837b8d27470cac8092b3dc&txTime=649bc8e0
+https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=fd88d26f243a2557096af04df1bc5b55&txTime=649bc994
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Canada vs Guadeloupe" tvg-name="Gold Cup: Canada vs Guadeloupe" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png",[COLOR red][LIVE][/COLOR] Gold Cup: Canada vs Guadeloupe [COLOR yellow]BLV ODIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1687913284-0-0-182676cda70f8d5cc38bde51b5e7436a
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Canada vs Guadeloupe" tvg-name="Gold Cup: Canada vs Guadeloupe" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Canada vs Guadeloupe [COLOR yellow]KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1687913284-0-0-3aa94cd1877b31c24ea2f489b8832d79
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LIB Cup: River Plate vs The Strongest" tvg-name="LIB Cup: River Plate vs The Strongest" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][LIVE][/COLOR] LIB Cup: River Plate vs The Strongest [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1687913284-0-0-6d6cb6b520139933deb5e70354a1e837
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Fluminense (RJ vs Sporting Cristal" tvg-name="Fluminense (RJ vs Sporting Cristal" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg",[COLOR red][LIVE][/COLOR] Fluminense (RJ vs Sporting Cristal [COLOR yellow]VAN PEPSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-365007_lhd.m3u8?auth_key=1687913284-0-0-636de589eded2f092448722743fb483a
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LIB Cup: Fluminense (RJ vs Sporting Cristal" tvg-name="LIB Cup: Fluminense (RJ vs Sporting Cristal" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg",[COLOR red][LIVE][/COLOR] LIB Cup: Fluminense (RJ vs Sporting Cristal [COLOR yellow]MĂNG CỤT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1687913284-0-0-256a27cf52780fa9ef02c6a8e53fd1f5
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Canada vs Guadeloupe" tvg-name="Gold Cup: Canada vs Guadeloupe" tvg-logo="https://sta.vnres.co/file/head/20221220/15cddfa1880beb36bfbea12feedfec95.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Canada vs Guadeloupe [COLOR yellow]BLV BRUCE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-206851_lhd.m3u8?txSecret=7b30c261d8befadb6b8df5130b81e436&txTime=649bc994
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LIB Cup: Atletico Paranaense vs Alianza Lima" tvg-name="LIB Cup: Atletico Paranaense vs Alianza Lima" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] LIB Cup: Atletico Paranaense vs Alianza Lima [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=c292e217957bf5172c24858025b864fd&txTime=649bc8e0
+https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=b75033e43058f33755e6a2074a24ded6&txTime=649bc994
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LIB Cup: Club Libertad vs Atletico Mineiro (MG" tvg-name="LIB Cup: Club Libertad vs Atletico Mineiro (MG" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] LIB Cup: Club Libertad vs Atletico Mineiro (MG [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1687913104-0-0-c4e1ff63cc8e2999d275903a20435257
+https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1687913284-0-0-3144e0903f4b8aaeea764925a0227aa9
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LIB Cup: Club Libertad vs Atletico Mineiro (MG" tvg-name="LIB Cup: Club Libertad vs Atletico Mineiro (MG" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg",[COLOR red][LIVE][/COLOR] LIB Cup: Club Libertad vs Atletico Mineiro (MG [COLOR yellow]BLV MÁT GAI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-273067_lhd.m3u8?txSecret=fe6fa8ab1da7aaa2eaccba575f29191f&txTime=649bc8e0
+https://pull01.rrwes.live/live/stream-273067_lhd.m3u8?txSecret=aaaa2c54e7e8f192e70a7da6a9881e9a&txTime=649bc994
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CON CSA: Palestino vs Fortaleza CE" tvg-name="CON CSA: Palestino vs Fortaleza CE" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg",[COLOR red][LIVE][/COLOR] CON CSA: Palestino vs Fortaleza CE [COLOR yellow]BLV CHOVY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-319191_lhd.m3u8?auth_key=1687913104-0-0-ee41ed4f2afdc50901e864c222c12c3a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BRA D2: Chapecoense SC vs Sport Club Recife (PE" tvg-name="BRA D2: Chapecoense SC vs Sport Club Recife (PE" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] BRA D2: Chapecoense SC vs Sport Club Recife (PE [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1687913104-0-0-26bcb2c92c36a207b4a7c41fa22993ff
+https://pull06.scstream.net/live/stream-319191_lhd.m3u8?auth_key=1687913284-0-0-c616775956b41ee97b4742db77fea419
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CON CSA: Palestino vs Fortaleza CE" tvg-name="CON CSA: Palestino vs Fortaleza CE" tvg-logo="https://sta.vnres.co/file/head/20230623/58659179c3d06dc0bae15fdca12d1ee0.png",[COLOR red][LIVE][/COLOR] CON CSA: Palestino vs Fortaleza CE [COLOR yellow]BLV SÓI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-427562_lhd.m3u8?auth_key=1687913104-0-0-ab1bb5df4b63742a06dc62e395cfc510
+https://pull06.scstream.net/live/stream-427562_lhd.m3u8?auth_key=1687913284-0-0-ba153c03225a6413fc1bbedd7de1767d
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="BRA D2: Chapecoense SC vs Sport Club Recife (PE" tvg-name="BRA D2: Chapecoense SC vs Sport Club Recife (PE" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] BRA D2: Chapecoense SC vs Sport Club Recife (PE [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1687913284-0-0-da2ac551f0c7de9ab2bc2a69f59dd004
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="WNBA: Connecticut Sun W vs New York Liberty W" tvg-name="WNBA: Connecticut Sun W vs New York Liberty W" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] WNBA: Connecticut Sun W vs New York Liberty W [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1687913104-0-0-6728d3975e56b5260c916d13ab4fc464
+https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1687913284-0-0-f494a57da422b4cae8a08c33d9d1f3d7
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BRA D2: Criciuma SC vs Clube de Regatas Brasil" tvg-name="BRA D2: Criciuma SC vs Clube de Regatas Brasil" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] BRA D2: Criciuma SC vs Clube de Regatas Brasil [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1687913104-0-0-206e859c4e8d72885f050f3e2f426199
+https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1687913284-0-0-47854c10cf1abe2df535789f5c452492
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="DLNB: Titanes Del Licey vs Soles" tvg-name="DLNB: Titanes Del Licey vs Soles" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] DLNB: Titanes Del Licey vs Soles [COLOR yellow]BLV KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1687913104-0-0-d426e76ca9e79848305d48b3e8984ee4
+https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1687913284-0-0-8229a8a854cda5926e4cf9c59727e751
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="DLNB: Titanes Del Licey vs Soles" tvg-name="DLNB: Titanes Del Licey vs Soles" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] DLNB: Titanes Del Licey vs Soles [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=b4631d37d5c6f66eed90f3b61aff6866&txTime=649bc8e0
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LIB Cup: River Plate vs The Strongest" tvg-name="LIB Cup: River Plate vs The Strongest" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] LIB Cup: River Plate vs The Strongest [COLOR yellow]PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-208390_lhd.m3u8?txSecret=65daf7ffd22913627152f5d54cbdc3f9&txTime=649bc8e0
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LIB Cup: River Plate vs The Strongest" tvg-name="LIB Cup: River Plate vs The Strongest" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] LIB Cup: River Plate vs The Strongest [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1687913104-0-0-7ea36089a0779c26dce15ee4c1451b60
+https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=9e44206fe2ec964d31b2f375a2baa067&txTime=649bc994
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LIB Cup: Atletico Nacional vs Patronato Parana" tvg-name="LIB Cup: Atletico Nacional vs Patronato Parana" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] LIB Cup: Atletico Nacional vs Patronato Parana [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1687913104-0-0-cf5a5e07e7e57760d886293426719d92
+https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1687913284-0-0-86b9920222bba19ca76eb476a98d48f2
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LIB Cup: Atletico Nacional vs Patronato Parana" tvg-name="LIB Cup: Atletico Nacional vs Patronato Parana" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] LIB Cup: Atletico Nacional vs Patronato Parana [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1687913104-0-0-2bc762731db34d41aa718b9f5f945120
+#EXTINF:-1 tvg-id="LIB Cup: River Plate vs The Strongest" tvg-name="LIB Cup: River Plate vs The Strongest" tvg-logo="https://sta.vnres.co/file/head/20230319/5b18aad129adad18b10c4287ea656f83.jpeg",[COLOR red][LIVE][/COLOR] LIB Cup: River Plate vs The Strongest [COLOR yellow]PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-208390_lhd.m3u8?txSecret=c65671120ca059e2058f5461bb7bf793&txTime=649bc994
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LIB Cup: Atletico Nacional vs Patronato Parana" tvg-name="LIB Cup: Atletico Nacional vs Patronato Parana" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg",[COLOR red][LIVE][/COLOR] LIB Cup: Atletico Nacional vs Patronato Parana [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1687913284-0-0-a264e3a9b1cbbb4895efa9d9ea9d0e90
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LIB Cup: Olimpia Asuncion vs Melgar" tvg-name="LIB Cup: Olimpia Asuncion vs Melgar" tvg-logo="https://sta.vnres.co/file/head/20230603/3eb91bc921be5aafb1eae6d9430117e3.jpg",[COLOR red][LIVE][/COLOR] LIB Cup: Olimpia Asuncion vs Melgar [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=245237049154f87722f520ce80242678&txTime=649bc8e0
+https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=00ee65ff8960f3cdc70ab919097b1067&txTime=649bc994
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LIB Cup: River Plate vs The Strongest" tvg-name="LIB Cup: River Plate vs The Strongest" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] LIB Cup: River Plate vs The Strongest [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1687913284-0-0-ba72db7427a98a6f4ddadb9c680db557
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LIB Cup: Atletico Nacional vs Patronato Parana" tvg-name="LIB Cup: Atletico Nacional vs Patronato Parana" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] LIB Cup: Atletico Nacional vs Patronato Parana [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1687913284-0-0-c34aac9ff71cfcaedee12cccc9eaffc2
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
