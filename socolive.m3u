@@ -1,28 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ACW: Philippines W vs Japan W" tvg-name="ACW: Philippines W vs Japan W" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png",[COLOR red][LIVE][/COLOR] ACW: Philippines W vs Japan W [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1687840683-0-0-20c66003c0251cc64cfcfcf8e0fd3658
+#EXTINF:-1 tvg-id="WCACG: El Salvador W vs Costa Rica W" tvg-name="WCACG: El Salvador W vs Costa Rica W" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] WCACG: El Salvador W vs Costa Rica W [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1687840863-0-0-0da33570cb321150fa12b40ad8193619
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="WNBA: Las Vegas Aces W vs Indiana Fever W" tvg-name="WNBA: Las Vegas Aces W vs Indiana Fever W" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] WNBA: Las Vegas Aces W vs Indiana Fever W [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=3cae53d974e12af03637b2ed276dfe83&txTime=649aadfb
+https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=5243559f3a0861b6a0db632a24eb84fa&txTime=649aaeaf
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ACW: Philippines W vs Japan W" tvg-name="ACW: Philippines W vs Japan W" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png",[COLOR red][LIVE][/COLOR] ACW: Philippines W vs Japan W [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1687840863-0-0-4933752e8707d48cbfbb04231713a07b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="WNBA: Las Vegas Aces W vs Indiana Fever W" tvg-name="WNBA: Las Vegas Aces W vs Indiana Fever W" tvg-logo="https://sta.vnres.co/file/head/20230611/45ad3fec72e34d9b8e8a98d6cc02ef95.jpeg",[COLOR red][LIVE][/COLOR] WNBA: Las Vegas Aces W vs Indiana Fever W [COLOR yellow]DR STRANGE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-252519_lhd.m3u8?txSecret=7a6ddebb385ac043fea418fc0036aa1f&txTime=649aadfb
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="WCACG: El Salvador W vs Costa Rica W" tvg-name="WCACG: El Salvador W vs Costa Rica W" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] WCACG: El Salvador W vs Costa Rica W [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1687840743-0-0-db27079f6adfd90bb27395244040ae13
+https://pull01.rrwes.live/live/stream-252519_lhd.m3u8?txSecret=bfcacd2da24809caf1a08aeda206ae44&txTime=649aaeaf
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA NL - Spain vs Italy" tvg-name="Tường thuật: UEFA NL - Spain vs Italy" tvg-logo="https://sta.vnres.co/file/head/20221213/f2d17ad16d4acb59cfd9d0976f0fa77e.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA NL - Spain vs Italy [COLOR yellow]Sóc nhà giàu[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-187684_lhd.m3u8?auth_key=1687840743-0-0-ae0b87956d2b78fccd5d44234860f6f6
+https://pull06.scstream.net/live/stream-187684_lhd.m3u8?auth_key=1687840923-0-0-83749dd1c47c7f00503768c65e9fea17
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA EURO - Norway vs Scotland" tvg-name="Tường thuật: UEFA EURO - Norway vs Scotland" tvg-logo="https://sta.vnres.co/file/head/20221213/1ccf6b3b54904f0da8610926a968d412.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA EURO - Norway vs Scotland [COLOR yellow]Sóc gánh nước[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-133824_lhd.m3u8?auth_key=1687840743-0-0-225803d2f6f1813e574ffd2113704330
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Tường thuật: UEFA EURO - Portugal vs Bosnia and Herzegovina" tvg-name="Tường thuật: UEFA EURO - Portugal vs Bosnia and Herzegovina" tvg-logo="https://sta.vnres.co/file/head/20230626/52e8c2568ca8908d025996a94579052b.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA EURO - Portugal vs Bosnia and Herzegovina [COLOR yellow]Sóc mèo méo meo[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-343500_lhd.m3u8?auth_key=1687840743-0-0-4a981b1a0d5d9966b01999672700efd7
+https://pull06.scstream.net/live/stream-133824_lhd.m3u8?auth_key=1687840923-0-0-33f8a994ec37e3a7ffb713ec076f6ebf
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: INTERF - Vietnam vs Syria" tvg-name="Tường thuật: INTERF - Vietnam vs Syria" tvg-logo="https://sta.vnres.co/file/head/20220810/2a7ffd98fe2f64c7e36efb035d2cbc3b.png",[COLOR red][LIVE][/COLOR] Tường thuật: INTERF - Vietnam vs Syria [COLOR yellow]Sóc phụ hồ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-133277_lhd.m3u8?auth_key=1687840743-0-0-6f73637afdee048254b1f017ab72a184
+https://pull06.scstream.net/live/stream-133277_lhd.m3u8?auth_key=1687840923-0-0-8018ec15a23c419a558217bd1de29b16
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Tường thuật: UEFA EURO - Portugal vs Bosnia and Herzegovina" tvg-name="Tường thuật: UEFA EURO - Portugal vs Bosnia and Herzegovina" tvg-logo="https://sta.vnres.co/file/head/20230626/52e8c2568ca8908d025996a94579052b.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA EURO - Portugal vs Bosnia and Herzegovina [COLOR yellow]Sóc mèo méo meo[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-343500_lhd.m3u8?auth_key=1687840923-0-0-e5acfb725d8b09dbf57a78305c5b8eb5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA NL - Netherlands vs Italy" tvg-name="Tường thuật: UEFA NL - Netherlands vs Italy" tvg-logo="https://sta.vnres.co/file/head/20221111/5dedadaf5ec33677f4ebc3a71ba3626c.png",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA NL - Netherlands vs Italy [COLOR yellow]Sóc cam[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-152898_lhd.m3u8?auth_key=1687840743-0-0-c262285e834cba67b957457d4c8e78d9
+https://pull06.scstream.net/live/stream-152898_lhd.m3u8?auth_key=1687840923-0-0-bd31a6d7074f0e15ba5452ece4ebe552
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
