@@ -1,28 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ICE PR: KR Reykjavik vs Keflavik" tvg-name="ICE PR: KR Reykjavik vs Keflavik" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] ICE PR: KR Reykjavik vs Keflavik [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=994ffe37603d5226fdbf269fad64e834&txTime=649cf210
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ICE PR: Fram Reykjavik vs HK Kopavogur" tvg-name="ICE PR: Fram Reykjavik vs HK Kopavogur" tvg-logo="https://sta.vnres.co/file/head/20230621/328a06ad6d57b30357f8ec528c004ea8.jpg",[COLOR red][LIVE][/COLOR] ICE PR: Fram Reykjavik vs HK Kopavogur [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-115447_lhd.m3u8?txSecret=4d25adbaca594f302301fb4c58a0f5e0&txTime=649cf210
+https://pull01.rrwes.live/live/stream-115447_lhd.m3u8?txSecret=ba980ebebb42dae894e6fae4f2fc9512&txTime=649cf2c4
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ICE PR: KR Reykjavik vs Keflavik" tvg-name="ICE PR: KR Reykjavik vs Keflavik" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] ICE PR: KR Reykjavik vs Keflavik [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=809088132a00a017a885a32ffc42790f&txTime=649cf2c4
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ICE PR: Fram Reykjavik vs HK Kopavogur" tvg-name="ICE PR: Fram Reykjavik vs HK Kopavogur" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg",[COLOR red][LIVE][/COLOR] ICE PR: Fram Reykjavik vs HK Kopavogur [COLOR yellow]BLV CAPTAIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-231997_lhd.m3u8?auth_key=1687989184-0-0-4a4a09b8c4f1a8ecf013a43f958f520c
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Tường thuật: UEFA NL - Netherlands vs Italy" tvg-name="Tường thuật: UEFA NL - Netherlands vs Italy" tvg-logo="https://sta.vnres.co/file/head/20221111/5dedadaf5ec33677f4ebc3a71ba3626c.png",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA NL - Netherlands vs Italy [COLOR yellow]Sóc cam[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-152898_lhd.m3u8?auth_key=1687989184-0-0-659e191245c33b649f0989e1d6fef659
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Tường thuật: UEFA NL - Croatia vs Spain" tvg-name="Tường thuật: UEFA NL - Croatia vs Spain" tvg-logo="https://sta.vnres.co/file/head/20220810/7ec533b436e71ab93e03dda2f6a15678.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA NL - Croatia vs Spain [COLOR yellow]Sóc Minions[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-160872_lhd.m3u8?auth_key=1687989184-0-0-ce5c4a1233967c5bfdfd263dfd78179d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Tường thuật: UEFA EURO - Norway vs Scotland" tvg-name="Tường thuật: UEFA EURO - Norway vs Scotland" tvg-logo="https://sta.vnres.co/file/head/20221213/1ccf6b3b54904f0da8610926a968d412.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA EURO - Norway vs Scotland [COLOR yellow]Sóc gánh nước[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-133824_lhd.m3u8?auth_key=1687989184-0-0-68f13e3321b2ba65f1f43fc6e1f71bf2
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Tường thuật: UEFA EURO - Portugal vs Bosnia and Herzegovina" tvg-name="Tường thuật: UEFA EURO - Portugal vs Bosnia and Herzegovina" tvg-logo="https://sta.vnres.co/file/head/20230626/52e8c2568ca8908d025996a94579052b.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA EURO - Portugal vs Bosnia and Herzegovina [COLOR yellow]Sóc mèo méo meo[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-343500_lhd.m3u8?auth_key=1687989184-0-0-4dd70f9afaada76ba8ff9198c7c40289
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Tường thuật: INTERF - Vietnam vs Syria" tvg-name="Tường thuật: INTERF - Vietnam vs Syria" tvg-logo="https://sta.vnres.co/file/head/20220810/2a7ffd98fe2f64c7e36efb035d2cbc3b.png",[COLOR red][LIVE][/COLOR] Tường thuật: INTERF - Vietnam vs Syria [COLOR yellow]Sóc phụ hồ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-133277_lhd.m3u8?auth_key=1687989184-0-0-0be91f7909bb6e98db756dbc9eb2aa6d
+https://pull06.scstream.net/live/stream-231997_lhd.m3u8?auth_key=1687989364-0-0-6a72f977dfe881090b109949cd19ccb9
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA NL - Spain vs Italy" tvg-name="Tường thuật: UEFA NL - Spain vs Italy" tvg-logo="https://sta.vnres.co/file/head/20221213/f2d17ad16d4acb59cfd9d0976f0fa77e.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA NL - Spain vs Italy [COLOR yellow]Sóc nhà giàu[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-187684_lhd.m3u8?auth_key=1687989184-0-0-a2a24745f2302b2e84f56a4c078fd986
+https://pull06.scstream.net/live/stream-187684_lhd.m3u8?auth_key=1687989364-0-0-85937d5f38ed6c1cad4128684834a43e
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Tường thuật: UEFA NL - Croatia vs Spain" tvg-name="Tường thuật: UEFA NL - Croatia vs Spain" tvg-logo="https://sta.vnres.co/file/head/20220810/7ec533b436e71ab93e03dda2f6a15678.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA NL - Croatia vs Spain [COLOR yellow]Sóc Minions[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-160872_lhd.m3u8?auth_key=1687989364-0-0-fb1c9b30e1ed568cc05be596ee0bcc48
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Tường thuật: UEFA NL - Netherlands vs Italy" tvg-name="Tường thuật: UEFA NL - Netherlands vs Italy" tvg-logo="https://sta.vnres.co/file/head/20221111/5dedadaf5ec33677f4ebc3a71ba3626c.png",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA NL - Netherlands vs Italy [COLOR yellow]Sóc cam[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-152898_lhd.m3u8?auth_key=1687989364-0-0-fa5bb3d1341ec9fa19f23320224e4599
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Tường thuật: UEFA EURO - Norway vs Scotland" tvg-name="Tường thuật: UEFA EURO - Norway vs Scotland" tvg-logo="https://sta.vnres.co/file/head/20221213/1ccf6b3b54904f0da8610926a968d412.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA EURO - Norway vs Scotland [COLOR yellow]Sóc gánh nước[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-133824_lhd.m3u8?auth_key=1687989364-0-0-277fec9d30d6d9e605ae6401724cbf05
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Tường thuật: INTERF - Vietnam vs Syria" tvg-name="Tường thuật: INTERF - Vietnam vs Syria" tvg-logo="https://sta.vnres.co/file/head/20220810/2a7ffd98fe2f64c7e36efb035d2cbc3b.png",[COLOR red][LIVE][/COLOR] Tường thuật: INTERF - Vietnam vs Syria [COLOR yellow]Sóc phụ hồ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-133277_lhd.m3u8?auth_key=1687989364-0-0-019483231c9a4614de47712d5e4f5b3c
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Tường thuật: UEFA EURO - Portugal vs Bosnia and Herzegovina" tvg-name="Tường thuật: UEFA EURO - Portugal vs Bosnia and Herzegovina" tvg-logo="https://sta.vnres.co/file/head/20230626/52e8c2568ca8908d025996a94579052b.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA EURO - Portugal vs Bosnia and Herzegovina [COLOR yellow]Sóc mèo méo meo[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-343500_lhd.m3u8?auth_key=1687989364-0-0-d0604823afdcf812e5993fefa4964ef8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
