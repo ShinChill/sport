@@ -1,58 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LPL: Oh My God vs FunPlus Phoenix" tvg-name="LPL: Oh My God vs FunPlus Phoenix" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] LPL: Oh My God vs FunPlus Phoenix [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=0089544e388b61be0d385f1922633ad6&txTime=649d9968
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MYA D1: Mawyawadi vs Dagon FC" tvg-name="MYA D1: Mawyawadi vs Dagon FC" tvg-logo="https://sta.vnres.co/file/head/20221220/15cddfa1880beb36bfbea12feedfec95.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Mawyawadi vs Dagon FC [COLOR yellow]BLV BRUCE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-206851_lhd.m3u8?txSecret=989cac9d54c8320f0d0bbb935dc4f19b&txTime=649d9968
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MYA D1: Mawyawadi vs Dagon FC" tvg-name="MYA D1: Mawyawadi vs Dagon FC" tvg-logo="https://sta.vnres.co/file/head/20230610/a84af4233fd893e55f97c40f31e5edad.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Mawyawadi vs Dagon FC [COLOR yellow]BLV CHARLIE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-495263_lhd.m3u8?txSecret=cf2472b4b683a8eee6a49af029c95e6c&txTime=649d9968
+https://pull01.rrwes.live/live/stream-495263_lhd.m3u8?txSecret=8e3d010c286e397edb6468178a66a19c&txTime=649d9a1d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LPL: LGD Gaming vs Bilibili Gaming" tvg-name="LPL: LGD Gaming vs Bilibili Gaming" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] LPL: LGD Gaming vs Bilibili Gaming [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1688032024-0-0-4eb1d8519c8a7dd07d8e904e1462ae07
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MGL D1: FC Ulaanbaatar vs Khoromkhon Club" tvg-name="MGL D1: FC Ulaanbaatar vs Khoromkhon Club" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png",[COLOR red][LIVE][/COLOR] MGL D1: FC Ulaanbaatar vs Khoromkhon Club [COLOR yellow]BLV ODIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1688032024-0-0-6e8e49a37733051bc6cb9e686a164d3a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MYA D1: Mawyawadi vs Dagon FC" tvg-name="MYA D1: Mawyawadi vs Dagon FC" tvg-logo="https://sta.vnres.co/file/head/20230626/0120819f12a19f93d4e06eb6cd63bfb6.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Mawyawadi vs Dagon FC [COLOR yellow]SUNNY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-104707_lhd.m3u8?auth_key=1688032024-0-0-c73151d03226b44e7d0d458efa77ea8d
+https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1688032205-0-0-539b943e33667a3abdfdd73f21aced66
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1688032084-0-0-0e50b98b931d3f5433221535b4f9948d
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1688032205-0-0-ab0de801d4e90e6124839b91281a685a
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MYA D1: Mawyawadi vs Dagon FC" tvg-name="MYA D1: Mawyawadi vs Dagon FC" tvg-logo="https://sta.vnres.co/file/head/20230614/42f95823a1cfff31a879a9d6b7222bfd.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Mawyawadi vs Dagon FC [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1688032205-0-0-24e4bee86f3a0bc1cf3f3def5288946b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MGL D1: FC Ulaanbaatar vs Khoromkhon Club" tvg-name="MGL D1: FC Ulaanbaatar vs Khoromkhon Club" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] MGL D1: FC Ulaanbaatar vs Khoromkhon Club [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1688032084-0-0-84422d8439e176f8d0a6d15f12491f4f
+https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1688032205-0-0-d419d4e93f8560dccf9b0cbe03216c1d
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LPL: Oh My God vs FunPlus Phoenix" tvg-name="LPL: Oh My God vs FunPlus Phoenix" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] LPL: Oh My God vs FunPlus Phoenix [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=4073be2100e03c613d100b9295488842&txTime=649d9a1c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="NZBL: Taranaki Airs vs Auckland Tuatara" tvg-name="NZBL: Taranaki Airs vs Auckland Tuatara" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] NZBL: Taranaki Airs vs Auckland Tuatara [COLOR yellow]BLV KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1688032084-0-0-729ab0c5cab1816b720b45c06a97b92d
+https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1688032205-0-0-8c3ca8548b0bfd9133d7456ce1f4abf0
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LPL: Oh My God vs FunPlus Phoenix" tvg-name="LPL: Oh My God vs FunPlus Phoenix" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] LPL: Oh My God vs FunPlus Phoenix [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1688032084-0-0-2924a33efc2ba71453177fb10f437267
+#EXTINF:-1 tvg-id="MGL D1: FC Ulaanbaatar vs Khoromkhon Club" tvg-name="MGL D1: FC Ulaanbaatar vs Khoromkhon Club" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png",[COLOR red][LIVE][/COLOR] MGL D1: FC Ulaanbaatar vs Khoromkhon Club [COLOR yellow]BLV ODIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1688032205-0-0-608eb58bb93e7961f9bcbf151c6e0938
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MYA D1: Mawyawadi vs Dagon FC" tvg-name="MYA D1: Mawyawadi vs Dagon FC" tvg-logo="https://sta.vnres.co/file/head/20221220/15cddfa1880beb36bfbea12feedfec95.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Mawyawadi vs Dagon FC [COLOR yellow]BLV BRUCE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-206851_lhd.m3u8?txSecret=751636b8532efc29425e80a5f134d804&txTime=649d9a1d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MYA D1: Mawyawadi vs Dagon FC" tvg-name="MYA D1: Mawyawadi vs Dagon FC" tvg-logo="https://sta.vnres.co/file/head/20220627/4a25c211c3b42d3923895ce94a4331cb.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Mawyawadi vs Dagon FC [COLOR yellow]AMY BABE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-102153_lhd.m3u8?auth_key=1688032084-0-0-6eebd51ace88e8413b9b9a669c796007
+https://pull06.scstream.net/live/stream-102153_lhd.m3u8?auth_key=1688032204-0-0-5c3a23bdcf16dc5e81fe56411613c88f
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LPL: Oh My God vs FunPlus Phoenix" tvg-name="LPL: Oh My God vs FunPlus Phoenix" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] LPL: Oh My God vs FunPlus Phoenix [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1688032264-0-0-f909e5e3123676592ec80679e6a284ed
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MYA D1: Mawyawadi vs Dagon FC" tvg-name="MYA D1: Mawyawadi vs Dagon FC" tvg-logo="https://sta.vnres.co/file/head/20230626/0120819f12a19f93d4e06eb6cd63bfb6.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Mawyawadi vs Dagon FC [COLOR yellow]SUNNY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-104707_lhd.m3u8?auth_key=1688032264-0-0-e29b4b7e664fca02d81e34fec3ce326e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="NZBL: Taranaki Airs vs Auckland Tuatara" tvg-name="NZBL: Taranaki Airs vs Auckland Tuatara" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] NZBL: Taranaki Airs vs Auckland Tuatara [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1688032084-0-0-313051ad4c986f673590823544229db7
+https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1688032264-0-0-e951cb0a3683a9a4248fa32bc7f0081c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="NZBL: Taranaki Airs vs Auckland Tuatara" tvg-name="NZBL: Taranaki Airs vs Auckland Tuatara" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] NZBL: Taranaki Airs vs Auckland Tuatara [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1688032084-0-0-10ebb5356199350c76f3e6e363a3a49a
+https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1688032264-0-0-50e3ca449bdb23d50e6487020a95c244
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LCK Gen.G vs Brion" tvg-name="LCK Gen.G vs Brion" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] LCK Gen.G vs Brion [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1688032084-0-0-3e1b3f34b4c796918cdd90e5852ddfc9
+https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1688032264-0-0-06daf71e9bb5dd617e6c3f0ed155865c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="NZBL: Taranaki Airs vs Auckland Tuatara" tvg-name="NZBL: Taranaki Airs vs Auckland Tuatara" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png",[COLOR red][LIVE][/COLOR] NZBL: Taranaki Airs vs Auckland Tuatara [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1688032084-0-0-c4b0d53cdf94ed659761c890ba83bbd4
+https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1688032264-0-0-59b1f992125d10f321d598eaac320e9e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LCK: Gen.G vs Brion" tvg-name="LCK: Gen.G vs Brion" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg",[COLOR red][LIVE][/COLOR] LCK: Gen.G vs Brion [COLOR yellow]DƯƠNG QUÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1688032084-0-0-cc97f4b2bf0fd56e85549e01c8f557d1
+https://pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1688032264-0-0-ad69e02b085295bf91a0b043d262de26
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230612/ef661746975ffa101b5df40864d75797.jpg",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]G HIP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991127_lhd.m3u8?auth_key=1688032084-0-0-fe1d6b746c5595a143361d2fbe9444b1
+https://pull06.scstream.net/live/stream-991127_lhd.m3u8?auth_key=1688032264-0-0-502615ea92b85c8502ab1a2ccb97cf46
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MGL D1: FC Ulaanbaatar vs Khoromkhon Club" tvg-name="MGL D1: FC Ulaanbaatar vs Khoromkhon Club" tvg-logo="https://sta.vnres.co/file/head/20230603/3eb91bc921be5aafb1eae6d9430117e3.jpg",[COLOR red][LIVE][/COLOR] MGL D1: FC Ulaanbaatar vs Khoromkhon Club [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=18d182f980658d296994cfec50804260&txTime=649d99a4
+https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=b07b5221fdec33a5eb9fb3a1095b4368&txTime=649d9a58
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MYA D1: Mawyawadi vs Dagon FC" tvg-name="MYA D1: Mawyawadi vs Dagon FC" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Mawyawadi vs Dagon FC [COLOR yellow]BLV DIHI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-379975_lhd.m3u8?auth_key=1688032084-0-0-53687b2f7114e79ab3ccffcf7a8015ec
+https://pull06.scstream.net/live/stream-379975_lhd.m3u8?auth_key=1688032264-0-0-5f5c2aaa0b1c09b3e33c120c15a17a21
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
