@@ -1,22 +1,22 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Gold Cup: Martinique(N vs Panama" tvg-name="Gold Cup: Martinique(N vs Panama" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Martinique(N vs Panama [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991142_lhd.m3u8?txSecret=492287e3b359a837015cca357fe431a3&txTime=649fad35
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ARG D1: CA Platense vs Lanus" tvg-name="ARG D1: CA Platense vs Lanus" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] ARG D1: CA Platense vs Lanus [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=45867f894cba6dfddc424069addeaa71&txTime=649fad35
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="OPAF: Morocco(U23 vs Congo U23" tvg-name="OPAF: Morocco(U23 vs Congo U23" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg",[COLOR red][LIVE][/COLOR] OPAF: Morocco(U23 vs Congo U23 [COLOR yellow]BLV MÁT GAI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-273067_lhd.m3u8?txSecret=829e277c8fd1e874facc79553fe48a86&txTime=649fad35
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: Martinique(N vs Panama" tvg-name="Gold Cup: Martinique(N vs Panama" tvg-logo="https://sta.vnres.co/file/head/20230628/ac2371709b24b0ecf56da5ffad4f75e2.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Martinique(N vs Panama [COLOR yellow]BLV TIGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-171964_lhd.m3u8?txSecret=57c6a39d6960f281f138888a3c6425a8&txTime=649fad35
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ARG D1: CA Platense vs Lanus" tvg-name="ARG D1: CA Platense vs Lanus" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] ARG D1: CA Platense vs Lanus [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1688168165-0-0-2610b3d657f01834a0561287310a2546
+https://pull01.rrwes.live/live/stream-171964_lhd.m3u8?txSecret=e5cd3abb081fd5bce1b486aba6cb7951&txTime=649fadad
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: CA Platense vs Lanus" tvg-name="ARG D1: CA Platense vs Lanus" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] ARG D1: CA Platense vs Lanus [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=545bc2d6ebbedee34e38d3695d998599&txTime=649fad35
+https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=a998c024b0a5ae34c0e3dd8c1fa2f4bd&txTime=649fadad
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ARG D1: CA Platense vs Lanus" tvg-name="ARG D1: CA Platense vs Lanus" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] ARG D1: CA Platense vs Lanus [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=5cf18edd195d44a1943641b77f039e3e&txTime=649fadad
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: Martinique(N vs Panama" tvg-name="Gold Cup: Martinique(N vs Panama" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26",[COLOR red][LIVE][/COLOR] Gold Cup: Martinique(N vs Panama [COLOR yellow]BABY BOY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1688168165-0-0-e511accc3c50a4decc366fabe92a371d
+https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1688168285-0-0-f43df3cecac398d434aabbe36af61204
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Martinique(N vs Panama" tvg-name="Gold Cup: Martinique(N vs Panama" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Martinique(N vs Panama [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991142_lhd.m3u8?txSecret=2da4cb89c62ebfcefc3bd61e16c68361&txTime=649fadad
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="OPAF: Morocco(U23 vs Congo U23" tvg-name="OPAF: Morocco(U23 vs Congo U23" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg",[COLOR red][LIVE][/COLOR] OPAF: Morocco(U23 vs Congo U23 [COLOR yellow]BLV MÁT GAI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-273067_lhd.m3u8?txSecret=de327ea23c1ee4c33e2f724aeae89d72&txTime=649fadad
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ARG D1: CA Platense vs Lanus" tvg-name="ARG D1: CA Platense vs Lanus" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] ARG D1: CA Platense vs Lanus [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1688168285-0-0-446e7ae2b64da628a642955199be1837
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
