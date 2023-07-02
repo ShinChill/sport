@@ -1,49 +1,52 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="IDN D1: Dewa United F.C. vs Arema Malang" tvg-name="IDN D1: Dewa United F.C. vs Arema Malang" tvg-logo="https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png",[COLOR red][LIVE][/COLOR] IDN D1: Dewa United F.C. vs Arema Malang [COLOR yellow]PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-208390_lhd.m3u8?txSecret=f0d57555aada42816200767699da7355&txTime=64a190ba
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1688291946-0-0-9166a3221de8f473babad8a17ea964a1
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="JPN D2: Blaublitz Akita vs Iwaki FC" tvg-name="JPN D2: Blaublitz Akita vs Iwaki FC" tvg-logo="https://sta.vnres.co/file/head/20230603/3eb91bc921be5aafb1eae6d9430117e3.jpg",[COLOR red][LIVE][/COLOR] JPN D2: Blaublitz Akita vs Iwaki FC [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=06ac5782c449afca6bdd53ab82141854&txTime=64a190ba
+#EXTINF:-1 tvg-id="JPN D2: Blaublitz Akita vs Iwaki FC" tvg-name="JPN D2: Blaublitz Akita vs Iwaki FC" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png",[COLOR red][LIVE][/COLOR] JPN D2: Blaublitz Akita vs Iwaki FC [COLOR yellow]BLV ODIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1688292126-0-0-9551bec4693a0294e94c235dbea2fcae
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="KOR D1: Gwangju Football Club vs Ulsan Hyundai FC" tvg-name="KOR D1: Gwangju Football Club vs Ulsan Hyundai FC" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] KOR D1: Gwangju Football Club vs Ulsan Hyundai FC [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1688291946-0-0-135575517c922b37bd39ace39b89559d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CHA D1: Jinan XingZhou vs Nanjing City" tvg-name="CHA D1: Jinan XingZhou vs Nanjing City" tvg-logo="https://sta.vnres.co/file/head/20230617/8cb09474f329a0ca1fc83d33784f9bb7.JPEG",[COLOR red][LIVE][/COLOR] CHA D1: Jinan XingZhou vs Nanjing City [COLOR yellow]BLV BOM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-400382_lhd.m3u8?auth_key=1688291946-0-0-0f06bce355fac673fd94e0d6181ffcc8
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="KOR D1: Gwangju Football Club vs Ulsan Hyundai FC" tvg-name="KOR D1: Gwangju Football Club vs Ulsan Hyundai FC" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] KOR D1: Gwangju Football Club vs Ulsan Hyundai FC [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1688291946-0-0-33a63704c7b2893778954c049a390416
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="KOR D1: Gwangju Football Club vs Ulsan Hyundai FC" tvg-name="KOR D1: Gwangju Football Club vs Ulsan Hyundai FC" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] KOR D1: Gwangju Football Club vs Ulsan Hyundai FC [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1688291946-0-0-a91a8b8645a00307550a4fd5ce7bc939
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CHA D1: Jinan XingZhou vs Nanjing City" tvg-name="CHA D1: Jinan XingZhou vs Nanjing City" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg",[COLOR red][LIVE][/COLOR] CHA D1: Jinan XingZhou vs Nanjing City [COLOR yellow]DƯƠNG QUÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1688291946-0-0-498954c180802c0b694430af5cc1c19f
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1688292126-0-0-f3e094f8c3cc5ee3fbfe5d66328992d8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IDN D1: Dewa United F.C. vs Arema Malang" tvg-name="IDN D1: Dewa United F.C. vs Arema Malang" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] IDN D1: Dewa United F.C. vs Arema Malang [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1688291946-0-0-10a4f1618ec9e7f0f2eb4934222ccfa6
+https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1688292126-0-0-ff925baf549dc32b12b926c1b5ffb041
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="JPN D2: Blaublitz Akita vs Iwaki FC" tvg-name="JPN D2: Blaublitz Akita vs Iwaki FC" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png",[COLOR red][LIVE][/COLOR] JPN D2: Blaublitz Akita vs Iwaki FC [COLOR yellow]BLV ODIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1688291946-0-0-cfce8ef7b093f870648aecd65c2c255d
+#EXTINF:-1 tvg-id="CHA SL: Shanghai Shenhua vs Tianjin Jinmen Tiger" tvg-name="CHA SL: Shanghai Shenhua vs Tianjin Jinmen Tiger" tvg-logo="https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg",[COLOR red][LIVE][/COLOR] CHA SL: Shanghai Shenhua vs Tianjin Jinmen Tiger [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1688292126-0-0-ece14e4be048cc40d3679905990003f2
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1688292126-0-0-bc458f55e507b2ff726e7a879891767c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHA D1: Jinan XingZhou vs Nanjing City" tvg-name="CHA D1: Jinan XingZhou vs Nanjing City" tvg-logo="https://sta.vnres.co/file/head/20230614/42f95823a1cfff31a879a9d6b7222bfd.jpg",[COLOR red][LIVE][/COLOR] CHA D1: Jinan XingZhou vs Nanjing City [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1688291946-0-0-06c5a6610003ca746e16e5ae60178d0c
+https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1688292126-0-0-e07d31b4093b516d64e95741d6819a06
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CHA D1: Jinan XingZhou vs Nanjing City" tvg-name="CHA D1: Jinan XingZhou vs Nanjing City" tvg-logo="https://sta.vnres.co/file/head/20230617/8cb09474f329a0ca1fc83d33784f9bb7.JPEG",[COLOR red][LIVE][/COLOR] CHA D1: Jinan XingZhou vs Nanjing City [COLOR yellow]BLV BOM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-400382_lhd.m3u8?auth_key=1688292126-0-0-3d195a936e79e94ed1609b0fe4ac5804
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CHA D1: Jinan XingZhou vs Nanjing City" tvg-name="CHA D1: Jinan XingZhou vs Nanjing City" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg",[COLOR red][LIVE][/COLOR] CHA D1: Jinan XingZhou vs Nanjing City [COLOR yellow]DƯƠNG QUÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1688292126-0-0-93e2d9619cf635b35cdb5b21fbc2ec2c
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="IDN D1: Dewa United F.C. vs Arema Malang" tvg-name="IDN D1: Dewa United F.C. vs Arema Malang" tvg-logo="https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png",[COLOR red][LIVE][/COLOR] IDN D1: Dewa United F.C. vs Arema Malang [COLOR yellow]PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-208390_lhd.m3u8?txSecret=7b161c2760c782b7e6ea48fbbce3d6df&txTime=64a1916e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="KOR D1: Gwangju Football Club vs Ulsan Hyundai FC" tvg-name="KOR D1: Gwangju Football Club vs Ulsan Hyundai FC" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] KOR D1: Gwangju Football Club vs Ulsan Hyundai FC [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1688291946-0-0-6cc91041f2ae32b2d97897a618cb4f7c
+https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1688292126-0-0-869e9040821a9c7cfdb47529943c8b81
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="KOR D1: Gwangju Football Club vs Ulsan Hyundai FC" tvg-name="KOR D1: Gwangju Football Club vs Ulsan Hyundai FC" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] KOR D1: Gwangju Football Club vs Ulsan Hyundai FC [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1688292126-0-0-f4ce0fb56c31345b0ae977d14a2a5aa1
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="KOR D1: Gwangju Football Club vs Ulsan Hyundai FC" tvg-name="KOR D1: Gwangju Football Club vs Ulsan Hyundai FC" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] KOR D1: Gwangju Football Club vs Ulsan Hyundai FC [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1688292126-0-0-917b45388e51c494558659cb369bf1ea
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="JPN D2: Blaublitz Akita vs Iwaki FC" tvg-name="JPN D2: Blaublitz Akita vs Iwaki FC" tvg-logo="https://sta.vnres.co/file/head/20230603/3eb91bc921be5aafb1eae6d9430117e3.jpg",[COLOR red][LIVE][/COLOR] JPN D2: Blaublitz Akita vs Iwaki FC [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=0598ed4dcc587752cbfdee84f4caea1f&txTime=64a1916e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IDN D1: Persib Bandung vs Madura United FC" tvg-name="IDN D1: Persib Bandung vs Madura United FC" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",[COLOR red][LIVE][/COLOR] IDN D1: Persib Bandung vs Madura United FC [COLOR yellow]BLV TONY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991117_lhd.m3u8?txSecret=c0206e9b96083c0d2ea3d93df347cf85&txTime=64a190ba
+https://pull01.rrwes.live/live/stream-991117_lhd.m3u8?txSecret=5b0dc62e186f4b825e98d6ac5815c7b9&txTime=64a1916e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LCK: Nongshim RedForce vs T1" tvg-name="LCK: Nongshim RedForce vs T1" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] LCK: Nongshim RedForce vs T1 [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1688292006-0-0-bcddbddf06bad75930c3c1c91a85dbba
+https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1688292126-0-0-9a314fc7cfd17022178aaa4c481f14c7
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IDN D1: Dewa United F.C. vs Arema Malang" tvg-name="IDN D1: Dewa United F.C. vs Arema Malang" tvg-logo="https://sta.vnres.co/file/head/20230626/0120819f12a19f93d4e06eb6cd63bfb6.jpg",[COLOR red][LIVE][/COLOR] IDN D1: Dewa United F.C. vs Arema Malang [COLOR yellow]SUNNY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-104707_lhd.m3u8?auth_key=1688292006-0-0-5fa73224f3b5a70210f14c230970167a
+https://pull06.scstream.net/live/stream-104707_lhd.m3u8?auth_key=1688292126-0-0-1fe6e1894eec3708e945dd8cfa1576c2
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="KOR D1: Gwangju Football Club vs Ulsan Hyundai FC" tvg-name="KOR D1: Gwangju Football Club vs Ulsan Hyundai FC" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] KOR D1: Gwangju Football Club vs Ulsan Hyundai FC [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=f968b456ff1898d0ba5b390536525f16&txTime=64a190f6
+https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=17a21bfc0192960804a3e2ba5984bafd&txTime=64a191aa
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
