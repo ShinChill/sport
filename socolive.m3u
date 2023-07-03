@@ -1,85 +1,91 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BRA D2: Ponte Preta vs Gremio Novorizontino" tvg-name="BRA D2: Ponte Preta vs Gremio Novorizontino" tvg-logo="https://sta.vnres.co/file/head/20230628/ac2371709b24b0ecf56da5ffad4f75e2.jpg",[COLOR red][LIVE][/COLOR] BRA D2: Ponte Preta vs Gremio Novorizontino [COLOR yellow]BLV TIGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-171964_lhd.m3u8?txSecret=58e4f011d84abefe9554c5abe9599b00&txTime=64a26d82
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ARG D1: Boca Juniors vs Sarmiento Junin" tvg-name="ARG D1: Boca Juniors vs Sarmiento Junin" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png",[COLOR red][LIVE][/COLOR] ARG D1: Boca Juniors vs Sarmiento Junin [COLOR yellow]BLV ODIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1688348466-0-0-ee37b65efc2f7364724ccea40bb8e21d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: USA vs Trinidad & Tobago" tvg-name="Gold Cup: USA vs Trinidad & Tobago" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Trinidad & Tobago [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1688348466-0-0-9ec8a778986455c6fc565cbbc0ea6741
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Jamaica(N vs St. Kitts and Nevis" tvg-name="Gold Cup: Jamaica(N vs St. Kitts and Nevis" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Jamaica(N vs St. Kitts and Nevis [COLOR yellow]KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-158814_lhd.m3u8?txSecret=0f3d148c6163c2bdde4729a4cfd361b0&txTime=64a26d82
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Jamaica(N vs St. Kitts and Nevis" tvg-name="Gold Cup: Jamaica(N vs St. Kitts and Nevis" tvg-logo="https://sta.vnres.co/file/head/20230617/8cb09474f329a0ca1fc83d33784f9bb7.JPEG",[COLOR red][LIVE][/COLOR] Gold Cup: Jamaica(N vs St. Kitts and Nevis [COLOR yellow]BLV BOM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-400382_lhd.m3u8?auth_key=1688348466-0-0-f15ea2a41b4c4070364ed32796b598db
+#EXTINF:-1 tvg-id="Gold Cup: USA vs Trinidad & Tobago" tvg-name="Gold Cup: USA vs Trinidad & Tobago" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Trinidad & Tobago [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1688348646-0-0-c231c517030a84ad6785e86553b0ef2e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Boca Juniors vs Sarmiento Junin" tvg-name="ARG D1: Boca Juniors vs Sarmiento Junin" tvg-logo="https://sta.vnres.co/file/head/20230702/7e0abf7e2bf61020bc22a5ce1391e557.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Boca Juniors vs Sarmiento Junin [COLOR yellow]CỦ CHUỐI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-192778_lhd.m3u8?txSecret=26c3bfba4e955e587318ceddfa3656e5&txTime=64a26d82
+https://pull01.rrwes.live/live/stream-192778_lhd.m3u8?txSecret=ebd1df47bbe03f48204654ff9cbddf52&txTime=64a26e36
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="BRA D2: Ponte Preta vs Gremio Novorizontino" tvg-name="BRA D2: Ponte Preta vs Gremio Novorizontino" tvg-logo="https://sta.vnres.co/file/head/20230628/ac2371709b24b0ecf56da5ffad4f75e2.jpg",[COLOR red][LIVE][/COLOR] BRA D2: Ponte Preta vs Gremio Novorizontino [COLOR yellow]BLV TIGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-171964_lhd.m3u8?txSecret=3799001c78990a384b4038a27adfe65d&txTime=64a26e36
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Jamaica(N vs St. Kitts and Nevis" tvg-name="Gold Cup: Jamaica(N vs St. Kitts and Nevis" tvg-logo="https://sta.vnres.co/file/head/20230617/8cb09474f329a0ca1fc83d33784f9bb7.JPEG",[COLOR red][LIVE][/COLOR] Gold Cup: Jamaica(N vs St. Kitts and Nevis [COLOR yellow]BLV BOM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-400382_lhd.m3u8?auth_key=1688348646-0-0-ec865466b229fa35fac751bffd4722db
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Jamaica(N vs St. Kitts and Nevis" tvg-name="Gold Cup: Jamaica(N vs St. Kitts and Nevis" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Jamaica(N vs St. Kitts and Nevis [COLOR yellow]KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-158814_lhd.m3u8?txSecret=6bccbcd3bb90c8d968f4bb267f3f8689&txTime=64a26e36
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ARG D1: Boca Juniors vs Sarmiento Junin" tvg-name="ARG D1: Boca Juniors vs Sarmiento Junin" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png",[COLOR red][LIVE][/COLOR] ARG D1: Boca Juniors vs Sarmiento Junin [COLOR yellow]BLV ODIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1688348646-0-0-c4a9c0de9089bbf14fdcf2e2c06c76ae
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: USA vs Trinidad & Tobago" tvg-name="Gold Cup: USA vs Trinidad & Tobago" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Trinidad & Tobago [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1688348466-0-0-25e2a8be66a3a18e4f1191952cde5a22
+https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1688348646-0-0-14e027a4ecd192dc29e6c8a1d335b573
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MEX D1: Santos Laguna vs Queretaro FC" tvg-name="MEX D1: Santos Laguna vs Queretaro FC" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] MEX D1: Santos Laguna vs Queretaro FC [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1688348466-0-0-6d5044fc30e9f77b791b7bd2392c3591
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ARG D1: Boca Juniors vs Sarmiento Junin" tvg-name="ARG D1: Boca Juniors vs Sarmiento Junin" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg",[COLOR red][LIVE][/COLOR] ARG D1: Boca Juniors vs Sarmiento Junin [COLOR yellow]VAN PEPSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-365007_lhd.m3u8?auth_key=1688348466-0-0-776b9e757f9d4669547b821b2fa397c8
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: USA vs Trinidad & Tobago" tvg-name="Gold Cup: USA vs Trinidad & Tobago" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Trinidad & Tobago [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1688348466-0-0-5c6f49d234c00097a0c8b299098f6d6d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Honduras(N vs Haiti" tvg-name="Gold Cup: Honduras(N vs Haiti" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Honduras(N vs Haiti [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=8fb456b080d35fec66c034ea038e9deb&txTime=64a26d82
+#EXTINF:-1 tvg-id="Gold Cup: Mexico(N vs Qatar" tvg-name="Gold Cup: Mexico(N vs Qatar" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26",[COLOR red][LIVE][/COLOR] Gold Cup: Mexico(N vs Qatar [COLOR yellow]BABY BOY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1688348646-0-0-49e8b7ceb83b6280f0d67ac43849a53a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: USA vs Trinidad & Tobago" tvg-name="Gold Cup: USA vs Trinidad & Tobago" tvg-logo="https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Trinidad & Tobago [COLOR yellow]PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-208390_lhd.m3u8?txSecret=aa380dbe09482982adedf07e5b3ccb9c&txTime=64a26d82
+https://pull01.rrwes.live/live/stream-208390_lhd.m3u8?txSecret=a76a3a038cdd48d00af7096967c0a835&txTime=64a26e36
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ARG D1: Boca Juniors vs Sarmiento Junin" tvg-name="ARG D1: Boca Juniors vs Sarmiento Junin" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg",[COLOR red][LIVE][/COLOR] ARG D1: Boca Juniors vs Sarmiento Junin [COLOR yellow]VAN PEPSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-365007_lhd.m3u8?auth_key=1688348646-0-0-d06e45101ed983a33d755366a60e1e8b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: USA vs Trinidad & Tobago" tvg-name="Gold Cup: USA vs Trinidad & Tobago" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Trinidad & Tobago [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1688348646-0-0-2a0258eb1a583565be1b91513af4a704
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MEX D1: Santos Laguna vs Queretaro FC" tvg-name="MEX D1: Santos Laguna vs Queretaro FC" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] MEX D1: Santos Laguna vs Queretaro FC [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1688348646-0-0-0c2b674610120777d01e097bc359a45b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Honduras(N vs Haiti" tvg-name="Gold Cup: Honduras(N vs Haiti" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Honduras(N vs Haiti [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1688348646-0-0-75b36d6b295fdc05e5e284de42d8659b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Honduras(N vs Haiti" tvg-name="Gold Cup: Honduras(N vs Haiti" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Honduras(N vs Haiti [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=74616f5bc1e7171550d6fea488ff5ecb&txTime=64a26e36
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: USA vs Trinidad & Tobago" tvg-name="Gold Cup: USA vs Trinidad & Tobago" tvg-logo="https://sta.vnres.co/file/head/20230613/574173bc84eb707d0dd66291fbb9c899.png",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Trinidad & Tobago [COLOR yellow]BLV VĂN TÍCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1688348466-0-0-03b2838611bc16b24d0a6827d3889949
+https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1688348646-0-0-3c201a5b1c5ab73e592338840c44fcd4
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MEX D1: Santos Laguna vs Queretaro FC" tvg-name="MEX D1: Santos Laguna vs Queretaro FC" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] MEX D1: Santos Laguna vs Queretaro FC [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1688348466-0-0-be7c813ce0e41e3eea74c5c564797e3d
+https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1688348646-0-0-9e234d52dc51c7232e24701850b16a67
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: USA vs Trinidad & Tobago" tvg-name="Gold Cup: USA vs Trinidad & Tobago" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Trinidad & Tobago [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1688348466-0-0-ac5698605aff3b263f2d80b42d0e9439
+https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1688348646-0-0-9f3fecae5ea37ef397fbaf51cae2757a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Boca Juniors vs Sarmiento Junin" tvg-name="ARG D1: Boca Juniors vs Sarmiento Junin" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] ARG D1: Boca Juniors vs Sarmiento Junin [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=930f63a25cc66a56fa5eeb1863dab43f&txTime=64a26d82
+https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=044276dc206bbc7b35632c821c798451&txTime=64a26e36
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CACG: Puerto Rico vs Cuba" tvg-name="CACG: Puerto Rico vs Cuba" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] CACG: Puerto Rico vs Cuba [COLOR yellow]KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1688348466-0-0-8d1d8eb49bbcdc367a5bc9da3b419374
+https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1688348706-0-0-5b48396efc9938e313fe4549b58c802a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Boca Juniors vs Sarmiento Junin" tvg-name="ARG D1: Boca Juniors vs Sarmiento Junin" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Boca Juniors vs Sarmiento Junin [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1688348526-0-0-46d484002458ee923b9ce40b8dcb9fd4
+https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1688348706-0-0-1a536e9cdc6591b39ea5201bdba0195a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Boca Juniors vs Sarmiento Junin" tvg-name="ARG D1: Boca Juniors vs Sarmiento Junin" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Boca Juniors vs Sarmiento Junin [COLOR yellow]BLV DIHI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-379975_lhd.m3u8?auth_key=1688348526-0-0-b829d0c34ea5dd1fa7f3446c7918b5d6
+https://pull06.scstream.net/live/stream-379975_lhd.m3u8?auth_key=1688348706-0-0-f56416de529839986d20b77ff0fe1a98
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BRA D2: Ponte Preta vs Gremio Novorizontino" tvg-name="BRA D2: Ponte Preta vs Gremio Novorizontino" tvg-logo="https://sta.vnres.co/file/head/20220508/67e847008115c00e97dd5e0b777a7c01.jpg",[COLOR red][LIVE][/COLOR] BRA D2: Ponte Preta vs Gremio Novorizontino [COLOR yellow]BLV TONY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991117_lhd.m3u8?txSecret=55206d98d3cb13464aa57e08021dcb43&txTime=64a26dbe
+https://pull01.rrwes.live/live/stream-991117_lhd.m3u8?txSecret=d856cbe46dcf496a27f2619507db4a9a&txTime=64a26e72
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIBA WAC: Dominican Republic W vs Puerto Rico W" tvg-name="FIBA WAC: Dominican Republic W vs Puerto Rico W" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] FIBA WAC: Dominican Republic W vs Puerto Rico W [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=70149e5764cb3d1a8328eba92879f555&txTime=64a26dbe
+https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=9401f43f9b4c43a9c47b98e272e55c08&txTime=64a26e72
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BRA D2: Ponte Preta vs Gremio Novorizontino" tvg-name="BRA D2: Ponte Preta vs Gremio Novorizontino" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg",[COLOR red][LIVE][/COLOR] BRA D2: Ponte Preta vs Gremio Novorizontino [COLOR yellow]BLV KAKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1688348526-0-0-8d933e2b808409bf3a0ba8a35cd7c2d7
+https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1688348706-0-0-02c7e44b4ae823ac8d520f38a786134f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BRA D2: Ponte Preta vs Gremio Novorizontino" tvg-name="BRA D2: Ponte Preta vs Gremio Novorizontino" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] BRA D2: Ponte Preta vs Gremio Novorizontino [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=483d962d02c4128f8c40d79af4cf1652&txTime=64a26dbe
+https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=e399c9cedaf24758668d2ecc6dc2ab0b&txTime=64a26e72
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIBA WAC: Dominican Republic W vs Puerto Rico W" tvg-name="FIBA WAC: Dominican Republic W vs Puerto Rico W" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] FIBA WAC: Dominican Republic W vs Puerto Rico W [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=2fa2183dac98700cab45d5a81af21025&txTime=64a26dbe
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Mexico(N vs Qatar" tvg-name="Gold Cup: Mexico(N vs Qatar" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg",[COLOR red][LIVE][/COLOR] Gold Cup: Mexico(N vs Qatar [COLOR yellow]BLV QUICK[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1688348526-0-0-dd6de23bbd10db8c1f6ece8709a81d82
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Honduras(N vs Haiti" tvg-name="Gold Cup: Honduras(N vs Haiti" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] Gold Cup: Honduras(N vs Haiti [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-106737_lhd.m3u8?auth_key=1688348526-0-0-905bdf66999d11d0182de89aabbe7aad
+https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=db4e5268a91af90f642947ff225c716e&txTime=64a26e72
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: Mexico(N vs Qatar" tvg-name="Gold Cup: Mexico(N vs Qatar" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] Gold Cup: Mexico(N vs Qatar [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1688348526-0-0-a76dcbe072ecca44a57cf75842ec5021
+https://pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1688348706-0-0-16c87e6f22500d1bc12d1cb3e455ab69
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Mexico(N vs Qatar" tvg-name="Gold Cup: Mexico(N vs Qatar" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg",[COLOR red][LIVE][/COLOR] Gold Cup: Mexico(N vs Qatar [COLOR yellow]BLV QUICK[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1688348706-0-0-bf55ec9090f604315983fe1d42d51d5f
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Honduras(N vs Haiti" tvg-name="Gold Cup: Honduras(N vs Haiti" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] Gold Cup: Honduras(N vs Haiti [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-106737_lhd.m3u8?auth_key=1688348706-0-0-78883ce7a2d1c7d05933818e7873b559
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: Mexico(N vs Qatar" tvg-name="Gold Cup: Mexico(N vs Qatar" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Mexico(N vs Qatar [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1688348526-0-0-6626fc2bc20b479dd483787da542f454
+https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1688348706-0-0-93960db352aeefca3961891577ca1924
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
