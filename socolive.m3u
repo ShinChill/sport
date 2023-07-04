@@ -1,40 +1,43 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1688459526-0-0-892c2de362e3cc6d89aefe9b0a66f227
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1688459526-0-0-8d1335a0f325f1d47f39c584b45f1628
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1688459526-0-0-65e7b7ebf7e26b0f72e1cee9a9d91e2e
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: China Women's vs Russia Women's" tvg-name="INTERF: China Women's vs Russia Women's" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] INTERF: China Women's vs Russia Women's [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1688459526-0-0-f89a3720a8045f3031a1ad4aa30ae1c1
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LPL: Royal Never Give Up vs Ninjas in Pyjamas" tvg-name="LPL: Royal Never Give Up vs Ninjas in Pyjamas" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] LPL: Royal Never Give Up vs Ninjas in Pyjamas [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991116_lhd.m3u8?txSecret=2a2eb24ae11adbdb008e809c3367bd20&txTime=64a41f56
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: China Women's vs Russia Women's" tvg-name="INTERF: China Women's vs Russia Women's" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] INTERF: China Women's vs Russia Women's [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1688459526-0-0-a46117999ee69c27fa463134c3dbf2bd
+https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1688459706-0-0-c13e9835a6dbbc4e4c65e8291c710212
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LPL: Royal Never Give Up vs Ninjas in Pyjamas" tvg-name="LPL: Royal Never Give Up vs Ninjas in Pyjamas" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] LPL: Royal Never Give Up vs Ninjas in Pyjamas [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991142_lhd.m3u8?txSecret=d29b2c2aa12b6328ced35e7d8fc033de&txTime=64a41f56
+https://pull01.rrwes.live/live/stream-991142_lhd.m3u8?txSecret=85b0b3fa03ec2e457ff998eb847244e7&txTime=64a4200a
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1688459706-0-0-164605764c7a3cd1b10ce183fa8030dc
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: China Women's vs Russia Women's" tvg-name="INTERF: China Women's vs Russia Women's" tvg-logo="https://sta.vnres.co/file/head/20230613/574173bc84eb707d0dd66291fbb9c899.png",[COLOR red][LIVE][/COLOR] INTERF: China Women's vs Russia Women's [COLOR yellow]BLV VĂN TÍCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1688459706-0-0-015f844a8e8e6952d250cf2bdc791afa
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LPL: Royal Never Give Up vs Ninjas in Pyjamas" tvg-name="LPL: Royal Never Give Up vs Ninjas in Pyjamas" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] LPL: Royal Never Give Up vs Ninjas in Pyjamas [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991116_lhd.m3u8?txSecret=9fe26bbd5bc795ac63cfbeeabeed0ef9&txTime=64a4200a
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: China Women's vs Russia Women's" tvg-name="INTERF: China Women's vs Russia Women's" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] INTERF: China Women's vs Russia Women's [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1688459706-0-0-6b4bcc6635d115f7568728aed317e543
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1688459706-0-0-6f834462fca9b06b18e27c666c3c6129
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INTERF: China Women's vs Russia Women's" tvg-name="INTERF: China Women's vs Russia Women's" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] INTERF: China Women's vs Russia Women's [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1688459706-0-0-6b0adb7193c6ae1ac2de87296e5a5a7e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230612/ef661746975ffa101b5df40864d75797.jpg",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]G HIP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991127_lhd.m3u8?auth_key=1688459526-0-0-da6851830568e63c9cd8f32afe396e42
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Tường thuật: AFC U17 - Korea Republic vs Uzbekistan" tvg-name="Tường thuật: AFC U17 - Korea Republic vs Uzbekistan" tvg-logo="https://sta.vnres.co/file/head/20230427/75cb71a2fe9e8112b4f3ed794b5c4255.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: AFC U17 - Korea Republic vs Uzbekistan [COLOR yellow]Sóc Chu Du[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-294884_lhd.m3u8?auth_key=1688459526-0-0-e8bcf400068b2f05010b35399cba461c
+https://pull06.scstream.net/live/stream-991127_lhd.m3u8?auth_key=1688459706-0-0-20828689a15361caa32ffbde152850fc
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường Thuật: UEFA U21 - France vs Ukraine" tvg-name="Tường Thuật: UEFA U21 - France vs Ukraine" tvg-logo="https://sta.vnres.co/file/head/20230427/79fdf6b2367fea58b433155069eeb0b2.jpg",[COLOR red][LIVE][/COLOR] Tường Thuật: UEFA U21 - France vs Ukraine [COLOR yellow]Sóc Bìn Tĩn[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-351002_lhd.m3u8?auth_key=1688459526-0-0-6b6886255ec7299fa698cb48c5aaf6aa
+https://pull06.scstream.net/live/stream-351002_lhd.m3u8?auth_key=1688459706-0-0-c0ed17256a9c60536f4fce57ea419580
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: AFC U17 - Iran vs Japan" tvg-name="Tường thuật: AFC U17 - Iran vs Japan" tvg-logo="https://sta.vnres.co/file/head/20230125/aae6c042505133c84ca7da96d3e9a801.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: AFC U17 - Iran vs Japan [COLOR yellow]Soc Mi nhon[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-198448_lhd.m3u8?auth_key=1688459526-0-0-1e4427b95a782e346fbaf40db83068e4
+https://pull06.scstream.net/live/stream-198448_lhd.m3u8?auth_key=1688459706-0-0-fa81fcd9d6fdf52f5583ae24352cb6d1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA U21 - Spain vs Switzerland" tvg-name="Tường thuật: UEFA U21 - Spain vs Switzerland" tvg-logo="https://sta.vnres.co/file/head/20230209/76c78c56a8b65bf7bc2f341973d424ad.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U21 - Spain vs Switzerland [COLOR yellow]Soc Banh Mi[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-184654_lhd.m3u8?auth_key=1688459526-0-0-4dadf3f85fdde65ae0cf5c0b56c66e47
+https://pull06.scstream.net/live/stream-184654_lhd.m3u8?auth_key=1688459706-0-0-c6f08125bca00dd7b2a9489e514f7e54
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Tường thuật: AFC U17 - Korea Republic vs Uzbekistan" tvg-name="Tường thuật: AFC U17 - Korea Republic vs Uzbekistan" tvg-logo="https://sta.vnres.co/file/head/20230427/75cb71a2fe9e8112b4f3ed794b5c4255.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: AFC U17 - Korea Republic vs Uzbekistan [COLOR yellow]Sóc Chu Du[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-294884_lhd.m3u8?auth_key=1688459706-0-0-6661044eceeac3dcaee613075ab699c4
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA U21 - England vs Portugal" tvg-name="Tường thuật: UEFA U21 - England vs Portugal" tvg-logo="https://sta.vnres.co/file/head/20230112/d413a712317b67568f3a377db60b5cfc.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U21 - England vs Portugal [COLOR yellow]Soc Ga Con[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-170578_lhd.m3u8?auth_key=1688459526-0-0-44f8e53654b40eff86420d6ea6b40887
+https://pull06.scstream.net/live/stream-170578_lhd.m3u8?auth_key=1688459706-0-0-9b9f0df9eecc513c2ff1969c7fd199c1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
