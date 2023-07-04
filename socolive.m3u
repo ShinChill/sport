@@ -1,61 +1,67 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Gold Cup: Canada vs Cuba" tvg-name="Gold Cup: Canada vs Cuba" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Canada vs Cuba [COLOR yellow]BLV MÁT GAI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-273067_lhd.m3u8?txSecret=0ca026b344a75e867514e9f4c5dc1acb&txTime=64a4f89b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Canada vs Cuba" tvg-name="Gold Cup: Canada vs Cuba" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Canada vs Cuba [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1688515147-0-0-9639f9d7140abf4beb1f5c9ab593e0cb
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Guadeloupe vs Guatemala" tvg-name="Gold Cup: Guadeloupe vs Guatemala" tvg-logo="https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Guadeloupe vs Guatemala [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1688515147-0-0-a9c7448ac2c66c8117be4f323bffd1d5
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Canada vs Cuba" tvg-name="Gold Cup: Canada vs Cuba" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Canada vs Cuba [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1688515147-0-0-72a637c20fbc16e628340c917cbc380b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Guadeloupe vs Guatemala" tvg-name="Gold Cup: Guadeloupe vs Guatemala" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] Gold Cup: Guadeloupe vs Guatemala [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-106737_lhd.m3u8?auth_key=1688515147-0-0-0cde7d4137abbaf433c4a320a63d4ae1
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Guadeloupe vs Guatemala" tvg-name="Gold Cup: Guadeloupe vs Guatemala" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Guadeloupe vs Guatemala [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1688515147-0-0-41de484bda73ef0d036f01647d55e882
+#EXTINF:-1 tvg-id="USA MLS: Inter Miami CF vs Columbus Crew" tvg-name="USA MLS: Inter Miami CF vs Columbus Crew" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] USA MLS: Inter Miami CF vs Columbus Crew [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1688515327-0-0-6311e9f6f417af8e71bd1c6abddbd48c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: Canada vs Cuba" tvg-name="Gold Cup: Canada vs Cuba" tvg-logo="https://sta.vnres.co/file/head/20230603/3eb91bc921be5aafb1eae6d9430117e3.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Canada vs Cuba [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=b31001ccb7f42cec81dcd7b49999d04f&txTime=64a4f89b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Canada vs Cuba" tvg-name="Gold Cup: Canada vs Cuba" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Canada vs Cuba [COLOR yellow]KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1688515147-0-0-cb4b244fc59e7cf0988ff6e50a841b97
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Canada vs Cuba" tvg-name="Gold Cup: Canada vs Cuba" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Canada vs Cuba [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=3d2fa457da68363657e1d8df3f32eb17&txTime=64a4f89b
+https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=e321f81498d00f6e873a281427f343df&txTime=64a4f94f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: Guadeloupe vs Guatemala" tvg-name="Gold Cup: Guadeloupe vs Guatemala" tvg-logo="https://sta.vnres.co/file/head/20230613/574173bc84eb707d0dd66291fbb9c899.png",[COLOR red][LIVE][/COLOR] Gold Cup: Guadeloupe vs Guatemala [COLOR yellow]BLV VĂN TÍCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1688515147-0-0-c10baafebcbaf78460aaa3b9a259fe70
+https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1688515327-0-0-cafdefefd50c8b03a7a4c395a75694cf
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA MLS: Inter Miami CF vs Columbus Crew" tvg-name="USA MLS: Inter Miami CF vs Columbus Crew" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] USA MLS: Inter Miami CF vs Columbus Crew [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1688515147-0-0-9b7deffdd8e3552573d3c61d33f65b02
+#EXTINF:-1 tvg-id="Gold Cup: Canada vs Cuba" tvg-name="Gold Cup: Canada vs Cuba" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Canada vs Cuba [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1688515327-0-0-42ed5b1ba64dffd9653f486018f1cf6b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Lanus vs Velez Sarsfield" tvg-name="ARG D1: Lanus vs Velez Sarsfield" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Lanus vs Velez Sarsfield [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1688515147-0-0-7aa73a7f3fd981b8d6e9924986e0b073
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1688515327-0-0-3ff08a8299d4ec6066ef8e171dbe75dc
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Canada vs Cuba" tvg-name="Gold Cup: Canada vs Cuba" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Canada vs Cuba [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=32cb81ba88e8ef455d03eee20f96bf1e&txTime=64a4f94f
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Canada vs Cuba" tvg-name="Gold Cup: Canada vs Cuba" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Canada vs Cuba [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1688515327-0-0-0690aa7731cbd36ebaa4ac53e2833797
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Guadeloupe vs Guatemala" tvg-name="Gold Cup: Guadeloupe vs Guatemala" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Guadeloupe vs Guatemala [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1688515327-0-0-b8fb40570fa4edbc2fb1a4157310e4cd
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Canada vs Cuba" tvg-name="Gold Cup: Canada vs Cuba" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Canada vs Cuba [COLOR yellow]KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1688515327-0-0-8e54424c997681f07509723617cebc63
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Guadeloupe vs Guatemala" tvg-name="Gold Cup: Guadeloupe vs Guatemala" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] Gold Cup: Guadeloupe vs Guatemala [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-106737_lhd.m3u8?auth_key=1688515327-0-0-2b78f4ff729462e67eb625244f7dc205
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Guadeloupe vs Guatemala" tvg-name="Gold Cup: Guadeloupe vs Guatemala" tvg-logo="https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Guadeloupe vs Guatemala [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1688515327-0-0-5b0e8e042111c58a92ea8d0fcd0a013c
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Canada vs Cuba" tvg-name="Gold Cup: Canada vs Cuba" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Canada vs Cuba [COLOR yellow]BLV MÁT GAI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-273067_lhd.m3u8?txSecret=baacc1a7782cc60c234df42ce3e6b9af&txTime=64a4f94f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: Guadeloupe vs Guatemala" tvg-name="Gold Cup: Guadeloupe vs Guatemala" tvg-logo="https://sta.vnres.co/file/head/20230606/ea2fb298192cd1ea95046cf3ac74d043.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Guadeloupe vs Guatemala [COLOR yellow]BLV ENZO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-380460_lhd.m3u8?auth_key=1688515147-0-0-657128eb155932db5f620420652e61d9
+https://pull06.scstream.net/live/stream-380460_lhd.m3u8?auth_key=1688515327-0-0-e8fcb44a6ab5c21470aaaa3ea4bc5272
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHI CUP: Colo Colo vs Union La Calera" tvg-name="CHI CUP: Colo Colo vs Union La Calera" tvg-logo="https://sta.vnres.co/file/head/20230702/7e0abf7e2bf61020bc22a5ce1391e557.jpg",[COLOR red][LIVE][/COLOR] CHI CUP: Colo Colo vs Union La Calera [COLOR yellow]CỦ CHUỐI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-192778_lhd.m3u8?txSecret=8dd27fa0a8270a5446ad1f807e5433f8&txTime=64a4f89b
+https://pull01.rrwes.live/live/stream-192778_lhd.m3u8?txSecret=20cde52b3ed32a84e46878d956ebb5ad&txTime=64a4f94f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Lanus vs Velez Sarsfield" tvg-name="ARG D1: Lanus vs Velez Sarsfield" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Lanus vs Velez Sarsfield [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=7c59bfc621643ffc64e2ee21c6761f68&txTime=64a4f89b
+https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=e6eee28c1bef8e9589e8adaf93442d42&txTime=64a4f94f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Lanus vs Velez Sarsfield" tvg-name="ARG D1: Lanus vs Velez Sarsfield" tvg-logo="https://sta.vnres.co/file/head/20221220/15cddfa1880beb36bfbea12feedfec95.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Lanus vs Velez Sarsfield [COLOR yellow]BLV BRUCE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-206851_lhd.m3u8?auth_key=1688515147-0-0-0d0115c2a0b4677104464a1e4d61b051
+https://pull06.scstream.net/live/stream-206851_lhd.m3u8?auth_key=1688515327-0-0-cc062f0799772fd00b499f01ab0c5ed8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Lanus vs Velez Sarsfield" tvg-name="ARG D1: Lanus vs Velez Sarsfield" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Lanus vs Velez Sarsfield [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1688515147-0-0-a6cf72ec987d2798113931e798d254e0
+https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1688515327-0-0-43f0d8005de372987a6066b0b7b8c175
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Lanus vs Velez Sarsfield" tvg-name="ARG D1: Lanus vs Velez Sarsfield" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Lanus vs Velez Sarsfield [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1688515147-0-0-cea9088087f43a8431c16143ca099405
+https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1688515327-0-0-15a332ccd33d625c0b48067a0aefc35b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHI CUP: Colo Colo vs Union La Calera" tvg-name="CHI CUP: Colo Colo vs Union La Calera" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg",[COLOR red][LIVE][/COLOR] CHI CUP: Colo Colo vs Union La Calera [COLOR yellow]BLV KAKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1688515147-0-0-ef4674c0b0317a0b733f64dac7aae36e
+https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1688515327-0-0-4e2674770c402a12f2d22771dfd598bc
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Lanus vs Velez Sarsfield" tvg-name="ARG D1: Lanus vs Velez Sarsfield" tvg-logo="https://sta.vnres.co/file/head/20230628/ac2371709b24b0ecf56da5ffad4f75e2.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Lanus vs Velez Sarsfield [COLOR yellow]BLV TIGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-171964_lhd.m3u8?txSecret=c92f9bc797514f60f6c3b3f6d99fdfac&txTime=64a4f89b
+https://pull01.rrwes.live/live/stream-171964_lhd.m3u8?txSecret=8c0fb6d02a29c2d48c62b8ed3cfe688b&txTime=64a4f94f
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA MLS: Inter Miami CF vs Columbus Crew" tvg-name="USA MLS: Inter Miami CF vs Columbus Crew" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Inter Miami CF vs Columbus Crew [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1688515327-0-0-100fa894bb68a5df01c206783150b9f0
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="FIBA WAC: Canada W vs Colombia W" tvg-name="FIBA WAC: Canada W vs Colombia W" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] FIBA WAC: Canada W vs Colombia W [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=df8cb411b3d6c8550261a97c3d0900a1&txTime=64a4f94f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
