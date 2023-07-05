@@ -1,34 +1,34 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="USA MLS: Los Angeles Galaxy vs Los Angeles FC" tvg-name="USA MLS: Los Angeles Galaxy vs Los Angeles FC" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Los Angeles Galaxy vs Los Angeles FC [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1688534767-0-0-8581de25aad688642304db13aa3b5a18
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: Los Angeles Galaxy vs Los Angeles FC" tvg-name="USA MLS: Los Angeles Galaxy vs Los Angeles FC" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Los Angeles Galaxy vs Los Angeles FC [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1688534767-0-0-1d408335161793e465cc22f32dd7092a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA MLS: Los Angeles Galaxy vs Los Angeles FC" tvg-name="USA MLS: Los Angeles Galaxy vs Los Angeles FC" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] USA MLS: Los Angeles Galaxy vs Los Angeles FC [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-106737_lhd.m3u8?auth_key=1688534767-0-0-c6bc044049be88f14a281abe90bdc26c
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA MLS: Los Angeles Galaxy vs Los Angeles FC" tvg-name="USA MLS: Los Angeles Galaxy vs Los Angeles FC" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] USA MLS: Los Angeles Galaxy vs Los Angeles FC [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991128_lhd.m3u8?txSecret=b32a47942d329c8231d25e8df848de8f&txTime=64a5453f
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1688534947-0-0-3c8906b40ea032600fccddda8f7e362e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: Los Angeles Galaxy vs Los Angeles FC" tvg-name="USA MLS: Los Angeles Galaxy vs Los Angeles FC" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] USA MLS: Los Angeles Galaxy vs Los Angeles FC [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=90626fb1957bd334997f95f0ae6a41d1&txTime=64a5453f
+https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=60cef2d2e4b461ce9c7f6976829728b4&txTime=64a545f3
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA MLS: Los Angeles Galaxy vs Los Angeles FC" tvg-name="USA MLS: Los Angeles Galaxy vs Los Angeles FC" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] USA MLS: Los Angeles Galaxy vs Los Angeles FC [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991128_lhd.m3u8?txSecret=7f597207e8fd46c8718ea7a8eebb8453&txTime=64a545f3
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA MLS: Los Angeles Galaxy vs Los Angeles FC" tvg-name="USA MLS: Los Angeles Galaxy vs Los Angeles FC" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] USA MLS: Los Angeles Galaxy vs Los Angeles FC [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-106737_lhd.m3u8?auth_key=1688534947-0-0-8a86cf5026f52c2541baf02bfcaca3c9
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA MLS: Los Angeles Galaxy vs Los Angeles FC" tvg-name="USA MLS: Los Angeles Galaxy vs Los Angeles FC" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Los Angeles Galaxy vs Los Angeles FC [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1688534947-0-0-1fd101ce2ab995477d75a6af438a614c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: AFC U17 - Iran vs Japan" tvg-name="Tường thuật: AFC U17 - Iran vs Japan" tvg-logo="https://sta.vnres.co/file/head/20221213/1ccf6b3b54904f0da8610926a968d412.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: AFC U17 - Iran vs Japan [COLOR yellow]Sóc gánh nước[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-133824_lhd.m3u8?auth_key=1688534767-0-0-7ad39bfa59358668a86aeff71e87362f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Tường thuật: UEFA U21 - France vs Ukraine" tvg-name="Tường thuật: UEFA U21 - France vs Ukraine" tvg-logo="https://sta.vnres.co/file/head/20221111/5dedadaf5ec33677f4ebc3a71ba3626c.png",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U21 - France vs Ukraine [COLOR yellow]Sóc cam[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-152898_lhd.m3u8?auth_key=1688534767-0-0-594c233ff85927a08a7a58d313877c08
+https://pull06.scstream.net/live/stream-133824_lhd.m3u8?auth_key=1688534947-0-0-0929d91edaadd22a344e4b7e355b7fc3
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA U21 - Spain vs Switzerland" tvg-name="Tường thuật: UEFA U21 - Spain vs Switzerland" tvg-logo="https://sta.vnres.co/file/head/20220810/2a7ffd98fe2f64c7e36efb035d2cbc3b.png",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U21 - Spain vs Switzerland [COLOR yellow]Sóc phụ hồ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-133277_lhd.m3u8?auth_key=1688534767-0-0-aedb20f266838eef600e607e48ff6131
+https://pull06.scstream.net/live/stream-133277_lhd.m3u8?auth_key=1688534947-0-0-f6a26fbaba7e6878a2875c5e701ac841
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Tường thuật: UEFA U21 - France vs Ukraine" tvg-name="Tường thuật: UEFA U21 - France vs Ukraine" tvg-logo="https://sta.vnres.co/file/head/20221111/5dedadaf5ec33677f4ebc3a71ba3626c.png",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U21 - France vs Ukraine [COLOR yellow]Sóc cam[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-152898_lhd.m3u8?auth_key=1688534947-0-0-309842bf7c0a4ec7decc12fc54a2e90e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA U21 - England vs Portugal" tvg-name="Tường thuật: UEFA U21 - England vs Portugal" tvg-logo="https://sta.vnres.co/file/head/20230626/52e8c2568ca8908d025996a94579052b.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U21 - England vs Portugal [COLOR yellow]Sóc mèo méo meo[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-343500_lhd.m3u8?auth_key=1688534767-0-0-fd47384cfc61aecb966ea129352f23d4
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Tường thuật: AFC U17 - Korea Republic vs Uzbekistan" tvg-name="Tường thuật: AFC U17 - Korea Republic vs Uzbekistan" tvg-logo="https://sta.vnres.co/file/head/20221213/f2d17ad16d4acb59cfd9d0976f0fa77e.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: AFC U17 - Korea Republic vs Uzbekistan [COLOR yellow]Sóc nhà giàu[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-187684_lhd.m3u8?auth_key=1688534767-0-0-500eaa08218513d1e566ea5444645ee4
+https://pull06.scstream.net/live/stream-343500_lhd.m3u8?auth_key=1688534947-0-0-09260e39af1fdd3c11871410ce4038ca
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: AFC U17 - Japan vs Korea Republic" tvg-name="Tường thuật: AFC U17 - Japan vs Korea Republic" tvg-logo="https://sta.vnres.co/file/head/20220810/7ec533b436e71ab93e03dda2f6a15678.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: AFC U17 - Japan vs Korea Republic [COLOR yellow]Sóc Minions[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-160872_lhd.m3u8?auth_key=1688534767-0-0-9926c622a2d08181e20c438ff55447de
+https://pull06.scstream.net/live/stream-160872_lhd.m3u8?auth_key=1688534947-0-0-99e955ffca87e74093547b9fc3d4ae84
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Tường thuật: AFC U17 - Korea Republic vs Uzbekistan" tvg-name="Tường thuật: AFC U17 - Korea Republic vs Uzbekistan" tvg-logo="https://sta.vnres.co/file/head/20221213/f2d17ad16d4acb59cfd9d0976f0fa77e.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: AFC U17 - Korea Republic vs Uzbekistan [COLOR yellow]Sóc nhà giàu[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-187684_lhd.m3u8?auth_key=1688534947-0-0-866e9639ac3898708acd854fa1dcf51f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
