@@ -1,121 +1,118 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="USA MLS: Inter Miami CF vs Columbus Crew" tvg-name="USA MLS: Inter Miami CF vs Columbus Crew" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] USA MLS: Inter Miami CF vs Columbus Crew [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=2eb3ad8129d5f026285b1b71847df1c5&txTime=64a51a5b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Costa Rica vs Martinique" tvg-name="Gold Cup: Costa Rica vs Martinique" tvg-logo="https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Costa Rica vs Martinique [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1688523787-0-0-890e981cbb7d517c84a1dbb6e03d62c0
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA MLS: Colorado Rapids vs Portland Timbers" tvg-name="USA MLS: Colorado Rapids vs Portland Timbers" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Colorado Rapids vs Portland Timbers [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1688523787-0-0-7bde88029f83381453f7101227aec5ca
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Costa Rica vs Martinique" tvg-name="Gold Cup: Costa Rica vs Martinique" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Costa Rica vs Martinique [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=dcc86c1e94d08c32769ee527dd3c4dfb&txTime=64a51a5b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA MLS: Colorado Rapids vs Portland Timbers" tvg-name="USA MLS: Colorado Rapids vs Portland Timbers" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Colorado Rapids vs Portland Timbers [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1688523787-0-0-6328df6d9c6a4f6c22e9025e8340737a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA MLS: Inter Miami CF vs Columbus Crew" tvg-name="USA MLS: Inter Miami CF vs Columbus Crew" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Inter Miami CF vs Columbus Crew [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991122_lhd.m3u8?auth_key=1688523787-0-0-8ea8dfe7164f75ed67443d209fe26a87
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA MLS: FC Dallas vs Washington D.C. United" tvg-name="USA MLS: FC Dallas vs Washington D.C. United" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] USA MLS: FC Dallas vs Washington D.C. United [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1688523787-0-0-77ab2ce8ea05dedfa2e6ad2e47eb6c96
+#EXTINF:-1 tvg-id="BRA CUP: Bahia vs Gremio (RS" tvg-name="BRA CUP: Bahia vs Gremio (RS" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] BRA CUP: Bahia vs Gremio (RS [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1688523967-0-0-c956bfb27ca47b8d86bf41ad47de6b94
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: Panama vs El Salvador" tvg-name="Gold Cup: Panama vs El Salvador" tvg-logo="https://sta.vnres.co/file/head/20230613/574173bc84eb707d0dd66291fbb9c899.png",[COLOR red][LIVE][/COLOR] Gold Cup: Panama vs El Salvador [COLOR yellow]BLV VĂN TÍCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1688523787-0-0-97d0cf3d2be8aff957eb53157fe6c327
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA MLS: Orlando City vs Toronto FC" tvg-name="USA MLS: Orlando City vs Toronto FC" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] USA MLS: Orlando City vs Toronto FC [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991128_lhd.m3u8?txSecret=fc7bc649d847f0268c8387e5a0aaa8b6&txTime=64a51a5b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BRA CUP: Bahia vs Gremio (RS" tvg-name="BRA CUP: Bahia vs Gremio (RS" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] BRA CUP: Bahia vs Gremio (RS [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1688523787-0-0-0c813a875e2913ac1116aef92e53652a
+https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1688523967-0-0-ae2f39e7c713b2a36714f962be1ad85d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: Costa Rica vs Martinique" tvg-name="Gold Cup: Costa Rica vs Martinique" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Costa Rica vs Martinique [COLOR yellow]KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1688523787-0-0-a0331c4424f1ec8eebaa3d68cb12fb2d
+https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1688523967-0-0-e9788b52204e13312a2a300e6c78ffd4
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA MLS: Colorado Rapids vs Portland Timbers" tvg-name="USA MLS: Colorado Rapids vs Portland Timbers" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Colorado Rapids vs Portland Timbers [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1688523967-0-0-ac8e97f743577e8e1a64372c2d59e5c7
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA MLS: FC Dallas vs Washington D.C. United" tvg-name="USA MLS: FC Dallas vs Washington D.C. United" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] USA MLS: FC Dallas vs Washington D.C. United [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1688523967-0-0-7834a97776d4f8bc0d1aab4dd71b4bb5
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA MLS: Inter Miami CF vs Columbus Crew" tvg-name="USA MLS: Inter Miami CF vs Columbus Crew" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] USA MLS: Inter Miami CF vs Columbus Crew [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=49c97cfc26588ee0a1bbd6375ae6d91c&txTime=64a51b0f
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA MLS: Inter Miami CF vs Columbus Crew" tvg-name="USA MLS: Inter Miami CF vs Columbus Crew" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Inter Miami CF vs Columbus Crew [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991122_lhd.m3u8?auth_key=1688523967-0-0-6b4026da4f45195a17ad6e0b0ed13d63
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA MLS: Orlando City vs Toronto FC" tvg-name="USA MLS: Orlando City vs Toronto FC" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] USA MLS: Orlando City vs Toronto FC [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991128_lhd.m3u8?txSecret=d505cd21616c3ce9b3a5e331e299ee7c&txTime=64a51b0f
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Costa Rica vs Martinique" tvg-name="Gold Cup: Costa Rica vs Martinique" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Costa Rica vs Martinique [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=50d0cb3e65e80a5d966f23cc915204cf&txTime=64a51b0f
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Costa Rica vs Martinique" tvg-name="Gold Cup: Costa Rica vs Martinique" tvg-logo="https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Costa Rica vs Martinique [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1688523967-0-0-365f5d631b12edab7066c0b5abf5b769
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: FC Dallas vs Washington D.C. United" tvg-name="USA MLS: FC Dallas vs Washington D.C. United" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png",[COLOR red][LIVE][/COLOR] USA MLS: FC Dallas vs Washington D.C. United [COLOR yellow]BLV ODIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1688523787-0-0-394d7a155da34308312459378972699f
+https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1688523967-0-0-d11d0df284cfd55aaed8edd77a7742f5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: Panama vs El Salvador" tvg-name="Gold Cup: Panama vs El Salvador" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Panama vs El Salvador [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-143449_lhd.m3u8?txSecret=1e65fdaec665c91409381992a2b76821&txTime=64a51a5b
+#EXTINF:-1 tvg-id="USA MLS: Colorado Rapids vs Portland Timbers" tvg-name="USA MLS: Colorado Rapids vs Portland Timbers" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Colorado Rapids vs Portland Timbers [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1688523967-0-0-7c6002bba457c22947a10508a5373724
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: Inter Miami CF vs Columbus Crew" tvg-name="USA MLS: Inter Miami CF vs Columbus Crew" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] USA MLS: Inter Miami CF vs Columbus Crew [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1688523787-0-0-6ebdfd42a9278a414a41196ef4d41b32
+https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1688523967-0-0-770b38c44d92f6c65ad6053a3deefc1c
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: Panama vs El Salvador" tvg-name="Gold Cup: Panama vs El Salvador" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Panama vs El Salvador [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-143449_lhd.m3u8?txSecret=52af599ec73bf8356bd9555156771de5&txTime=64a51b0f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: Panama vs El Salvador" tvg-name="Gold Cup: Panama vs El Salvador" tvg-logo="https://sta.vnres.co/file/head/20230603/3eb91bc921be5aafb1eae6d9430117e3.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Panama vs El Salvador [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=7796373539f3e4c4c9c72a5697d52517&txTime=64a51a5b
+https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=45805e6e2f6d822a076f238d69818193&txTime=64a51b0f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: Costa Rica vs Martinique" tvg-name="Gold Cup: Costa Rica vs Martinique" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Costa Rica vs Martinique [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1688523787-0-0-41409451a9e12d970801232b5151647a
+https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1688523967-0-0-8a3d1b6c5edaff81bea95960b11a9c5c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: Costa Rica vs Martinique" tvg-name="Gold Cup: Costa Rica vs Martinique" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Costa Rica vs Martinique [COLOR yellow]BLV MÁT GAI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-273067_lhd.m3u8?txSecret=9f8e4040770f90ba52b29ec0ffad33b4&txTime=64a51a5b
+https://pull01.rrwes.live/live/stream-273067_lhd.m3u8?txSecret=65310653cf5a4eff7fe5b62a3dcb8204&txTime=64a51b0f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: Panama vs El Salvador" tvg-name="Gold Cup: Panama vs El Salvador" tvg-logo="https://sta.vnres.co/file/head/20230613/bb0941541fdd35e29ba3f39843feadbf.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Panama vs El Salvador [COLOR yellow]BLV BÁC SĨ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1688523787-0-0-150793417f567db62a87356568c22db4
+https://pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1688523967-0-0-a696dba682a68ca854532ab9a808f104
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: Costa Rica vs Martinique" tvg-name="Gold Cup: Costa Rica vs Martinique" tvg-logo="https://sta.vnres.co/file/head/20230606/ea2fb298192cd1ea95046cf3ac74d043.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: Costa Rica vs Martinique [COLOR yellow]BLV ENZO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-380460_lhd.m3u8?auth_key=1688523787-0-0-255083e9329390cdffc26bf873485598
+https://pull06.scstream.net/live/stream-380460_lhd.m3u8?auth_key=1688523967-0-0-2f49f2bcacdfd7b7451c7920e5ba08fd
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: FC Dallas vs Washington D.C. United" tvg-name="USA MLS: FC Dallas vs Washington D.C. United" tvg-logo="https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg",[COLOR red][LIVE][/COLOR] USA MLS: FC Dallas vs Washington D.C. United [COLOR yellow]BLV MESSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-494201_lhd.m3u8?txSecret=14dcbc3ef855533bb35b84713399c7d8&txTime=64a51a5b
+https://pull01.rrwes.live/live/stream-494201_lhd.m3u8?txSecret=45006cae6589ec84c628e688a16e2323&txTime=64a51b0f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: Inter Miami CF vs Columbus Crew" tvg-name="USA MLS: Inter Miami CF vs Columbus Crew" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Inter Miami CF vs Columbus Crew [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1688523787-0-0-65e9406536b9500bdadbc7c194d65f6f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA MLS: Orlando City vs Toronto FC" tvg-name="USA MLS: Orlando City vs Toronto FC" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg",[COLOR red][LIVE][/COLOR] USA MLS: Orlando City vs Toronto FC [COLOR yellow]VAN PEPSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-365007_lhd.m3u8?auth_key=1688523787-0-0-c7697647f2471168e46f584f3d34eb1f
+https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1688523967-0-0-7a23ca64bfbaa65682dcb076cffbd313
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: Orlando City vs Toronto FC" tvg-name="USA MLS: Orlando City vs Toronto FC" tvg-logo="https://sta.vnres.co/file/head/20230704/3f761735f74536f2d8d3cd7c92e432bb.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Orlando City vs Toronto FC [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-420171_lhd.m3u8?txSecret=84523be0a5d8fb56d026ba576c69de65&txTime=64a51a5b
+https://pull01.rrwes.live/live/stream-420171_lhd.m3u8?txSecret=3cc3930b7963b4bf6a502c7b250abc4b&txTime=64a51b0f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA MLS: FC Dallas vs Washington D.C. United" tvg-name="USA MLS: FC Dallas vs Washington D.C. United" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] USA MLS: FC Dallas vs Washington D.C. United [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=7be8dba46933fb88dd4674f7051522a9&txTime=64a51a5b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BRA CUP: Bahia vs Gremio (RS" tvg-name="BRA CUP: Bahia vs Gremio (RS" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] BRA CUP: Bahia vs Gremio (RS [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1688523847-0-0-a707399c247981c2530efaa640631ff6
+#EXTINF:-1 tvg-id="USA MLS: Orlando City vs Toronto FC" tvg-name="USA MLS: Orlando City vs Toronto FC" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg",[COLOR red][LIVE][/COLOR] USA MLS: Orlando City vs Toronto FC [COLOR yellow]VAN PEPSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-365007_lhd.m3u8?auth_key=1688524027-0-0-651f26ad69fb4b90d2463183d5966fdb
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: Inter Miami CF vs Columbus Crew" tvg-name="USA MLS: Inter Miami CF vs Columbus Crew" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Inter Miami CF vs Columbus Crew [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1688523847-0-0-4839a857d0584e89cbb8f171b1651f7c
+https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1688524027-0-0-d79ec9c6ee4023d8ee918aa398015309
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA MLS: FC Dallas vs Washington D.C. United" tvg-name="USA MLS: FC Dallas vs Washington D.C. United" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] USA MLS: FC Dallas vs Washington D.C. United [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=b7171fe088d62d1c185c77321b7ae52d&txTime=64a51b4b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="BRA CUP: Bahia vs Gremio (RS" tvg-name="BRA CUP: Bahia vs Gremio (RS" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] BRA CUP: Bahia vs Gremio (RS [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1688524027-0-0-f4884b91cfa0d901178cbe7c8991ddfd
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: FC Dallas vs Washington D.C. United" tvg-name="USA MLS: FC Dallas vs Washington D.C. United" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg",[COLOR red][LIVE][/COLOR] USA MLS: FC Dallas vs Washington D.C. United [COLOR yellow]BLV CAPTAIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-231997_lhd.m3u8?auth_key=1688523847-0-0-f109a7d9656d4d488ec9c984c9e1f0c7
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIBA WAC: Canada W vs Colombia W" tvg-name="FIBA WAC: Canada W vs Colombia W" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] FIBA WAC: Canada W vs Colombia W [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1688523847-0-0-018aa7a1d89946e7ce8259d56b6e8e65
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USA MLS: Inter Miami CF vs Columbus Crew" tvg-name="USA MLS: Inter Miami CF vs Columbus Crew" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Inter Miami CF vs Columbus Crew [COLOR yellow]BLV FANCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1688523847-0-0-8a41dc6e15cc96a9e38af727b6b06158
+https://pull06.scstream.net/live/stream-231997_lhd.m3u8?auth_key=1688524027-0-0-37fb49eaa0b3e65ebfa0e6c2fff75582
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BRA CUP: Bahia vs Gremio (RS" tvg-name="BRA CUP: Bahia vs Gremio (RS" tvg-logo="https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png",[COLOR red][LIVE][/COLOR] BRA CUP: Bahia vs Gremio (RS [COLOR yellow]PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-208390_lhd.m3u8?txSecret=39407f6559f7d7ea5be2f0ab0f796165&txTime=64a51a97
+https://pull01.rrwes.live/live/stream-208390_lhd.m3u8?txSecret=7ff0b7b6eab6d0c957adca866c18085f&txTime=64a51b4b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USA MLS: Inter Miami CF vs Columbus Crew" tvg-name="USA MLS: Inter Miami CF vs Columbus Crew" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Inter Miami CF vs Columbus Crew [COLOR yellow]BLV FANCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1688524027-0-0-84751af2a414874844050b16f25a3166
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: FC Dallas vs Washington D.C. United" tvg-name="USA MLS: FC Dallas vs Washington D.C. United" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] USA MLS: FC Dallas vs Washington D.C. United [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1688523847-0-0-cd77909561872e26f96483b0e12eb99c
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIBA WAC: Canada W vs Colombia W" tvg-name="FIBA WAC: Canada W vs Colombia W" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] FIBA WAC: Canada W vs Colombia W [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=9a9bf0630b739fb00c0f488f9e1851d3&txTime=64a51a97
+https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1688524027-0-0-3207d4e27793d1341b021b09aa785726
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VSL: Guaros de Lara vs Gladiadores" tvg-name="VSL: Guaros de Lara vs Gladiadores" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] VSL: Guaros de Lara vs Gladiadores [COLOR yellow]KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1688523847-0-0-e823bae473cd3120e522069507bdd30a
+https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1688524027-0-0-7814b87a597024b1964b84e4bf733425
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USLC: Las Vegas Lights FC vs New Mexico United" tvg-name="USLC: Las Vegas Lights FC vs New Mexico United" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] USLC: Las Vegas Lights FC vs New Mexico United [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1688523847-0-0-2c39d3ff74802c3843c8df4445953476
+#EXTINF:-1 tvg-id="FIBA WAC: Canada W vs Colombia W" tvg-name="FIBA WAC: Canada W vs Colombia W" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] FIBA WAC: Canada W vs Colombia W [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-166054_lhd.m3u8?auth_key=1688523967-0-0-4599abab570a75bdaae7c6901cc29b28
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BRA CUP: Bahia vs Gremio (RS" tvg-name="BRA CUP: Bahia vs Gremio (RS" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] BRA CUP: Bahia vs Gremio (RS [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1688523847-0-0-339b17b0b16efa3041597d942d3fd30c
+https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1688524027-0-0-d6d332492dbf24a7957309c42c99460c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="USLC: Las Vegas Lights FC vs New Mexico United" tvg-name="USLC: Las Vegas Lights FC vs New Mexico United" tvg-logo="https://sta.vnres.co/file/head/20230608/944e51718d34d61ad5d8b634a026c299.jpeg",[COLOR red][LIVE][/COLOR] USLC: Las Vegas Lights FC vs New Mexico United [COLOR yellow]BLV HAKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-359236_lhd.m3u8?auth_key=1688523847-0-0-3ee36fbb991aaa57d75047078a7b9b8c
+#EXTINF:-1 tvg-id="USLC: Las Vegas Lights FC vs New Mexico United" tvg-name="USLC: Las Vegas Lights FC vs New Mexico United" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] USLC: Las Vegas Lights FC vs New Mexico United [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1688524027-0-0-4b5e43e76e9b05fb818c4cf74e1bf836
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USLC: Las Vegas Lights FC vs New Mexico United" tvg-name="USLC: Las Vegas Lights FC vs New Mexico United" tvg-logo="https://sta.vnres.co/file/head/20230702/e13cf1be9abe71b42b6cb6ebc7333a5e.jpg",[COLOR red][LIVE][/COLOR] USLC: Las Vegas Lights FC vs New Mexico United [COLOR yellow]THẦY PHÁN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-327261_lhd.m3u8?auth_key=1688523847-0-0-57152953a8166a7c9dc60c8755afa7ef
+https://pull06.scstream.net/live/stream-327261_lhd.m3u8?auth_key=1688524027-0-0-00e71d7901eb8010b9cd1b5b9c11aea9
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="USLC: Las Vegas Lights FC vs New Mexico United" tvg-name="USLC: Las Vegas Lights FC vs New Mexico United" tvg-logo="https://sta.vnres.co/file/head/20230608/944e51718d34d61ad5d8b634a026c299.jpeg",[COLOR red][LIVE][/COLOR] USLC: Las Vegas Lights FC vs New Mexico United [COLOR yellow]BLV HAKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-359236_lhd.m3u8?auth_key=1688524027-0-0-1142767d89f2df559f25e3fa648d2c65
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: Colorado Rapids vs Portland Timbers" tvg-name="USA MLS: Colorado Rapids vs Portland Timbers" tvg-logo="https://sta.vnres.co/file/head/20230628/ac2371709b24b0ecf56da5ffad4f75e2.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Colorado Rapids vs Portland Timbers [COLOR yellow]BLV TIGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-171964_lhd.m3u8?txSecret=a29bede8017432fe7308cde6c9f324ee&txTime=64a51a97
+https://pull01.rrwes.live/live/stream-171964_lhd.m3u8?txSecret=6a5da4c05de3d1676db25980ff424136&txTime=64a51b4b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: Colorado Rapids vs Portland Timbers" tvg-name="USA MLS: Colorado Rapids vs Portland Timbers" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Colorado Rapids vs Portland Timbers [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1688523847-0-0-52a25a896e1be12bcc0baa66e6ffee5e
+https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1688524027-0-0-baeebb54974cca2a5a1bc3ae53097064
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="USA MLS: Colorado Rapids vs Portland Timbers" tvg-name="USA MLS: Colorado Rapids vs Portland Timbers" tvg-logo="https://sta.vnres.co/file/head/20221023/5317d7c7e14eb5adcaf9cd81bc9bccba.jpg",[COLOR red][LIVE][/COLOR] USA MLS: Colorado Rapids vs Portland Timbers [COLOR yellow]BLV BEE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1688523847-0-0-3f93e23b267d2757f0e02ec9ee4e34a1
+https://pull06.scstream.net/live/stream-991142_lhd.m3u8?auth_key=1688524027-0-0-dba104010c8bb653638cd8b96d8c2546
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
