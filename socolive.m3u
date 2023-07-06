@@ -1,30 +1,36 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LPL: Rare Atom vs Team WE" tvg-name="LPL: Rare Atom vs Team WE" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] LPL: Rare Atom vs Team WE [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=a4f008291bf80c2bb21441305000c029&txTime=64a6e9b8
+#EXTINF:-1 tvg-id="MYA D1: Yadanarbon FC vs Mawyawadi" tvg-name="MYA D1: Yadanarbon FC vs Mawyawadi" tvg-logo="https://sta.vnres.co/file/head/20230613/bb0941541fdd35e29ba3f39843feadbf.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Yadanarbon FC vs Mawyawadi [COLOR yellow]BLV BÁC SĨ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1688642588-0-0-13765e3914abb4d66d73590c3dc8cfb2
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IBL: Bali United vs Satria Muda" tvg-name="IBL: Bali United vs Satria Muda" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] IBL: Bali United vs Satria Muda [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=d90806d69bb2afe925ebb1a84415ca51&txTime=64a6e9b8
+https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=c1d36644ecd7af4de783e5b40f6748f0&txTime=64a6ea6c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MYA D1: Yadanarbon FC vs Mawyawadi" tvg-name="MYA D1: Yadanarbon FC vs Mawyawadi" tvg-logo="https://sta.vnres.co/file/head/20230610/a84af4233fd893e55f97c40f31e5edad.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Yadanarbon FC vs Mawyawadi [COLOR yellow]BLV CHARLIE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-495263_lhd.m3u8?auth_key=1688642408-0-0-5f02e17f1070f7b48c6a17b4e408aba4
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MYA D1: Yadanarbon FC vs Mawyawadi" tvg-name="MYA D1: Yadanarbon FC vs Mawyawadi" tvg-logo="https://sta.vnres.co/file/head/20230310/c88aad2517438b870b70b682d81e61db.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Yadanarbon FC vs Mawyawadi [COLOR yellow]YUKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1688642408-0-0-3b005d70d5ec83185217b7003050d6bb
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MYA D1: Yadanarbon FC vs Mawyawadi" tvg-name="MYA D1: Yadanarbon FC vs Mawyawadi" tvg-logo="https://sta.vnres.co/file/head/20230613/bb0941541fdd35e29ba3f39843feadbf.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Yadanarbon FC vs Mawyawadi [COLOR yellow]BLV BÁC SĨ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1688642408-0-0-7824c862d9260183e02671ea9903172c
+#EXTINF:-1 tvg-id="LPL: Rare Atom vs Team WE" tvg-name="LPL: Rare Atom vs Team WE" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] LPL: Rare Atom vs Team WE [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=0919c6fc71e7ab586f3216a619a33bd1&txTime=64a6ea6c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IBL: Bali United vs Satria Muda" tvg-name="IBL: Bali United vs Satria Muda" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] IBL: Bali United vs Satria Muda [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=89fb76cd13dae27bc07a4f9bec7c074d&txTime=64a6e9b8
+https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=37baecd12d8f8e08a98a8b8769c96c30&txTime=64a6ea6c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MYA D1: Yadanarbon FC vs Mawyawadi" tvg-name="MYA D1: Yadanarbon FC vs Mawyawadi" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Yadanarbon FC vs Mawyawadi [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1688642408-0-0-f57f560f5573bcbc80bf72d913a2c3c7
+#EXTINF:-1 tvg-id="VIE Cup: Thanh Hoa FC vs Ba Ria Vung Tau" tvg-name="VIE Cup: Thanh Hoa FC vs Ba Ria Vung Tau" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg",[COLOR red][LIVE][/COLOR] VIE Cup: Thanh Hoa FC vs Ba Ria Vung Tau [COLOR yellow]BLV KAKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1688642588-0-0-b49878c537fb397b4b55d73021f22c68
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LPL : Rare Atom vs Team We" tvg-name="LPL : Rare Atom vs Team We" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg",[COLOR red][LIVE][/COLOR] LPL : Rare Atom vs Team We [COLOR yellow]BLV QUICK[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1688642408-0-0-9720458b9c5c0db1549e1d6362114332
+https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1688642588-0-0-f9da8fa3198edfe687e31ad2b50fd821
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="NBL1C: Southern Tigers vs South Adelaide Panthers" tvg-name="NBL1C: Southern Tigers vs South Adelaide Panthers" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] NBL1C: Southern Tigers vs South Adelaide Panthers [COLOR yellow]KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1688642588-0-0-f034a9d2ab37c8a3ec68b65793d6b24c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MYA D1: Yadanarbon FC vs Mawyawadi" tvg-name="MYA D1: Yadanarbon FC vs Mawyawadi" tvg-logo="https://sta.vnres.co/file/head/20230626/0120819f12a19f93d4e06eb6cd63bfb6.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Yadanarbon FC vs Mawyawadi [COLOR yellow]SUNNY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-104707_lhd.m3u8?auth_key=1688642408-0-0-7a44e2a4ec62822d13aa6174d94a6315
+https://pull06.scstream.net/live/stream-104707_lhd.m3u8?auth_key=1688642588-0-0-970d8b94949f0d23ca34be923b997ef9
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MYA D1: Yadanarbon FC vs Mawyawadi" tvg-name="MYA D1: Yadanarbon FC vs Mawyawadi" tvg-logo="https://sta.vnres.co/file/head/20230610/a84af4233fd893e55f97c40f31e5edad.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Yadanarbon FC vs Mawyawadi [COLOR yellow]BLV CHARLIE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-495263_lhd.m3u8?auth_key=1688642588-0-0-a61c099c91bf38e66ad5f4fa7d6cd1ce
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MYA D1: Yadanarbon FC vs Mawyawadi" tvg-name="MYA D1: Yadanarbon FC vs Mawyawadi" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Yadanarbon FC vs Mawyawadi [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1688642588-0-0-8931e2963077eeb16df048e7cb500562
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MYA D1: Yadanarbon FC vs Mawyawadi" tvg-name="MYA D1: Yadanarbon FC vs Mawyawadi" tvg-logo="https://sta.vnres.co/file/head/20230310/c88aad2517438b870b70b682d81e61db.jpg",[COLOR red][LIVE][/COLOR] MYA D1: Yadanarbon FC vs Mawyawadi [COLOR yellow]YUKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1688642588-0-0-d420af06537cb1774e0aec3278c9262b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MYA D1: Yadanarbon FC vs Mawyawadi" tvg-name="MYA D1: Yadanarbon FC vs Mawyawadi" tvg-logo="https://sta.vnres.co/file/pic/202112/02/9699a63295e96624e17b05a8c1c59285",[COLOR red][LIVE][/COLOR] MYA D1: Yadanarbon FC vs Mawyawadi [COLOR yellow]Casting[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
 https://pull06.scstream.net/live/stream-121289_lhd.m3u8?auth_key=1688642294-0-0-d849f3c4ddee1eb6f183f69e3e29805f
