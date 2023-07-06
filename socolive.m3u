@@ -1,46 +1,46 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="ARG D1: Arsenal de Sarandi vs Defensa Y Justicia" tvg-name="ARG D1: Arsenal de Sarandi vs Defensa Y Justicia" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Arsenal de Sarandi vs Defensa Y Justicia [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=0a831c559561c712584244f847fc477a&txTime=64a77b44
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INTERF: Ireland Women's vs France Women's" tvg-name="INTERF: Ireland Women's vs France Women's" tvg-logo="https://sta.vnres.co/file/head/20230623/58659179c3d06dc0bae15fdca12d1ee0.png",[COLOR red][LIVE][/COLOR] INTERF: Ireland Women's vs France Women's [COLOR yellow]BLV SÓI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-427562_lhd.m3u8?auth_key=1688679668-0-0-ca5384956962543c3b0af57ee8117bca
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA U19: Malta(U19 vs Poland(U19" tvg-name="UEFA U19: Malta(U19 vs Poland(U19" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] UEFA U19: Malta(U19 vs Poland(U19 [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1688679668-0-0-9e07433df3abb188de9a1c504e86e738
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ARG D1: Union Santa Fe vs Boca Juniors" tvg-name="ARG D1: Union Santa Fe vs Boca Juniors" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Union Santa Fe vs Boca Juniors [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1688679668-0-0-ce4a427045afe8bf5e85a1a7fd97ab77
+#EXTINF:-1 tvg-id="UEFA U19: Malta(U19 vs Poland(U19" tvg-name="UEFA U19: Malta(U19 vs Poland(U19" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] UEFA U19: Malta(U19 vs Poland(U19 [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1688679848-0-0-6e143d0195939bf19c29144a0f597d99
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Union Santa Fe vs Boca Juniors" tvg-name="ARG D1: Union Santa Fe vs Boca Juniors" tvg-logo="https://sta.vnres.co/file/head/20221127/d645454fc053907b6633843d398b447a.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Union Santa Fe vs Boca Juniors [COLOR yellow]MĂNG CỤT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1688679668-0-0-a6a619f4fa18705919f6401cddde5f61
+https://pull06.scstream.net/live/stream-991105_lhd.m3u8?auth_key=1688679848-0-0-13f9ebd144d338dc14dabb7da9f01231
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ARG D1: Arsenal de Sarandi vs Defensa Y Justicia" tvg-name="ARG D1: Arsenal de Sarandi vs Defensa Y Justicia" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Arsenal de Sarandi vs Defensa Y Justicia [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=d1c20503e6336ab55f486fc70db3f759&txTime=64a77bf8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA U19: Malta(U19 vs Poland(U19" tvg-name="UEFA U19: Malta(U19 vs Poland(U19" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] UEFA U19: Malta(U19 vs Poland(U19 [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991136_lhd.m3u8?txSecret=e6933e4ea70b5bee5ed6692619d2261b&txTime=64a77b44
+https://pull01.rrwes.live/live/stream-991136_lhd.m3u8?txSecret=7d6c11747c2bc207463ebf5523b6d877&txTime=64a77bf8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Ireland Women's vs France Women's" tvg-name="INTERF: Ireland Women's vs France Women's" tvg-logo="https://sta.vnres.co/file/head/20230614/f8b999fcc9453ca30d8c26ab55daed67.jpg",[COLOR red][LIVE][/COLOR] INTERF: Ireland Women's vs France Women's [COLOR yellow]BLV GEM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-452823_lhd.m3u8?auth_key=1688679668-0-0-339b4756840255e82d066f65c294be0a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA U19: Malta(U19 vs Poland(U19" tvg-name="UEFA U19: Malta(U19 vs Poland(U19" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] UEFA U19: Malta(U19 vs Poland(U19 [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=9be87eca43bd2ff30bcbe3d57d952320&txTime=64a77b44
+https://pull06.scstream.net/live/stream-452823_lhd.m3u8?auth_key=1688679848-0-0-3752cf1e6346657d443a3861f60cde20
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA U19: Malta(U19 vs Poland(U19" tvg-name="UEFA U19: Malta(U19 vs Poland(U19" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png",[COLOR red][LIVE][/COLOR] UEFA U19: Malta(U19 vs Poland(U19 [COLOR yellow]BLV ODIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1688679668-0-0-2ace2446f972b6aec0dcb75472a20bf5
+https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1688679848-0-0-7dc2ab7cca9dd167c11a9352ab510a01
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA U19: Malta(U19 vs Poland(U19" tvg-name="UEFA U19: Malta(U19 vs Poland(U19" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] UEFA U19: Malta(U19 vs Poland(U19 [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1688679668-0-0-942507e97b18d491fc4180e4badccb3a
+#EXTINF:-1 tvg-id="ARG D1: Union Santa Fe vs Boca Juniors" tvg-name="ARG D1: Union Santa Fe vs Boca Juniors" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Union Santa Fe vs Boca Juniors [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1688679848-0-0-267fcb32105977b2b3d31d70f8e55ff1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ARG D1: Union Santa Fe vs Boca Juniors" tvg-name="ARG D1: Union Santa Fe vs Boca Juniors" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] ARG D1: Union Santa Fe vs Boca Juniors [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1688679668-0-0-0c4880b2ce1cd26a0d8a039938d28d40
+#EXTINF:-1 tvg-id="INTERF: Ireland Women's vs France Women's" tvg-name="INTERF: Ireland Women's vs France Women's" tvg-logo="https://sta.vnres.co/file/head/20230623/58659179c3d06dc0bae15fdca12d1ee0.png",[COLOR red][LIVE][/COLOR] INTERF: Ireland Women's vs France Women's [COLOR yellow]BLV SÓI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-427562_lhd.m3u8?auth_key=1688679848-0-0-4fe9532a0747c16dbd66cc8a78468676
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA U19: Malta(U19 vs Poland(U19" tvg-name="UEFA U19: Malta(U19 vs Poland(U19" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] UEFA U19: Malta(U19 vs Poland(U19 [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1688679848-0-0-2fb24777d64880f47db2e9a7eee0bc6d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA U19: Malta(U19 vs Poland(U19" tvg-name="UEFA U19: Malta(U19 vs Poland(U19" tvg-logo="https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg",[COLOR red][LIVE][/COLOR] UEFA U19: Malta(U19 vs Poland(U19 [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1688679668-0-0-6e66253188efb5eb9d264d22f091cb40
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1688679848-0-0-201e302bd73d1d494efd5704a442312c
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA U19: Malta(U19 vs Poland(U19" tvg-name="UEFA U19: Malta(U19 vs Poland(U19" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] UEFA U19: Malta(U19 vs Poland(U19 [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=09d98d79f4bc85a4858fe16792d88eb2&txTime=64a77bf8
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ARG D1: Union Santa Fe vs Boca Juniors" tvg-name="ARG D1: Union Santa Fe vs Boca Juniors" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] ARG D1: Union Santa Fe vs Boca Juniors [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1688679848-0-0-758028b6eaf617628ce0f29406558b30
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Ireland Women's vs France Women's" tvg-name="INTERF: Ireland Women's vs France Women's" tvg-logo="https://sta.vnres.co/file/head/20230617/8cb09474f329a0ca1fc83d33784f9bb7.JPEG",[COLOR red][LIVE][/COLOR] INTERF: Ireland Women's vs France Women's [COLOR yellow]BLV BOM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-400382_lhd.m3u8?auth_key=1688679668-0-0-0d9e37a9fbc906cad2e990b1f9223d29
+https://pull06.scstream.net/live/stream-400382_lhd.m3u8?auth_key=1688679848-0-0-4a8fd5ef6f113948b38778d8bc125f3e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Ireland Women's vs France Women's" tvg-name="INTERF: Ireland Women's vs France Women's" tvg-logo="https://sta.vnres.co/file/head/20230615/b7fa6450d1237f6a8ac9ca60acc62486.jpg",[COLOR red][LIVE][/COLOR] INTERF: Ireland Women's vs France Women's [COLOR yellow]BLV SHINZAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-432010_lhd.m3u8?auth_key=1688679668-0-0-01aea504a3dd6e1235bcbc42d51b09b4
+https://pull06.scstream.net/live/stream-432010_lhd.m3u8?auth_key=1688679848-0-0-37ec5d9a95f0b7383caf5eb177b7fd7d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INTERF: Ireland Women's vs France Women's" tvg-name="INTERF: Ireland Women's vs France Women's" tvg-logo="https://sta.vnres.co/file/head/20230702/e13cf1be9abe71b42b6cb6ebc7333a5e.jpg",[COLOR red][LIVE][/COLOR] INTERF: Ireland Women's vs France Women's [COLOR yellow]THẦY PHÁN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-327261_lhd.m3u8?auth_key=1688679668-0-0-4a912eefb11f6665d0e280e3eacd9d60
+https://pull06.scstream.net/live/stream-327261_lhd.m3u8?auth_key=1688679848-0-0-61d58954e931f33caabaeebf06279f0c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
