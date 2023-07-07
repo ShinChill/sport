@@ -1,103 +1,97 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="IDN D1: Arema Malang vs Persib Bandung" tvg-name="IDN D1: Arema Malang vs Persib Bandung" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] IDN D1: Arema Malang vs Persib Bandung [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1688741048-0-0-e32dd29f7f7f08031af53136b7242b6a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE Cup: Cong An Ha Noi vs Nam Dinh" tvg-name="VIE Cup: Cong An Ha Noi vs Nam Dinh" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] VIE Cup: Cong An Ha Noi vs Nam Dinh [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-143449_lhd.m3u8?txSecret=e3f35b6487a2759bb331272dbae9d209&txTime=64a86b08
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MAS SL: Kuala Lumpur City vs Terengganu" tvg-name="MAS SL: Kuala Lumpur City vs Terengganu" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",[COLOR red][LIVE][/COLOR] MAS SL: Kuala Lumpur City vs Terengganu [COLOR yellow]TAM MAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-113906_lhd.m3u8?auth_key=1688741048-0-0-2ea688edf09c627b33785eecac95b7ee
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE Cup: Cong An Ha Noi vs Nam Dinh" tvg-name="VIE Cup: Cong An Ha Noi vs Nam Dinh" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] VIE Cup: Cong An Ha Noi vs Nam Dinh [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1688741048-0-0-2cfef6b62ed931d70be34373f74439e5
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="IDN D1: Arema Malang vs Persib Bandung" tvg-name="IDN D1: Arema Malang vs Persib Bandung" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] IDN D1: Arema Malang vs Persib Bandung [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1688741048-0-0-b7487bac0df93c0ee6d1023eb3f645d6
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MAS SL: Kuala Lumpur City vs Terengganu" tvg-name="MAS SL: Kuala Lumpur City vs Terengganu" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] MAS SL: Kuala Lumpur City vs Terengganu [COLOR yellow]KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1688741048-0-0-a6d604c016d15c3ba5d8cabf44879c59
+https://pull06.scstream.net/live/stream-113906_lhd.m3u8?auth_key=1688741228-0-0-e56f88905da10e04638aaef5527873ea
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE Cup: Cong An Ha Noi vs Nam Dinh" tvg-name="VIE Cup: Cong An Ha Noi vs Nam Dinh" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] VIE Cup: Cong An Ha Noi vs Nam Dinh [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1688741048-0-0-ee5278005de414f4e3713875c66db388
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Mauritius vs Lesotho" tvg-name="CAF CoC: Mauritius vs Lesotho" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Mauritius vs Lesotho [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1688741048-0-0-16ac1a0844efecfddd60dca6c2a4313d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="IDN D1: Arema Malang vs Persib Bandung" tvg-name="IDN D1: Arema Malang vs Persib Bandung" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] IDN D1: Arema Malang vs Persib Bandung [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1688741048-0-0-b7af992a6b5619711cabc4b7792e5ffe
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Mauritius vs Lesotho" tvg-name="CAF CoC: Mauritius vs Lesotho" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png",[COLOR red][LIVE][/COLOR] CAF CoC: Mauritius vs Lesotho [COLOR yellow]BLV ODIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1688741048-0-0-581959b7612061d3426fe76700c2f142
+https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1688741228-0-0-15c7ff0ebc4fee5e77209ae52c2c33df
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE Cup: Cong An Ha Noi vs Nam Dinh" tvg-name="VIE Cup: Cong An Ha Noi vs Nam Dinh" tvg-logo="https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg",[COLOR red][LIVE][/COLOR] VIE Cup: Cong An Ha Noi vs Nam Dinh [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1688741048-0-0-167baba7627795af89962d7c52b9f56d
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1688741228-0-0-10b235ed2acdadfa44e7e77053a46d52
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE Cup: Cong An Ha Noi vs Nam Dinh" tvg-name="VIE Cup: Cong An Ha Noi vs Nam Dinh" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] VIE Cup: Cong An Ha Noi vs Nam Dinh [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-143449_lhd.m3u8?txSecret=c89ee916a2f84fc65cf848807549ae2a&txTime=64a86bbc
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF CoC: Mauritius vs Lesotho" tvg-name="CAF CoC: Mauritius vs Lesotho" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Mauritius vs Lesotho [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1688741228-0-0-31e7c65c5a77e92c0593078854795cf2
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="IDN D1: Arema Malang vs Persib Bandung" tvg-name="IDN D1: Arema Malang vs Persib Bandung" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] IDN D1: Arema Malang vs Persib Bandung [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1688741228-0-0-520b215f5f6ff7694facff5afcf21a31
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="IDN D1: Arema Malang vs Persib Bandung" tvg-name="IDN D1: Arema Malang vs Persib Bandung" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] IDN D1: Arema Malang vs Persib Bandung [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1688741228-0-0-970674ed0378be8c1bcdee712dca9b15
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE Cup: Cong An Ha Noi vs Nam Dinh" tvg-name="VIE Cup: Cong An Ha Noi vs Nam Dinh" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] VIE Cup: Cong An Ha Noi vs Nam Dinh [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1688741228-0-0-06f968d19e1a0bce42d115c8d0a8afda
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF CoC: Mauritius vs Lesotho" tvg-name="CAF CoC: Mauritius vs Lesotho" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png",[COLOR red][LIVE][/COLOR] CAF CoC: Mauritius vs Lesotho [COLOR yellow]BLV ODIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1688741228-0-0-0cdc268b3fe7a2c5f8052b6a7f262114
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MAS SL: Perak vs Kelantan United" tvg-name="MAS SL: Perak vs Kelantan United" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] MAS SL: Perak vs Kelantan United [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1688741048-0-0-c773e961382d8b3c8bd29c2b79ad8718
+https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1688741228-0-0-03c6f53db863d0ab1c737e541866a5f8
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="IDN D1: Arema Malang vs Persib Bandung" tvg-name="IDN D1: Arema Malang vs Persib Bandung" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] IDN D1: Arema Malang vs Persib Bandung [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1688741228-0-0-8bcbef9a89982658bf1ca9c53c12b9ba
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MAS SL: Kuala Lumpur City vs Terengganu" tvg-name="MAS SL: Kuala Lumpur City vs Terengganu" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] MAS SL: Kuala Lumpur City vs Terengganu [COLOR yellow]KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1688741228-0-0-01b0654002e6ce7ab7f863b9b2b1defd
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MAS SL: Kuala Lumpur City vs Terengganu" tvg-name="MAS SL: Kuala Lumpur City vs Terengganu" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] MAS SL: Kuala Lumpur City vs Terengganu [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1688741048-0-0-019fa278766092416421b66f8227bfcc
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CHA SL: Meizhou Hakka vs Chengdu Rongcheng FC" tvg-name="CHA SL: Meizhou Hakka vs Chengdu Rongcheng FC" tvg-logo="https://sta.vnres.co/file/head/20230613/574173bc84eb707d0dd66291fbb9c899.png",[COLOR red][LIVE][/COLOR] CHA SL: Meizhou Hakka vs Chengdu Rongcheng FC [COLOR yellow]BLV VĂN TÍCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1688741048-0-0-f0a5d6e4a5a85fad434002541678fe61
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE Cup: Cong An Ha Noi vs Nam Dinh" tvg-name="VIE Cup: Cong An Ha Noi vs Nam Dinh" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] VIE Cup: Cong An Ha Noi vs Nam Dinh [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1688741048-0-0-db8847aee2d91341b46c99175b2bad5c
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MAS SL: Perak vs Kelantan United" tvg-name="MAS SL: Perak vs Kelantan United" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] MAS SL: Perak vs Kelantan United [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1688741048-0-0-2d4dd5810b7cc74ac89d65ae60a361f8
+https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1688741228-0-0-e73e19da3b9636a5eeb8dda6e1fdf1a5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE Cup: Cong An Ha Noi vs Nam Dinh" tvg-name="VIE Cup: Cong An Ha Noi vs Nam Dinh" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg",[COLOR red][LIVE][/COLOR] VIE Cup: Cong An Ha Noi vs Nam Dinh [COLOR yellow]BLV CAPTAIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-231997_lhd.m3u8?auth_key=1688741048-0-0-2eafde43c322b35f27923eddf033be64
+https://pull06.scstream.net/live/stream-231997_lhd.m3u8?auth_key=1688741228-0-0-78cd5277aeb88d803302a692b053f800
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Mauritius vs Lesotho" tvg-name="CAF CoC: Mauritius vs Lesotho" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Mauritius vs Lesotho [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1688741048-0-0-36d625bfd94d7c36bb22c2f6ec8fb422
+#EXTINF:-1 tvg-id="MAS SL: Perak vs Kelantan United" tvg-name="MAS SL: Perak vs Kelantan United" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] MAS SL: Perak vs Kelantan United [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1688741228-0-0-bdc6c746c1f226de99e496f5f4794ffc
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE Cup: Cong An Ha Noi vs Nam Dinh" tvg-name="VIE Cup: Cong An Ha Noi vs Nam Dinh" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] VIE Cup: Cong An Ha Noi vs Nam Dinh [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1688741228-0-0-04513f8264da5be56d38f5359a4bb6c7
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IDN D1: Arema Malang vs Persib Bandung" tvg-name="IDN D1: Arema Malang vs Persib Bandung" tvg-logo="https://sta.vnres.co/file/head/20230614/42f95823a1cfff31a879a9d6b7222bfd.jpg",[COLOR red][LIVE][/COLOR] IDN D1: Arema Malang vs Persib Bandung [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1688741048-0-0-24137842f0d80c2497d814a2b11510b0
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="IDN D1: Arema Malang vs Persib Bandung" tvg-name="IDN D1: Arema Malang vs Persib Bandung" tvg-logo="https://sta.vnres.co/file/head/20230626/0120819f12a19f93d4e06eb6cd63bfb6.jpg",[COLOR red][LIVE][/COLOR] IDN D1: Arema Malang vs Persib Bandung [COLOR yellow]SUNNY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-104707_lhd.m3u8?auth_key=1688741048-0-0-7c51f9eb143aef53ae9a1b2de4be3368
+https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1688741228-0-0-8e25046e86a500161db61cbc08b67331
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IDN D1: Arema Malang vs Persib Bandung" tvg-name="IDN D1: Arema Malang vs Persib Bandung" tvg-logo="https://sta.vnres.co/file/head/20230606/ea2fb298192cd1ea95046cf3ac74d043.jpg",[COLOR red][LIVE][/COLOR] IDN D1: Arema Malang vs Persib Bandung [COLOR yellow]BLV ENZO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-380460_lhd.m3u8?auth_key=1688741048-0-0-13f585c97c3640282f392dcf77578e8d
+https://pull06.scstream.net/live/stream-380460_lhd.m3u8?auth_key=1688741228-0-0-855798c680dba461ee1f2bd627f5921d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Mauritius vs Lesotho" tvg-name="CAF CoC: Mauritius vs Lesotho" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] CAF CoC: Mauritius vs Lesotho [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=1e56b4b2bbd1663218395920927d96f9&txTime=64a86b08
+#EXTINF:-1 tvg-id="IDN D1: Arema Malang vs Persib Bandung" tvg-name="IDN D1: Arema Malang vs Persib Bandung" tvg-logo="https://sta.vnres.co/file/head/20230626/0120819f12a19f93d4e06eb6cd63bfb6.jpg",[COLOR red][LIVE][/COLOR] IDN D1: Arema Malang vs Persib Bandung [COLOR yellow]SUNNY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-104707_lhd.m3u8?auth_key=1688741228-0-0-293c5970dae07a99dff907a0c3e07131
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF CoC: Mauritius vs Lesotho" tvg-name="CAF CoC: Mauritius vs Lesotho" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Mauritius vs Lesotho [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1688741228-0-0-a6629e560aa5e9a521043f4914a8c551
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MAS SL: Kuala Lumpur City vs Terengganu" tvg-name="MAS SL: Kuala Lumpur City vs Terengganu" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] MAS SL: Kuala Lumpur City vs Terengganu [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1688741048-0-0-2bfe6db425ec71a56c6ff77128037378
+https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1688741228-0-0-453512c1df70dc104864503375899282
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MAS SL: Perak vs Kelantan United" tvg-name="MAS SL: Perak vs Kelantan United" tvg-logo="https://sta.vnres.co/file/head/20230703/1c680e11871e2e043a76071fb237c0ca.jpg",[COLOR red][LIVE][/COLOR] MAS SL: Perak vs Kelantan United [COLOR yellow]BLV GÀ RỪNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-425114_lhd.m3u8?auth_key=1688741108-0-0-7f06d2c47f27331be373d973d900567e
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MAS SL: Perak vs Kelantan United" tvg-name="MAS SL: Perak vs Kelantan United" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][LIVE][/COLOR] MAS SL: Perak vs Kelantan United [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1688741108-0-0-69a9c047ffd5455511b42a4ec0423454
+#EXTINF:-1 tvg-id="CAF CoC: Mauritius vs Lesotho" tvg-name="CAF CoC: Mauritius vs Lesotho" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] CAF CoC: Mauritius vs Lesotho [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=ff0e5caed4da69006339b092f622c27b&txTime=64a86bbc
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MAS SL: Kuala Lumpur City vs Terengganu" tvg-name="MAS SL: Kuala Lumpur City vs Terengganu" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] MAS SL: Kuala Lumpur City vs Terengganu [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1688741108-0-0-93d58e061911af83e6cc1ee90a95b4ee
+https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1688741228-0-0-92379a2300e6532c3b2fc94340e07001
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MAS SL: Perak vs Kelantan United" tvg-name="MAS SL: Perak vs Kelantan United" tvg-logo="https://sta.vnres.co/file/head/20230703/1c680e11871e2e043a76071fb237c0ca.jpg",[COLOR red][LIVE][/COLOR] MAS SL: Perak vs Kelantan United [COLOR yellow]BLV GÀ RỪNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-425114_lhd.m3u8?auth_key=1688741228-0-0-e33ad01da63ca134a2de01af0e7613ed
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MAS SL: Perak vs Kelantan United" tvg-name="MAS SL: Perak vs Kelantan United" tvg-logo="https://sta.vnres.co/file/head/20230527/2fb6fe2d92085949b3cd4589c51a6499.jpg",[COLOR red][LIVE][/COLOR] MAS SL: Perak vs Kelantan United [COLOR yellow]BLV Maximus[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991109_lhd.m3u8?auth_key=1688741288-0-0-2ee7a61d658a8374e20968f3f00c9243
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MAS SL: Kuala Lumpur City vs Terengganu" tvg-name="MAS SL: Kuala Lumpur City vs Terengganu" tvg-logo="https://sta.vnres.co/file/head/20230617/8cb09474f329a0ca1fc83d33784f9bb7.JPEG",[COLOR red][LIVE][/COLOR] MAS SL: Kuala Lumpur City vs Terengganu [COLOR yellow]BLV BOM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-400382_lhd.m3u8?auth_key=1688741108-0-0-c3bb6c57072b1bd26c54a1718a544041
+https://pull06.scstream.net/live/stream-400382_lhd.m3u8?auth_key=1688741288-0-0-0b193ed5b904b903a77f07b3377cce6d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF CoC: Mauritius vs Lesotho" tvg-name="CAF CoC: Mauritius vs Lesotho" tvg-logo="https://sta.vnres.co/file/head/20230310/c88aad2517438b870b70b682d81e61db.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Mauritius vs Lesotho [COLOR yellow]YUKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1688741108-0-0-bbbf25cab969830e8173f7e9ff88142f
+https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1688741288-0-0-afc2ac9a96d491248f56e96b05aadb2a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="NBL1W: Joondalup Wolves vs Kalamunda Eastern Suns" tvg-name="NBL1W: Joondalup Wolves vs Kalamunda Eastern Suns" tvg-logo="https://sta.vnres.co/file/head/20230611/45ad3fec72e34d9b8e8a98d6cc02ef95.jpeg",[COLOR red][LIVE][/COLOR] NBL1W: Joondalup Wolves vs Kalamunda Eastern Suns [COLOR yellow]DR STRANGE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-252519_lhd.m3u8?txSecret=6bd15b06a9b01f9b85995ec47e399008&txTime=64a86b44
+https://pull01.rrwes.live/live/stream-252519_lhd.m3u8?txSecret=32759c30c0098fdba0d4f7d2f98c4e26&txTime=64a86bf8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CNBL: Jiangxi Ganchi vs Hebei Xianglan Kylins" tvg-name="CNBL: Jiangxi Ganchi vs Hebei Xianglan Kylins" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] CNBL: Jiangxi Ganchi vs Hebei Xianglan Kylins [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=9ea01fc34a1c6a7ece7d29407ae02fd9&txTime=64a86b44
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CHA SL: Zhejiang Professional FC vs Shanghai Shenhua" tvg-name="CHA SL: Zhejiang Professional FC vs Shanghai Shenhua" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] CHA SL: Zhejiang Professional FC vs Shanghai Shenhua [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=d9e1f93eef95d538a81084e54e491fcb&txTime=64a86a67
+https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=a4391226480a89bce086e69e00176cea&txTime=64a86bf8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ECMU20B: Finland U20 vs Switzerland U20" tvg-name="ECMU20B: Finland U20 vs Switzerland U20" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png",[COLOR red][LIVE][/COLOR] ECMU20B: Finland U20 vs Switzerland U20 [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1688741108-0-0-fd31db43891acdff3b56e716bd647b88
+https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1688741288-0-0-d45d103e9fa7f1e3eb36c62a556e22bf
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ECMU20B: Hungary U20 vs Portugal U20" tvg-name="ECMU20B: Hungary U20 vs Portugal U20" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] ECMU20B: Hungary U20 vs Portugal U20 [COLOR yellow]KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1688741108-0-0-7125f7cd29118828fa5bed7208a896c8
+https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1688741288-0-0-67eaa73764a90d0e42d5b743266829f5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MAS SL : Perak - Kelantan United" tvg-name="MAS SL : Perak - Kelantan United" tvg-logo="https://sta.vnres.co/file/head/20230320/97d97d0e565a3e865d6556683529fd3b.jpg",[COLOR red][LIVE][/COLOR] MAS SL : Perak - Kelantan United [COLOR yellow]Casting 06[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-252852_lhd.m3u8?auth_key=1688741108-0-0-927a3085e2116625afb36abd3869d2c1
+https://pull06.scstream.net/live/stream-252852_lhd.m3u8?auth_key=1688741288-0-0-fce68a332088af46d96a3dce3d539f71
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
