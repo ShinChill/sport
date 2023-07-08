@@ -1,57 +1,54 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="EGY D1: Future FC vs Zamalek" tvg-name="EGY D1: Future FC vs Zamalek" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] EGY D1: Future FC vs Zamalek [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1688844368-0-0-0b165e8a8a07cb4f55b729ac3227397f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="URU D1: Danubio FC vs CA Penarol" tvg-name="URU D1: Danubio FC vs CA Penarol" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] URU D1: Danubio FC vs CA Penarol [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=1997fb9f7d6baf6781fd17f2dfc7f031&txTime=64a9fea0
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CHI D1 : Huachipato FC vs  Universidad de Chile" tvg-name="CHI D1 : Huachipato FC vs  Universidad de Chile" tvg-logo="https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg",[COLOR red][LIVE][/COLOR] CHI D1 : Huachipato FC vs  Universidad de Chile [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1688844368-0-0-c6611954bd0524ebab159c4db0809c0b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LAT D1: Riga FC vs FK Auda Riga" tvg-name="LAT D1: Riga FC vs FK Auda Riga" tvg-logo="https://sta.vnres.co/file/head/20230603/3eb91bc921be5aafb1eae6d9430117e3.jpg",[COLOR red][LIVE][/COLOR] LAT D1: Riga FC vs FK Auda Riga [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=ff3fdf9663380fafbb140f88dbdacb23&txTime=64a9fea0
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BRA D2: ABC Natal/RN vs Criciuma SC" tvg-name="BRA D2: ABC Natal/RN vs Criciuma SC" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] BRA D2: ABC Natal/RN vs Criciuma SC [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1688844368-0-0-e96e82d344287dc7d6f956bcb54c5c04
+https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1688844548-0-0-2ea9f8c89fd84c2cb8d62cf22eb8bf17
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="LAT D1: Riga FC vs FK Auda Riga" tvg-name="LAT D1: Riga FC vs FK Auda Riga" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] LAT D1: Riga FC vs FK Auda Riga [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1688844368-0-0-5d6ced9003e2a9e376699713d459f824
+https://pull06.scstream.net/live/stream-991137_lhd.m3u8?auth_key=1688844548-0-0-c21195ddeb5f81f5e7bb05083ac9a04c
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="BRA D2: ABC Natal/RN vs Criciuma SC" tvg-name="BRA D2: ABC Natal/RN vs Criciuma SC" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] BRA D2: ABC Natal/RN vs Criciuma SC [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1688844548-0-0-332063af4561a813c19441ebb8ed15c1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EGY D1:   Future FC vs         Zamalek" tvg-name="EGY D1:   Future FC vs         Zamalek" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] EGY D1:   Future FC vs         Zamalek [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1688844368-0-0-90941c2aec719acf608fb21514c734cb
+https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1688844548-0-0-a8627718429dc8c253f614a30a34a852
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="URU D1: Danubio FC vs CA Penarol" tvg-name="URU D1: Danubio FC vs CA Penarol" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] URU D1: Danubio FC vs CA Penarol [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=a2f2bb994e101d1847432eb41cb97e4d&txTime=64a9ff54
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ICE PR: Keflavik vs Vikingur Reykjavik" tvg-name="ICE PR: Keflavik vs Vikingur Reykjavik" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg",[COLOR red][LIVE][/COLOR] ICE PR: Keflavik vs Vikingur Reykjavik [COLOR yellow]BLV DIHI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-379975_lhd.m3u8?auth_key=1688844368-0-0-8bf6baa12f4102fe6407139a3e4bfb13
+https://pull06.scstream.net/live/stream-379975_lhd.m3u8?auth_key=1688844548-0-0-6235125866f5f75658165d595a4e59d6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHI D1: Huachipato FC vs Universidad de Chile" tvg-name="CHI D1: Huachipato FC vs Universidad de Chile" tvg-logo="https://sta.vnres.co/file/head/20230624/41f84a81efd63817b4675deed75c3962.jpg",[COLOR red][LIVE][/COLOR] CHI D1: Huachipato FC vs Universidad de Chile [COLOR yellow]BLV RICARDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-479379_lhd.m3u8?auth_key=1688844368-0-0-94a92e3ef6fa8e3ffc03696fd91678c7
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ROM SC: Farul Constanta vs Sepsi OSK Sfantul Gheorghe" tvg-name="ROM SC: Farul Constanta vs Sepsi OSK Sfantul Gheorghe" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg",[COLOR red][LIVE][/COLOR] ROM SC: Farul Constanta vs Sepsi OSK Sfantul Gheorghe [COLOR yellow]BLV CHOVY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-319191_lhd.m3u8?auth_key=1688844368-0-0-3331fc6850b37564c5ed5b5e49278515
+https://pull06.scstream.net/live/stream-479379_lhd.m3u8?auth_key=1688844548-0-0-6c0f6ee00f7c50b049ca5e01bef063ba
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CHI D1: Huachipato FC vs Universidad de Chile" tvg-name="CHI D1: Huachipato FC vs Universidad de Chile" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg",[COLOR red][LIVE][/COLOR] CHI D1: Huachipato FC vs Universidad de Chile [COLOR yellow]DƯƠNG QUÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1688844368-0-0-f13a69d2ee246c94c6abdc8c93c6b432
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA U21: England(U21 vs Spain(U21" tvg-name="UEFA U21: England(U21 vs Spain(U21" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] UEFA U21: England(U21 vs Spain(U21 [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1688844402-0-0-d322393f7d44f279f32d7c2f683bc54f
+https://pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1688844548-0-0-0826e7e78079f8655dab2b7bc376f23f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ICE PR: Keflavik vs Vikingur Reykjavik" tvg-name="ICE PR: Keflavik vs Vikingur Reykjavik" tvg-logo="https://sta.vnres.co/file/head/20230621/328a06ad6d57b30357f8ec528c004ea8.jpg",[COLOR red][LIVE][/COLOR] ICE PR: Keflavik vs Vikingur Reykjavik [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-115447_lhd.m3u8?txSecret=4e891d9a9a749c61a93235f680c6f987&txTime=64a9fea0
+https://pull01.rrwes.live/live/stream-115447_lhd.m3u8?txSecret=fef3437a50425571a1e634c02b1516dd&txTime=64a9ff54
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CHI D1 : Huachipato FC vs  Universidad de Chile" tvg-name="CHI D1 : Huachipato FC vs  Universidad de Chile" tvg-logo="https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg",[COLOR red][LIVE][/COLOR] CHI D1 : Huachipato FC vs  Universidad de Chile [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1688844548-0-0-6e2a65db256a6a671a2cce4651b5174b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LAT D1: Riga FC vs FK Auda Riga" tvg-name="LAT D1: Riga FC vs FK Auda Riga" tvg-logo="https://sta.vnres.co/file/head/20230603/3eb91bc921be5aafb1eae6d9430117e3.jpg",[COLOR red][LIVE][/COLOR] LAT D1: Riga FC vs FK Auda Riga [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=af5a572914a422220fe50b45caf76177&txTime=64a9ff54
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ROM SC: Farul Constanta vs Sepsi OSK Sfantul Gheorghe" tvg-name="ROM SC: Farul Constanta vs Sepsi OSK Sfantul Gheorghe" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg",[COLOR red][LIVE][/COLOR] ROM SC: Farul Constanta vs Sepsi OSK Sfantul Gheorghe [COLOR yellow]BLV CHOVY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-319191_lhd.m3u8?auth_key=1688844548-0-0-24abfa8c55d71b465d1dae3fceff4c1d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="PER D1: Alianza Atletico vs Univ. Cesar Vallejo" tvg-name="PER D1: Alianza Atletico vs Univ. Cesar Vallejo" tvg-logo="https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg",[COLOR red][LIVE][/COLOR] PER D1: Alianza Atletico vs Univ. Cesar Vallejo [COLOR yellow]BLV MESSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-494201_lhd.m3u8?txSecret=80fe43675ad797eee8002311320e4894&txTime=64a9fea0
+https://pull01.rrwes.live/live/stream-494201_lhd.m3u8?txSecret=c0fd7f50c6f30f23f1088485d59c1138&txTime=64a9ff54
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="PER D1: Alianza Atletico vs Univ. Cesar Vallejo" tvg-name="PER D1: Alianza Atletico vs Univ. Cesar Vallejo" tvg-logo="https://sta.vnres.co/file/head/20230703/1c680e11871e2e043a76071fb237c0ca.jpg",[COLOR red][LIVE][/COLOR] PER D1: Alianza Atletico vs Univ. Cesar Vallejo [COLOR yellow]BLV GÀ RỪNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-425114_lhd.m3u8?auth_key=1688844368-0-0-85fea85d3f94d3880430c39a7bfb4a17
+https://pull06.scstream.net/live/stream-425114_lhd.m3u8?auth_key=1688844548-0-0-bcc807ce1561940682a0a2f5097ecc24
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ROM SC: Farul Constanta vs Sepsi OSK Sfantul Gheorghe" tvg-name="ROM SC: Farul Constanta vs Sepsi OSK Sfantul Gheorghe" tvg-logo="https://sta.vnres.co/file/head/20230623/58659179c3d06dc0bae15fdca12d1ee0.png",[COLOR red][LIVE][/COLOR] ROM SC: Farul Constanta vs Sepsi OSK Sfantul Gheorghe [COLOR yellow]BLV SÓI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-427562_lhd.m3u8?auth_key=1688844368-0-0-31cb07913bced41a6488b041ce639303
+https://pull06.scstream.net/live/stream-427562_lhd.m3u8?auth_key=1688844548-0-0-634e14a1843c457425f0219c27801da8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EBCWU18B: Estonia U18 W vs Austria U18 W" tvg-name="EBCWU18B: Estonia U18 W vs Austria U18 W" tvg-logo="https://sta.vnres.co/file/head/20230611/45ad3fec72e34d9b8e8a98d6cc02ef95.jpeg",[COLOR red][LIVE][/COLOR] EBCWU18B: Estonia U18 W vs Austria U18 W [COLOR yellow]DR STRANGE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-252519_lhd.m3u8?txSecret=f6c463130b289f1101f9eb60d51aeae1&txTime=64a9fea0
+https://pull01.rrwes.live/live/stream-252519_lhd.m3u8?txSecret=5580e748182de97e23fe94e75540b473&txTime=64a9ff54
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BRA D2: ABC Natal/RN vs Criciuma SC" tvg-name="BRA D2: ABC Natal/RN vs Criciuma SC" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg",[COLOR red][LIVE][/COLOR] BRA D2: ABC Natal/RN vs Criciuma SC [COLOR yellow]BLV CAPTAIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-231997_lhd.m3u8?auth_key=1688844368-0-0-012b2b91139bb04cee7e68c6ac801c81
+https://pull06.scstream.net/live/stream-231997_lhd.m3u8?auth_key=1688844548-0-0-0f014b3dc29f25e0b770e6360aa6a4cb
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EST D1: JK Tallinna Kalev vs FC Kuressaare" tvg-name="EST D1: JK Tallinna Kalev vs FC Kuressaare" tvg-logo="https://sta.vnres.co/file/head/20230614/f8b999fcc9453ca30d8c26ab55daed67.jpg",[COLOR red][LIVE][/COLOR] EST D1: JK Tallinna Kalev vs FC Kuressaare [COLOR yellow]BLV GEM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
 https://pull06.scstream.net/live/stream-452823_lhd.m3u8?auth_key=1688844312-0-0-755ef9a0e457816720fde3251dc07077
@@ -59,12 +56,12 @@ https://pull06.scstream.net/live/stream-452823_lhd.m3u8?auth_key=1688844312-0-0-
 #EXTINF:-1 tvg-id="EST D1: JK Tallinna Kalev vs FC Kuressaare" tvg-name="EST D1: JK Tallinna Kalev vs FC Kuressaare" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg",[COLOR red][LIVE][/COLOR] EST D1: JK Tallinna Kalev vs FC Kuressaare [COLOR yellow]BLV KAKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
 https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1688844264-0-0-9b4151e663630dd4d4776f8080e811e6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="EST D1: Trans Narva vs Parnu JK Vaprus" tvg-name="EST D1: Trans Narva vs Parnu JK Vaprus" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg",[COLOR red][LIVE][/COLOR] EST D1: Trans Narva vs Parnu JK Vaprus [COLOR yellow]BLV FANCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1688844368-0-0-a592e8d7d3e21666cb3d1a482d29d327
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BRA D1: Vasco da Gama(RJ vs Cruzeiro (MG" tvg-name="BRA D1: Vasco da Gama(RJ vs Cruzeiro (MG" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] BRA D1: Vasco da Gama(RJ vs Cruzeiro (MG [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=6e4587debf2d56e55135a6ab0e56ecf1&txTime=64a9fea0
+https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=7f80323095ad49cfda650334e216966b&txTime=64a9ff54
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="EST D1: Trans Narva vs Parnu JK Vaprus" tvg-name="EST D1: Trans Narva vs Parnu JK Vaprus" tvg-logo="https://sta.vnres.co/file/head/20230524/430c739d519e1727937c5c478013f130.jpg",[COLOR red][LIVE][/COLOR] EST D1: Trans Narva vs Parnu JK Vaprus [COLOR yellow]BLV FANCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-252503_lhd.m3u8?auth_key=1688844548-0-0-aec94dc1d2884b08bfc05a6aab117b47
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BRA D2: ABC Natal/RN vs Criciuma SC" tvg-name="BRA D2: ABC Natal/RN vs Criciuma SC" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] BRA D2: ABC Natal/RN vs Criciuma SC [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1688844368-0-0-8455218ef9093b5ab80c431b1690f82f
+https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1688844548-0-0-9b5ab02048450d70b6d4fac57c3f8598
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
