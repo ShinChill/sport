@@ -1,58 +1,61 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-name="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] VIE Cup: Thanh Hoa FC vs TTBD Phu Dong [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1688996648-0-0-f89eb921dcc070489c02e8ae15283478
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh" tvg-name="VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1688996648-0-0-fe582668c58c7de4affc59ef1e884acc
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Angola vs Mauritius" tvg-name="CAF CoC: Angola vs Mauritius" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] CAF CoC: Angola vs Mauritius [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991136_lhd.m3u8?txSecret=d7e6fc938a9aff9022ff25d61d6a71d7&txTime=64ac5178
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh" tvg-name="VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991122_lhd.m3u8?auth_key=1688996648-0-0-786d6a4e6eb7046e74e24c7250b9182a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh" tvg-name="VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=7b5c990c8a7949ebbc001b0d03ca4fe9&txTime=64ac5178
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-name="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] VIE Cup: Thanh Hoa FC vs TTBD Phu Dong [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1688996648-0-0-5f09220817e64f1a8b02cf6fa70b73d0
+#EXTINF:-1 tvg-id="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-name="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-logo="https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png",[COLOR red][LIVE][/COLOR] VIE Cup: Thanh Hoa FC vs TTBD Phu Dong [COLOR yellow]PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1688996828-0-0-10f088f591c248b2af5a237d26da8f17
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh" tvg-name="VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1688996648-0-0-7be9b12fc5b5946055b56e2badc6d482
+https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1688996828-0-0-ea14d5f5b57f4c5c4646f729938c5018
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-name="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] VIE Cup: Thanh Hoa FC vs TTBD Phu Dong [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-348199_lhd.m3u8?txSecret=eaf1b00453fc10af8e2832f313b8c54d&txTime=64ac5178
+#EXTINF:-1 tvg-id="VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh" tvg-name="VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=ef35496c06b9a26fa9892477a542ba63&txTime=64ac522c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-name="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-logo="https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png",[COLOR red][LIVE][/COLOR] VIE Cup: Thanh Hoa FC vs TTBD Phu Dong [COLOR yellow]PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1688996648-0-0-233af65d13ec57576000bf275b198d7b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-name="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png",[COLOR red][LIVE][/COLOR] VIE Cup: Thanh Hoa FC vs TTBD Phu Dong [COLOR yellow]BLV ODIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1688996648-0-0-69aa674c30cb9c0a3bd5b0648a020af0
+#EXTINF:-1 tvg-id="VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh" tvg-name="VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991122_lhd.m3u8?auth_key=1688996828-0-0-fa557912072dbcec678083abea5e8675
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF CoC: Angola vs Mauritius" tvg-name="CAF CoC: Angola vs Mauritius" tvg-logo="https://sta.vnres.co/file/head/20230613/574173bc84eb707d0dd66291fbb9c899.png",[COLOR red][LIVE][/COLOR] CAF CoC: Angola vs Mauritius [COLOR yellow]BLV VĂN TÍCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1688996648-0-0-a6509e866fc0d89f20c93446f6d39335
+https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1688996828-0-0-9e92ebf8cc0a0311efbfde4e6eccca2c
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-name="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] VIE Cup: Thanh Hoa FC vs TTBD Phu Dong [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1688996828-0-0-ae7716bc8de1dad8704e7513b134d6ad
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-name="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] VIE Cup: Thanh Hoa FC vs TTBD Phu Dong [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-348199_lhd.m3u8?txSecret=bee9d32d336af8033257757159d9b79d&txTime=64ac522c
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-name="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png",[COLOR red][LIVE][/COLOR] VIE Cup: Thanh Hoa FC vs TTBD Phu Dong [COLOR yellow]BLV ODIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1688996828-0-0-3ba5e272748ca66e5dff19a05c556b19
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh" tvg-name="VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1688996828-0-0-76688aecdb19cd35ac24c26fa3c8758f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh" tvg-name="VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh" tvg-logo="https://sta.vnres.co/file/head/20230614/42f95823a1cfff31a879a9d6b7222bfd.jpg",[COLOR red][LIVE][/COLOR] VIE Cup: Binh Dinh FC vs Hong Linh Ha Tinh [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1688996648-0-0-ca4d581e5707e9d0db7486eab4a6de51
+https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1688996828-0-0-b8372472f4cf6d968993e3ff88232208
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF CoC: Angola vs Mauritius" tvg-name="CAF CoC: Angola vs Mauritius" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] CAF CoC: Angola vs Mauritius [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991136_lhd.m3u8?txSecret=ea9234ec0aa02925fc14a80cd23454e1&txTime=64ac522c
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-name="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] VIE Cup: Thanh Hoa FC vs TTBD Phu Dong [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1688996828-0-0-cea10b3e2f5625626e074955e02fed58
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-name="VIE Cup: Thanh Hoa FC vs TTBD Phu Dong" tvg-logo="https://sta.vnres.co/file/head/20230613/bb0941541fdd35e29ba3f39843feadbf.jpg",[COLOR red][LIVE][/COLOR] VIE Cup: Thanh Hoa FC vs TTBD Phu Dong [COLOR yellow]BLV BÁC SĨ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1688996648-0-0-1fafe47907d65fbaa003949694b593c2
+https://pull06.scstream.net/live/stream-381973_lhd.m3u8?auth_key=1688996828-0-0-be6f3ba1b105532a9c61bca4e987597c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CBASL: Qingdao Eagles vs Liaoning Flying Leopards" tvg-name="CBASL: Qingdao Eagles vs Liaoning Flying Leopards" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] CBASL: Qingdao Eagles vs Liaoning Flying Leopards [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=0789af54c83680cbd623201f1731fc76&txTime=64ac5178
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Angola vs Mauritius" tvg-name="CAF CoC: Angola vs Mauritius" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] CAF CoC: Angola vs Mauritius [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-106737_lhd.m3u8?auth_key=1688996648-0-0-72032a21dad5b08ccd4015b521867601
+https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=ceb12bc9591ceb69210aa396f3df9539&txTime=64ac522c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ECMU20: Montenegro U20 vs Serbia U20" tvg-name="ECMU20: Montenegro U20 vs Serbia U20" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] ECMU20: Montenegro U20 vs Serbia U20 [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=d909a7eefd81f784906d248aed073557&txTime=64ac5178
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Angola vs Mauritius" tvg-name="CAF CoC: Angola vs Mauritius" tvg-logo="https://sta.vnres.co/file/head/20230704/3f761735f74536f2d8d3cd7c92e432bb.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Angola vs Mauritius [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-420171_lhd.m3u8?txSecret=8a65540315b430b4ddc7cb3529913fdb&txTime=64ac5178
+https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=b1ed4b8ddca4ad1a2826e1f15debbe74&txTime=64ac522c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ECMU20: Montenegro U20 vs Serbia U20" tvg-name="ECMU20: Montenegro U20 vs Serbia U20" tvg-logo="https://sta.vnres.co/file/head/20230611/45ad3fec72e34d9b8e8a98d6cc02ef95.jpeg",[COLOR red][LIVE][/COLOR] ECMU20: Montenegro U20 vs Serbia U20 [COLOR yellow]DR STRANGE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-252519_lhd.m3u8?txSecret=2ae805bfb4c3a3855ec3f214a0a4b06d&txTime=64ac5178
+https://pull01.rrwes.live/live/stream-252519_lhd.m3u8?txSecret=b873cd9c984398c2fbd9cd0eec15c365&txTime=64ac522c
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF CoC: Angola vs Mauritius" tvg-name="CAF CoC: Angola vs Mauritius" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] CAF CoC: Angola vs Mauritius [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-106737_lhd.m3u8?auth_key=1688996828-0-0-458519a0c242fc429fe7cb9370516b02
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF CoC: Angola vs Mauritius" tvg-name="CAF CoC: Angola vs Mauritius" tvg-logo="https://sta.vnres.co/file/head/20230704/3f761735f74536f2d8d3cd7c92e432bb.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Angola vs Mauritius [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-420171_lhd.m3u8?txSecret=d9591d60556171b4f71cff3ec6f20eb3&txTime=64ac522c
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF CoC: Angola vs Mauritius" tvg-name="CAF CoC: Angola vs Mauritius" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Angola vs Mauritius [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1688996842-0-0-ddf0cc035239197f1fb67212e6556ecc
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF CoC: Angola vs Mauritius" tvg-name="CAF CoC: Angola vs Mauritius" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Angola vs Mauritius [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=9fc01ed0cdaaaaeb6df283171f038bf1&txTime=64ac5178
+https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=47f33eee4138c007069e3e4f539309b8&txTime=64ac522c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
