@@ -1,31 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Gold Cup: USA vs Canada" tvg-name="Gold Cup: USA vs Canada" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Canada [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-348199_lhd.m3u8?txSecret=84ad4eed6498c3230002540c5de3e8bf&txTime=64abca78
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MEX D1: Monterrey vs Atlas" tvg-name="MEX D1: Monterrey vs Atlas" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] MEX D1: Monterrey vs Atlas [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1688962088-0-0-98e6f8fec061ada21cf0fa7a54963a15
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="NBASL: Denver Nuggets vs Atlanta Hawks" tvg-name="NBASL: Denver Nuggets vs Atlanta Hawks" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] NBASL: Denver Nuggets vs Atlanta Hawks [COLOR yellow]KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1688962088-0-0-6fc15ed96011f34c9bd9376733f4f9dd
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CBASL: Shenzhen Aviators(N vs Shandong Heroes" tvg-name="CBASL: Shenzhen Aviators(N vs Shandong Heroes" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png",[COLOR red][LIVE][/COLOR] CBASL: Shenzhen Aviators(N vs Shandong Heroes [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1688962088-0-0-c4641de6d59730c59ded954c29ba1c30
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CBASL: Shenzhen Aviators(N vs Shandong Heroes" tvg-name="CBASL: Shenzhen Aviators(N vs Shandong Heroes" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] CBASL: Shenzhen Aviators(N vs Shandong Heroes [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1688962088-0-0-22445c03aa8ca583e921fd141c1ceb26
+https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1688962268-0-0-d33d66794b1369f012abd860f1b42116
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MEX D1: Monterrey vs Atlas" tvg-name="MEX D1: Monterrey vs Atlas" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] MEX D1: Monterrey vs Atlas [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1688962088-0-0-c61012abc62aa61fbcdcedb94a92ef4f
+#EXTINF:-1 tvg-id="Gold Cup: USA vs Canada" tvg-name="Gold Cup: USA vs Canada" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][Chưa bắt đầu][/COLOR] Gold Cup: USA vs Canada [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-348199_lhd.m3u8?txSecret=2601a1b20f4b953b29960602ca6409a4&txTime=64abcb3d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="NBASL: Golden State Warriors vs New Orleans Pelicans" tvg-name="NBASL: Golden State Warriors vs New Orleans Pelicans" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] NBASL: Golden State Warriors vs New Orleans Pelicans [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=6aa8e2ec7370a0dc5a7d34498d7bdf94&txTime=64abca78
+https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=bd211a0138f2287a9595f86d6109e0ea&txTime=64abcb2c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="NBASL: Golden State Warriors vs New Orleans Pelicans" tvg-name="NBASL: Golden State Warriors vs New Orleans Pelicans" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] NBASL: Golden State Warriors vs New Orleans Pelicans [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=7cb3a9e92e342aae261ad5a5eaaab065&txTime=64abca78
+https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=054779e06a5b239cbf522c03fd366c02&txTime=64abcb2c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: USA vs Canada" tvg-name="Gold Cup: USA vs Canada" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][Chưa bắt đầu][/COLOR] Gold Cup: USA vs Canada [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1688962140-0-0-b46267b3ee6d9e00f3097dc452c0a0f6
+#EXTINF:-1 tvg-id="CBASL: Shenzhen Aviators(N vs Shandong Heroes" tvg-name="CBASL: Shenzhen Aviators(N vs Shandong Heroes" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png",[COLOR red][LIVE][/COLOR] CBASL: Shenzhen Aviators(N vs Shandong Heroes [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1688962268-0-0-e3618ce8e9ed9a9749fd1a1cb0ed9683
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: USA vs Canada" tvg-name="Gold Cup: USA vs Canada" tvg-logo="https://sta.vnres.co/file/head/20230613/574173bc84eb707d0dd66291fbb9c899.png",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Canada [COLOR yellow]BLV VĂN TÍCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1688962088-0-0-81dd8a4abbf066b86077a6862c5fe005
+#EXTINF:-1 tvg-id="NBASL: Denver Nuggets vs Atlanta Hawks" tvg-name="NBASL: Denver Nuggets vs Atlanta Hawks" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] NBASL: Denver Nuggets vs Atlanta Hawks [COLOR yellow]KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1688962268-0-0-54d939fd0657c9ede90aded25fcaa136
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
