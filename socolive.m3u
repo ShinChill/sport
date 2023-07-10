@@ -1,28 +1,34 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1688982428-0-0-6fb506349a884827cf966ede014ac01a
+#EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1688982608-0-0-c6150f9bcf93b0907fa5b403da761ac7
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="LPL : LNG Esports vs LGD Gaming" tvg-name="LPL : LNG Esports vs LGD Gaming" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg",[COLOR red][LIVE][/COLOR] LPL : LNG Esports vs LGD Gaming [COLOR yellow]BLV QUICK[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1688982428-0-0-42253e97c534cb8a826f0e9913f78b54
+#EXTINF:-1 tvg-id="LPL: LNG Esports vs LGD Gaming" tvg-name="LPL: LNG Esports vs LGD Gaming" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] LPL: LNG Esports vs LGD Gaming [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=0b21b77ccd14229b175d9b1ec1ef7b96&txTime=64ac1ad1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TALKSHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALKSHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] TALKSHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1688982428-0-0-cae6a91fd08db8e8ac2288e970148cce
+https://pull06.scstream.net/live/stream-201313_lhd.m3u8?auth_key=1688982608-0-0-80a8ce75f5f906c76d19594aec4920cf
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230305/4aaa1cb110994ee6b8965218e19a40b3.jpg",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]SÙNG A MÚP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991131_lhd.m3u8?auth_key=1688982428-0-0-9f80f3a239f7804bbf32b93f55c3cf06
+#EXTINF:-1 tvg-id="LPL : LNG Esports vs LGD Gaming" tvg-name="LPL : LNG Esports vs LGD Gaming" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg",[COLOR red][LIVE][/COLOR] LPL : LNG Esports vs LGD Gaming [COLOR yellow]BLV QUICK[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1688982608-0-0-d7796ca430697a6be42515bc9396a298
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1688982428-0-0-b14e0441dc5c448482c7ed49016601d1
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1688982608-0-0-dd3a2486d7eb48fff899b03792ee0739
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1688982608-0-0-2b7ac9ea3dc24883c0869def3f1cc867
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LPL: LNG Esports vs LGD Gaming" tvg-name="LPL: LNG Esports vs LGD Gaming" tvg-logo="https://sta.vnres.co/file/head/20220428/5bd916ed778470e8dec1f8f37850bce2.jpg",[COLOR red][LIVE][/COLOR] LPL: LNG Esports vs LGD Gaming [COLOR yellow]DƯƠNG QUÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991110_lhd.m3u8?auth_key=1688982608-0-0-84a6913a7e444d1f16420d9de1045b0f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA U19 - Malta vs Poland" tvg-name="Tường thuật: UEFA U19 - Malta vs Poland" tvg-logo="https://sta.vnres.co/file/head/20221213/1ccf6b3b54904f0da8610926a968d412.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U19 - Malta vs Poland [COLOR yellow]Sóc gánh nước[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-133824_lhd.m3u8?auth_key=1688982428-0-0-638c4a2db253402d1683fd8ec91a6019
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Tường thuật: UEFA U21 - France vs Ukraine" tvg-name="Tường thuật: UEFA U21 - France vs Ukraine" tvg-logo="https://sta.vnres.co/file/head/20230217/71e7b6fe2279587c068dda462198a107.jpeg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U21 - France vs Ukraine [COLOR yellow]Sóc Lém Lỉnh[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-62545874_lhd.m3u8?auth_key=1688982428-0-0-3971f9c98a6941b0c1a9dfd1a09b19c1
+https://pull06.scstream.net/live/stream-133824_lhd.m3u8?auth_key=1688982608-0-0-40dd52a832bafa1e788d6bf8d8d8d66d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA U21 - Spain vs Ukraine" tvg-name="Tường thuật: UEFA U21 - Spain vs Ukraine" tvg-logo="https://sta.vnres.co/file/head/20230626/52e8c2568ca8908d025996a94579052b.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U21 - Spain vs Ukraine [COLOR yellow]Sóc mèo méo meo[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-343500_lhd.m3u8?auth_key=1688982428-0-0-c3b4e6fb71312568171ea21d70beea18
+https://pull06.scstream.net/live/stream-343500_lhd.m3u8?auth_key=1688982608-0-0-5211541495ee3e43f62de7b6534f1b36
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Tường thuật: UEFA U21 - France vs Ukraine" tvg-name="Tường thuật: UEFA U21 - France vs Ukraine" tvg-logo="https://sta.vnres.co/file/head/20230217/71e7b6fe2279587c068dda462198a107.jpeg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U21 - France vs Ukraine [COLOR yellow]Sóc Lém Lỉnh[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-62545874_lhd.m3u8?auth_key=1688982608-0-0-91d0b86cf7bdd3655de9e9cb00267afd
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA U21 - Israel vs England" tvg-name="Tường thuật: UEFA U21 - Israel vs England" tvg-logo="https://sta.vnres.co/file/head/20220810/2a7ffd98fe2f64c7e36efb035d2cbc3b.png",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U21 - Israel vs England [COLOR yellow]Sóc phụ hồ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-133277_lhd.m3u8?auth_key=1688982428-0-0-336acde5e1cba6b1747a8eab3915d986
+https://pull06.scstream.net/live/stream-133277_lhd.m3u8?auth_key=1688982608-0-0-1d5cafa8a9026f64c86cdaa6cd9dcd6d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
