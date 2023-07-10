@@ -1,79 +1,85 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Gold Cup: USA vs Canada" tvg-name="Gold Cup: USA vs Canada" tvg-logo="https://sta.vnres.co/file/head/20230613/574173bc84eb707d0dd66291fbb9c899.png",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Canada [COLOR yellow]BLV VĂN TÍCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1688952368-0-0-0cd5997368070e72e5e133eb81d28d35
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ARG D1: Defensa Y Justicia vs Lanus" tvg-name="ARG D1: Defensa Y Justicia vs Lanus" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Defensa Y Justicia vs Lanus [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1688952368-0-0-938732158cd802e1fdfd43669600ad15
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: USA vs Canada" tvg-name="Gold Cup: USA vs Canada" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Canada [COLOR yellow]KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1688952368-0-0-1b9db655ca3c75d246db6fbfafbf8557
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: USA vs Canada" tvg-name="Gold Cup: USA vs Canada" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Canada [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=67381c46adf93a9c495cfaf76ca212c5&txTime=64aba480
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: USA vs Canada" tvg-name="Gold Cup: USA vs Canada" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Canada [COLOR yellow]TẠ BIÊN GIỚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1688952368-0-0-1d08310350508edf52c221766ce34c8f
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: USA vs Canada" tvg-name="Gold Cup: USA vs Canada" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Canada [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1688952368-0-0-fe64ff630d15b2564662883a9d615d2c
+#EXTINF:-1 tvg-id="ARG D1: Defensa Y Justicia vs Lanus" tvg-name="ARG D1: Defensa Y Justicia vs Lanus" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Defensa Y Justicia vs Lanus [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=999c7c4ba6ac757c80ef1221de7247a8&txTime=64aba534
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: CA Banfield vs Arsenal de Sarandi" tvg-name="ARG D1: CA Banfield vs Arsenal de Sarandi" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] ARG D1: CA Banfield vs Arsenal de Sarandi [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1688952368-0-0-137270734f3d7003c03155c215251f82
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Gold Cup: USA vs Canada" tvg-name="Gold Cup: USA vs Canada" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Canada [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-348199_lhd.m3u8?txSecret=9a9a13e50a87214fb0ac6dde472ac299&txTime=64aba480
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ARG D1: Defensa Y Justicia vs Lanus" tvg-name="ARG D1: Defensa Y Justicia vs Lanus" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Defensa Y Justicia vs Lanus [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=7e365112031775860cb56c560b11aee1&txTime=64aba480
+https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1688952548-0-0-21b34086fbb06861be8709807d6d65b8
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="PER D1: EM Deportivo Binacional vs Deportivo Garcilaso" tvg-name="PER D1: EM Deportivo Binacional vs Deportivo Garcilaso" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] PER D1: EM Deportivo Binacional vs Deportivo Garcilaso [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1688952368-0-0-ec1991af79211f69222dc4ce2c853310
+https://pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1688952548-0-0-fb04ec9adc0b6beea43ba5305cd82739
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ARG D1: Defensa Y Justicia vs Lanus" tvg-name="ARG D1: Defensa Y Justicia vs Lanus" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Defensa Y Justicia vs Lanus [COLOR yellow]BLV MÁT GAI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-273067_lhd.m3u8?txSecret=74ca0405acf6650554f7969b1b0d682f&txTime=64aba480
+#EXTINF:-1 tvg-id="MEX D1: Monterrey vs Atlas" tvg-name="MEX D1: Monterrey vs Atlas" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] MEX D1: Monterrey vs Atlas [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1688952548-0-0-d978882f7d000a420ea50f1a85ab8f54
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: USA vs Canada" tvg-name="Gold Cup: USA vs Canada" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Canada [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=c5c8156d0964207c17903672eba8b07c&txTime=64aba534
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MEX D1: Monterrey vs Atlas" tvg-name="MEX D1: Monterrey vs Atlas" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] MEX D1: Monterrey vs Atlas [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991118_lhd.m3u8?auth_key=1688952548-0-0-68b4cfedc0bc45062fd881adc2d24b22
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="PER D1: EM Deportivo Binacional vs Deportivo Garcilaso" tvg-name="PER D1: EM Deportivo Binacional vs Deportivo Garcilaso" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png",[COLOR red][LIVE][/COLOR] PER D1: EM Deportivo Binacional vs Deportivo Garcilaso [COLOR yellow]BLV ODIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1688952368-0-0-7c71769192ddaff654303f98411379b8
+https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1688952548-0-0-e90a824a3c27f771fcb858011ae957d9
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: USA vs Canada" tvg-name="Gold Cup: USA vs Canada" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Canada [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1688952548-0-0-90bfd3e2c5d0f57b51161da706dd2b95
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: USA vs Canada" tvg-name="Gold Cup: USA vs Canada" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Canada [COLOR yellow]KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1688952548-0-0-7ac5ceb6faeb05936fd6b4e7aa2fc78d
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: USA vs Canada" tvg-name="Gold Cup: USA vs Canada" tvg-logo="https://sta.vnres.co/file/head/20230613/574173bc84eb707d0dd66291fbb9c899.png",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Canada [COLOR yellow]BLV VĂN TÍCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-112565_lhd.m3u8?auth_key=1688952548-0-0-9c86c0117d9ff7cc4ebc0c7903d6feca
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: USA vs Canada" tvg-name="Gold Cup: USA vs Canada" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Canada [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-348199_lhd.m3u8?txSecret=4938e072fc08729197d62b6e9c688990&txTime=64aba534
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Gold Cup: USA vs Canada" tvg-name="Gold Cup: USA vs Canada" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Canada [COLOR yellow]TẠ BIÊN GIỚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1688952548-0-0-f382513d53690b71862f698bf7840eb2
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ARG D1: Defensa Y Justicia vs Lanus" tvg-name="ARG D1: Defensa Y Justicia vs Lanus" tvg-logo="https://sta.vnres.co/file/head/20230604/c73f4145bb3113a1bc1a25fc44b9f50d.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Defensa Y Justicia vs Lanus [COLOR yellow]BLV MÁT GAI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-273067_lhd.m3u8?txSecret=80b87e282a47948601294ebc6384e00b&txTime=64aba534
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ARG D1: Defensa Y Justicia vs Lanus" tvg-name="ARG D1: Defensa Y Justicia vs Lanus" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Defensa Y Justicia vs Lanus [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1688952548-0-0-9f69de6ce6bed85a4dff999bf02f2282
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MEX D1: Monterrey vs Atlas" tvg-name="MEX D1: Monterrey vs Atlas" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] MEX D1: Monterrey vs Atlas [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1688952368-0-0-7c6c572f801207e09e9f7a339aacca92
+https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1688952548-0-0-969cbb34bceee435f4657e3865f4642a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Defensa Y Justicia vs Lanus" tvg-name="ARG D1: Defensa Y Justicia vs Lanus" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Defensa Y Justicia vs Lanus [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-143449_lhd.m3u8?txSecret=2a4b2534453ad3057b3ccd2fa21d1783&txTime=64aba480
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ARG D1: CA Banfield vs Arsenal de Sarandi" tvg-name="ARG D1: CA Banfield vs Arsenal de Sarandi" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] ARG D1: CA Banfield vs Arsenal de Sarandi [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1688952368-0-0-4ace08800c66177b2d1da6c9ac400786
+https://pull01.rrwes.live/live/stream-143449_lhd.m3u8?txSecret=2886a900a249e418d7a5184608f98916&txTime=64aba534
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="NBASL: Portland Trail Blazers vs San Antonio Spurs" tvg-name="NBASL: Portland Trail Blazers vs San Antonio Spurs" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] NBASL: Portland Trail Blazers vs San Antonio Spurs [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1688952368-0-0-80bb1108cd3d860a1af3383b298e21dd
+https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1688952548-0-0-05861fa681c469b2f463b2aa3e390dd2
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="NBASL: Washington Wizards vs Boston Celtics" tvg-name="NBASL: Washington Wizards vs Boston Celtics" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] NBASL: Washington Wizards vs Boston Celtics [COLOR yellow]KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1688952368-0-0-111211061640e79bfc3de0cd3b2c8f0e
+#EXTINF:-1 tvg-id="ARG D1: CA Banfield vs Arsenal de Sarandi" tvg-name="ARG D1: CA Banfield vs Arsenal de Sarandi" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] ARG D1: CA Banfield vs Arsenal de Sarandi [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1688952548-0-0-3871dddbadde372964bb211369677535
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="NBASL: Portland Trail Blazers vs San Antonio Spurs" tvg-name="NBASL: Portland Trail Blazers vs San Antonio Spurs" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] NBASL: Portland Trail Blazers vs San Antonio Spurs [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=122a3d1a24a23e9897140f1a5fa0a4aa&txTime=64aba480
+https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=db74825b9f1e3ff92f57b46d89585b38&txTime=64aba534
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="NBASL: Washington Wizards vs Boston Celtics" tvg-name="NBASL: Washington Wizards vs Boston Celtics" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] NBASL: Washington Wizards vs Boston Celtics [COLOR yellow]KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1688952548-0-0-059641beea04636c184a3b75da41722d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: Defensa Y Justicia vs Lanus" tvg-name="ARG D1: Defensa Y Justicia vs Lanus" tvg-logo="https://sta.vnres.co/file/head/20230603/3eb91bc921be5aafb1eae6d9430117e3.jpg",[COLOR red][LIVE][/COLOR] ARG D1: Defensa Y Justicia vs Lanus [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=1f0aa7f252451fe7aac49185e7805995&txTime=64aba480
+https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=6d93abeba020ca62c65201f78a1877f5&txTime=64aba534
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="NBASL: Washington Wizards vs Boston Celtics" tvg-name="NBASL: Washington Wizards vs Boston Celtics" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] NBASL: Washington Wizards vs Boston Celtics [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=43818deb4dec7c329ad2748ec42bc8d5&txTime=64aba480
+https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=cbb333443968b60c096fb504cf80dfc4&txTime=64aba534
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: CA Banfield vs Arsenal de Sarandi" tvg-name="ARG D1: CA Banfield vs Arsenal de Sarandi" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg",[COLOR red][LIVE][/COLOR] ARG D1: CA Banfield vs Arsenal de Sarandi [COLOR yellow]BLV KAKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1688952368-0-0-739df6493709b0b2f1baefc0484fe493
+https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1688952548-0-0-a91c934f1cbecff9a47531ba8f276a6b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Test Live" tvg-name="Test Live" tvg-logo="https://sta.vnres.co/file/head/20230617/8cb09474f329a0ca1fc83d33784f9bb7.JPEG",[COLOR red][LIVE][/COLOR] Test Live [COLOR yellow]BLV BOM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-400382_lhd.m3u8?auth_key=1688952368-0-0-ba0de752649fc688417bbd60f927280b
+https://pull06.scstream.net/live/stream-400382_lhd.m3u8?auth_key=1688952548-0-0-3788bd6b6e6617d4a4e39c36ad5473e7
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="PER D1: EM Deportivo Binacional vs Deportivo Garcilaso" tvg-name="PER D1: EM Deportivo Binacional vs Deportivo Garcilaso" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] PER D1: EM Deportivo Binacional vs Deportivo Garcilaso [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1688952368-0-0-04b41e20f29beb772ced6d6f8d6c11aa
+https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1688952548-0-0-a02440a4c6cbdc8de74e27d9a9c66205
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="PER D1: EM Deportivo Binacional vs Deportivo Garcilaso" tvg-name="PER D1: EM Deportivo Binacional vs Deportivo Garcilaso" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg",[COLOR red][LIVE][/COLOR] PER D1: EM Deportivo Binacional vs Deportivo Garcilaso [COLOR yellow]BLV QUICK[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1688952368-0-0-ec743183fd3f33b3aca2140699cf8b8d
+https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1688952548-0-0-be3c6df26d9ec975778a3bf96731212f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ARG D1: CA Banfield vs Arsenal de Sarandi" tvg-name="ARG D1: CA Banfield vs Arsenal de Sarandi" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] ARG D1: CA Banfield vs Arsenal de Sarandi [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=31a70c5f979216504c632d49c0db3b1e&txTime=64aba480
+https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=db5679d56d27864af927bf1b4996d510&txTime=64aba534
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Gold Cup: USA vs Canada" tvg-name="Gold Cup: USA vs Canada" tvg-logo="https://sta.vnres.co/file/pic/202204/02/c5f7190c377d574202c30a5ed47a122f",[COLOR red][LIVE][/COLOR] Gold Cup: USA vs Canada [COLOR yellow]Casting 01[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-198006_lhd.m3u8?auth_key=1688952368-0-0-b56f40e41eb1a7673599afc62febafde
+https://pull06.scstream.net/live/stream-198006_lhd.m3u8?auth_key=1688952548-0-0-4e2e07047c59969d5c84c2790b9d535f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
