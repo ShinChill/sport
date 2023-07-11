@@ -1,25 +1,28 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="LPL  Anyone's Legend  Oh My God" tvg-name="LPL  Anyone's Legend  Oh My God" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] LPL  Anyone's Legend  Oh My God [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-143449_lhd.m3u8?txSecret=965dcef1f780b80f231feaa56199d09f&txTime=64ad6fa4
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ASWBCU16: Chinese Taipei U16 W vs South Korea U16 W" tvg-name="ASWBCU16: Chinese Taipei U16 W vs South Korea U16 W" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] ASWBCU16: Chinese Taipei U16 W vs South Korea U16 W [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1689069908-0-0-a30b70a501f5462da0f82f9a616bfe4d
+https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1689070088-0-0-7ad5601ffd015a6e9d111b922ef69526
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ASWBCU16: Chinese Taipei U16 W vs South Korea U16 W" tvg-name="ASWBCU16: Chinese Taipei U16 W vs South Korea U16 W" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] ASWBCU16: Chinese Taipei U16 W vs South Korea U16 W [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=50d657991161a65f68ce170c73e2df76&txTime=64ad6fa4
+#EXTINF:-1 tvg-id="AUS VCUP: Goulburn Valley Suns vs Heidelberg United" tvg-name="AUS VCUP: Goulburn Valley Suns vs Heidelberg United" tvg-logo="https://sta.vnres.co/file/head/20230626/0120819f12a19f93d4e06eb6cd63bfb6.jpg",[COLOR red][LIVE][/COLOR] AUS VCUP: Goulburn Valley Suns vs Heidelberg United [COLOR yellow]SUNNY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-104707_lhd.m3u8?auth_key=1689070088-0-0-b59cc7ea239eff05c033a14ec12eb844
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-name="TALK SHOW: BÀN LUẬN BÓNG ĐÁ" tvg-logo="https://sta.vnres.co/file/head/20230504/63d2db0e11c341e29338d74ef43a4cd0.jpg",[COLOR red][LIVE][/COLOR] TALK SHOW: BÀN LUẬN BÓNG ĐÁ [COLOR yellow]BLV FIREMAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1689069908-0-0-438c73430a63e2e9f8237cb2fe423aef
+https://pull06.scstream.net/live/stream-991140_lhd.m3u8?auth_key=1689070088-0-0-4310163a38b0ae4d61897c83226ee9e0
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="LPL  Anyone's Legend  Oh My God" tvg-name="LPL  Anyone's Legend  Oh My God" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] LPL  Anyone's Legend  Oh My God [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-143449_lhd.m3u8?txSecret=ae26a89776ee9e5c391de57365f6153f&txTime=64ad7058
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="ASWBCU16: Chinese Taipei U16 W vs South Korea U16 W" tvg-name="ASWBCU16: Chinese Taipei U16 W vs South Korea U16 W" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] ASWBCU16: Chinese Taipei U16 W vs South Korea U16 W [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=b855556959c9c581061c1af5855b02d6&txTime=64ad7058
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="AUS VCUP: Goulburn Valley Suns vs Heidelberg United" tvg-name="AUS VCUP: Goulburn Valley Suns vs Heidelberg United" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg",[COLOR red][LIVE][/COLOR] AUS VCUP: Goulburn Valley Suns vs Heidelberg United [COLOR yellow]BLV QUICK[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1689069908-0-0-eac25438495243884de6898b5528b58b
+https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1689070088-0-0-c5dbe89c6fc6e1041fa1116a3e06a8ea
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA U21 - France vs Ukraine" tvg-name="Tường thuật: UEFA U21 - France vs Ukraine" tvg-logo="https://sta.vnres.co/file/head/20221111/5dedadaf5ec33677f4ebc3a71ba3626c.png",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U21 - France vs Ukraine [COLOR yellow]Sóc cam[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-152898_lhd.m3u8?auth_key=1689069908-0-0-a95ceda1c4a7e792ffc6843996041c10
+https://pull06.scstream.net/live/stream-152898_lhd.m3u8?auth_key=1689070088-0-0-f56b2e223e6ab6a932c6b183e13fb6e7
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA U19 - Malta vs Poland" tvg-name="Tường thuật: UEFA U19 - Malta vs Poland" tvg-logo="https://sta.vnres.co/file/head/20221213/1ccf6b3b54904f0da8610926a968d412.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U19 - Malta vs Poland [COLOR yellow]Sóc gánh nước[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-133824_lhd.m3u8?auth_key=1689069908-0-0-af038370626dff79c032eae19bf9708f
+https://pull06.scstream.net/live/stream-133824_lhd.m3u8?auth_key=1689070088-0-0-e951f85d25c919d38086d18d42ac1c8f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA U19 - Italy vs Poland" tvg-name="Tường thuật: UEFA U19 - Italy vs Poland" tvg-logo="https://sta.vnres.co/file/head/20220810/7ec533b436e71ab93e03dda2f6a15678.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U19 - Italy vs Poland [COLOR yellow]Sóc Minions[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-160872_lhd.m3u8?auth_key=1689069908-0-0-b91616c10fb497a3d62f2fecba3b48af
+https://pull06.scstream.net/live/stream-160872_lhd.m3u8?auth_key=1689070088-0-0-63347468dbfbbe489378d37382d65a64
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
