@@ -1,76 +1,88 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="IRQ D1: Al Karkh vs Naft Al Basra" tvg-name="IRQ D1: Al Karkh vs Naft Al Basra" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] IRQ D1: Al Karkh vs Naft Al Basra [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991144_lhd.m3u8?auth_key=1689093309-0-0-53dba64f8e0540953a46291dcb48e957
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Namibia vs Botswana" tvg-name="CAF CoC: Namibia vs Botswana" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png",[COLOR red][LIVE][/COLOR] CAF CoC: Namibia vs Botswana [COLOR yellow]BLV ODIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1689093309-0-0-6cad91561d331a064338613af7436e9b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA CL: Urartu vs Zrinjski Mostar" tvg-name="UEFA CL: Urartu vs Zrinjski Mostar" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] UEFA CL: Urartu vs Zrinjski Mostar [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1689093309-0-0-2ba94398375261849a77f0ee8d426c3d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA CL: Urartu vs Zrinjski Mostar" tvg-name="UEFA CL: Urartu vs Zrinjski Mostar" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg",[COLOR red][LIVE][/COLOR] UEFA CL: Urartu vs Zrinjski Mostar [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1689093309-0-0-9f0ef96a0eaefcb61068016851a8e620
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA CL: Lincoln Red Imps vs Qarabag" tvg-name="UEFA CL: Lincoln Red Imps vs Qarabag" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] UEFA CL: Lincoln Red Imps vs Qarabag [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991136_lhd.m3u8?txSecret=80933514a5861244ca2ee5224ece0f74&txTime=64adcb0d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA CL: Urartu vs Zrinjski Mostar" tvg-name="UEFA CL: Urartu vs Zrinjski Mostar" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] UEFA CL: Urartu vs Zrinjski Mostar [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1689093309-0-0-46e5d5ec4ad7643c977fe27ba518daca
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA CL: Lincoln Red Imps vs Qarabag" tvg-name="UEFA CL: Lincoln Red Imps vs Qarabag" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] UEFA CL: Lincoln Red Imps vs Qarabag [COLOR yellow]KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1689093309-0-0-5ac4789c015e6703524b46e6b3f45f92
+#EXTINF:-1 tvg-id="UEFA CL: VMFD Zalgiris vs FC Struga Trim-Lum" tvg-name="UEFA CL: VMFD Zalgiris vs FC Struga Trim-Lum" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] UEFA CL: VMFD Zalgiris vs FC Struga Trim-Lum [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1689093489-0-0-14eafa02ff68c60a5a00870e8bc7e7e1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA CL: Lincoln Red Imps vs Qarabag" tvg-name="UEFA CL: Lincoln Red Imps vs Qarabag" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] UEFA CL: Lincoln Red Imps vs Qarabag [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991143_lhd.m3u8?auth_key=1689093309-0-0-0455c1e581c9b305e420e48c98cf23fc
+https://pull06.scstream.net/live/stream-991143_lhd.m3u8?auth_key=1689093489-0-0-d203f4ed0143bd363588989738f394c7
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA CL: Urartu vs Zrinjski Mostar" tvg-name="UEFA CL: Urartu vs Zrinjski Mostar" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] UEFA CL: Urartu vs Zrinjski Mostar [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1689093489-0-0-9eebc411511d34b38c9798ff9bccc0ba
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA CL: Urartu vs Zrinjski Mostar" tvg-name="UEFA CL: Urartu vs Zrinjski Mostar" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] UEFA CL: Urartu vs Zrinjski Mostar [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991122_lhd.m3u8?txSecret=69f9150a8943676c130bc2c43b8be26e&txTime=64adcb49
+https://pull01.rrwes.live/live/stream-991122_lhd.m3u8?txSecret=2d9d25be5913660638ebc0e95bbc5667&txTime=64adcbc1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA CL: Lincoln Red Imps vs Qarabag" tvg-name="UEFA CL: Lincoln Red Imps vs Qarabag" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] UEFA CL: Lincoln Red Imps vs Qarabag [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=16bd65bc04ac41a46934179cabe6b1b8&txTime=64adcb49
+#EXTINF:-1 tvg-id="UEFA CL: Lincoln Red Imps vs Qarabag" tvg-name="UEFA CL: Lincoln Red Imps vs Qarabag" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] UEFA CL: Lincoln Red Imps vs Qarabag [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991136_lhd.m3u8?txSecret=0a48f1ed86734901930ca9851fd5caf5&txTime=64adcbc1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA CL: Lincoln Red Imps vs Qarabag" tvg-name="UEFA CL: Lincoln Red Imps vs Qarabag" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] UEFA CL: Lincoln Red Imps vs Qarabag [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=0fc7a45a39c61ce832751e861ef4776d&txTime=64adcb49
+#EXTINF:-1 tvg-id="CAF CoC: Namibia vs Botswana" tvg-name="CAF CoC: Namibia vs Botswana" tvg-logo="https://sta.vnres.co/file/head/20230624/5470d0597436a3814f875565c1a21d74.png",[COLOR red][LIVE][/COLOR] CAF CoC: Namibia vs Botswana [COLOR yellow]BLV ODIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-372601_lhd.m3u8?auth_key=1689093489-0-0-f4c3b02d91235da17ba3b44e5e0e4fb1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="JOR SC: Al Salt vs Al-Jalil" tvg-name="JOR SC: Al Salt vs Al-Jalil" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] JOR SC: Al Salt vs Al-Jalil [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1689093369-0-0-7ed206fd439e18f54c2e753dcf64de8b
+https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1689093489-0-0-2d9c667308f175e45004568b812588fb
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA CL: Lincoln Red Imps vs Qarabag" tvg-name="UEFA CL: Lincoln Red Imps vs Qarabag" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] UEFA CL: Lincoln Red Imps vs Qarabag [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=88307fc403faa1a615609b5e78ee18f0&txTime=64adcbc1
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="IRQ D1: Al Karkh vs Naft Al Basra" tvg-name="IRQ D1: Al Karkh vs Naft Al Basra" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] IRQ D1: Al Karkh vs Naft Al Basra [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991144_lhd.m3u8?auth_key=1689093549-0-0-3badf9fd940c1cf3c4678c0fa54685de
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA CL: Lincoln Red Imps vs Qarabag" tvg-name="UEFA CL: Lincoln Red Imps vs Qarabag" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] UEFA CL: Lincoln Red Imps vs Qarabag [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=a5fc0301ecdec7eb4fa4f49dcd4d8d36&txTime=64adcbfd
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA CL: Urartu vs Zrinjski Mostar" tvg-name="UEFA CL: Urartu vs Zrinjski Mostar" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] UEFA CL: Urartu vs Zrinjski Mostar [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1689093549-0-0-32ffbd3f0d36cccbe41f3abd7d4fb202
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA CL: Lincoln Red Imps vs Qarabag" tvg-name="UEFA CL: Lincoln Red Imps vs Qarabag" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] UEFA CL: Lincoln Red Imps vs Qarabag [COLOR yellow]KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1689093549-0-0-e8ed9c9e904bac73ea57b597673c0b61
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA CL: Urartu vs Zrinjski Mostar" tvg-name="UEFA CL: Urartu vs Zrinjski Mostar" tvg-logo="https://sta.vnres.co/file/head/20230614/dda6614c7343363c5f57796b30900daa.jpg",[COLOR red][LIVE][/COLOR] UEFA CL: Urartu vs Zrinjski Mostar [COLOR yellow]BLV ROMEO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-499490_lhd.m3u8?auth_key=1689093549-0-0-92b44d68a04c7d37149c5cf44aa595b3
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA CL: Urartu vs Zrinjski Mostar" tvg-name="UEFA CL: Urartu vs Zrinjski Mostar" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg",[COLOR red][LIVE][/COLOR] UEFA CL: Urartu vs Zrinjski Mostar [COLOR yellow]BLV QUICK[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1689093369-0-0-c0887729094a60855fde0b379cfd390c
+https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1689093549-0-0-61939d44db203dc45a62812e4b0fe017
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA CL: Urartu vs Zrinjski Mostar" tvg-name="UEFA CL: Urartu vs Zrinjski Mostar" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26",[COLOR red][LIVE][/COLOR] UEFA CL: Urartu vs Zrinjski Mostar [COLOR yellow]BABY BOY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1689093369-0-0-1675588669c28da22e521cba8c1737ff
+https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1689093549-0-0-45d2ad0a157a59b3663807127640c2ed
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA CL: Lincoln Red Imps vs Qarabag" tvg-name="UEFA CL: Lincoln Red Imps vs Qarabag" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] UEFA CL: Lincoln Red Imps vs Qarabag [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=51d9d0625370fd5103b21550fda3036e&txTime=64adcb49
+https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=57d82ac803148de333ad4e8e1bc9d821&txTime=64adcbfd
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="JOR SC: Al Salt vs Al-Jalil" tvg-name="JOR SC: Al Salt vs Al-Jalil" tvg-logo="https://sta.vnres.co/file/head/20230702/e13cf1be9abe71b42b6cb6ebc7333a5e.jpg",[COLOR red][LIVE][/COLOR] JOR SC: Al Salt vs Al-Jalil [COLOR yellow]THẦY PHÁN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-327261_lhd.m3u8?auth_key=1689093369-0-0-54015241a17b5af54ae9a835ee1244d2
+https://pull06.scstream.net/live/stream-327261_lhd.m3u8?auth_key=1689093549-0-0-e6c46d128f1a9e9216fb61559dd27eaa
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="JOR SC: Al Salt vs Al-Jalil" tvg-name="JOR SC: Al Salt vs Al-Jalil" tvg-logo="https://sta.vnres.co/file/head/20230621/328a06ad6d57b30357f8ec528c004ea8.jpg",[COLOR red][LIVE][/COLOR] JOR SC: Al Salt vs Al-Jalil [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-115447_lhd.m3u8?txSecret=a255da87726f5f67ee5ee75c5d272206&txTime=64adcb49
+https://pull01.rrwes.live/live/stream-115447_lhd.m3u8?txSecret=783077a199da38bc2d3e54a49181ccae&txTime=64adcbfd
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IRQ D1: Al Karkh vs Naft Al Basra" tvg-name="IRQ D1: Al Karkh vs Naft Al Basra" tvg-logo="https://sta.vnres.co/file/head/20230623/58659179c3d06dc0bae15fdca12d1ee0.png",[COLOR red][LIVE][/COLOR] IRQ D1: Al Karkh vs Naft Al Basra [COLOR yellow]BLV SÓI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-427562_lhd.m3u8?auth_key=1689093369-0-0-6f874cd3bd89b79393fedd11e51da245
+https://pull06.scstream.net/live/stream-427562_lhd.m3u8?auth_key=1689093549-0-0-6e0311a3576daf2a0acd8d55f9c48c3a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IRQ D1: Al Karkh vs Naft Al Basra" tvg-name="IRQ D1: Al Karkh vs Naft Al Basra" tvg-logo="https://sta.vnres.co/file/head/20230703/1c680e11871e2e043a76071fb237c0ca.jpg",[COLOR red][LIVE][/COLOR] IRQ D1: Al Karkh vs Naft Al Basra [COLOR yellow]BLV GÀ RỪNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-425114_lhd.m3u8?auth_key=1689093369-0-0-21651c6b6cfe8f28b9689ec9aafb6dc8
+https://pull06.scstream.net/live/stream-425114_lhd.m3u8?auth_key=1689093549-0-0-7311d736497aaa65274ff37821eb2535
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF CoC: South Africa vs Eswatini" tvg-name="CAF CoC: South Africa vs Eswatini" tvg-logo="https://sta.vnres.co/file/head/20230624/f8ecd75f67e2fa82de4459c2fa5847a7.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: South Africa vs Eswatini [COLOR yellow]BIGBA BALL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-271964_lhd.m3u8?auth_key=1689093369-0-0-2f1fe6d11bb66cfd44d13b19e34fb905
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="ARG D1: Talleres Cordoba vs Union Santa Fe" tvg-name="ARG D1: Talleres Cordoba vs Union Santa Fe" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg",[COLOR red][LIVE][/COLOR] ARG D1: Talleres Cordoba vs Union Santa Fe [COLOR yellow]VAN PEPSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-365007_lhd.m3u8?auth_key=1689093369-0-0-66156545cb2e06716c93e692b9688f11
+https://pull06.scstream.net/live/stream-271964_lhd.m3u8?auth_key=1689093549-0-0-87645f63ec7191ffa0206e47be3b1ad9
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INT CF: Copenhagen vs Schalke" tvg-name="INT CF: Copenhagen vs Schalke" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg",[COLOR red][LIVE][/COLOR] INT CF: Copenhagen vs Schalke [COLOR yellow]BLV CAPTAIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-231997_lhd.m3u8?txSecret=bddc00fa82aa06cb287d874f920b7027&txTime=64adcb49
+https://pull01.rrwes.live/live/stream-231997_lhd.m3u8?txSecret=c02bd760cd7b03e51e10eef246497f7f&txTime=64adcbfd
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="AUS WQSL: Souths United Women's vs Eastern Suburbs Women's" tvg-name="AUS WQSL: Souths United Women's vs Eastern Suburbs Women's" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg",[COLOR red][LIVE][/COLOR] AUS WQSL: Souths United Women's vs Eastern Suburbs Women's [COLOR yellow]BLV DIHI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-379975_lhd.m3u8?auth_key=1689093369-0-0-653040a99b49718f9c7c391ee3a9da54
+#EXTINF:-1 tvg-id="INT CF: Copenhagen vs Schalke" tvg-name="INT CF: Copenhagen vs Schalke" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] INT CF: Copenhagen vs Schalke [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1689093549-0-0-83ac32525c4637e3679f4b5fbed6067a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: South Africa vs Eswatini" tvg-name="CAF CoC: South Africa vs Eswatini" tvg-logo="https://sta.vnres.co/file/head/20230410/530a7f04e4608e8d55d1b3159c8296a4.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: South Africa vs Eswatini [COLOR yellow]BLV Củ Cải[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-360663_lhd.m3u8?auth_key=1689093369-0-0-3f57e7da067b046fb7cc65b0ecdb3a31
+#EXTINF:-1 tvg-id="ARG D1: Talleres Cordoba vs Union Santa Fe" tvg-name="ARG D1: Talleres Cordoba vs Union Santa Fe" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg",[COLOR red][LIVE][/COLOR] ARG D1: Talleres Cordoba vs Union Santa Fe [COLOR yellow]VAN PEPSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-365007_lhd.m3u8?auth_key=1689093549-0-0-e5c0990f6b93b4241fdec7ce7c37e146
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF CoC: Namibia vs Botswana" tvg-name="CAF CoC: Namibia vs Botswana" tvg-logo="https://sta.vnres.co/file/head/20230614/42f95823a1cfff31a879a9d6b7222bfd.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Namibia vs Botswana [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1689093549-0-0-0b0805643a05495fc9f2fd93190c844a
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INT CF: Copenhagen vs Schalke" tvg-name="INT CF: Copenhagen vs Schalke" tvg-logo="https://sta.vnres.co/file/head/20230608/944e51718d34d61ad5d8b634a026c299.jpeg",[COLOR red][LIVE][/COLOR] INT CF: Copenhagen vs Schalke [COLOR yellow]BLV HAKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-359236_lhd.m3u8?auth_key=1689093549-0-0-f81b6d26084de24553e6d50268ff4dec
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF CoC: South Africa vs Eswatini" tvg-name="CAF CoC: South Africa vs Eswatini" tvg-logo="https://sta.vnres.co/file/head/20230529/e746ced8636bd601624e943f96a8503f.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: South Africa vs Eswatini [COLOR yellow]BLV CHOVY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-319191_lhd.m3u8?txSecret=5c7d813b7fbe90063720623d8fcbd5f9&txTime=64adcb49
+https://pull01.rrwes.live/live/stream-319191_lhd.m3u8?txSecret=32cfeb42aad0ed2e3615a672c462cc5d&txTime=64adcbfd
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA CL: VMFD Zalgiris vs FC Struga Trim-Lum" tvg-name="UEFA CL: VMFD Zalgiris vs FC Struga Trim-Lum" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg",[COLOR red][LIVE][/COLOR] UEFA CL: VMFD Zalgiris vs FC Struga Trim-Lum [COLOR yellow]BLV DIHI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-379975_lhd.m3u8?auth_key=1689093549-0-0-6ff895126a7e3a52b995539c373140e2
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INT CF: Copenhagen vs Schalke" tvg-name="INT CF: Copenhagen vs Schalke" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] INT CF: Copenhagen vs Schalke [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=9713c26fbc72282b89fcce50488b31ef&txTime=64adcbfd
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
