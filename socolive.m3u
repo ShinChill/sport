@@ -1,76 +1,73 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="VIE Cup: Viettel vs Nam Dinh" tvg-name="VIE Cup: Viettel vs Nam Dinh" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] VIE Cup: Viettel vs Nam Dinh [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-348199_lhd.m3u8?txSecret=5137193e9dba7d335776d227d5de8511&txTime=64adb75d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF CoC: Malawi vs Comoros" tvg-name="CAF CoC: Malawi vs Comoros" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Malawi vs Comoros [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1689088269-0-0-61ee1ea1564e74ef11a94a1b53f226f3
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Seychelles vs Zambia" tvg-name="CAF CoC: Seychelles vs Zambia" tvg-logo="https://sta.vnres.co/file/head/20230614/42f95823a1cfff31a879a9d6b7222bfd.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Seychelles vs Zambia [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1689088269-0-0-3c9fc3bd4070f1c112d5aaf82cffd6b8
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE Cup: Viettel vs Nam Dinh" tvg-name="VIE Cup: Viettel vs Nam Dinh" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] VIE Cup: Viettel vs Nam Dinh [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=2c040d9e5f6345ec61ca09630491304d&txTime=64adb75d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Seychelles vs Zambia" tvg-name="CAF CoC: Seychelles vs Zambia" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Seychelles vs Zambia [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1689088269-0-0-28ce0afb9123a44827cb65bcc5fdb177
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE Cup: Viettel vs Nam Dinh" tvg-name="VIE Cup: Viettel vs Nam Dinh" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] VIE Cup: Viettel vs Nam Dinh [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991122_lhd.m3u8?txSecret=9b951f3c3023f8cd91e0edf40af551dc&txTime=64adb75d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE Cup: Viettel vs Nam Dinh" tvg-name="VIE Cup: Viettel vs Nam Dinh" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] VIE Cup: Viettel vs Nam Dinh [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1689088269-0-0-57716f2f12f7e53ede7600bc8c5c0424
+https://pull06.scstream.net/live/stream-120778_lhd.m3u8?auth_key=1689088449-0-0-9d0e01fda41b86743945ed2508c1f260
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VIE Cup: Viettel vs Nam Dinh" tvg-name="VIE Cup: Viettel vs Nam Dinh" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] VIE Cup: Viettel vs Nam Dinh [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1689088269-0-0-19ab28b0b33be35e398b5056cb15459a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="VIE Cup: Viettel vs Nam Dinh" tvg-name="VIE Cup: Viettel vs Nam Dinh" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] VIE Cup: Viettel vs Nam Dinh [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1689088269-0-0-aaa9baa81f57be65b50ca3a511517a2d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Seychelles vs Zambia" tvg-name="CAF CoC: Seychelles vs Zambia" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] CAF CoC: Seychelles vs Zambia [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-106737_lhd.m3u8?auth_key=1689088269-0-0-52b7d4883e2119eb190eb784b48dae29
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Seychelles vs Zambia" tvg-name="CAF CoC: Seychelles vs Zambia" tvg-logo="https://sta.vnres.co/file/head/20230710/6eadd91e067600344bc96b1c94e6f45c.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Seychelles vs Zambia [COLOR yellow]BLV WAIT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-494193_lhd.m3u8?auth_key=1689088269-0-0-b13a5d7dfd4bdaecc993b6dd118cf0d3
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1689088449-0-0-6b78c5ccf17adb582d0b882f23c30686
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF CoC: Malawi vs Comoros" tvg-name="CAF CoC: Malawi vs Comoros" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] CAF CoC: Malawi vs Comoros [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991136_lhd.m3u8?txSecret=2d07a0ef8557698bee1cea8a5c932be4&txTime=64adb75d
+https://pull01.rrwes.live/live/stream-991136_lhd.m3u8?txSecret=9c2eff3be4bbfeaa8bafac99769cea9d&txTime=64adb811
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE Cup: Viettel vs Nam Dinh" tvg-name="VIE Cup: Viettel vs Nam Dinh" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] VIE Cup: Viettel vs Nam Dinh [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-348199_lhd.m3u8?txSecret=e4c8fa499027a957564d436b621d8619&txTime=64adb811
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE Cup: Viettel vs Nam Dinh" tvg-name="VIE Cup: Viettel vs Nam Dinh" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][Chưa bắt đầu][/COLOR] VIE Cup: Viettel vs Nam Dinh [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1689088476-0-0-82d19709b3dd23b4372e90ae95c0fe03
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF CoC: Seychelles vs Zambia" tvg-name="CAF CoC: Seychelles vs Zambia" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Seychelles vs Zambia [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1689088449-0-0-f22abbc057f25a8b032e2a0cc0310287
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA CL: Urartu vs Zrinjski Mostar" tvg-name="UEFA CL: Urartu vs Zrinjski Mostar" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] UEFA CL: Urartu vs Zrinjski Mostar [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1689088449-0-0-25e65599d325217b4a8da8e2bbea7a33
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IRQ D1: Al Karkh vs Naft Al Basra" tvg-name="IRQ D1: Al Karkh vs Naft Al Basra" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] IRQ D1: Al Karkh vs Naft Al Basra [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991144_lhd.m3u8?auth_key=1689088269-0-0-77389d773666f0c590c759bd2773e3a8
+https://pull06.scstream.net/live/stream-991144_lhd.m3u8?auth_key=1689088449-0-0-854166c4bc253c07517fd4965c241e3c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Seychelles vs Zambia" tvg-name="CAF CoC: Seychelles vs Zambia" tvg-logo="https://sta.vnres.co/file/head/20230624/f8ecd75f67e2fa82de4459c2fa5847a7.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Seychelles vs Zambia [COLOR yellow]BIGBA BALL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-271964_lhd.m3u8?auth_key=1689088269-0-0-445c6482e2b8e58e15008e35fbfee4b8
+#EXTINF:-1 tvg-id="CAF CoC: Seychelles vs Zambia" tvg-name="CAF CoC: Seychelles vs Zambia" tvg-logo="https://sta.vnres.co/file/head/20230710/6eadd91e067600344bc96b1c94e6f45c.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Seychelles vs Zambia [COLOR yellow]BLV WAIT[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-494193_lhd.m3u8?auth_key=1689088449-0-0-9853ca7037492cc913db6019bba7d5e7
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF CoC: Seychelles vs Zambia" tvg-name="CAF CoC: Seychelles vs Zambia" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] CAF CoC: Seychelles vs Zambia [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-106737_lhd.m3u8?auth_key=1689088449-0-0-311e5db34ae683b4e400b5bf0ac0128a
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF CoC: Seychelles vs Zambia" tvg-name="CAF CoC: Seychelles vs Zambia" tvg-logo="https://sta.vnres.co/file/head/20230614/42f95823a1cfff31a879a9d6b7222bfd.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Seychelles vs Zambia [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1689088449-0-0-9703debab5c3d9d1a1851b1172c046de
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="VIE Cup: Viettel vs Nam Dinh" tvg-name="VIE Cup: Viettel vs Nam Dinh" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] VIE Cup: Viettel vs Nam Dinh [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1689088449-0-0-a0fb4818b6b1c876930ee67378442125
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF CoC: Malawi vs Comoros" tvg-name="CAF CoC: Malawi vs Comoros" tvg-logo="https://sta.vnres.co/file/head/20230608/944e51718d34d61ad5d8b634a026c299.jpeg",[COLOR red][LIVE][/COLOR] CAF CoC: Malawi vs Comoros [COLOR yellow]BLV HAKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-359236_lhd.m3u8?auth_key=1689088269-0-0-4da563754c72e3f690ea6e7561d57977
+https://pull06.scstream.net/live/stream-359236_lhd.m3u8?auth_key=1689088449-0-0-20b957fa72fef32d4f21a9ab25cac3a0
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF CoC: Seychelles vs Zambia" tvg-name="CAF CoC: Seychelles vs Zambia" tvg-logo="https://sta.vnres.co/file/head/20230624/f8ecd75f67e2fa82de4459c2fa5847a7.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Seychelles vs Zambia [COLOR yellow]BIGBA BALL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-271964_lhd.m3u8?auth_key=1689088449-0-0-3eef79f7a6a650ab95a67a6d51e9aa70
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF CoC: Malawi vs Comoros" tvg-name="CAF CoC: Malawi vs Comoros" tvg-logo="https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Malawi vs Comoros [COLOR yellow]BLV MESSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-494201_lhd.m3u8?txSecret=0e319fc041ee6e9f4896a1c752461d74&txTime=64adb75d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Malawi vs Comoros" tvg-name="CAF CoC: Malawi vs Comoros" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Malawi vs Comoros [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1689088269-0-0-8d94328935ea359074fbfbe3b2d35bd3
+https://pull01.rrwes.live/live/stream-494201_lhd.m3u8?txSecret=5a005b00108e8fdc8028a28031fdc480&txTime=64adb811
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VBA: Da Nang Dragons vs Thang Long Warriors" tvg-name="VBA: Da Nang Dragons vs Thang Long Warriors" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] VBA: Da Nang Dragons vs Thang Long Warriors [COLOR yellow]KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1689088269-0-0-b48eb5076b10155f7ea3c2cb06f5da0a
+https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1689088449-0-0-f226d15045a662cb3893d6ac23737607
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF CoC: Malawi vs Comoros" tvg-name="CAF CoC: Malawi vs Comoros" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Malawi vs Comoros [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1689088449-0-0-0eb4451a5ebb4077991ba21faea9da4a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF CoC: Seychelles vs Zambia" tvg-name="CAF CoC: Seychelles vs Zambia" tvg-logo="https://sta.vnres.co/file/head/20230621/328a06ad6d57b30357f8ec528c004ea8.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Seychelles vs Zambia [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-115447_lhd.m3u8?txSecret=126a6978524191d49381de5694adcf35&txTime=64adb75d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Malawi vs Comoros" tvg-name="CAF CoC: Malawi vs Comoros" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Malawi vs Comoros [COLOR yellow]BLV KAKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1689088269-0-0-bfa654835a55db2ceebbb70df6474880
+https://pull01.rrwes.live/live/stream-115447_lhd.m3u8?txSecret=83b3c28f2e93e50e888afa6100d4a06d&txTime=64adb811
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INT CF: Zorya vs Zemplin Michalovce" tvg-name="INT CF: Zorya vs Zemplin Michalovce" tvg-logo="https://sta.vnres.co/file/head/20230310/c88aad2517438b870b70b682d81e61db.jpg",[COLOR red][LIVE][/COLOR] INT CF: Zorya vs Zemplin Michalovce [COLOR yellow]YUKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1689088269-0-0-8fab17459b95129e03fa249dc6df39a3
+https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1689088449-0-0-03b9b1c2f3b8f9b89b2914b7829b45d6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="IRQ D1: Al Karkh vs Naft Al Basra" tvg-name="IRQ D1: Al Karkh vs Naft Al Basra" tvg-logo="https://sta.vnres.co/file/head/20230623/58659179c3d06dc0bae15fdca12d1ee0.png",[COLOR red][LIVE][/COLOR] IRQ D1: Al Karkh vs Naft Al Basra [COLOR yellow]BLV SÓI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-427562_lhd.m3u8?auth_key=1689088269-0-0-5a92b577973960c8e904f7d4650d8f5c
+#EXTINF:-1 tvg-id="CAF CoC: Malawi vs Comoros" tvg-name="CAF CoC: Malawi vs Comoros" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Malawi vs Comoros [COLOR yellow]BLV KAKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1689088449-0-0-20a89800f2a9830f928c7e1a17984e22
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="VBA: Da Nang Dragons vs Thang Long Warriors" tvg-name="VBA: Da Nang Dragons vs Thang Long Warriors" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] VBA: Da Nang Dragons vs Thang Long Warriors [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=c035cbc1c4bdf1977ee2c90f5fb0152e&txTime=64adb75d
+https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=985ebd1e45e2d7b2f4fa68caa5d22932&txTime=64adb811
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="IRQ D1: Al Karkh vs Naft Al Basra" tvg-name="IRQ D1: Al Karkh vs Naft Al Basra" tvg-logo="https://sta.vnres.co/file/head/20230703/1c680e11871e2e043a76071fb237c0ca.jpg",[COLOR red][LIVE][/COLOR] IRQ D1: Al Karkh vs Naft Al Basra [COLOR yellow]BLV GÀ RỪNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-425114_lhd.m3u8?auth_key=1689088269-0-0-e8e7af6cd59ea371685f680ec88f5c9e
+https://pull06.scstream.net/live/stream-425114_lhd.m3u8?auth_key=1689088449-0-0-ea85f4a415f491258b3eafa031372bae
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="IRQ D1: Al Karkh vs Naft Al Basra" tvg-name="IRQ D1: Al Karkh vs Naft Al Basra" tvg-logo="https://sta.vnres.co/file/head/20230623/58659179c3d06dc0bae15fdca12d1ee0.png",[COLOR red][LIVE][/COLOR] IRQ D1: Al Karkh vs Naft Al Basra [COLOR yellow]BLV SÓI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-427562_lhd.m3u8?auth_key=1689088449-0-0-ee4433026778abbe13752020ef7a26af
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA CL: Urartu vs Zrinjski Mostar" tvg-name="UEFA CL: Urartu vs Zrinjski Mostar" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg",[COLOR red][LIVE][/COLOR] UEFA CL: Urartu vs Zrinjski Mostar [COLOR yellow]BLV QUICK[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1689088269-0-0-a4db7a9f1768aee26010aed4257fdb06
+https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1689088509-0-0-c52da9f5665152c25c2c79d972a45579
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
