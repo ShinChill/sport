@@ -1,25 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="MEX D1: Club Leon vs Pachuca" tvg-name="MEX D1: Club Leon vs Pachuca" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] MEX D1: Club Leon vs Pachuca [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1689052448-0-0-9bfa13d5925e2b9aaeb530d10cfd2e26
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="09:00 MEX D1: Club Leon vs Pachuca" tvg-name="09:00 MEX D1: Club Leon vs Pachuca" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] 09:00 MEX D1: Club Leon vs Pachuca [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1689052448-0-0-886e2466c220df49cae2ff5dfadea097
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="NBASL: Los Angeles Clippers vs Sacramento Kings" tvg-name="NBASL: Los Angeles Clippers vs Sacramento Kings" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png",[COLOR red][LIVE][/COLOR] NBASL: Los Angeles Clippers vs Sacramento Kings [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1689052448-0-0-58446d1337a7fd7ceaceb652c0b410c1
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MEX D1: Club Leon vs Pachuca" tvg-name="MEX D1: Club Leon vs Pachuca" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] MEX D1: Club Leon vs Pachuca [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991143_lhd.m3u8?txSecret=a387763b22cc5ebc192e72a3bbe9d3cd&txTime=64ad2b70
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="MEX D1: Club Leon vs Pachuca" tvg-name="MEX D1: Club Leon vs Pachuca" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] MEX D1: Club Leon vs Pachuca [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1689052448-0-0-5cc3f85c8b1bb90dfc7166dd0275b653
+https://pull01.rrwes.live/live/stream-991143_lhd.m3u8?txSecret=9d9c13df61ad2496bd8bebadda575039&txTime=64ad2c24
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="MEX D1: Club Leon vs Pachuca" tvg-name="MEX D1: Club Leon vs Pachuca" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] MEX D1: Club Leon vs Pachuca [COLOR yellow]TẠ BIÊN GIỚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1689052448-0-0-82ba2c6120cf7fca186ef30285718f78
+https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1689052628-0-0-809a02ceb3652ab99aa4146d37b656c2
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MEX D1: Club Leon vs Pachuca" tvg-name="MEX D1: Club Leon vs Pachuca" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] MEX D1: Club Leon vs Pachuca [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1689052628-0-0-155c5eed288eb817e648bab85461756d
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="MEX D1: Club Leon vs Pachuca" tvg-name="MEX D1: Club Leon vs Pachuca" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] MEX D1: Club Leon vs Pachuca [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1689052628-0-0-581cfb96a25b8336fffcde45e1af7a66
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="09:00 MEX D1: Club Leon vs Pachuca" tvg-name="09:00 MEX D1: Club Leon vs Pachuca" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] 09:00 MEX D1: Club Leon vs Pachuca [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1689052628-0-0-07077e0e820457e6d4d5560a7a8f8924
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="NBASL: Los Angeles Clippers vs Sacramento Kings" tvg-name="NBASL: Los Angeles Clippers vs Sacramento Kings" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png",[COLOR red][LIVE][/COLOR] NBASL: Los Angeles Clippers vs Sacramento Kings [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1689052628-0-0-3634782c68c104fd659eb1cb59225c2c
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="NBASL: Los Angeles Clippers vs Sacramento Kings" tvg-name="NBASL: Los Angeles Clippers vs Sacramento Kings" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] NBASL: Los Angeles Clippers vs Sacramento Kings [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=ea0d40e0b75d7cb08179f41ad034b4b4&txTime=64ad2b70
+https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=93a520bdadda627607fca8e69122e5c9&txTime=64ad2c24
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA U21 - Israel vs England" tvg-name="Tường thuật: UEFA U21 - Israel vs England" tvg-logo="https://sta.vnres.co/file/head/20220810/2a7ffd98fe2f64c7e36efb035d2cbc3b.png",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U21 - Israel vs England [COLOR yellow]Sóc phụ hồ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-133277_lhd.m3u8?auth_key=1689052448-0-0-47bcb3e3d31cdfed8e033c9f977aea20
+https://pull06.scstream.net/live/stream-133277_lhd.m3u8?auth_key=1689052628-0-0-8fb9cfd317d68e85150770d702227bbb
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
