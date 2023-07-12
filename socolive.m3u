@@ -1,22 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="NBASL: San Antonio Spurs vs Washington Wizards" tvg-name="NBASL: San Antonio Spurs vs Washington Wizards" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] NBASL: San Antonio Spurs vs Washington Wizards [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1689139791-0-0-29c29c661e14402bed67a56ac4c20bfb
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA U19 - Malta vs Poland" tvg-name="Tường thuật: UEFA U19 - Malta vs Poland" tvg-logo="https://sta.vnres.co/file/head/20221213/1ccf6b3b54904f0da8610926a968d412.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U19 - Malta vs Poland [COLOR yellow]Sóc gánh nước[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-133824_lhd.m3u8?auth_key=1689139929-0-0-4a96b4db98a718a1002745aec9d5455b
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Tường thuật: UEFA U21 - Israel vs England" tvg-name="Tường thuật: UEFA U21 - Israel vs England" tvg-logo="https://sta.vnres.co/file/head/20220810/2a7ffd98fe2f64c7e36efb035d2cbc3b.png",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U21 - Israel vs England [COLOR yellow]Sóc phụ hồ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-133277_lhd.m3u8?auth_key=1689139929-0-0-c21dceb76d643771a953cdd0f22aaa4c
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="Tường thuật: UEFA U21 - Spain vs Ukraine" tvg-name="Tường thuật: UEFA U21 - Spain vs Ukraine" tvg-logo="https://sta.vnres.co/file/head/20230626/52e8c2568ca8908d025996a94579052b.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U21 - Spain vs Ukraine [COLOR yellow]Sóc mèo méo meo[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-343500_lhd.m3u8?auth_key=1689139929-0-0-43ac081861e22255260cf5b4989ed4ad
+https://pull06.scstream.net/live/stream-133824_lhd.m3u8?auth_key=1689140109-0-0-345f29413bc6a4fe990c33dcc3692a23
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA U19 - Italy vs Poland" tvg-name="Tường thuật: UEFA U19 - Italy vs Poland" tvg-logo="https://sta.vnres.co/file/head/20220810/7ec533b436e71ab93e03dda2f6a15678.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U19 - Italy vs Poland [COLOR yellow]Sóc Minions[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-160872_lhd.m3u8?auth_key=1689139929-0-0-3c9a5ae5aec81e8f1dd60c209ba7af59
+https://pull06.scstream.net/live/stream-160872_lhd.m3u8?auth_key=1689140109-0-0-06a4172d8031b4a40797f8298b004efc
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Tường thuật: UEFA U21 - Israel vs England" tvg-name="Tường thuật: UEFA U21 - Israel vs England" tvg-logo="https://sta.vnres.co/file/head/20220810/2a7ffd98fe2f64c7e36efb035d2cbc3b.png",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U21 - Israel vs England [COLOR yellow]Sóc phụ hồ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-133277_lhd.m3u8?auth_key=1689140109-0-0-e9850e8805ed4df333e141fbe601274e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: UEFA U19 - Portugal vs Italy" tvg-name="Tường thuật: UEFA U19 - Portugal vs Italy" tvg-logo="https://sta.vnres.co/file/head/20221213/f2d17ad16d4acb59cfd9d0976f0fa77e.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U19 - Portugal vs Italy [COLOR yellow]Sóc nhà giàu[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-187684_lhd.m3u8?auth_key=1689139929-0-0-c9baf956eb9d80b481fddfb93f06d7b2
+https://pull06.scstream.net/live/stream-187684_lhd.m3u8?auth_key=1689140109-0-0-2366b6402a80bd3ba9d8a1bfee9dcfad
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="Tường thuật: VIE Cup - Viettel vs Nam Dinh" tvg-name="Tường thuật: VIE Cup - Viettel vs Nam Dinh" tvg-logo="https://sta.vnres.co/file/head/20221111/5dedadaf5ec33677f4ebc3a71ba3626c.png",[COLOR red][LIVE][/COLOR] Tường thuật: VIE Cup - Viettel vs Nam Dinh [COLOR yellow]Sóc cam[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-152898_lhd.m3u8?auth_key=1689139929-0-0-3e306d5a55fa7a4d630a3f66134b4972
+https://pull06.scstream.net/live/stream-152898_lhd.m3u8?auth_key=1689140109-0-0-f7b8a145906f71e9bd16ce664f020cb4
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="Tường thuật: UEFA U21 - Spain vs Ukraine" tvg-name="Tường thuật: UEFA U21 - Spain vs Ukraine" tvg-logo="https://sta.vnres.co/file/head/20230626/52e8c2568ca8908d025996a94579052b.jpg",[COLOR red][LIVE][/COLOR] Tường thuật: UEFA U21 - Spain vs Ukraine [COLOR yellow]Sóc mèo méo meo[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-343500_lhd.m3u8?auth_key=1689140109-0-0-30db9fa90b7a8664beae0d8e700aca23
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
