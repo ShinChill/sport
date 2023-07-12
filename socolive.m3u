@@ -1,121 +1,112 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="CAF CoC: Angola vs Lesotho" tvg-name="CAF CoC: Angola vs Lesotho" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] CAF CoC: Angola vs Lesotho [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1689177009-0-0-4b93c554b245cbe825984a4dc47beb40
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INT CF: Man Utd vs Leeds" tvg-name="INT CF: Man Utd vs Leeds" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] INT CF: Man Utd vs Leeds [COLOR yellow]TẠ BIÊN GIỚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1689177009-0-0-56908d166ecfdd91fc2ebc8c9cc917e3
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA CL: FC Astana vs Dinamo Tbilisi" tvg-name="UEFA CL: FC Astana vs Dinamo Tbilisi" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] UEFA CL: FC Astana vs Dinamo Tbilisi [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991144_lhd.m3u8?auth_key=1689177009-0-0-fdcb1a66f039bdebe74b944b7dca7076
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA CL: FC Astana vs Dinamo Tbilisi" tvg-name="UEFA CL: FC Astana vs Dinamo Tbilisi" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] UEFA CL: FC Astana vs Dinamo Tbilisi [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991143_lhd.m3u8?auth_key=1689177009-0-0-8745e6248d25c06660833dc5b7ddc957
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA CL: FC Astana vs Dinamo Tbilisi" tvg-name="UEFA CL: FC Astana vs Dinamo Tbilisi" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",[COLOR red][LIVE][/COLOR] UEFA CL: FC Astana vs Dinamo Tbilisi [COLOR yellow]TAM MAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-113906_lhd.m3u8?txSecret=e2607207023abe06af64777c2e126e8c&txTime=64af1201
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIN D1: Inter Turku vs VPS Vaasa" tvg-name="FIN D1: Inter Turku vs VPS Vaasa" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] FIN D1: Inter Turku vs VPS Vaasa [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1689177009-0-0-a58e21b062edf3d2c663aa10b713e5d1
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INT CF: Man Utd vs Leeds" tvg-name="INT CF: Man Utd vs Leeds" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] INT CF: Man Utd vs Leeds [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=f8c504fb1a51ffff23b0d53d9afdc532&txTime=64af1201
+#EXTINF:-1 tvg-id="INT CF: Man Utd vs Leeds" tvg-name="INT CF: Man Utd vs Leeds" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] INT CF: Man Utd vs Leeds [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1689177189-0-0-e3918fca3ef77caceac01c88505936a0
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA CL: FC Astana vs Dinamo Tbilisi" tvg-name="UEFA CL: FC Astana vs Dinamo Tbilisi" tvg-logo="https://sta.vnres.co/file/head/20230704/3f761735f74536f2d8d3cd7c92e432bb.jpg",[COLOR red][LIVE][/COLOR] UEFA CL: FC Astana vs Dinamo Tbilisi [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-420171_lhd.m3u8?txSecret=d1b02bad5fcd365b638fde4f45cd1b41&txTime=64af123d
+https://pull01.rrwes.live/live/stream-420171_lhd.m3u8?txSecret=0314975cf00192ae6b6b4584fd8130c6&txTime=64af12b5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INT CF: Man Utd vs Leeds" tvg-name="INT CF: Man Utd vs Leeds" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] INT CF: Man Utd vs Leeds [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1689177069-0-0-f6ed61d769830eff0fb44592624b35c8
+#EXTINF:-1 tvg-id="INT CF: Man Utd vs Leeds" tvg-name="INT CF: Man Utd vs Leeds" tvg-logo="https://sta.vnres.co/file/pic/202201/04/0b8fba6a9be73ec9edad44bc4c9b0166",[COLOR red][LIVE][/COLOR] INT CF: Man Utd vs Leeds [COLOR yellow]RICKHANTER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991114_lhd.m3u8?txSecret=c51577b3cf4ff8e9d8b3289618d684e5&txTime=64af12b5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INT CF: Man Utd vs Leeds" tvg-name="INT CF: Man Utd vs Leeds" tvg-logo="https://sta.vnres.co/file/head/20220627/f5043412d64bc0bc7ca106741d6a59a6.png",[COLOR red][LIVE][/COLOR] INT CF: Man Utd vs Leeds [COLOR yellow]BLV NONAME[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991128_lhd.m3u8?auth_key=1689177069-0-0-c1c62c6f35c3d4be791ad20a779ca77a
+#EXTINF:-1 tvg-id="FIN D1: Inter Turku vs VPS Vaasa" tvg-name="FIN D1: Inter Turku vs VPS Vaasa" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] FIN D1: Inter Turku vs VPS Vaasa [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1689177189-0-0-eee75068a1b592fb6f18a5bb161da351
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA CL: FC Astana vs Dinamo Tbilisi" tvg-name="UEFA CL: FC Astana vs Dinamo Tbilisi" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",[COLOR red][LIVE][/COLOR] UEFA CL: FC Astana vs Dinamo Tbilisi [COLOR yellow]TAM MAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-113906_lhd.m3u8?txSecret=c8c7e63778d7b44fbb8b4254bb25ade0&txTime=64af12b5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIN D1: Inter Turku vs VPS Vaasa" tvg-name="FIN D1: Inter Turku vs VPS Vaasa" tvg-logo="https://sta.vnres.co/file/head/20230513/f88ec3a59382ff777cb58fbf117a0c47.jpeg",[COLOR red][LIVE][/COLOR] FIN D1: Inter Turku vs VPS Vaasa [COLOR yellow]BLV RIO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-348199_lhd.m3u8?txSecret=5e35ac5fbd829fa75e18e42b2b4c7e8c&txTime=64af123d
+https://pull01.rrwes.live/live/stream-348199_lhd.m3u8?txSecret=e7aef1f590e8f7b887e66deaaab442fb&txTime=64af12b5
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Angola vs Lesotho" tvg-name="CAF CoC: Angola vs Lesotho" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Angola vs Lesotho [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1689177069-0-0-d4d9d313805187442a46203f87d22a0d
+#EXTINF:-1 tvg-id="UEFA CL: FC Astana vs Dinamo Tbilisi" tvg-name="UEFA CL: FC Astana vs Dinamo Tbilisi" tvg-logo="https://sta.vnres.co/file/head/20220627/645b22573c567baf728a81e490f7e47e.jpg",[COLOR red][LIVE][/COLOR] UEFA CL: FC Astana vs Dinamo Tbilisi [COLOR yellow]BLV TAP[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991143_lhd.m3u8?auth_key=1689177189-0-0-6187eb8f6aec8e114968eef588c80766
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INT CF: Man Utd vs Leeds" tvg-name="INT CF: Man Utd vs Leeds" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] INT CF: Man Utd vs Leeds [COLOR yellow]TẠ BIÊN GIỚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1689177249-0-0-31770ed56ff90e78ed8d602980abafb9
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INT CF: Man Utd vs Leeds" tvg-name="INT CF: Man Utd vs Leeds" tvg-logo="https://sta.vnres.co/file/head/20221105/a523107b11cdb6defa0365da55896220.jpg",[COLOR red][LIVE][/COLOR] INT CF: Man Utd vs Leeds [COLOR yellow]DECO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991139_lhd.m3u8?auth_key=1689177249-0-0-bd9c0e9e3e85738786944a9bda07d919
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF CoC: Angola vs Lesotho" tvg-name="CAF CoC: Angola vs Lesotho" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] CAF CoC: Angola vs Lesotho [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1689177249-0-0-7369ca1a1e2c5de1fa6c3c7b328e1fd7
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INT CF: Man Utd vs Leeds" tvg-name="INT CF: Man Utd vs Leeds" tvg-logo="https://sta.vnres.co/file/head/20221201/4fbef140b8cf552680314e845ffaefe8.png",[COLOR red][LIVE][/COLOR] INT CF: Man Utd vs Leeds [COLOR yellow]A PHẠCH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1689177069-0-0-8fc8d38592ca0e177a46ff3040a24b5b
+https://pull06.scstream.net/live/stream-118582_lhd.m3u8?auth_key=1689177249-0-0-880ef9127d90e338d181cd33c04f5400
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Mauritius vs Mozambique" tvg-name="CAF CoC: Mauritius vs Mozambique" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][Chưa bắt đầu][/COLOR] CAF CoC: Mauritius vs Mozambique [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1689177028-0-0-28ff7d111d068d36f6eb3e88185a5729
+#EXTINF:-1 tvg-id="UEFA CL: FC Astana vs Dinamo Tbilisi" tvg-name="UEFA CL: FC Astana vs Dinamo Tbilisi" tvg-logo="https://sta.vnres.co/file/head/20230605/391431f84259d5c6f01d69bbc9d48801.png",[COLOR red][LIVE][/COLOR] UEFA CL: FC Astana vs Dinamo Tbilisi [COLOR yellow]BLV TOMIA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991144_lhd.m3u8?auth_key=1689177249-0-0-21a49021f3a3ae95f7ea0258b9271bdd
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF CoC: Angola vs Lesotho" tvg-name="CAF CoC: Angola vs Lesotho" tvg-logo="https://sta.vnres.co/file/head/20221014/61cfa04282e0d3fa938adb13e5845d3a.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Angola vs Lesotho [COLOR yellow]BLV PEWPEW[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991130_lhd.m3u8?auth_key=1689177249-0-0-eed33ac288a441ee1b278f78173d8459
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INT CF: Man Utd vs Leeds" tvg-name="INT CF: Man Utd vs Leeds" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] INT CF: Man Utd vs Leeds [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1689177069-0-0-aec23cd0d3f1e0c10d8f03f4541730f9
+https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1689177249-0-0-e20580ed0f427db3e2de32f1222581df
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA CL: FC Astana vs Dinamo Tbilisi" tvg-name="UEFA CL: FC Astana vs Dinamo Tbilisi" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] UEFA CL: FC Astana vs Dinamo Tbilisi [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-143449_lhd.m3u8?txSecret=a6124eb485fe2193ceb29e39097ff4f1&txTime=64af123d
+https://pull01.rrwes.live/live/stream-143449_lhd.m3u8?txSecret=74dad07a1130af203879d9f4732632e4&txTime=64af12f1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA CL: FC Astana vs Dinamo Tbilisi" tvg-name="UEFA CL: FC Astana vs Dinamo Tbilisi" tvg-logo="https://sta.vnres.co/file/head/20230628/ac2371709b24b0ecf56da5ffad4f75e2.jpg",[COLOR red][LIVE][/COLOR] UEFA CL: FC Astana vs Dinamo Tbilisi [COLOR yellow]BLV TIGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-171964_lhd.m3u8?txSecret=511453447ee7b5c901c6ada78d69a7f0&txTime=64af123d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Mauritius vs Mozambique" tvg-name="CAF CoC: Mauritius vs Mozambique" tvg-logo="https://sta.vnres.co/file/head/20230601/03efde81f6abd42cb48720814e89e673.jpg",[COLOR red][Chưa bắt đầu][/COLOR] CAF CoC: Mauritius vs Mozambique [COLOR yellow]BLV MESSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-494201_lhd.m3u8?txSecret=fc661ee9f4499351fdff1f65247ec2b2&txTime=64af1240
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Angola vs Lesotho" tvg-name="CAF CoC: Angola vs Lesotho" tvg-logo="https://sta.vnres.co/file/head/20230702/7e0abf7e2bf61020bc22a5ce1391e557.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Angola vs Lesotho [COLOR yellow]CỦ CHUỐI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-192778_lhd.m3u8?txSecret=d8caa8ad60601fbbab75cd82e00296f8&txTime=64af123d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INT CF: Feyenoord vs Club Brugge" tvg-name="INT CF: Feyenoord vs Club Brugge" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] INT CF: Feyenoord vs Club Brugge [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1689177069-0-0-6e5a6eed748270947c30e12debb1491a
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Angola vs Lesotho" tvg-name="CAF CoC: Angola vs Lesotho" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Angola vs Lesotho [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=0a0509768a2f340b6b39772ff8f69822&txTime=64af123d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Mauritius vs Mozambique" tvg-name="CAF CoC: Mauritius vs Mozambique" tvg-logo="https://sta.vnres.co/file/head/20230703/1c680e11871e2e043a76071fb237c0ca.jpg",[COLOR red][Chưa bắt đầu][/COLOR] CAF CoC: Mauritius vs Mozambique [COLOR yellow]BLV GÀ RỪNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-425114_lhd.m3u8?auth_key=1689177067-0-0-936c518a1d11d18e5378f432623b9b12
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Mauritius vs Mozambique" tvg-name="CAF CoC: Mauritius vs Mozambique" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Mauritius vs Mozambique [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=77bc6f95176c4d6be41c639d1ed711b0&txTime=64af123d
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CAF CoC: Angola vs Lesotho" tvg-name="CAF CoC: Angola vs Lesotho" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Angola vs Lesotho [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1689177069-0-0-72098bf51b2fbbc9502ae2a493e7e61f
+https://pull01.rrwes.live/live/stream-171964_lhd.m3u8?txSecret=e8102fa9e9c7bf70aceef79fa7ad8dcc&txTime=64af12f1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIN D1: Inter Turku vs VPS Vaasa" tvg-name="FIN D1: Inter Turku vs VPS Vaasa" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] FIN D1: Inter Turku vs VPS Vaasa [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991122_lhd.m3u8?txSecret=e1bd69f3676a271ceeb58efd64e04e8c&txTime=64af123d
+https://pull01.rrwes.live/live/stream-991122_lhd.m3u8?txSecret=471c4ac2d3e761979e0c7af96b0ae730&txTime=64af12f1
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF CoC: Angola vs Lesotho" tvg-name="CAF CoC: Angola vs Lesotho" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][Chưa bắt đầu][/COLOR] CAF CoC: Angola vs Lesotho [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=12b58652b1949edc6c7e857bd5c8b6aa&txTime=64af12b9
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INT CF: Feyenoord vs Club Brugge" tvg-name="INT CF: Feyenoord vs Club Brugge" tvg-logo="https://sta.vnres.co/file/head/20221007/6efdbff4d40b70e4fd887499207e14d1.jpg",[COLOR red][LIVE][/COLOR] INT CF: Feyenoord vs Club Brugge [COLOR yellow]CHÂU TINH TRÌ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991132_lhd.m3u8?auth_key=1689177249-0-0-dd16a081df518e1f7cce782dd09c91ee
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF CoC: Angola vs Lesotho" tvg-name="CAF CoC: Angola vs Lesotho" tvg-logo="https://sta.vnres.co/file/head/20230702/7e0abf7e2bf61020bc22a5ce1391e557.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Angola vs Lesotho [COLOR yellow]CỦ CHUỐI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-192778_lhd.m3u8?txSecret=f36608601c7fbceca12e08e34d24d59e&txTime=64af12f1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INT CF: Feyenoord vs Club Brugge" tvg-name="INT CF: Feyenoord vs Club Brugge" tvg-logo="https://sta.vnres.co/file/head/20230613/79ccc81cd106586252d1f2f6bab480c8.jpeg",[COLOR red][LIVE][/COLOR] INT CF: Feyenoord vs Club Brugge [COLOR yellow]BLV QUICK[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1689177069-0-0-17f8ccbb07adb417e5ee03d0f12220fa
+https://pull06.scstream.net/live/stream-313893_lhd.m3u8?auth_key=1689177249-0-0-42ca37fd240b8cb75d8c1765e47f3797
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF CoC: Mauritius vs Mozambique" tvg-name="CAF CoC: Mauritius vs Mozambique" tvg-logo="https://sta.vnres.co/file/head/20230530/ef625e9302dc74d431f1910a5fe6e747.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Mauritius vs Mozambique [COLOR yellow]BLV BACAR[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-379816_lhd.m3u8?txSecret=0dd6e9ccbee8d402ef9e714244c2ba4a&txTime=64af12f1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INT CF: Feyenoord vs Club Brugge" tvg-name="INT CF: Feyenoord vs Club Brugge" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg",[COLOR red][LIVE][/COLOR] INT CF: Feyenoord vs Club Brugge [COLOR yellow]VAN PEPSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-365007_lhd.m3u8?auth_key=1689177069-0-0-dd45f6a9de1527aa2b96ee8ade114839
+https://pull06.scstream.net/live/stream-365007_lhd.m3u8?auth_key=1689177249-0-0-2c855d188ac5e46b722d6c9aeee9f68b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INT CF: Feyenoord vs Club Brugge" tvg-name="INT CF: Feyenoord vs Club Brugge" tvg-logo="https://sta.vnres.co/file/head/20230610/a84af4233fd893e55f97c40f31e5edad.jpg",[COLOR red][LIVE][/COLOR] INT CF: Feyenoord vs Club Brugge [COLOR yellow]BLV CHARLIE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-495263_lhd.m3u8?auth_key=1689177069-0-0-d78fcda1d5d9f2415bef037eb364bbfd
+https://pull06.scstream.net/live/stream-495263_lhd.m3u8?auth_key=1689177249-0-0-2c1fc530440ef4bf2bfa2db16708f380
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CAF CoC: Angola vs Lesotho" tvg-name="CAF CoC: Angola vs Lesotho" tvg-logo="https://sta.vnres.co/file/head/20230210/6809162162a957668b410ee2d18287bb.jpg",[COLOR red][Chưa bắt đầu][/COLOR] CAF CoC: Angola vs Lesotho [COLOR yellow]BLV POPPY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-197901_lhd.m3u8?auth_key=1689177240-0-0-1549ccef6f8ad37f3fc8a09422bdc67b
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INT CF: Feyenoord vs Club Brugge" tvg-name="INT CF: Feyenoord vs Club Brugge" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] INT CF: Feyenoord vs Club Brugge [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=f11963e57e968022dd4e564513e429a6&txTime=64af123d
+https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=a3f5b2fc0b41efdf5854534312a258e4&txTime=64af12f1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INT CF: Feyenoord vs Club Brugge" tvg-name="INT CF: Feyenoord vs Club Brugge" tvg-logo="https://sta.vnres.co/file/head/20230427/9d772a6848b1455e4441320132960ca5.jpg",[COLOR red][LIVE][/COLOR] INT CF: Feyenoord vs Club Brugge [COLOR yellow]BLV DIHI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-379975_lhd.m3u8?auth_key=1689177069-0-0-1443d787b146be40e3db86012f798ba4
+https://pull06.scstream.net/live/stream-379975_lhd.m3u8?auth_key=1689177249-0-0-74c9c1399945fff575679b38140152f2
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CAF CoC: Angola vs Lesotho" tvg-name="CAF CoC: Angola vs Lesotho" tvg-logo="https://sta.vnres.co/file/head/20230310/c88aad2517438b870b70b682d81e61db.jpg",[COLOR red][LIVE][/COLOR] CAF CoC: Angola vs Lesotho [COLOR yellow]YUKI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1689177069-0-0-ac59c723afe1c65d982e3c2e5839892c
+https://pull06.scstream.net/live/stream-101511_lhd.m3u8?auth_key=1689177249-0-0-eaf1fd4fb3c7c17e4a03536fd2c2c6af
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIN D1: Inter Turku vs VPS Vaasa" tvg-name="FIN D1: Inter Turku vs VPS Vaasa" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] FIN D1: Inter Turku vs VPS Vaasa [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pullalilive.livnvess.com/live/stream-120778.m3u8?auth_key=1689195069-0-0-72863eae343c3cd9e7899609574d5e48
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="FIN D1: Inter Turku vs VPS Vaasa" tvg-name="FIN D1: Inter Turku vs VPS Vaasa" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] FIN D1: Inter Turku vs VPS Vaasa [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1689177069-0-0-c7c4dd3b11c8f859faf50b458125e3e0
+https://pullalilive.livnvess.com/live/stream-120778.m3u8?auth_key=1689195249-0-0-1185f6556203af1b76bb27a0f5a172c0
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="JOR SC: Moghayer Al Sarhan vs Al Ahli Amman" tvg-name="JOR SC: Moghayer Al Sarhan vs Al Ahli Amman" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg",[COLOR red][LIVE][/COLOR] JOR SC: Moghayer Al Sarhan vs Al Ahli Amman [COLOR yellow]BLV KAKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1689177069-0-0-36710c15cb7173e76a4f84f30470fd75
+https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1689177249-0-0-8ce478d0d17438deaaf2600feaf72a04
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="JOR SC: Moghayer Al Sarhan vs Al Ahli Amman" tvg-name="JOR SC: Moghayer Al Sarhan vs Al Ahli Amman" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] JOR SC: Moghayer Al Sarhan vs Al Ahli Amman [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1689177069-0-0-b3354fd37f69af118cd9831a815cfd8c
+#EXTINF:-1 tvg-id="FIN D1: Inter Turku vs VPS Vaasa" tvg-name="FIN D1: Inter Turku vs VPS Vaasa" tvg-logo="https://sta.vnres.co/file/head/20230417/bd4fc3f0141d294376c819b0410e5c3a.jpg",[COLOR red][LIVE][/COLOR] FIN D1: Inter Turku vs VPS Vaasa [COLOR yellow]BLV MÍM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991116_lhd.m3u8?auth_key=1689177249-0-0-eac6b7330d04df3215d933e64decbf97
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="JOR SC: Moghayer Al Sarhan vs Al Ahli Amman" tvg-name="JOR SC: Moghayer Al Sarhan vs Al Ahli Amman" tvg-logo="https://sta.vnres.co/file/head/20230606/ea2fb298192cd1ea95046cf3ac74d043.jpg",[COLOR red][LIVE][/COLOR] JOR SC: Moghayer Al Sarhan vs Al Ahli Amman [COLOR yellow]BLV ENZO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-380460_lhd.m3u8?auth_key=1689177069-0-0-eff6a03c84b5b74a5e3c9f32cd8087c0
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="JOR SC: Moghayer Al Sarhan vs Al Ahli Amman" tvg-name="JOR SC: Moghayer Al Sarhan vs Al Ahli Amman" tvg-logo="https://sta.vnres.co/file/head/20230614/42f95823a1cfff31a879a9d6b7222bfd.jpg",[COLOR red][LIVE][/COLOR] JOR SC: Moghayer Al Sarhan vs Al Ahli Amman [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1689177069-0-0-0fb6d370e662aff19c3c48a9c1aee5c9
+https://pull06.scstream.net/live/stream-380460_lhd.m3u8?auth_key=1689177249-0-0-717831d2f25019e4c5b6488c0fb7857d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="JOR SC: Moghayer Al Sarhan vs Al Ahli Amman" tvg-name="JOR SC: Moghayer Al Sarhan vs Al Ahli Amman" tvg-logo="https://sta.vnres.co/file/head/20230621/328a06ad6d57b30357f8ec528c004ea8.jpg",[COLOR red][LIVE][/COLOR] JOR SC: Moghayer Al Sarhan vs Al Ahli Amman [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-115447_lhd.m3u8?txSecret=65bd2d524b5eb462f52935cc1371f98a&txTime=64af123d
+https://pull01.rrwes.live/live/stream-115447_lhd.m3u8?txSecret=e96d082ab85823435e84110f1d5dad89&txTime=64af12f1
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="JOR SC: Moghayer Al Sarhan vs Al Ahli Amman" tvg-name="JOR SC: Moghayer Al Sarhan vs Al Ahli Amman" tvg-logo="https://sta.vnres.co/file/head/20230614/42f95823a1cfff31a879a9d6b7222bfd.jpg",[COLOR red][LIVE][/COLOR] JOR SC: Moghayer Al Sarhan vs Al Ahli Amman [COLOR yellow]BLV EDWARD[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-921508_lhd.m3u8?auth_key=1689177249-0-0-41d224b54cce27485f60148fd62c929e
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="FIN D1: Inter Turku vs VPS Vaasa" tvg-name="FIN D1: Inter Turku vs VPS Vaasa" tvg-logo="https://sta.vnres.co/file/head/20230601/fc8448289210a26a1bdcf2b90b78163b.jpg",[COLOR red][LIVE][/COLOR] FIN D1: Inter Turku vs VPS Vaasa [COLOR yellow]BLV A NÚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1689177069-0-0-5262856f2a141736d96b89840a262274
+https://pull06.scstream.net/live/stream-105723_lhd.m3u8?auth_key=1689177249-0-0-635d68868e6aa30617514cd5eef04cf5
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="JOR SC: Moghayer Al Sarhan vs Al Ahli Amman" tvg-name="JOR SC: Moghayer Al Sarhan vs Al Ahli Amman" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] JOR SC: Moghayer Al Sarhan vs Al Ahli Amman [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1689177249-0-0-a7ab2abd1327a21ba4d843e0f38d0e73
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INT CF: Man Utd vs Leeds" tvg-name="INT CF: Man Utd vs Leeds" tvg-logo="https://sta.vnres.co/file/head/20230320/97d97d0e565a3e865d6556683529fd3b.jpg",[COLOR red][LIVE][/COLOR] INT CF: Man Utd vs Leeds [COLOR yellow]Casting 06[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-252852_lhd.m3u8?auth_key=1689177069-0-0-331da0ea137b91c71f5c3fae3835c485
+https://pull06.scstream.net/live/stream-252852_lhd.m3u8?auth_key=1689177249-0-0-a9a9ed615ec79a0cc4b57056f3738ac6
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
