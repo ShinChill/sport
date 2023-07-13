@@ -1,55 +1,55 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="UEFA ECL: Riga FC vs Vikingur Reykjavik" tvg-name="UEFA ECL: Riga FC vs Vikingur Reykjavik" tvg-logo="https://sta.vnres.co/file/head/20230704/3f761735f74536f2d8d3cd7c92e432bb.jpg",[COLOR red][LIVE][/COLOR] UEFA ECL: Riga FC vs Vikingur Reykjavik [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-420171_lhd.m3u8?txSecret=e43112ea244736878c7de68402a549a0&txTime=64b094b9
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INT CF: FC Nurnberg vs Arsenal" tvg-name="INT CF: FC Nurnberg vs Arsenal" tvg-logo="https://sta.vnres.co/file/head/20230628/90fd100c3205095bf4cde27092c7b20b.jpg",[COLOR red][LIVE][/COLOR] INT CF: FC Nurnberg vs Arsenal [COLOR yellow]BLV FANTA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1689276009-0-0-abcb31f4338482499f07bfee151e18f7
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA ECL: KF Tirana vs Dinamo Batumi" tvg-name="UEFA ECL: KF Tirana vs Dinamo Batumi" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] UEFA ECL: KF Tirana vs Dinamo Batumi [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1689276009-0-0-0020dc03c69bb2e9d2df56cec3522913
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INT CF: FC Nurnberg vs Arsenal" tvg-name="INT CF: FC Nurnberg vs Arsenal" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] INT CF: FC Nurnberg vs Arsenal [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=68443d71dd6a94da7e3bf4e7eb1d4c36&txTime=64b094b9
+https://pull06.scstream.net/live/stream-991138_lhd.m3u8?auth_key=1689276189-0-0-0de349ca3d7fb19be802c6f83a9a83c4
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EGY D1: Al Ahly SC vs Zamalek" tvg-name="EGY D1: Al Ahly SC vs Zamalek" tvg-logo="https://sta.vnres.co/file/head/20230703/1c680e11871e2e043a76071fb237c0ca.jpg",[COLOR red][LIVE][/COLOR] EGY D1: Al Ahly SC vs Zamalek [COLOR yellow]BLV GÀ RỪNG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-425114_lhd.m3u8?auth_key=1689276009-0-0-a7a8e28a612ae3903ca89ef6c2d21414
+https://pull06.scstream.net/live/stream-425114_lhd.m3u8?auth_key=1689276189-0-0-6ab8092b3dbfbfc2ba2324a4ad898147
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA ECL: Riga FC vs Vikingur Reykjavik" tvg-name="UEFA ECL: Riga FC vs Vikingur Reykjavik" tvg-logo="https://sta.vnres.co/file/head/20230704/3f761735f74536f2d8d3cd7c92e432bb.jpg",[COLOR red][LIVE][/COLOR] UEFA ECL: Riga FC vs Vikingur Reykjavik [COLOR yellow]BLV PUKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-420171_lhd.m3u8?txSecret=9172f498e93d18ae97b2bb7305115574&txTime=64b0956d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INT CF: FC Nurnberg vs Arsenal" tvg-name="INT CF: FC Nurnberg vs Arsenal" tvg-logo="https://sta.vnres.co/file/head/20220818/12505bcac79e5e95ba71c5348617ff74.jpg",[COLOR red][LIVE][/COLOR] INT CF: FC Nurnberg vs Arsenal [COLOR yellow]BLV HOPE[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=3f13c8b99ddf5b14f463a61b023b6bc0&txTime=64b094b9
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="INT CF: FC Nurnberg vs Arsenal" tvg-name="INT CF: FC Nurnberg vs Arsenal" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] INT CF: FC Nurnberg vs Arsenal [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-991122_lhd.m3u8?txSecret=edc38d3eda6a8e3f0fba624768f89d39&txTime=64b094b9
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA ECL: KF Tirana vs Dinamo Batumi" tvg-name="UEFA ECL: KF Tirana vs Dinamo Batumi" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg",[COLOR red][LIVE][/COLOR] UEFA ECL: KF Tirana vs Dinamo Batumi [COLOR yellow]BLV CAPTAIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-231997_lhd.m3u8?auth_key=1689276009-0-0-a7708aad70eb42d2e50d393bcb8beea9
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="UEFA ECL: DAC Dunajska Streda vs Dila Gori" tvg-name="UEFA ECL: DAC Dunajska Streda vs Dila Gori" tvg-logo="https://sta.vnres.co/file/head/20230713/f3337d6f35c9ccd74e0531b35971e81d.jpg",[COLOR red][LIVE][/COLOR] UEFA ECL: DAC Dunajska Streda vs Dila Gori [COLOR yellow]CỦ CHUỐI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-192778_lhd.m3u8?txSecret=083ead1369de0f69837ee65b5f311112&txTime=64b094b9
+https://pull01.rrwes.live/live/stream-144861_lhd.m3u8?txSecret=9eaa5af81fe429a028275ba31511399e&txTime=64b0956d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="INT CF: FC Nurnberg vs Arsenal" tvg-name="INT CF: FC Nurnberg vs Arsenal" tvg-logo="https://sta.vnres.co/file/head/20221010/c389be042fedc1bb331d3fea96502335.jpg",[COLOR red][LIVE][/COLOR] INT CF: FC Nurnberg vs Arsenal [COLOR yellow]BLV PHIL[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=bb03c3ac6c154464a47e6d734e7e09dd&txTime=64b094b9
+https://pull01.rrwes.live/live/stream-214855_lhd.m3u8?txSecret=9506279c9616e3554a2a758b6b1cab39&txTime=64b0956d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA ECL: Alashkert vs Arsenal Tivat" tvg-name="UEFA ECL: Alashkert vs Arsenal Tivat" tvg-logo="https://sta.vnres.co/file/head/20220627/f0637acb8986ba1d53d994af6154be88.jpg",[COLOR red][LIVE][/COLOR] UEFA ECL: Alashkert vs Arsenal Tivat [COLOR yellow]BLV KAIDO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-143449_lhd.m3u8?txSecret=fd7bbd6235122e89a5eabab2352d1393&txTime=64b094b9
+https://pull01.rrwes.live/live/stream-143449_lhd.m3u8?txSecret=2403dde569cbb80fa63474303f7f8bf4&txTime=64b0956d
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA ECL: DAC Dunajska Streda vs Dila Gori" tvg-name="UEFA ECL: DAC Dunajska Streda vs Dila Gori" tvg-logo="https://sta.vnres.co/file/head/20230713/f3337d6f35c9ccd74e0531b35971e81d.jpg",[COLOR red][LIVE][/COLOR] UEFA ECL: DAC Dunajska Streda vs Dila Gori [COLOR yellow]CỦ CHUỐI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-192778_lhd.m3u8?txSecret=27d36d58ec98aca031b9b14edd344a4f&txTime=64b0956d
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA ECL: KF Tirana vs Dinamo Batumi" tvg-name="UEFA ECL: KF Tirana vs Dinamo Batumi" tvg-logo="https://sta.vnres.co/file/head/20230606/df8b1e192830c99b0a8b7ac626911328.jpg",[COLOR red][LIVE][/COLOR] UEFA ECL: KF Tirana vs Dinamo Batumi [COLOR yellow]BLV CAPTAIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-231997_lhd.m3u8?auth_key=1689276189-0-0-77fe61c3b2126ecaadd343469f86ecbb
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INT CF: FC Nurnberg vs Arsenal" tvg-name="INT CF: FC Nurnberg vs Arsenal" tvg-logo="https://sta.vnres.co/file/head/20230206/8212a47bb414a45de8d0449d11d0215c.jpg",[COLOR red][LIVE][/COLOR] INT CF: FC Nurnberg vs Arsenal [COLOR yellow]BLV CÁ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-201313_lhd.m3u8?txSecret=bf6afb4c923c99207c4b39c4f53041c6&txTime=64b0956d
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="UEFA ECL: KF Tirana vs Dinamo Batumi" tvg-name="UEFA ECL: KF Tirana vs Dinamo Batumi" tvg-logo="https://sta.vnres.co/file/head/20230602/f169baaea943689d2148c1778296aae6.png",[COLOR red][LIVE][/COLOR] UEFA ECL: KF Tirana vs Dinamo Batumi [COLOR yellow]BLV LONG[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991136_lhd.m3u8?auth_key=1689276189-0-0-395e5cb0928adfa32d2c3096b52f572b
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="INT CF: FC Nurnberg vs Arsenal" tvg-name="INT CF: FC Nurnberg vs Arsenal" tvg-logo="https://sta.vnres.co/file/head/20220627/9122b7f106f4e42b25f96228a683e408.jpg",[COLOR red][LIVE][/COLOR] INT CF: FC Nurnberg vs Arsenal [COLOR yellow]SONBAEMIN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-991122_lhd.m3u8?txSecret=060dae9b1869acabbfdcce5a9f880a81&txTime=64b0956d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="EGY D1: Al Ahly SC vs Zamalek" tvg-name="EGY D1: Al Ahly SC vs Zamalek" tvg-logo="https://sta.vnres.co/file/head/20230610/cb385a67649d86defe053734d9814d04.jpg",[COLOR red][LIVE][/COLOR] EGY D1: Al Ahly SC vs Zamalek [COLOR yellow]BLV RAM[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1689276009-0-0-68cc56d3770d2736b67627b8d2267580
+https://pull06.scstream.net/live/stream-248798_lhd.m3u8?auth_key=1689276189-0-0-6e1568acb34655d5e50dec3bbe9af278
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA ECL: KA Akureyri vs Connah's Quay Nomads FC" tvg-name="UEFA ECL: KA Akureyri vs Connah's Quay Nomads FC" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] UEFA ECL: KA Akureyri vs Connah's Quay Nomads FC [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1689276009-0-0-bfe31a1966b1eb60149ae5ddf1efc963
+https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1689276189-0-0-41d713aeea47f6e1f2d1ffcae0d3a900
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA ECL: Domzale vs Balzan FC" tvg-name="UEFA ECL: Domzale vs Balzan FC" tvg-logo="https://sta.vnres.co/file/head/20230603/3eb91bc921be5aafb1eae6d9430117e3.jpg",[COLOR red][LIVE][/COLOR] UEFA ECL: Domzale vs Balzan FC [COLOR yellow]BLV RID[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=6c04286c43e2f7cedf3c39d2be0f50e2&txTime=64b094b9
+https://pull01.rrwes.live/live/stream-434154_lhd.m3u8?txSecret=c4c0072ea5514c7334638614d8367205&txTime=64b0956d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA ECL: KF Tirana vs Dinamo Batumi" tvg-name="UEFA ECL: KF Tirana vs Dinamo Batumi" tvg-logo="https://sta.vnres.co/file/head/20220626/68caef153a04bb91732b3a7e55716ba4.jpg",[COLOR red][LIVE][/COLOR] UEFA ECL: KF Tirana vs Dinamo Batumi [COLOR yellow]SAITAMA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1689276009-0-0-ddf642e6752d0047cbb184499dffe72d
+https://pull06.scstream.net/live/stream-19949_lhd.m3u8?auth_key=1689276189-0-0-3e86202463f1e8e8e2dee9e563782cd4
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="UEFA ECL: Torpedo Kutaisi vs FK Sarajevo" tvg-name="UEFA ECL: Torpedo Kutaisi vs FK Sarajevo" tvg-logo="https://sta.vnres.co/file/head/20230621/328a06ad6d57b30357f8ec528c004ea8.jpg",[COLOR red][LIVE][/COLOR] UEFA ECL: Torpedo Kutaisi vs FK Sarajevo [COLOR yellow]LUCY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-115447_lhd.m3u8?txSecret=af3763151ba4ecc21d81625e9ebcf541&txTime=64b094b9
+https://pull01.rrwes.live/live/stream-115447_lhd.m3u8?txSecret=409a7b5d860e49d50548b5711ec4a8af&txTime=64b0956d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ASWBCU16B: Guam U16 W vs Iran U16 W" tvg-name="ASWBCU16B: Guam U16 W vs Iran U16 W" tvg-logo="https://sta.vnres.co/file/head/20230603/23bc39ab4ab8c6f315b3386b9aa8ef9a.png",[COLOR red][LIVE][/COLOR] ASWBCU16B: Guam U16 W vs Iran U16 W [COLOR yellow]IVANN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1689276009-0-0-dabc87759a5989f9505ec6fd0e59fd35
+https://pull06.scstream.net/live/stream-100344_lhd.m3u8?auth_key=1689276189-0-0-72eae2a3f7485304422898a804fb7655
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="ASWBCU16B: Guam U16 W vs Iran U16 W" tvg-name="ASWBCU16B: Guam U16 W vs Iran U16 W" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] ASWBCU16B: Guam U16 W vs Iran U16 W [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=3f4a0d8c036f77c93292edd0185b566a&txTime=64b094b9
+https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=bca3cc97151998a4264eafb6c557dba3&txTime=64b0956d
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
