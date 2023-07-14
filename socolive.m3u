@@ -1,55 +1,58 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="BRA CUP: Palmeiras vs Sao Paulo" tvg-name="BRA CUP: Palmeiras vs Sao Paulo" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",[COLOR red][LIVE][/COLOR] BRA CUP: Palmeiras vs Sao Paulo [COLOR yellow]TAM MAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-113906_lhd.m3u8?txSecret=da9b80a08d1ae8f61254ee68a45c994f&txTime=64b0e7b1
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CON CSA: Club Libertad vs Tigre" tvg-name="CON CSA: Club Libertad vs Tigre" tvg-logo="https://sta.vnres.co/file/head/20230623/58659179c3d06dc0bae15fdca12d1ee0.png",[COLOR red][LIVE][/COLOR] CON CSA: Club Libertad vs Tigre [COLOR yellow]BLV SÓI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-427562_lhd.m3u8?auth_key=1689297249-0-0-063c736ac8d75855d3dc2e41ea0e50e8
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BRA CUP: Palmeiras vs Sao Paulo" tvg-name="BRA CUP: Palmeiras vs Sao Paulo" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] BRA CUP: Palmeiras vs Sao Paulo [COLOR yellow]TẠ BIÊN GIỚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1689297249-0-0-b785e035b40208c8962b21f6062f98af
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BRA CUP: Palmeiras vs Sao Paulo" tvg-name="BRA CUP: Palmeiras vs Sao Paulo" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] BRA CUP: Palmeiras vs Sao Paulo [COLOR yellow]KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1689297249-0-0-5873ac34480e3bfaf1e5296f85ce7760
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CON CSA: Club Libertad vs Tigre" tvg-name="CON CSA: Club Libertad vs Tigre" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] CON CSA: Club Libertad vs Tigre [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1689297249-0-0-cff55bbe9c4d5fb50f759ce71ff2fa64
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BRA D2: Criciúma vs Guarani" tvg-name="BRA D2: Criciúma vs Guarani" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] BRA D2: Criciúma vs Guarani [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1689297249-0-0-b36ca18cb4fe45dcc8e0278ef6ab5fe4
-#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BRA CUP: Palmeiras vs Sao Paulo" tvg-name="BRA CUP: Palmeiras vs Sao Paulo" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] BRA CUP: Palmeiras vs Sao Paulo [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1689297249-0-0-c9e88b4ea3f4d6a659ede4de1643b246
+#EXTINF:-1 tvg-id="CON CSA: Club Libertad vs Tigre" tvg-name="CON CSA: Club Libertad vs Tigre" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] CON CSA: Club Libertad vs Tigre [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-106737_lhd.m3u8?auth_key=1689297429-0-0-1bcba54bbe25ec3eaba082d6eabdd0c1
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BRA D2: Criciúma vs Guarani" tvg-name="BRA D2: Criciúma vs Guarani" tvg-logo="https://sta.vnres.co/file/head/20230701/64d2630755b630b97bf5825dafb595ca.png",[COLOR red][LIVE][/COLOR] BRA D2: Criciúma vs Guarani [COLOR yellow]PHI HÀNH[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1689297249-0-0-96b9ca25ee4cdf7e3c1b933d70a26957
+https://pull06.scstream.net/live/stream-208390_lhd.m3u8?auth_key=1689297429-0-0-ccbd451820e940dc8fa879535b43cf56
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="BRA Cup: Palmeiras vs Sao Paulo" tvg-name="BRA Cup: Palmeiras vs Sao Paulo" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] BRA Cup: Palmeiras vs Sao Paulo [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1689297249-0-0-bf82ebc185ead315183e10e5403f47ea
+#EXTINF:-1 tvg-id="BRA CUP: Palmeiras vs Sao Paulo" tvg-name="BRA CUP: Palmeiras vs Sao Paulo" tvg-logo="https://sta.vnres.co/file/head/20230302/d1fd835db4950f976345aa2d76f8cd32.jpg",[COLOR red][LIVE][/COLOR] BRA CUP: Palmeiras vs Sao Paulo [COLOR yellow]KHÔNG NGỦ[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-158814_lhd.m3u8?auth_key=1689297429-0-0-0eb0c85746ed49740dabf6ee47cbc20a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CON CSA: Club Libertad vs Tigre" tvg-name="CON CSA: Club Libertad vs Tigre" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26",[COLOR red][LIVE][/COLOR] CON CSA: Club Libertad vs Tigre [COLOR yellow]BABY BOY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1689297249-0-0-740283ff58f013da0a1af5d1a6a3c9de
+#EXTINF:-1 tvg-id="BRA CUP: Palmeiras vs Sao Paulo" tvg-name="BRA CUP: Palmeiras vs Sao Paulo" tvg-logo="https://sta.vnres.co/file/head/20230309/c0c0b8a45186e11216edc9779ecad64c.jpg",[COLOR red][LIVE][/COLOR] BRA CUP: Palmeiras vs Sao Paulo [COLOR yellow]TẠ BIÊN GIỚI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991141_lhd.m3u8?auth_key=1689297429-0-0-ff1ff4b324caee88a1f152a233155470
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BRA CUP: Palmeiras vs Sao Paulo" tvg-name="BRA CUP: Palmeiras vs Sao Paulo" tvg-logo="https://sta.vnres.co/file/head/20230622/a488b6d57dae5bbc615a07d8c8df3db3.jpeg",[COLOR red][LIVE][/COLOR] BRA CUP: Palmeiras vs Sao Paulo [COLOR yellow]VAN PEPSI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-365007_lhd.m3u8?auth_key=1689297249-0-0-ece2e0236e3d74a35df8c4b3b6e1413d
+https://pull06.scstream.net/live/stream-365007_lhd.m3u8?auth_key=1689297429-0-0-8dd98e31a91db88460979d844b7ac80a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
-#EXTINF:-1 tvg-id="CON CSA: Club Libertad vs Tigre" tvg-name="CON CSA: Club Libertad vs Tigre" tvg-logo="https://sta.vnres.co/file/head/20220720/a9ff6e7002d8467fb9d6c9765e560ba0.png",[COLOR red][LIVE][/COLOR] CON CSA: Club Libertad vs Tigre [COLOR yellow]BLV SHOGUN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-106737_lhd.m3u8?auth_key=1689297249-0-0-0a77c801cd385d7cfc4d0ca8ad227a67
+#EXTINF:-1 tvg-id="CON CSA: Club Libertad vs Tigre" tvg-name="CON CSA: Club Libertad vs Tigre" tvg-logo="https://sta.vnres.co/file/head/20230623/58659179c3d06dc0bae15fdca12d1ee0.png",[COLOR red][LIVE][/COLOR] CON CSA: Club Libertad vs Tigre [COLOR yellow]BLV SÓI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-427562_lhd.m3u8?auth_key=1689297429-0-0-3cf68468ef30a1c8be2ddbf05a775e39
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CON CSA: Club Libertad vs Tigre" tvg-name="CON CSA: Club Libertad vs Tigre" tvg-logo="https://sta.vnres.co/file/head/20230417/cde99b2d3c3cca3f70e6e7616655b739.jpg",[COLOR red][LIVE][/COLOR] CON CSA: Club Libertad vs Tigre [COLOR yellow]BLV LOGAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-421651_lhd.m3u8?auth_key=1689297429-0-0-e681e52ed2115f071889c181bbd13f60
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="BRA D2: Criciúma vs Guarani" tvg-name="BRA D2: Criciúma vs Guarani" tvg-logo="https://sta.vnres.co/file/head/20230311/d7fee99a22d6975080c699f6184f64e6.jpeg",[COLOR red][LIVE][/COLOR] BRA D2: Criciúma vs Guarani [COLOR yellow]BLV SINGER[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991121_lhd.m3u8?auth_key=1689297429-0-0-5f5ab95d3a069dc1dd97d8a2dff87939
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="BRA Cup: Palmeiras vs Sao Paulo" tvg-name="BRA Cup: Palmeiras vs Sao Paulo" tvg-logo="https://sta.vnres.co/file/head/20220927/3e2acb45f655afe9aea6006d92742d49.jpg",[COLOR red][LIVE][/COLOR] BRA Cup: Palmeiras vs Sao Paulo [COLOR yellow]BLV  TYPN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-170430_lhd.m3u8?auth_key=1689297429-0-0-52bcf7682eb316ca9faa641117157e1d
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="CON CSA: Club Libertad vs Tigre" tvg-name="CON CSA: Club Libertad vs Tigre" tvg-logo="https://sta.vnres.co/file/pic/202112/01/f5f6a55217d71de6b75504bd63e77c26",[COLOR red][LIVE][/COLOR] CON CSA: Club Libertad vs Tigre [COLOR yellow]BABY BOY[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-115429_lhd.m3u8?auth_key=1689297429-0-0-c414909fda3fe3d7508d9ee5227be166
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="BRA CUP: Palmeiras vs Sao Paulo" tvg-name="BRA CUP: Palmeiras vs Sao Paulo" tvg-logo="https://sta.vnres.co/file/head/20220629/b3b7e353b693d0dce97e8e8ce680e53f.png",[COLOR red][LIVE][/COLOR] BRA CUP: Palmeiras vs Sao Paulo [COLOR yellow]TAM MAO[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull01.rrwes.live/live/stream-113906_lhd.m3u8?txSecret=5ad3ec2e34eaf59e6957ebeac6b825e3&txTime=64b0e865
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="BRA CUP: Palmeiras vs Sao Paulo" tvg-name="BRA CUP: Palmeiras vs Sao Paulo" tvg-logo="https://sta.vnres.co/file/head/20230210/82a097939927247e52b49642052cb952.jpg",[COLOR red][LIVE][/COLOR] BRA CUP: Palmeiras vs Sao Paulo [COLOR yellow]BLV LOTELLI[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-991135_lhd.m3u8?auth_key=1689297429-0-0-6b9df6f53bbd67d495f19cbe9ba586f3
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="NBASL: Golden State Warriors vs Houston Rockets" tvg-name="NBASL: Golden State Warriors vs Houston Rockets" tvg-logo="https://sta.vnres.co/file/head/20221103/b8db6a3671785f23d40ee6dda4d52e3e.jpg",[COLOR red][LIVE][/COLOR] NBASL: Golden State Warriors vs Houston Rockets [COLOR yellow]BRIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1689297249-0-0-506ca95d3093fff9ee9e72a5e2384b14
+https://pull06.scstream.net/live/stream-122591_lhd.m3u8?auth_key=1689297429-0-0-85d8adcfb72169fa31cbff26a30ae446
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="CON CSA: Club Libertad vs Tigre" tvg-name="CON CSA: Club Libertad vs Tigre" tvg-logo="https://sta.vnres.co/file/head/20220505/4c75a43605737871e96edef6cf546f5d.png",[COLOR red][LIVE][/COLOR] CON CSA: Club Libertad vs Tigre [COLOR yellow]LIAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=5666b8b952d6d1b99f3ea81917428078&txTime=64b0e7b1
+https://pull01.rrwes.live/live/stream-102933_lhd.m3u8?txSecret=df8cf3fbbee11f5afc2b7f1cfb94984c&txTime=64b0e865
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="NBASL: Golden State Warriors vs Houston Rockets" tvg-name="NBASL: Golden State Warriors vs Houston Rockets" tvg-logo="https://sta.vnres.co/file/head/20230602/da145be5d0ac4b37a59f0aadccd46bf8.jpg",[COLOR red][LIVE][/COLOR] NBASL: Golden State Warriors vs Houston Rockets [COLOR yellow]BLV BEAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=1d9319d714a506086c9dafbb5cf54f0a&txTime=64b0e7b1
+https://pull01.rrwes.live/live/stream-166054_lhd.m3u8?txSecret=c06d5854d1e8c2d419bc1b483ebe0ef9&txTime=64b0e865
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BRA D2: Criciúma vs Guarani" tvg-name="BRA D2: Criciúma vs Guarani" tvg-logo="https://sta.vnres.co/file/head/20220630/eb247b70f97804312613feb567803f54.jpg",[COLOR red][LIVE][/COLOR] BRA D2: Criciúma vs Guarani [COLOR yellow]BLV AK47[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pullalilive.livnvess.com/live/stream-120778.m3u8?auth_key=1689315249-0-0-2851124c6f41710c6f57ad60b90b7ee0
+https://pullalilive.livnvess.com/live/stream-120778.m3u8?auth_key=1689315429-0-0-97872ff8eb4215552a452a9c609d097f
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="NBASL: New Orleans Pelicans vs Charlotte Hornets" tvg-name="NBASL: New Orleans Pelicans vs Charlotte Hornets" tvg-logo="https://sta.vnres.co/file/head/20230615/4c2dfe7b8484ff9631e23d2211b5fd9c.jpg",[COLOR red][LIVE][/COLOR] NBASL: New Orleans Pelicans vs Charlotte Hornets [COLOR yellow]BLV ALAN[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=a4097d7cc40e93f11ca3d1bab576f0d9&txTime=64b0e7b1
+https://pull01.rrwes.live/live/stream-422166_lhd.m3u8?txSecret=98e9cc76a0265a424214cc594a84dfad&txTime=64b0e865
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
 #EXTINF:-1 tvg-id="BRA D2: Criciúma vs Guarani" tvg-name="BRA D2: Criciúma vs Guarani" tvg-logo="https://sta.vnres.co/file/head/20230609/4bceed77265d0aaf801beb755820dcba.jpg",[COLOR red][LIVE][/COLOR] BRA D2: Criciúma vs Guarani [COLOR yellow]BLV KAKA[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
-https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1689297249-0-0-a064291ca901e33e4a2aa3070a181a61
+https://pull06.scstream.net/live/stream-239521_lhd.m3u8?auth_key=1689297429-0-0-cb1412cba3e40511f449684a11123c22
+#EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
+#EXTINF:-1 tvg-id="WNBA: Team Wilson W vs Team Stewart W" tvg-name="WNBA: Team Wilson W vs Team Stewart W" tvg-logo="https://sta.vnres.co/file/head/20221102/2807e50914e1a15b32ef38c384803571.jpg",[COLOR red][LIVE][/COLOR] WNBA: Team Wilson W vs Team Stewart W [COLOR yellow]KING[/COLOR][CR][I]Giới thiệu về trận đấu[/I]: [CR][COLOR red] https://motphim.fun và [CR] phimmoii.site [CR]cung cấp miễn phí [/COLOR][CR]
+https://pull06.scstream.net/live/stream-168964_lhd.m3u8?auth_key=1689297429-0-0-87d119e7c4ece8f47d986c452dff9d0a
 #EXT-X-UPDATE-URL:https://raw.githubusercontent.com/ShinChill/sport/main/socolive.m3u
